@@ -1,0 +1,630 @@
+---
+title: A Guide for Caregivers
+url: a-guide-for-caregivers
+comments: true
+layout: default
+categories: []
+tags: []
+date: 29-10-2012
+---
+This Guide was put together by people from many departments. It gives you information based on what our patients and their caregivers have told us. The guide is a product of our desire to support and encourage you as you provide care for someone with cancer. We hope it will be useful to you.
+ 
+## Introduction
+More than one in four adults in the United States provide care to a family member or friend. This is over 50 million people - so you are not alone. As caregivers develop new skills, they learn to manage the difficult days. As they learn, many find this new role rewarding and satisfying.
+
+However, being a caregiver often presents challenges. You will need to learn about the cancer and its treatment and how to handle medical problems and symptoms. At the same time, you may have to fit in time for doctors visits and arrange for ways to get the patient to the center for treatment. You may also have to cope with insurance issues. On top of it all, you have your own life to manage.
+
+We hope the information in this Guide will help make your caregiving a positive experience  both for you and the person you are caring for. We have addressed issues that caregivers say most concern them. Your concerns may be different, but we hope we have given you ideas that will help you solve some of your problems. Each section has tips and resources. There is also a section about taking care of your own needs. At the end of the Guide, you will find more resources. 
+
+We hope you will use this Guide as a starting point to find more information, support, and direction. If, at any time, you feel you need additional help, please speak with the patients doctor or nurse for advice. We are here to help you as you fill the ever-changing role of a caregiver.
+
+## Communicating with the Doctor
+It is important that you and the patient understand the planned treatment and the possible side effects. Some people do not feel comfortable talking with the doctor. They may be afraid of asking a silly question. They may be worried that they wont understand what the doctor is saying. Below are some suggestions to help you prepare.
+
+## Tips
+* If possible, one person should go with the patient to all doctors visits. This person should also be the key contact for giving information about the patient to family members and friends. If questions come up, this person should be the one to call the doctor. The patient must tell the doctor that this person is the one whom the doctor should talk with.
+* Before each visit, write down key concerns and a list of questions. Speak with other family members so you also know what they are worried about. Here are some questions you may want to ask:	
+** What type of cancer does the patient have? 
+** What is the stage of the cancer? 
+** Is there any evidence that the cancer has spread?
+** What is the recommended treatment and why? Are there other treatment options?
+** How often will treatment be given and how long will it last?
+** What are the side effects of the treatment?  How can they be managed?
+** What are reasons I should call your office?
+** At the beginning of the visit, tell the doctor that you have questions to ask. This helps the doctor plan to make time to answer your questions. Be sure to ask your most important questions first.
+** Write down the doctors answers. If you dont understand something, ask the doctor to explain it or to draw a picture, if you think that will help. Keep your notes in a folder with other medical information you have gathered.
+** If there is something you still do not understand when you get home, call the doctors office. The nurse who works with the doctor may also be able to answer many of your questions.
+** Translation services are available at all times for any patients whose primary language is not English. These services are available either in person or by telephone. It is best to make arrangements for a translator before the appointment. Please let your doctor know if this is necessary.
+
+## Resources
+Improving Doctor/Caregiver Communications
+This guide has tips from doctors on how you can talk to each other. You can buy it from the National Family Caregivers Association.
+www.nfcacares.org
+(800) 896-3650
+
+Teamwork: The Cancer Patient's Guide to Talking With Your Doctor
+Editor: Elizabeth J. Clark
+Publisher: National Coalition for Cancer Survivorship (2002)
+This booklet was developed by cancer survivors and healthcare professionals. It is 54-pages long. It talks about the need for good communication and provides a list of practical questions to ask doctors. The first copy is free.
+http://www.canceradvocacy.org/resources/publications/teamwork.pdf
+
+Caring for the Patient
+In your role as caregiver, you may have to learn:
+	About the patients disease and its treatment.
+	New skills to take care of the patient.
+	How to give medicines.
+	How to give emotional support.
+
+Providing Physical Care and Managing Symptoms
+As a caregiver, you may need to provide physical care to the patient or supervise other people in doing it. You may also need to:
+	Manage symptoms, such as pain or nausea.
+	Change dressings or handle medical equipment.
+	Help with bathing or going to the bathroom. 
+Taking on these new tasks can feel like a burden. At times, it may feel difficult for both of you. Most caregivers agree that they can learn these skills, but may find it hard to take on the role of a caregiver. After all, you are already busy with the demands of your own job or family life. You may also feel uneasy asking others for help. However, support from friends and family, trying to keep a positive outlook, and doing what must be done are all ways of coping. 
+
+Tips
+	Make a list of what needs to be done each day to help you better organize your time. Include the patient in planning and decision-making as much as possible.
+	Encourage the patient to do as much of his or her own care as possible.
+	Ask for help from family and friends. See p. XX for guidance.
+	Put medical supplies and equipment you may need in one place. Make the home setting safe. Here are some ideasideasideas:
+	Place the furniture so there is enough space to walk easily.
+	Remove loose rugs to prevent tripping.
+	Put handrails and grab bars next to the toilet and inside the tub or shower. 
+	Place non-slip surfaces on the tub or shower floor.
+	Provide a stool so the patient can sit while showering.
+	Use a wheelchair with lift-off arms to more easily transfer the patient. 
+	Install an elevated toilet seat to make it easier for the patient to sit down and stand up. 
+	Know what side effects the treatment may cause. Ask what the symptoms might be and what you should do if the patient has them. Know when you should call the doctors office.
+	Tell the doctor or nurse if you have any concerns about providing care. If you do not know how to do something the patient will need, ask them to tell you or show you what to do.
+	Ask for brochures or other written information that you can bring home to use as a guide. 
+	Know who to call for medical problems or concerns. Keep important phone numbers with you and near the phone at home.
+	If you dont think you can manage the patients care at home, ask if home health care is available. The Visiting Nurse Service may be able to: 
+	Provide a home health aide for a few hours a week.
+	Provide visits by a nurse. 
+	Help you get medical supplies and equipment.
+
+Resources
+American Cancer Society
+This organizationorganizationorganization provides information and support to patients with cancer and their caregivers. The webwebwebsite includes a Coping with Treatment section.
+Publications that may be helpful include:
+	Preparing for Treatment
+	Caring for the Patient with Cancer at Home: A Guide for Patients and Families
+www.cancer.org
+(800) 227-2345
+
+National Cancer Institutes Cancer Information Service
+This service provides education and support to cancer patients and their families.
+Publications (available online and in print) that may be helpful include:
+Chemotherapy and You: A Guide to Self-Help During Cancer Treatment
+Coping with Advanced Cancer
+Eating Hints for Cancer Patients: Before, During, and After Treatment
+Pain Control: A Guide for People with Cancer and Their Families
+Get Relief from Cancer Pain
+Radiation Therapy and You: A Guide to Self-Help During Cancer Treatment
+When Someone in Your Family Has Cancer
+Advanced Cancer: Living Each Day
+When Cancer Recurs: Meeting the Challenge
+When Someone You Love Is Being Treated for Cancer
+When Someone You Love Has Advanced Cancer: Support for Caregivers
+When You Parent Has Cancer: A Guide for Teens
+www.cancer.gov
+(800) 4-CANCER 
+
+Michigan State University Family Care Research Program
+Provides tips on coping with cancer, including how to talk with doctors and ways to avoid stress and burnout.
+http://www.cancercare.msu.edu/default.htm
+(517) 353-0306
+
+Managing Medications
+Cancer patients may need to take several different medicines. Some may be to treat the cancer, while others help treat side effects or other health problems. You may need to assist the patient in taking medicines or being sure they are taken on time.
+
+Tips
+	Keep a list of everything the patient is taking. Include medicines that do not need a prescription, such as vitamins and herbs. Carry this list with you.
+	Know the name of each medicine, the dosage, why it is prescribed, and when it should be taken. 
+	Keep all handouts the pharmacist gives you in a folder. Also keep any medicine inserts. These explain how the medicine should be given and possible side effects. Ask the doctor or nurse how these side effects should be managed, if they occur. 
+	Use a calendar to record each medicine and the time of day it should be taken.
+	Use a pill container with compartments to store medicines. These are helpful to remember when to take a medicine and to see if it has been taken. Use a pill splitter if you must cut tablets in half. For liquid medicines, use a measuring spoon or dropper.
+	Check the medicine supply once a week to make sure you have a weeks supply on hand. That will give you time to refill your prescription or get a new one if you need to. Some medicines, like those to control pain, cannot be refilled without a new prescription, and only a small supply can be called into the pharmacy by phone. Each time you go to see your doctor, bring a list of any medicines that will run out soon. If the medicine will be used up before the doctors visit, call the office to ask for a new prescription.
+	Give medicines exactly as the doctor or nurse told you. Have the patient take all prescribed doses, even if he or she is feeling better. 
+	When the patient leaves home, he or she should take that days medicines along. A delay in travel plans could result in a late or missed medicine, which could harm the patient.
+	If the patient is having an unwanted side effect, report it. The doctor may be able to change the dose or give a different medicine.
+	Keep a list of all of the patients drug allergies. Also note anything else the patient is allergic to. Ask the patient about wearing a MedicAlert bracelet. Doctors will check it if the patient cant talk and will know not to give that medicine.  http://www.medicalert.org/home/Homegradient.aspx
+	Get to know your pharmacist and use him or her as a resource. Find a 24-hour pharmacy in your area that delivers medicine.
+
+Resources
+Agency for Healthcare Research and Quality
+This agency is part of the U.S. Department of Health and Human Services. It focuses on research to improve patient care. The Web site includes a guide on taking medicines safely.
+www.ahrq.gov/consumer/safemeds/safemeds.htm
+
+MEDLINEPlus Health Information
+This is a service of the National Library of Medicine and National Institutes of Health. It provides information on prescription and over-the-counter medicines.
+www.nlm.nih.gov/medlineplus/druginformation.html
+
+Visiting Nurse Service of New York
+They provide a full range of home-care services in New York. They have an interactive guide, Taking your Medicine, on their webwebwebsite.
+www.vnsny.org
+(888) 867-1225
+
+Providing Emotional Support
+Patients may have many feelings during their cancer experience. These can range from acceptance to sadness, fear, anger, anxiety, and depression. Some patients may have times of wonder and doubt, or they may question their religious beliefs. Their feelings may be a reaction to the cancer, or to a lack of symptom relief, a fear of being alone, or a loss of independence. These are common responses to dealing with illness.
+
+You may need to help your patient find ways to cope with the emotional and spiritual side of cancer. This can be hard. Sometimes patients direct their emotions, including their anger about being sick, toward the caregiver. This may be hurtful to you, but it may help if you know that this is not unusual.
+
+The tips and resources below may help you as you support the patient for whom you are caring. Remember, you do not have to manage on your own; there are many resources available to caregivers. You, too, may experience feelings of distress. See pagepagepage XX for tips on taking care of yourself.
+
+Tips 
+	Try to keep daily life as normal as possible. At the end of each day, reflect on how things went and identify positive experiences.
+	Plan fun activities. Consider things you enjoy doing together. You could listen to music together, watch TV or a movie, or go shopping. If the patient enjoys being with family and friends, make dates for them to visit.
+	Encourage the patient to be as active as possible. Exercise may provide an emotional boost. 
+	Encourage the patient to discuss his or her concerns openly. Ask the patient not how but what are you feeling? ListenListenListen without trying to make everything better. Let the patient know that it is okay to feel sad and frustrated at times. 
+	There may be times when the patient does not want to talk about having cancer. Respect the patients decision not to discuss all aspects of the illness with you. 
+	Ask the patient about joining a support group. These groups let patients talk with other cancer patients.
+	Talk about your own feelings. Be honest. Share your concerns about the uncertainty of the future, and emphasize that you are a team: We are in this together.
+	Being together may be the most important thing you can offer. Hugging, touching, and holding hands can be very comforting.
+	Ask the patient about things he or she has used to cope at difficult times in the past. Prayer, meditation, humor, or relaxation techniques may all be helpful at times.
+	Ask the patient if you can call someone who provides spiritual support.
+	Know that anxiety and depression are common among cancer patients. You should call the doctor or nurse if the feelings last more than two weeks. If they cause the patient a lot of distress, call sooner. Medicine and counseling can improve some of these symptoms and the patients quality of life. Ask if the patient should see a specialist. Learn to recognize symptoms.
+	Anxiety may appear as angry outbursts, irritability, uncontrollable worry, or difficulty concentrating. The patient may have racing thoughts; feel nervous, shaky, or jittery; feel a lump in the throat or tightness in the chest or stomach; be short of breath; or feel that his or her heart is racing.
+	Depression may appear as sadness. Some patients withdraw, loose interest, or stop enjoying things they usually like. They can have a hard time making decisions. They may feel tired, may not be able to concentrate or sleep well, may not feel like eating, or feel hopeless.
+
+Resources
+American Cancer Society 
+This organizationorganizationorganization provides information and support to patients with cancer and their caregivers. The Web site includes a Coping with Treatment section.
+www.cancer.org
+(800) 227-2345
+
+National Cancer Institutes Cancer Information Service 
+This service provides education and support to cancer patients and their families. A booklet (available online and in print) that may be helpful:
+	Taking Time: Support for People With Cancer and the People Who Care About Them. 
+http://www.cancer.gov/cancertopics/takingtime.pdf 
+(800) 4-CANCER 
+
+ 
+Preparing for Hospital Admission and Discharge
+
+When cancer patients are admitted to the hospital, new issues may come up. In addition, you will have to plan for their discharge back home. The following information will help you.
+Getting Ready for a Hospital Admission
+Medical Issues
+Ask the patients doctor or nurse what to expect before, during, and after the patients hospitalization, including:
+	Are any medical tests needed before admission or does the patient need to modify his or her diet or medication schedule? 
+	How long will the patient be in the hospital?
+	What will the patients condition be when he or she is discharged? 
+	Will there be restrictions on physical activity? Will the patient need to stay in bed?
+	Will it be safe for the patient to be home alone?
+Insurance Issues 
+If you know before hand that the patient will be admitted, contact the patients insurance company. Ask if the patient has been pre-certified. Ask also what is and is not covered. Be sure to ask what the patient will have to pay for after insurance has paid. Find out if home care is paid for and what kind of home medical equipment is covered. You may also want to check with the benefits department at the patients place of work.
+
+Not all the care you may think a patient needs at home is covered by insurance. A case manager will tell you what is. This is based on the insurance and what the doctor prescribes. You can pay for care that you or others cannot give and is not covered by insurance. Agencies can send housekeepers, aides, or private duty nurses. The case manager can give you names of home care agencies in your area. When you call them, ask about fees. Some patients need rehabilitation to get strongerstrongerstronger after leaving the hospital. The case manager can give you the names and numbers of places covered by the patients insurance. You can visit them to see which you think is best for the patient. The case manager will give the insurance company and other providers the information they need.
+
+Getting Ready for the Patient to Come Home
+You can plan ahead to get ready for the patient to come home. Here are some suggestions: 
+	Stock up on easy-to-prepare foods and take-out menus.
+	Arrange items that the patient will use every day so you can find them easily.
+	Set aside clothing for the patient that is loose, comfortable, and easy to put on and take off.
+	Be sure the patient has shoes with non-slip soles that can be easily put on and taken off.
+	Contact family and friends to see who can help after the patient comes home. Sign up people to take the patient to doctors appointments, do housekeeping, shopping, and cooking, and visit with the patient. 
+	If the patient lives alone or in a home with stairs, it may easier if he or she stays with family or friends for a time. 
+	Some religious communities have people who help others members in need. Ask if the patient belongs to such a community.
+
+Resources
+Case Management Resource Guide
+The Web site includes a free database of specialty healthcare services.
+www.cmrg.com
+(215) 875-1212
+
+Visiting Nurse Associations of America
+This non-profit association provides an online database to help you locate a Visiting Nurse Association close to the patient. 
+www.vnaa.org
+(617) 737-3200
+
+Visiting Nurse Service of New York
+They provide a full range of home-care services in New York. Partners in Care offers a variety of services for a fee. Nurses, home health aides and ambulatory escort services to go with patients to appointments or to pick them up are all available.
+www.vnsny.org
+(888) 867-1225
+
+Transportation
+Getting to and from medical appointments can take time and cost money. If the patient lives in New York City, you may consider buses or subways. Kneeling buses lower the front entrance of the bus. This makes it easier for passengers to get on and off. These buses also have lifts for people in wheelchairs. Access-a-Ride is a shared van service. It is for patients who live in New York City and cannot use public transportation. They do have some rules about who can and cannot use the service. 
+
+Tips
+	Get your treatment schedule from the doctor or nurse as soon as they know it. This will let you plan ahead. 
+	Ask family and friends if they can take the patient to some of their appointments. 
+	Ask a social worker or case manager to help you find resources in your community to help with transportation.
+	Some organizations that provide transportation require patients to share rides. Check with them to see how early you need to be ready and where you should wait.
+	Taxis and limousines may make it more convenient to travel, but they are more costly.
+	CancerCare and the American Cancer Society have some funds to assist needy patients in getting to and from their appointments. 
+	Some transportation programs require you to apply. Do it early; the process can take up to eight weeks.
+	If you are using a public or private service for transportation, have a back-up plan. The service may not be available when you need it.
+	We have a shuttle service between the Rockefeller Pavilion at 160 East 53rd Street and Memorial Hospital at 425 East 67th Street. The first shuttle leaves at 7:30 a.m. from both locations, then shuttles run simultaneously every half hour until 6:20 p.m. 
+	Travel directions and parking information for any of the MSKCC locations are available on the MSKCC website http://www.mskcc.org/mskcc/html/5308.cfm.
+	If you need to stay near the hospital, MSKCC has a list of  places to stay online at http://www.mskcc.org/mskcc/html/5364.cfm
+
+Resources
+Access-a-Ride
+This is a shared-ride, door-to-door service for people with disabilities. It is run by New York City Transit. The service is for people who are unable to use a public bus or subway for some or all of their trips. The one-way fare for guests is $2. The service operates 24 hours a day, seven days a week. You must register to get the service.
+www.mta.info/nyct/paratran/guide.htm
+(877) 337-2017
+Medicaid
+This health insurance program is for people with low income and limited resources. People must apply first and be approved. The patients doctor must sign a form saying that the patient needs the service. The services include:
+	MetroCards for one roundtrip visit using public transportation. Get these from the transportation office where the patient receives care.
+	Shared van services.
+	Ambulances and ambulettes, if the doctor says they are necessary.
+	To get more information:
+www.cms.gov/medicaid/consumer.asp
+New York  (800) 541-2831
+New Jersey  (800) 356-1561
+Connecticut  (800) 797-9688 
+Corporate Angel Network
+They provide free flights to treatment centers when space is available.
+www.corpangelnetwork.org
+(866) 328-1313 
+National Patient Travel Center
+They can help arrange air transportation.
+www.patienttravel.org
+(800) 296-1217 (Helpline can be reached 24 hours a day, 7 days a week.).).)
+ 
+Financial Issues
+Managing the finances associated with the patients care can be difficult. Ask for help to understand insurance, medical bills, the cost of drugs, and other related bills. Also ask if the patient can get help if he or she can not afford to pay the costs of care. Medical costs that insurance does not cover are often tax deductible. Ask your accountant about this. These costs include: 
+	Mileage for car trips to a doctor or clinic.
+	Treatment costs not covered.
+	Prescription drugs.
+	Equipment you need.
+	The cost of some meals.
+
+Health Insurance and Medical Bills
+
+Review a copy of the patients policy. Make a list of what is and what is not covered. If you have questions, contact a customer service agent at the insurance company. 
+Tips
+	Maintain the patients current medical insurance policy. Do not let it expire. Be sure premiums are paid on time. It may be difficult to get new coverage. Patients who lose or leave their jobs may be eligible for COBRA. COBRA allows you to keep the insurance for a limited time if the full premium is paid. 
+	Pre-certification is required for some medical procedures and treatments. Ask the insurance company whether you need to obtain it or whether the healthcare provider will do it. Submit claims for all expenses as soon as you can. Keep records of bills that are paid or those that are not. 
+	If the patients policy will not cover a procedure or treatment, ask how you can file a grievance. This may help the patient get the procedure covered.
+	Some insurance companies assign a case manager to patients with cancer. The case manager works with the patient and the hospital. If you feel this would be helpful, ask if a case manager can be assigned to the patients case.
+
+Resources
+AARP
+Can help people 50 years and older understand heath insurance choices.
+http://www.aarp.org/health/insurance/ 
+(888) 687-2277
+
+Health Insurance Information, Counseling, and Assistance Program 
+A program of the New York State Office for the Aging. They provide free health insurance information and help with Medicare, Medicaid, HMOs, Medigap insurance, medical bills, and long-term care insurance.
+http://www.aging.ny.gov/healthbenefits/ 
+(800) 342-9871
+
+Americas Health Insurance Plans
+They have guides on health insurance, managed care, long-term care, and disability.
+www.ahip.org
+(202) 778-3200
+
+Patient Advocate Foundation 
+Serves as a link between patients and their insurers, employers and/or creditors. They can help solve problems related to the patients diagnosis. 
+www.patientadvocate.org
+(800) 532-5274
+
+Medication Assistance
+Prescription drugs can be very expensive. Some may not be covered by the patients healthcare plan. 
+Tips
+	The pharmaceutical company may have a program that provides free or low-cost prescription drugs to those in need. 
+	Find out whether the patients insurance has a prescription drug plan.
+	If a drug is not covered, another drug that does not cost as much might be available. Ask the patients doctor.
+	Shop around. Medicines bought through the mail or online often cost less than those at local drug stores. 
+	Be careful about buying drugs outside of the U.S.A.  Standards for making drugs may be lower. 
+	Save receipts for all medicines. These costs may be tax-deductible.
+
+Resources
+AARP
+The AARP Prescription Discount program was created to provide you exclusive discounts on FDA-approved prescription medications and specialty drugs at participating retail network pharmacies and through Walgreens Mail Service. 
+www.aarppharmacy.com 
+877-422-7718
+Center for Drug Evaluation and Research 
+Provides information for consumers and answers to frequently asked questions about generic drugs.
+http://www.fda.gov/Drugs/ResourcesForYou/Consumers/default.htm
+NeedyMeds
+Gives information about programs that help patients who can't afford their medicines.
+www.needymeds.com
+(215) 625-9609
+
+ PPARX   The Partnership for Prescription Assistance 
+
+Helps low-income individuals all over the country obtain affordable prescriptions. 
+
+www.pparx.org/en/gethelp
+
+(888) 4PPA-NOW 
+Together Rx
+Offers discounts on prescription drugs to Medicare enrollees who lack prescription drug coverage.
+www.togetherrxaccess.com
+(800) 444-4106
+
+State-Sponsored Prescription Plans
+Contact the program directly for eligibility and applications.
+	New York: Elderly Pharmaceutical Insurance Coverage (EPIC) Program
+http://www.health.state.ny.us/health_care/epic/ 
+(800) 332-3742
+	New Jersey: Pharmacy Assistance to the Aged and Disabled Program (PAAD)
+(800) 792-9745
+       For a listing of programs in other states
+www.cancercare.org/
+      (800) 813-HOPE
+U.S. Food and Drug Administration
+Provides information about buying medicines and medical supplies online.
+www.fda.gov/oc/buyonline/default.htm
+
+Out-of-Pocket Expenses
+Families and caregivers often have out-of-pocket expenses - costs that are not covered by insurance plans. There are some resources to help with these costs. Some costs may be deducted from income taxes.
+Tips
+	Speak with a social worker to see what help is available to help cover out-of-pocket costs. Most programs require you to enroll. Apply as soon as you can since the process often takes some time.
+	Check with the patients church, synagogue, or mosque to see if they provide financial aid. 
+	Many mortgage and utility companies will work with you at a time of serious illness. Sometimes, they will lower payments. 
+	Get receipts for all costs of care and treatment. Call the patients local Internal Revenue Service (IRS) office or accountant to see what costs the patient can deduct. 
+	Talk with family and friends about helping out with finances. Allow them to assist, if they are able.
+Resources
+U.S. Internal Revenue Service
+Provides information about which medical expenses are tax deductible. 
+www.irs.ustreas.gov
+(800) 829-1040
+Gods Love We Deliver
+Prepares and delivers meals to people who are ill and are unable to prepare meals themselves. Available in New York City and Hudson County, New Jersey.
+www.godslovewedeliver.org
+(212) 294-8100 
+Meals on Wheels Association of America
+Provides home-delivered meals to people in need. The Web site lists programs by state and city.
+www.mowaa.org 
+(703) 548-5558
+National Association of Hospital Hospitality Houses
+Provides information about free or low-cost temporary housing to patients who are receiving treatment away from home and their families.
+www.nahhh.org
+(800) 542-9730
+Ronald McDonald House New York 
+Supports families and coordinates emotional and physical services, psychological care, ministry support, wellness programs, tutors, music, art, transportation, activities for siblings, holiday and birthday parties and camaraderie for parents struggling with their childs cancer diagnosis.
+http://www.rmh-newyork.org/About-Us
+(212) 639-0100
+
+United Way of America
+A service linking people in need with agencies that provide financial assistance with housing, rent, utility payments, and help with food, clothing, medical services rehabilitation, elder care, and counseling.
+national.unitedway.org
+(703) 836-7112
+
+Also see resources listed in the Transportation section on page XX.
+Legal Issues
+You may need to help the patient with his or her legal affairs. Although this may be hard to bring up, talking about it early can help you protect the patients interests. You may need to help the patient with an advance directive or a will. You may also need to learn about the Health Insurance Portability and Accountability Act (HIPAA) and the Family Medical Leave Act (FMLA). You should also be aware of the Patients Bill of Rights. It is posted throughout MSKCCMSKCCMSKCC and on our webwebwebsite at www.mskcc.org/mskcc/html/575.cfmwww.mskcc.org/mskcc/html/575.cfm
+
+Advance Directives
+Advance directives allow patients to say which treatments may be given if they are not able to make decisions or tell their doctor what they want. Each state has its own law. However, most states recognize a healthcare proxy, a living will, or both. Healthcare proxies allow patients to appoint someone they trust to make healthcare decisions for them if they are not able to do so. This person is called the healthcare agent. Patients can also state what they would or would not want. For example, they can say whether they would want to be fed by tube. A living will tells doctors, family, and friends when the patient would not want to receive or continue medical treatment.
+Tips
+	Talk to the patient about advance directives. Ask about his or her wishes for medical treatment. Help the patient complete legal forms. 
+	Know who the healthcare proxy is. If you are the healthcare proxy, be sure you are willing to do this. It may be your job to make sure the patients wishes are followed.
+	Give a copy of the advance directive to the healthcare proxy. To be safe, have the patient appoint someone else to be a back-up. Give copies to family members, and the patients lawyer and doctor.
+	If you are the healthcare proxy, make sure the doctors and nurses know what the patient wishes. Call the hospitals patient representative if you feel the patients wishes are not being followed. 
+	If you have questions about advance directives, speak with a patient representative.
+
+Resource
+
+AARP
+An organization for persons 50 years of age and older. On the Web site, search Advance Directives. 
+www.aarp.org
+(888) 687-2277
+(888) OUR-AARP
+
+
+Health Insurance Portability and Accountability Act (HIPAA) 
+
+This is a law to protect the privacy of patients medical records and other health information. All MSKCC patients receive a notice of our privacy practices.
+Tips
+	HIPAA does not allow health team members to talk about the patients medical condition without their permission. The only way they can talk to family or friends about it is if the patient has said they may. 
+	If you have any questions about HIPAA, speak with a patient representative.
+
+Resources
+
+Memorial Sloan-Kettering Cancer Center
+MSKCC Web site explains its privacy practices. It says how a patients medical information may be used.
+www.mskcc.org/mskcc/html/12527.cfm
+Patient Representatives: (212) 639-5804
+
+U.S. Department of Health and Human Services
+Gives information about the HIPAA law. It tells you how to file a health information complaint with the U.S. Office for Civil Rights.
+www.hhs.gov/ocr/hipaa
+
+Family and Medical Leave Act (FMLA)
+
+There may be times during a patients illness when you feel torn. You have work but you are also caring for the patient. Some caregivers find it helpful to take a leave of absence from work during this time. FMLA requires most employers to give you up to 12 weeks of leave for certain health or family reasons. Caring for a family member who is ill may be one of those reasons. Ask if you are eligible for FMLA. 
+
+Tips
+
+	Ask your human resources or benefits department about your companys family/medical leave policy. Ask if you are eligible for FMLA. Ask them to tell you what your rights are and what you must do while on leave. File all the paper work on time.
+	You may need to provide your employer with medical proof that you need to take a leave. A letter from the patients doctor should be enough.
+	If you do not qualify for FMLA, ask your employer whether you can take a leave anyway. Make sure to confirm that you will have a job when you return. Ask if it will be the same job. If not, ask how it might be different.
+
+Resource
+
+U.S. Department of Labor
+Provides fact sheets on FMLA.
+www.dol.gov/esa/whd/fmla
+http://www.nyc.gov/html/olr/html/faqs/man_family.shtml#1
+
+Wills
+
+A will is a legal document that outlines who gets money, property, and other assets when a person dies. It can also be used to name the guardians of minor children. A lawyer should write the will since each state has its own requirements. A lawyer can assure that the will follows state laws. Having a will helps to prevent disputes over the patients possessions. Without a will, the court will step in to distribute a persons assets. 
+
+Tips 
+	If the patient does not have a lawyer, ask family and friends for names. You can also call your state or local bar association. They may provide a list of names.
+	Make sure the patient reviews the will to ensure that it says what he or she wants.
+	Know where the patient keeps the original will. Keep a copy in a safe place.
+
+Resources
+
+AARP
+AARP members and spouses can get a free 30-minute legal consultation. Lawyers fees are reduced for consultations. They also have a list of lawyers all over the country. AARP provides tips, legal seminars, and low, fixed rates for preparing wills.
+www.aarp.org
+(888) 687-2277
+(888) OUR-AARP
+
+American Bar Association
+Provides information on legal services, local bar association referrals, and educational publications.
+www.abanet.org
+(800) 285-2221
+
+The American Bar Association Guide to Wills and Estates: Everything You Need to Know About Wills, Trusts, Estates, and Taxes
+Author: Morgan D. King
+Publisher: Times Books, 2004
+ 
+Helping Family and Friends Participate in Care
+
+It is often not possible for one person to manage all of the patients needs. You may need to have others help you. Allowing family members and friends to take part in the patients care gives them a chance to feel the rewards of caregiving. Family and friends may want to help but may not know how. Or, they may not offer to help in ways that you expect. Although some people may disappoint you, others may give you a lot of support. The following tips will help you organize family and friends who are willing to take part in the patients care.
+
+Tips
+	Identify tasks for which you need help, and note them on a calendar.
+	Ask family and friends when they are available and what jobs they feel most comfortable doing. Or, contact each person with a specific request. Be as clear as you can so your expectations are understood. Give a time frame in which you need to hear back about whether or not they can do the task. Some examples of requests include:
+	Driving the patient to a 9:00 a.m. chemotherapy appointment that is expected to last four hours.
+	Cooking dinner on Friday night.
+	Meeting the children at the school bus on days of treatment.
+	Doing the laundry on Saturday.
+	Visiting the patient at lunch time while you are at work.
+	As you hear back from each individual, note their responses on the calendar to ensure everything is taken care of. Planning ahead will help prevent a crisis.
+
+Resource
+
+Share the Care: How to Organize a Group to Care for Someone Who is Seriously Ill
+Authors: Sheila Warnock & Cappy Capossela
+www.sharethecare.org
+
+ 
+Taking Care of Yourself
+
+As a caregiver, you may be juggling many duties. In addition to caring for the patient, you may have a job. You may have household chores, like grocery shopping, cooking, and cleaning. You may have children or others who need your care. Balancing these tasks while making sure you have enough time for sleep and fun can be very challenging.
+
+Caregivers often feel guilty or selfish about taking time for themselves. Some are fearful of leaving the patient out of concern that something will happen in their absence. If you are going to remain in the caregiver role for more than a short time, you must take care of yourself. If you dont, you will soon feel burned out.
+
+Tips
+	Make your own health a priority. Keep all your doctors and dental appointments, get enough rest, eat properly, and exercise regularly. Walking is a great way to get started.
+	Try to get enough sleep each night.
+	Take time for leisure activities. Plan to do things for yourself that you enjoy. 
+	Keep up your physical appearance. Get your hair cut, have a manicure or pedicure, and wear clothes you feel good in.
+	Enlist family members and friends who are willing to help with household chores. 
+	If you feel that changes in your work schedule would be helpful, speak with your boss. Refer to the information about the Family and Medical Leave Act on page 24.
+	Respite services provide outside caregivers for a limited time. Ask your social worker about them.
+	Ask yourself how you are feeling. Some caregivers find it helpful to keep a journal; others find it helpful to speak about their thoughts and feelings; and some prefer to express themselves through art or dance.
+	Think about joining a support group for caregivers.
+	Respect your own religious needs. Continue your practices as often as you can.
+	Recognize signs of caregiver burnout. You may feel tired, angry, or depressed. You may have trouble sleeping or feel anxious. If any of these last more than two weeks, consider talking to someone. Social workers, psychologists, psychiatrists and clergy can all be helpful. 
+	Your workplace may have an Employee Assistance Program. The type of help varies but often includes counseling for money problems, stress, and depression.
+	Despite the demands of caring for a cancer patient, the role of a caregiver can be satisfying. As you move forward, dont forget to tell yourself how special you are.
+MSKCC has an Intergrative Medicine Program which provides patients and caregivers services such as massages, acupuncture, yoga classes, reflexology, meditation, and nutritional consults all at discounted rates.  (646) 888-0800 
+OR on website mskcc/integrativemedicine
+
+Resources
+Post-Treatment Resource Program, Memorial Sloan-Kettering Cancer Center
+Provides programs for caregivers.
+http://www.mskcc.org/mskcc/html/19409.cfm
+(646) 888-4740
+
+The American Cancer Society, the National Alliance for Caregiving, and the National Family Caregiver Association have tips on taking care of yourself and preventing burnout. See the resources listed at the end of the book.
+
+ 
+Resources for Caregivers
+
+Many resources listed in this Guide can be found on the Internet. If you do not have a computer or do not know how to use the Internet, ask your local public library to help you. Over time, Internet addresses change. If you cant access the site, use your browsers search function, or call the agency directly. When possible, we have listed phone numbers.
+
+Organizations and Programs with a Focus on Caregivers
+
+National Family Caregivers Association 
+This national non-profit organization supports family caregivers by providing education and information, support and validation, public awareness, and advocacy.
+www.nfcacares.org
+(800) 896-3650
+
+National Alliance for Caregiving
+A national non-profit organization that provides support to family caregivers and increases public awareness of issues facing family caregivers.
+www.caregiving.org
+
+AXA Foundation Family Care Resource Connection
+Provides a list of resources of interest to caregivers.
+www.asaging.org/nac
+
+National Family Caregiver Support Program
+Developed by the U.S. Department of Health and Human Services, Administration on Aging, provides resources for caregivers. Its Guide -- Because We Care: A Guide for People Who Care -- offers information and practical suggestions about caregiving.
+http://www.aoa.gov/prof/aoaprog/caregiver/caregiver.aspx 
+(202) 619-0724
+
+American Family Care
+Offers a list of resources to meet the needs of caregivers in their own communities. Its programs include solution sharing, discussion forums, and childcare resources.
+www.americanfamilycare.com
+(205) 403-8902
+
+Strength for Caring
+A free, community-based education and support program sponsored by Ortho Biotech Products, L. P. This program addresses the complex needs of caring for someone with cancer.
+www.strengthforcaring.com
+(866) 466-3458
+
+WHYYs Wider Horizons
+Provides a list of resources for caregivers.
+www.widerhorizons.org
+(215) 351-1200
+
+Organizations with a Focus on Cancer
+
+American Cancer Society 
+It provides information and support to patients with cancer and their caregivers. 
+www.cancer.org
+(800) 227-2345
+
+CancerCare
+A national non-profit organization that provides help to people with cancer and their caregivers through counseling, education, information, referrals, and direct financial assistance. See Helping Hand Guide on the Web site.
+www.cancercare.org
+(800) 813-HOPE 
+
+National Cancer Institutes Cancer Information Service 
+Part of the National Institutes of Health, provides education and support to cancer patients and their families. 
+www.cancer.gov
+(800) 4-CANCER 
+
+Other Organizations with Resources for Caregivers
+
+American College of Physicians
+Publishes the book, Home Care Guide for Advanced Cancer, which includes information for caregivers of patients with advanced cancer who are living at home.
+http://www.acponline.org/patients_families/end_of_life_issues/cancer/ 
+(800) 523-1546, x2600 
+
+The National Coalition for Cancer Survivorship 
+This survivor-led organization advocates for cancer survivors. The Web site includes a Cancer Survival Toolbox, which teaches skills for meeting the challenge of cancer.
+www.canceradvocacy.org
+(877) TOOLS-4U 
+
+Books for Caregivers
+
+Always on Call: When Illness Turns Families into Caregivers
+Editor: Carol Levine
+Publisher: United Hospital Fund of NY (2000)
+
+Caregiving: A Step-by-Step Resource for Caring for the Person with Cancer at Home
+Authors: Peter S. Houts & Julia A. Bucher
+Publisher: American Cancer Society (2000)
+
+The Human Side of Cancer: Living with Hope, Coping with Uncertainty
+Authors: Jimmie C. Holland & Sheldon Lewis
+Publisher: Quill (2001)
+
+Love, Honor & Value: A Family Caregiver Speaks Out about the Choices & Challenges of Caregiving
+Author: Suzanne Mintz, President and Co-founder of National Family Caregivers Association
+Publisher: Capital Books (2002)
+
+ 
+Resources at Memorial Sloan-Kettering Cancer Center
+
+Social Work
+	(212) 639-7020	
+Counseling Center
+	(646) 888-0100	
+Chaplaincy
+	(212) 639-5982	
+Integrative Medicine
+	(646) 888-0800	
+Patients Library
+	(212) 639-7579	
+Patient Representative
+	(212) 639-7202	
+Post-Treatment Resource Program
+	(646646646646) 888-4740	
+
+
+ 2003 Memorial Sloan-Kettering Cancer Center
+1275 York Avenue, New York, NY 10065
+Revised 2005, 2007, 2009, 2011

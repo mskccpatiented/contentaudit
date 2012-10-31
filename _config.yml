@@ -1,0 +1,19 @@
+markdown: rdiscount
+pygments: false
+permalink: /articles/:title
+exclude: ["readme.md", "Gemfile", "Gemfile.lock", "config.ru"]
+name: Patient Education Content
+description: Patient Education Content
+url: http://patiented.com
+
+# this goes inside _config.yml. Change as required
+navigation:
+- text: Articles
+  url: /articles/index.html
+  cleanurl: /articles/
+  layout: post
+secondary:
+- text: RSS
+  url: /feed.xml
+  cleanurl: /feed.xml
+  layout: default

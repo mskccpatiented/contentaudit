@@ -1,0 +1,320 @@
+---
+title: Building Your Family After Cancer Treatment: Options For Women
+url: building-your-family-after-cancer-treatment:-options-for-women
+comments: true
+layout: default
+categories: [articles]
+tags: []
+date: 29-10-2012
+---
+Many women want to have children after cancer treatment. Some will be able to become pregnant without medical help. For those who cannot, there are other options to build your family. The more you understand about what is involved with each option, the better you will be able to decide what is best for you.
+This booklet has different sections. Read those that interest you most. In addition, be sure to read:
+* Section 5, information on financial, legal, and emotional issues
+* Section 6, steps to get you started
+* Section 7, resources to learn more
+
+
+
+TABLE OF CONTENTS
+
+1. How does cancer treatment affect fertility?
+2. When is the right time to build my family after treatment?
+3. What are my options based on the cancer treatment I received?
+* Natural conception
+* Ovarian stimulation
+o Intrauterine insemination
+o In vitro fertilization
+* Use of your own frozen eggs or embryos
+* Use of donor eggs
+* Use of donor embryos
+* Gestational carrier/surrogacy
+* Adoption 
+4. Do I need special care if I become pregnant after cancer treatment?
+5. What other issues should I consider when exploring options for building a family?
+* Financial issues
+* Legal issues
+* Emotional issues
+6. How do I get started?
+7. Where can I learn more?
+
+
+
+1. HOW DOES CANCER TREATMENT AFFECT FERTILITY?
+To understand how cancer treatment affects fertility, it is important to understand some basics about fertility. Baby girls are born with about one million eggs. Over time, these eggs break down, so the number of eggs gradually declines as a woman ages. The fewer eggs a woman has, the harder it is for her to get pregnant. Once a woman has only about one thousand eggs, she stops having monthly menstrual periods and enters menopause. The average age at which this occurs in the United States is 51. Women generally lose their fertility about ten years before this. Having monthly menstrual periods does not ensure that a woman is fertile and will be able to get pregnant without medical help.
+Some cancer treatments affect fertility.
+* Some types of chemotherapy and radiation therapy can damage a womans eggs. How much this affects fertility depends on how many eggs a woman has when she starts treatment. The older a woman is at the time she is treated, the more likely her fertility will be affected. Some women will continue to have monthly menstrual periods and to be fertile. In other women, the ovaries may stop functioning normally. This can happen immediately after treatment or a number of years after treatment is completed. If this occurs before age 40, it is called premature ovarian failure. Premature ovarian failure causes infertility and early menopause.
+* Radiation therapy to the pelvis at high doses can cause scarring in the uterus. This makes it difficult for a woman to become pregnant. It also makes it difficult to carry a pregnancy to term. Women who get pregnant after this type of radiation therapy are much more likely to have miscarriages or early labor.
+* Surgery or radiation therapy to the brain may affect production of certain hormones made by the pituitary gland. If the pituitary gland is not making enough hormones, women may stop having monthly menstrual periods, or their eggs may not mature. Medicines can be taken to replace these hormones.
+If your oncologist has not discussed these issues with you, ask how your treatment may have affected your fertility.
+
+2. WHEN IS THE RIGHT TIME TO BUILD MY FAMILY AFTER TREATMENT?
+Most women should wait at least one year after cancer treatment is over before trying to get pregnant. Some women need to wait longer. How long you should wait depends on the type of cancer and treatment you had. Waiting is important because it:
+* Lets your body recover from treatment 
+* Ensures that any eggs damaged from treatment are no longer in your body
+* Brings  you past the time of risk for an early recurrence of your disease 
+Some women will develop early menopause after treatment. This will reduce the number of years during which a woman can become pregnant. If you are not yet ready to start a family but are concerned about early menopause, ask your doctor or nurse for information about freezing your eggs or embryos. These can be stored for you in case you need them in the future.
+Before trying to get pregnant, talk to your oncologist. Ask if the timing is right for you. Ask if there are any medical reasons that would make it unsafe for you to become pregnant.
+
+3. WHAT ARE MY OPTIONS BASED ON THE CANCER TREATMENT I RECEIVED?
+This table outlines the options for building a family based on the effects of cancer treatment. Each of these options is described in this booklet. At the end of the booklet you will find a list of resources to learn more.
+Treatment
+Examples
+Options
+
+
+Natural conception
+Ovarian stimulation
+Own frozen eggs or embryos
+Donor eggs
+Donor embryos
+Gestational carrier
+Adoption
+Treatment that did not require removal of your uterus or both ovaries
+AND
+You are having monthly periods
+Unilateral oophorectomy (removal of one ovary)
+Chemotherapy
+?
+?
+?
+?
+?
+?
+?
+Treatment that did not require removal of your uterus 
+BUT
+You are not having monthly periods or are having them only because you are taking birth control pills
+Bilateral oophorectomy (removal of both ovaries)
+Chemotherapy causing premature ovarian failure
+
+
+?
+?
+?
+?
+?
+Treatment that removed or damaged your uterus
+Hysterectomy (removal of uterus) 
+High dose pelvic radiation therapy
+
+
+
+
+
+?
+?
+
+NATURAL CONCEPTION
+Some women will be able to get pregnant without medical help. (See section 2 for information about how long to wait after treatment before trying to get pregnant.) If you try to get pregnant, and are not successful after three to six months, make an appointment with a fertility specialist. These are specially trained gynecologists called reproductive endocrinologists. They are experts in many different procedures using assisted reproductive technology to help women become pregnant.
+The doctor will evaluate your fertility. This may include tests such as:
+* Transvaginal ultrasound. A probe is placed in your vagina. It is about as thick as two fingers. Sound waves from the probe bounce off the structures in your pelvis to make a picture of your ovaries and uterus. Your doctor will look at the size of your ovaries and count the developing follicles in each ovary. This is called the antral follicle count. Each follicle is a small sac of fluid that contains a single egg.
+* Blood tests. Hormones related to fertility include follicle-stimulating hormone (FSH), anti-mullerian hormone (AMH), and estradiol. The tests measure the amounts of these hormones in your blood.
+These tests help determine the number and quality of eggs you have. Having more eggs increases the chance you can become pregnant. Other tests may also be recommended. If you have a male partner, he will have to provide semen for analysis. This is done to make sure that he has enough healthy sperm to fertilize your eggs.
+
+OVARIAN STIMULATION
+If your fertility evaluation indicates you have enough healthy eggs to become pregnant, your doctor may recommend stimulating your ovaries. This may be done in several ways.
+* Stimulating the Ovaries with Hormones involves taking medicine beginning on or around the second day of your period. You will need to take the medicine every day for about two weeks. This may increase your chance of becoming pregnant through intercourse.
+* Ovarian Stimulation with Intrauterine Insemination (IUI) requires your doctor to collect a sample of semen from your partner or a donor and place it directly into your uterus. This may increase the chance your eggs will fertilize.
+* Ovarian Stimulation with In Vitro Fertilization (IVF) involves having your eggs removed and fertilized in a laboratory. There are several steps:
+* Around the second day of your period, you start giving yourself daily hormone injections. These stimulate your ovaries so that more eggs will mature than would have matured naturally. This takes about two weeks. During this time, you will see your doctor almost every day. Your doctor will test your blood and perform transvaginal ultrasounds to see how your body is responding to the hormones. Your doctor can change the amount of hormone you take based on your response.
+* When the eggs have matured, you are scheduled for the egg retrieval. This is done in an operating room, with anesthesia, so you will be asleep. No surgical incision is needed. The eggs are collected using a very thin needle passed through the wall of your vagina. You will go home the same day.
+* The eggs are brought to the laboratory where they are fertilized with sperm from your partner or a donor. The fertilized eggs start to divide and form embryos.
+* After three to five days, one or more embryos are transferred into your uterus. You and your doctor will decide together how many to transfer. This is usually done in an exam room, while you are fully awake. A very thin soft catheter is passed through your vagina and cervix into your uterus. The embryos are released, and the catheter is withdrawn. The remaining embryos can be frozen and stored for future use.
+* You will return in about two weeks for a pregnancy test to see if an embryo has implanted and started to grow.
+
+USE OF YOUR OWN FROZEN EGGS OR EMBRYOS
+If your fertility evaluation indicates that you do not have enough healthy eggs to become pregnant, and if you froze eggs or embryos before treatment, you may be able to use these to try to get pregnant. There are several steps: 
+* You will most likely take hormones for about two weeks to prepare the lining of your uterus for the embryo to implant.
+* If you froze embryos, one to six are thawed. If you froze eggs, up to ten are thawed and fertilized with sperm from your partner or a donor. This will create embryos.
+* The embryos are transferred to your uterus. This is usually done in an exam room, while you are fully awake. A very thin soft catheter is passed through your vagina and cervix into your uterus. The embryos are released, and the catheter is withdrawn.
+* You will return in about two weeks for a pregnancy test to see if an embryo has implanted and started to grow.
+* You will continue to take the hormones for several months to support the pregnancy.
+
+USE OF DONOR EGGS (OOCYTES)
+Many women do not have the opportunity to freeze eggs or embryos before treatment. Women who are not able to get pregnant through ovarian stimulation can use eggs from a donor. Although the child will not have your genes, you can experience pregnancy and childbirth. Donor eggs are a form of third party reproduction. This means that a third person helps you build your family.
+Eggs are most commonly donated by young women who want to help other women. Donors should be carefully screened to ensure they are medically and emotionally healthy. Most donors are anonymous. Some may be willing to have the child contact them when they reach adulthood. Some may be willing to have contact with the intended parents during the process.
+
+Finding Donor Eggs
+Your fertility center may have a donor egg program and will be able to recommend specific donors to you. If you want to select your own donor or want to see pictures of possible donors, you can work with an egg donor agency. There are few government requirements for the testing and screening of egg donors. The American Society for Reproductive Medicine (www.reproductivefacts.org  search egg donor agencies) lists agencies that agree to practice according to their professional standards. However, there is no oversight to ensure that they comply with these standards.
+Sometimes two people share the eggs of a single donor to lower the costs. Some agencies now have frozen eggs available for donation. 
+Your fertility center may have experience working with particular egg donor agencies. Consider selecting an agency they recommend. A reproductive lawyer may also have recommendations. He or she can review all documents before you finalize any agreement related to the donation process.
+You may have a relative or friend who is willing to donate eggs for you. While this may be a good option for you, even with the best of intentions, problems can arise if expectations are not clearly defined. Sometimes a relative or friend who wants to help will make an offer without understanding all that is involved. No matter how well you know the person, psychological and medical screenings are important. It is also important to talk with a lawyer.
+
+What is Involved
+Once a donor has been screened and accepted, financial and legal arrangements must be finalized. Then your reproductive endocrinologist will plan the timing of the egg collection. There are several steps:
+* The donor will give herself daily hormone injections to stimulate her ovaries. It takes about two weeks for the eggs to mature. During that time, she will be closely monitored by her doctor.
+* To prepare the lining of your uterus for implantation of the embryo, you will begin to take hormones before the donor begins stimulation.
+* When the donors eggs are mature, they will be retrieved. This is done in an operating room, with anesthesia, so she will be asleep. No surgical incision is needed. The eggs are collected using a very thin needle passed through the wall of the vagina. She will go home the same day.
+* The eggs are brought to the laboratory where they are fertilized with sperm from your partner or a donor. These fertilized eggs start to divide and form embryos.
+* After three to five days, one or more embryos are transferred to your uterus. You and your doctor will decide together how many to transfer. This is usually done in an exam room, while you are fully awake. A very thin soft catheter is passed through your vagina and cervix into your uterus. The embryos are released, and the catheter is withdrawn. The remaining eggs or embryos can be frozen and stored for future use.
+* You will return in about two weeks for a pregnancy test to see if an embryo has implanted and started to grow.
+* You will continue to take hormones for several months to support the pregnancy.
+
+USE OF DONOR EMBRYOS
+Many women do not have the opportunity to freeze eggs or embryos before treatment. Women who are not able to get pregnant through ovarian stimulation can use embryos from a donor. Although the child will not have genes from you or your partner, you can experience pregnancy and childbirth. Donor embryos are a form of third party reproduction. This means that a third person helps you build your family.
+Embryos are most commonly donated by couples who underwent fertility treatment and have unused frozen embryos. The term embryo adoption is sometimes used interchangeably with embryo donation, but these terms have different moral and legal implications. Reproductive specialists generally feel that embryo donation is the correct legal term.
+
+Finding Donor Embryos
+Your fertility center may have embryos donated by former clients. You can also work with an embryo donation agency. There are few government regulations for these agencies. Some agencies are non-denominational and some are faith-based.
+
+What is Involved
+Once the financial and legal arrangements are finalized, your reproductive endocrinologist will plan the timing of the embryo transfer. There are several steps:
+* To prepare the lining of your uterus for implantation of the embryo, you will take hormones for about two weeks.
+* One or more embryos will be thawed and transferred to your uterus. You and your doctor will decide together how many to transfer. This is usually done in an exam room, while you are fully awake. A very thin soft catheter is passed through your vagina and cervix into your uterus. The embryos are released, and the catheter is withdrawn.
+* You will return in about two weeks for a pregnancy test to see if an embryo has implanted and started to grow.
+* You will continue to take hormones for several months to support the pregnancy.
+
+SURROGACY/GESTATIONAL CARRIER
+Some women cannot carry a pregnancy after cancer treatment. This can happen if a womans uterus was removed, if she had high-dose pelvic radiation, or if medical issues make pregnancy unsafe. With surrogacy, another woman carries the pregnancy. This is a form of third party reproduction. This means that a third person helps you build your family.
+In the past, sperm from a womans partner was used to impregnate the surrogate when she was ovulating. The surrogate was genetically related to the child. This is called traditional surrogacy and involves a significant amount of legal risk. It is usually not used any more.
+Surrogacy with a gestational carrier is now the favored approach. One or more embryos are transferred into the carriers uterus. These may be embryos you froze before starting your cancer treatment; fresh embryos (created with your own or donated eggs); or donor embryos. The carrier has no genetic relationship to the child.
+The laws relating to gestational carriers and surrogacy vary by state. The laws in some states make the process very difficult or even illegal. Because of this, we recommend you consult with a reproductive lawyer before initiating this process.
+
+Finding a Gestational Carrier
+You can find a carrier through a fertility center, an agency, or a reproductive lawyer. You may have a relative or friend who is willing to carry a pregnancy for you. While this may be a good option for you, even with the best of intentions, problems can arise if expectations are not clearly defined. Sometimes a relative or friend who wants to help will make an offer without understanding all that is involved. No matter how well you know the person, psychological and medical screenings should be done. It is also important to talk with a lawyer.
+
+What is Involved
+The carrier should be carefully screened to ensure she is medically and emotionally healthy. Once the carrier has been accepted, financial and legal arrangements must be finalized. This will include an agreement on how involved the intended parents will be with the carrier. A reproductive endocrinologist will plan the timing of the embryo transfer. Throughout the pregnancy, the intended parents and the carrier communicate as they have agreed. The intended parents are sometimes present at the birth. Some states require that the intended parents adopt the child after he or she is born.
+
+ADOPTION
+Adoption is another way of building your family after cancer treatment. Having a history of cancer does not prevent you from being able to adopt, as long as you are healthy now. This is particularly true if you have been cancer-free for at least five years. Regulations on adoption are mainly concerned with protecting the well-being of the child, so, you may need a letter from your doctor confirming that you are healthy enough to raise a child.
+If you are not a US citizen or legal permanent resident of the US, it will be very difficult for you to adopt.
+Consider several things when deciding about adoption. Do you want to adopt a newborn baby, or are you comfortable adopting an older child? Do you want to adopt a child of the same race and ethnicity, or are you comfortable with an interracial adoption? Are you comfortable adopting a child who has special health needs?
+Adoptions can be domestic or international.
+* Domestic adoptions: The child is born in the US and is a US citizen. A match is usually made between the birth mother and the adoptive parents before birth. Domestic adoptions provide the best chance to adopt a newborn child. Depending on your ethnicity, they may provide the best chance to adopt a child of the same race and ethnicity as you.
+* International or intercountry adoptions: The child is born and lives outside of the US. Some children have lived in orphanages in their native country. They are usually at least six months old. The child may be of a different race or ethnicity than you. The international adoption process is highly regulated. Some countries do not allow adoption to parents who have been treated for cancer. Policies vary by country and change often. At this time, it is very difficult to adopt from another country.
+
+What is Involved
+Adoptions are arranged through an agency or privately, with the help of an adoption lawyer.
+* Adoption agencies may be public or private. An agency caseworker is often involved in matching the birth parents with the adoptive parents. The match is based on what the birth parents are seeking in adoptive parents. It is also based on the type of child the adoptive parents are hoping to adopt.
+o Public agencies are part of the state Department of Social Services. They usually work with children who have been removed from their birth parents due to alleged abuse or neglect.
+o Private agencies may specialize in domestic or international adoptions, or they may handle both types. Each agency has its own standards about who they will accept as adoptive parents. While some states (including New York) prohibit agencies from discriminating against prospective parents based on a history of cancer, some may require a parent to be cancer-free for a specific period. Children adopted through private agencies are usually younger than in public agencies. With a private agency, you can adopt a newborn child.
+* With private adoptions, the adoptive parents usually work with a lawyer to guide them through the process. For example, the lawyer may recommend how to advertise their interest in adopting so that birth parents will be most likely to find them. Adoption laws vary widely by state, so it is important to work with a lawyer who specializes in adoption and is licensed in the state in which you will adopt. With a private adoption, you can adopt a newborn child.
+Because state laws vary, you may need to choose an agency or lawyer licensed in your state.
+* To find an adoption agency: Search National Foster Care and Adoption Directory (www.childwelfare.gov/nfcad). Select your state and the type of agency you are looking for (i.e., public, private domestic, private intercountry).
+* To find agencies focused on international adoption: Search Intercountry Adoption (adoption.state.gov).
+* To find an adoption lawyer: Search American Academy of Adoption Attorneys (www.adoptionattorneys.org).
+The amount of information shared between birth parents and adoptive parents can vary. In the past, closed adoptions were common. The birth parents and adoptive parents did not know each others identity, and there was no direct contact after the adoption. Now open or semi-open adoptions are more common. These allow some contact between the birth parents and adoptive parents after the adoption. Everyone involved must agree on the type and amount of contact.
+Before you can adopt, a social worker will do a home study to assess your ability to care for an adopted child. The social worker will ask you things that may seem very personal. This is to make sure you understand what is involved and are ready to proceed with an adoption. Work with your agency or lawyer to decide the best time to schedule the home study. Once the child is placed in your care, the social worker will stay in contact to help with any issues that may arise.
+
+4. DO I NEED SPECIAL CARE IF I BECOME PREGNANT AFTER CANCER TREATMENT?
+Some cancer treatments have long-term effects that can put your pregnancy at risk.
+* Some types of chemotherapy and radiation therapy can cause long-term changes in your heart, lung, kidney, or liver. You may not be aware of any changes, but the extra demands placed on your body during pregnancy could cause problems to develop.
+* Some treatments can affect your bodys ability to produce certain hormones. This can make it difficult to maintain a pregnancy without replacement of these hormones.
+* Treatment with high doses of radiation to the pelvis can cause scarring of your uterus. This can make it difficult or impossible for you to maintain a pregnancy.
+If you plan to become pregnant after cancer treatment, ask your oncologist if you should see an obstetrician who specializes in high-risk pregnancies. These doctors are called Maternal Fetal Medicine (MFM) Specialists. If this is recommended for you, consider having the consultation before you actually become pregnant.
+
+5. WHAT OTHER ISSUES SHOULD I CONSIDER WHEN EXPLORING OPTIONS FOR BUILDING A FAMILY?
+
+FINANCIAL ISSUES
+The cost of each of these options for building a family varies based on many factors. These include:
+* Your personal health insurance coverage for fertility treatment. This can vary based on the state where you live. Find out what coverage you have early in the process.
+* The option you use. For example, using donor embryos is less expensive than using donor eggs. Using a gestational carrier can be more expensive than either of those.
+* Medical expenses of your donor or carrier. This will depend on her personal health insurance coverage.
+* Travel expenses of your donor or carrier
+* Compensation paid to the donor or carrier
+* Psychological and medical screening of the donor or carrier
+* Agency fees
+* Legal fees
+Below are listed a number of programs that provide financial assistance or grants to cancer survivors or patients with infertility. Some of these are open to applicants only once a year. It may take as long as six months to find out whether you will receive assistance, so plan ahead.
+* Bonei Olam (www.boneiolam.org)
+* BUMPS (www.yourbump.org)
+* Cade Foundation (cadefoundation.org  select grants)
+* Fertile Action (fertileaction.org/ - under resources and help select financial aid)
+* Fertile Dreams (www.fertiledreams.org  select embracing hope grant)
+* InterNational Council on Infertility Information Dissemination (INCIID) (www.inciid.org  select IVF scholarships)
+* The SAMFund (www.thesamfund.org - select grants and scholarships)
+You can also check these options:
+* The New York State Infertility Demonstration Project provides grants to subsidize medical costs based on your income. Ask your fertility center if they participate in this and if you are eligible.
+* A number of pharmaceutical companies provide medicines for a reduced fee or for free to certain patients. Ask your fertility center to tell you if you are eligible and to help you apply.
+* Some banks and financing companies will loan money for family building.
+* Some fertility centers, agencies, or lawyers may be willing to work out a payment plan for you. Some may have a sliding scale based on your income.
+* Some patients have asked family or friends to organize fund raising efforts in their community, house of worship, or workplace.
+* If you are considering adoption:
+* Ask about the Federal Adoption Expense Tax Credit. Based on your income, this may let you take a tax credit on your federal income taxes for eligible adoption expenses.
+* Some employers provide adoption benefits to help with costs.
+* Fertile Hope/LIVESTRONG (fertilehope.org  under financial assistance select adoption assistance)
+* Help Us Adopt (www.helpusadopt.org) provides financial grants to help with adoption costs
+
+LEGAL ISSUES
+Laws on third party reproduction (donor eggs, donor embryos, gestational carriers) and adoption vary by state. Each option has legal implications. Some options, like gestational surrogacy, are legally complex. Ask the staff at your fertility center or agency how they address these legal issues and if they can recommend a lawyer. If not, you may want to consult a reproductive or adoption lawyer. Things to consider in selecting a lawyer include:
+* Experience in the family building option(s) in which you are interested.
+* State licensure. Reproductive and adoption law varies by state. Ensure the lawyer is licensed and knowledgeable about the states where you and the donor/carrier/birth parents live.
+* Other services provided. Examples include helping you find an agency; helping you find a donor/carrier/birth parents; reviewing legal documents; and assisting with adoption if needed.
+* How services are charged. Lawyers generally charge a flat fee or charge by the hour.
+You can find lawyers who specialize in reproductive and adoption law through the following organizations:
+* American Academy of Assisted Reproductive Technology Attorneys (www.aaarta.org)
+* American Academy of Adoption Attorneys (www.adoptionattorneys.org)
+* American Fertility Association (www.theafa.org  under find a professional select attorney)
+* American Society of Reproductive Medicine (www.asrm.org  under membership select find a member and then find a health care professional  select legal professionals group)
+* FertileHope/LIVESTRONG Resource Guide (www.fertilehope.orgm  under fertility resource guide select legal services)
+* RESOLVE: The National Infertility Association (www.resolve.org  under find a service provider select attorneys)
+
+EMOTIONAL ISSUES
+If you are not able to get pregnant naturally, the process of building your family can be complicated, time-consuming, and expensive. You may experience feelings of anger, loss, and/or grief. These feelings are common. If you find that these emotions become overwhelming, persist for weeks, or discourage you from taking the next steps, consider professional counseling.
+Your fertility center or agency may recommend a mental health counselor for you. You can also find counselors who specialize in dealing with infertility through the following organizations:
+* American Fertility Association (www.theafa.org  under find a professional select mental health professional)
+* American Society of Reproductive Medicine (www.asrm.org  under membership select find a member and then find a health care professional  select mental health)
+* FertileHope/LIVESTRONG Resource Guide (www.fertilehope.orgm  under fertility resource guide select mental health services)
+* RESOLVE: The National Infertility Association (www.resolve.org  under find a service provider select mental health)
+
+6. HOW DO I GET STARTED?
+This booklet provides just an overview of the options for building your family after cancer treatment. There is much more to learn. Below are steps to help you further explore your options.
+1. Learn more. At the end of this booklet is a list of resources that have in depth information on each of these options. Talk with other men and women with infertility. Find out about their experiences and the challenges you may face. Learn tips for how to overcome these.
+* The Adoptive Parents Committee (adoptiveparents.org) has a number of local chapters that hold monthly meetings and sponsors an annual conference. These provide opportunities to learn about adoption and speak with adoptive parents.
+* Resolve: The National Infertility Association (www.resolve.org) has a number of local chapters that hold informational sessions on infertility and family building options as well as support groups.
+2. Speak with your oncologist before you finalize any plan. Describe what you are considering. Make sure there are no concerns based on your personal medical situation.
+3. Schedule initial appointments with the specialists.
+* If you are considering becoming pregnant, and your doctor recommends you work with a maternal fetal medicine specialist, schedule a consultation before you try to become pregnant. (See section 4)
+* If you are considering assisted reproductive technology, schedule an appointment with a reproductive endocrinologist. A fertility evaluation will help clarify which options may be best for you. The reproductive endocrinologist may also help you select donors, carriers, agencies, lawyers, and mental health specialists.
+o Ask your nurse for the fact card Selecting a reproductive endocrinologist/fertility center for a list of centers in the New York area that have experience working with patients who have had cancer. This also describes how to find centers in other areas of the country.
+* If you are considering adoption, see information on how to find an adoption agency or lawyer in section 3)
+4. Plan for the financial costs. Ask the fertility center, agency or lawyer for a detailed list of all expenses involved. See section 5 for information on financial issues to consider.
+5. Consider consulting a reproductive or adoption lawyer. See section 5 for information on legal issues and how to find a lawyer.
+6. Depending on which option you chose to build your family, you may be required to meet with a mental health professional at some point in the process. This person will assess your understanding of what is involved and your readiness to go through the process. Mental health professionals can also provide support as you make decisions about the options presented to you. See section 5 for information on emotional issues and how to find a mental health professional.
+7. Talk with family and friends about what you are considering. Ask for their support.
+8. Keep in mind that many people have gone through this before you. It can be complicated, and it takes persistence and endurance. Nevertheless, many people successfully build families after cancer treatment.
+
+7. WHERE CAN I LEARN MORE?
+A number of professional organizations provide information and support on all options for building a family. Search within the web site for specific topics.
+* American Fertility Association (www.theafa.org)
+* American Society of Reproductive Medicine, Reproductive Facts (www.reproductivefacts.org; also select MHPG resources for a bibliography of additional readings)
+* InterNational Council on Infertility Information Dissemination (INCIID) (www.inciid.org)
+* RESOLVE: The National Infertility Association (www.resolve.org)
+* Society for Assisted Reproductive Technology (www.sart.org)
+There are also a number of publications available.
+* Having Children after Cancer, Gina M Shaw, Celestial Arts, Berkley, 2011
+* Perspectives Press (www.perspectivespress.com)
+
+A number of professional organizations provide information and support on specific options for building a family.
+
+Donor Egg
+* Parents Via Egg Donation (www.parentsviaeggdonation.org)
+
+Surrogacy/Gestational Carriers
+* Organization of Parents through Surrogacy (www.opts.com)
+* Surrogate Mothers Online (www.surromomsonline.com)
+
+Adoption
+* Adoption.com (www.adoption.com)
+* Adoption.org (www.adoption.org)
+* Adoptive Families (www.adoptivefamilies.com)
+Also has a comprehensive adoption guide
+* Child Welfare Information Gateway (www.childwelfare.gov  select adoption [formerly National Adoption Clearinghouse])
+* Joint Council on International Children's Services (www.jointcouncil.org)
+Posts news and information about international adoptions
+* Tapestry Books (www.tapestrybooks.com)
+* Yahoo Groups: Adoption after Cancer (groups.yahoo.com  search adoption after cancer)
+
+
+This is a selected list of resources.
+MSKCC makes no warranties or representations as to the accuracy or completeness, timeliness, or usefulness of any opinion expressed in this booklet. The information and opinions contained herein are not intended as a substitute for medical professional help or advice and are to be used only as an aid in understanding current medical knowledge. A physician should always be consulted for any health problem or medical condition. MSKCC does not warrant, endorse, guarantee, or assume responsibility for any opinions, information, products or services offered by any third party referenced within this booklet.
+
+
+
+2011 Memorial Sloan-Kettering Cancer Center
+1275 York Avenue, New York, NY 10065
+
+6
+
+

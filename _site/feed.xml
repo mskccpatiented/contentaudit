@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
+  <title>Patient Education Content</title>
+  <subtitle></subtitle>
+  <icon></icon>
+  <updated></updated>
+  <id>http://paulmay.org/feed.xml</id>
+  <link type="text/html" rel="alternate" href="http://patiented.com"/>
+  
+</feed>
