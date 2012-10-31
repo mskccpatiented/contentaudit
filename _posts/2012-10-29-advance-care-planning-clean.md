@@ -8,23 +8,20 @@ tags: []
 date: 29-10-2012
 ---
 The information in this booklet will help you protect your right to make your own decisions about your healthcare. It contains information about:
-* How to choose someone to make healthcare decisions for you if you cant.
-* How to talk with your loved ones about what you would want if ever youre unable to speak for yourself.
+
+* How to choose someone to make healthcare decisions for you if you can't.
+* How to talk with your loved ones about what you would want if ever you're unable to speak for yourself.
 * How document your choices in a way that is recognized by the law. 
 
-This process is called advance care planning. Advance care planning allows you to think about important issues when youre healthy and dont need to make decisions right away. By planning your care when you arent under too much emotional stress, you make sure your wishes are carried out the way you would want them to be. Planning in advance helps put your loves ones at ease because they don't have to guess what you would want and worry whether theyve made the right decision. 
+This process is called advance care planning. Advance care planning allows you to think about important issues when you're healthy and don't need to make decisions right away. By planning your care when you aren't under too much emotional stress, you make sure your wishes are carried out the way you would want them to be. Planning in advance helps put your loves ones at ease because they don't have to guess what you would want and worry whether they've made the right decision. 
 
-It can be hard to think about what kind of care you would want if you become very sick or as you near the end of your life. Weve designed this booklet to help you think about what you would want and to help you talk to your loved ones about it. As you follow along with this booklet, you may want to use the spaces provided to write in notes and questions. 
+It can be hard to think about what kind of care you would want if you become very sick or as you near the end of your life. We've designed this booklet to help you think about what you would want and to help you talk to your loved ones about it. As you follow along with this booklet, you may want to use the spaces provided to write in notes and questions. 
 
-
-
-
-                Choose Your Health Care Agent
-
-
+### Choose Your Health Care Agent
 Your healthcare agent (also called a proxy, surrogate, or representative) is someone you choose to make health care decisions for you only if you cant make them for yourself. If you can communicate and are able to understand your treatment options, your health care team will work with you to make your own decisions about your treatment.  Your health care agent is involved in medical decisions only and does not have legal authority to make decisions about your finances or anything else.
 
 Choose someone who can legally serve as your healthcare agent. A friend, family member, or anyone you trust can be your health care agent, as long as he or she is at least 18 years of age and is not your doctor or any other member of your health care team. Also, it is important you choose someone who
+
 * Is willing to talk with you about your wishes regarding medical care 
 * You trust to follow through with your choices
 * Understands your religious and ethical beliefs
@@ -39,23 +36,13 @@ You can choose more than one healthcare agent. That way, if your healthcare agen
 
 When you have someone in mind, review the information in the next section together.
 
+### Talk About Your Beliefs and Goals
+These conversations can be difficult, so we've included the questions below to get you and your healthcare agent started. When talking about these situations, talk about not only what you would want, but why. This will give your health care agent a better understanding of your wishes. Its also helpful to talk with your healthcare providers, other friends and family, and other people you trust, such as a spiritual advisor or lawyer. Remember, these advance care planning is process, not something that gets done all at once.
 
+You don't have to spell out specific medical treatments that you want or don't want. In fact, that is usually a bad idea to try to do, unless you are facing a situation now in which you need to decide about a specific plan of care. Even though the distant future is unpredictable for most of us, who we are as a person remains pretty much the same.
 
-     Talk About Your Beliefs                                                                            and     and Goals
-
-
-These conversations can be difficult, so weve included the questions below to get you and your healthcare agent started. When talking about these situations, talk about not only what you would want, but why. This will give your health care agent a better understanding of your wishes. Its also helpful to talk with your healthcare providers, other friends and family, and other people you trust, such as a spiritual advisor or lawyer. Remember, these advance care planning is process, not something that gets done all at once.
-You dont have to spell out specific medical treatments that you want or dont want. In fact, that is usually a bad idea to try to do, unless you are facing a situation now in which you need to decide about a specific plan of care. Even though the distant future is unpredictable for most of us, who we are as a person remains pretty much the same.
-
-Are there certain situations in which you would not want a lot of medical treatment?
-
-
-
-
-How much are you willing to go through to extend your life?
-
-
-
+* Are there certain situations in which you would not want a lot of medical treatment?
+* How much are you willing to go through to extend your life?
 
 Palliative care focuses on the relief of pain and other symptoms, both physical and emotional. It can be provided at any point during a persons illness, even at the same time as other treatments. Palliative care is not the same as hospice care, which is explained below. What are you feelings about palliative care?
 
@@ -64,15 +51,8 @@ Palliative care focuses on the relief of pain and other symptoms, both physical 
 
 Hospice care is palliative care at the end of life, when a persons life expectancy is 6 months or less. The goal of hospice care is to provide comfort and support while stopping any treatments intended to cure a disease. The care can take place at home or in a hospital. Would you be interested in hospice care at the end of your life?
 
-
-
-
-What are some things that would make the end of your life most peaceful?
-
-
-
-
-What are your biggest concerns and/or fears about the end of your life?
+* What are some things that would make the end of your life most peaceful?
+* What are your biggest concerns and/or fears about the end of your life?
 
 
 
@@ -117,16 +97,9 @@ Give a copy of your completed healthcare proxy form to all your healthcare provi
 
 With advance care planning, your loved ones will be better able to carry out your wishes in the event that youre not able to speak for yourself. Choosing and documenting your healthcare agent and talking with him or her, your healthcare providers and other loved ones is just the beginning, but once youve started it will be easier to talk about changes or related issues in the future. Your wishes may change over time, so its a good idea to have conversations about your plan every time your treatment goals change. 
 
-Additional Resources 
-
+### Additional Resources 
 You can download the health care proxy form for New York State at http://www.health.state.ny.us/professionals/ patients/health_care_proxy/intro.htm  
 
 To download health care proxy forms from any state, go to Caring Connections at www.caringinfo.org 
 
 If you have any questions about advance care planning, we encourage you to speak to your health care team. You can also speak with one of our staff members in the Patient Representatives office at (212) 639-7202.
-
-
-Use this space to write down questions for your healthcare provider. ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
-
