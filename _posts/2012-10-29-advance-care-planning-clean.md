@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 The information in this booklet will help you protect your right to make your own decisions about your healthcare. It contains information about:

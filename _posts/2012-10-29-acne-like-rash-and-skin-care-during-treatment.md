@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: formatted  
 date: 29-10-2012
 ---
 Targeted treatments cause fewer side effects than chemotherapy. But, they can lead to skin problems. The skin problems are most often seen with the following targeted drugs:
@@ -39,31 +40,21 @@ Tell your doctor or nurse as soon as you begin to have any of these changes. Do 
 * If you are taking erlotinib (Tarceva), always take the pill on an empty stomach (at least 1 hour before or 2 hours after eating). 
 * Makeup is safe to use, but avoid those with many ingredients and stop using them if they result in redness and itching. 
 
-Symptom
-Possible Treatments
-Dry skin
-* Over-the-counter moisturizers (Vanicream, Eucerin, Aquaphor) 
-* Ointments or creams rather than lotions
-
-Very scaly areas
-* Over-the-counter Am-Lactin cream 
-Fissures in the fingertips
-* Creams or ointments containing zinc oxide (Desitin regular or maximum strength)
-
-Itchy skin
+<table>
+<tr><th class="third">Symptom</th><th>Possible Treatments</th></tr>
+<tr><td class="third">Dry skin</td><td>Over-the-counter moisturizers (Vanicream, Eucerin, Aquaphor). Ointments or creams rather than lotions</td></tr>
+<tr><td class="third">Very scaly areas</td><td>Over-the-counter Am-Lactin cream </td></tr>
+<tr><td class="third">Fissures in the fingertips</td><td>Creams or ointments containing zinc oxide (Desitin regular or maximum strength)</td></tr>
+<tr><td class="third">Itchy skin</td><td>
 * Try over-the-counter creams (Sarna Ultra cream) or oral medicines (Benadryl) 
-* Prescription medicines to be applied to the skin or taken by mouth. In general anti-itch tablets cause drowsiness, so you may want to take them at night.
-
-Red, inflamed skin
-* Prescription creams containing corticosteroids
+* Prescription medicines to be applied to the skin or taken by mouth. In general anti-itch tablets cause drowsiness, so you may want to take them at night.</td></tr>
+<tr><td class="third">Red, inflamed skin</td><td>* Prescription creams containing corticosteroids
 Itching on the scalp
-* Prescription solutions or foams that contain corticosteroids.
-
-Inflammation around finger or toenails
+* Prescription solutions or foams that contain corticosteroids.</td></tr>
+<tr><td class="third>Inflammation around finger or toenails</td><td>
 * Soft shoes 
 * Avoid activities that could injure the fingers or toes 
 * Prescription  topical antibiotics  silver nitrate to be applied every week. 
-* If there is any sign of infection (pain, redness, secretions), soak fingers or toes every evening in a solution of white vinegar diluted in an equal amount of tap water
-
-Increased hair growth on the face
-* Electric razors instead of chemical depilatories.
+* If there is any sign of infection (pain, redness, secretions), soak fingers or toes every evening in a solution of white vinegar diluted in an equal amount of tap water</td></tr>
+<tr><td class="third>Increased hair growth on the face</td><td>Electric razors instead of chemical depilatories.</td></tr>
+</table>

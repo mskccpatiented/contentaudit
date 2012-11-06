@@ -1,38 +1,32 @@
 ---
-title: SCT Exercise Program Ð Level 1
+title: SCT Exercise Program - Level 1
 url: sct-exercise-program-level-1
 comments: true
 layout: default
 categories: [articles]
 tags: []
+status: formatted
 date: 29-10-2012
 ---
-SCT Exercise Program Ð Level 1
 
 Follow the instructions listed for each exercise. If the number of sets is not listed, only do one set each day.
 
-
-
-Ankle Alphabet
+### Ankle Alphabet
 
 * Lie on your back, with your knees bent and feet flat on the bed.
 * Straighten one leg.  Using your straight leg, slowly move your foot, tracing all the letters of the alphabet with your toes. 
 * Do not let your hip or knee move. 
 * Repeat using your other leg.
 
+### Leg Push
 
-
-
-Leg Push
 * Lie on your back, with your knees bent and feet flat on the bed. 
 * Straighten one leg. With your knee as straight as possible, point your toes towards your nose. 
 * Press your straight leg down to make an imprint of your leg in the bed. 
 * Hold for 5 seconds then return to the starting position.  
 * Repeat 10 times, then switch legs.
 
-
-
-Heel Slides
+### Heel Slides
 
 * Wear socks to protect your heels when doing this exercise.
 * Lie on your back with your head and shoulders supported on pillows.
@@ -40,9 +34,7 @@ Heel Slides
 * Gently slide your heel away from your buttocks until your knee is resting on the bed.
 * Repeat 10 times, then switch legs.
 
-
-
-Short Arc Quad
+### Short Arc Quad
 
 * Lie on your back with your head and shoulders supported on pillows.
 * Place a rolled towel, pillow, or bolster under your knees so that your knees are slightly bent. 
@@ -50,14 +42,7 @@ Short Arc Quad
 * Hold for 5 seconds then return to the starting position.
 * Repeat 10 times, then switch legs.
 
-
-
-
-
-
-
-
-Lying Hip Abductor Exercise 
+### Lying Hip Abductor Exercise 
 
 * Lie on your back with your head and shoulders supported on pillows.  
 * Start with both legs out straight, and keep your toes pointed up to the ceiling.
@@ -65,25 +50,15 @@ Lying Hip Abductor Exercise
 * Hold for 5 seconds then return to the starting position.  
 * Repeat 10 times, then switch legs.
 
+### Shoulder Press
 
-
-
-
-
-
-Shoulder Press
 * Lie on your back, knees bent, feet flat on the bed. 
 * Press your shoulders down into the bed. 
 * Hold for 5 seconds then return to the starting position.  
 * Repeat 5 times.
 
+### Chest Lift
 
-
-
-
-
-
-Chest Lift
 * Lie on your back, knees bent, feet flat on bed. 
 * Press your shoulders down into the bed. 
 * Continue to press down with your shoulders until you feel your upper back arch. 
@@ -91,10 +66,7 @@ Chest Lift
 * Repeat 5 times.
 
 
-
-
-
-Sideways Band Pull
+### Sideways Band Pull
 
 * Lie on your back. 
 * Hold both ends of the elastic in your hands, keeping your elbows straight. 
@@ -102,12 +74,10 @@ Sideways Band Pull
 * Slowly return to the starting position. 
 * Repeat 10 times.
 
-
-
-Diagonal Band Pull
+### Diagonal Band Pull
 * Lie on your back, with both knees bent and your feet flat on the bed. 
 * Hold one end of the elastic at the level of your hip. 
 * Hold the other end of the elastic near the same hip. Your arm will be across your body with your palm facing down.
 * Lift your arm up and across your body, ending with your palm facing forward. Keep your wrist straight. 
 * Slowly return to starting position. 
-Repeat 10 times, then switch arms.
+* Repeat 10 times, then switch arms.

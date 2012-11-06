@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Many women want to have children after cancer treatment. Some will be able to become pregnant without medical help. For those who cannot, there are other options to build your family. The more you understand about what is involved with each option, the better you will be able to decide what is best for you.

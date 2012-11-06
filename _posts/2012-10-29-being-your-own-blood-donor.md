@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Patients may need blood during operations. This blood can come from the patient or from the blood bank. When it comes from the patient, it is called an autologous blood donation. This card describes the steps you must follow before, during, and after you donate blood that will be stored for your use. For more information online, visit www.MKSCC.org and enter the search term blood donation. If you will donate your blood at a different location, please review the Local Blood Donation section at the end of this card.  

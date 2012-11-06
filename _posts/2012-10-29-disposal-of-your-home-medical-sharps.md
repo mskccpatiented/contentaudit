@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Medical sharps include such things as a needle, syringe, or lancet. This card describes how to dispose of medical sharps safely. 

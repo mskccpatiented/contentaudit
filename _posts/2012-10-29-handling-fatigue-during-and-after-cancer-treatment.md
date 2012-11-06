@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Patients describe fatigue as feeling tired or weak, of not wanting to do things, not being able to concentrate, or being slowed down.  It can be a side effect of cancer treatment or from the cancer itself. Cancer fatigue is the most common symptom people experienced with cancer and cancer treatment, but there are things you can do to help.  

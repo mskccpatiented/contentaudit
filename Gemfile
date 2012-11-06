@@ -1,5 +1,5 @@
 source :rubygems
 gem 'jekyll'
-gem 'rack-contrib'
-gem 'rack-rewrite'
+gem 'rack-jekyll'
+gem 'RedCloth'
 gem 'thin'

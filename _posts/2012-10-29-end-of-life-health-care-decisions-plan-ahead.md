@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 This book will help you understand why end of life care planning is important and how you can protect your right to make your own decisions about your own medical care. 

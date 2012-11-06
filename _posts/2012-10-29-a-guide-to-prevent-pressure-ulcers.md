@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: []
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 The skin is the body's largest organ and its first defense against injury and infection. This card is about what you can do to help protect your skin from developing pressure ulcers or sores. Share it with your family and friends. Your family, doctors, and nurses can all help you to prevent most pressure ulcers or sores. Ask for help if needed, when changing your position in bed or a chair, checking your skin, and caring for your skin.

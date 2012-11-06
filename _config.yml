@@ -2,8 +2,8 @@ markdown: rdiscount
 pygments: false
 permalink: /articles/:title
 exclude: ["readme.md", "Gemfile", "Gemfile.lock", "config.ru"]
-name: Patient Education Content
-description: Patient Education Content
+name: MSKCC Patient Education
+description: MSKCC Patient Education
 url: http://patiented.com
 
 # this goes inside _config.yml. Change as required

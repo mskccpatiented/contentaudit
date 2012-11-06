@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Acupressure is an ancient healing art. It is based on the Traditional Chinese Medicine concept of acupuncture. Acupressure uses finger pressure to stimulate trigger points on the body (acupoints). Pressing these points can help release muscle tension,and promote blood circulation. Clinical research suggests it can also relieve many common chemotherapy side effects. Acupressure is simple to learn and can be taught to and used by anyone.

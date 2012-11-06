@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Now that you have completed treatment, you will enter our follow-up program. Follow-up visits are an important part of your care.. If your cancer should come back, finding out early will help your doctors decide how to move forward.

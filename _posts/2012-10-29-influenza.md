@@ -4,6 +4,7 @@ url: influenza
 layout: default
 categories: [articles]
 tags: []
+status: formatted
 date: 29-10-2012
 ---
 Influenza, commonly known as the flu, is caused by a virus that attacks the respiratory system. Anyone can get the flu. It is most serious in the elderly, in people with chronic underlying illness, and in those with weakened immune systems. There are two main types of virus, type A and B. More serious illness tends to be associated with type A. Each type includes many strains that tend to change from year to year.
@@ -58,4 +59,4 @@ To prevent the spread of influenza:
 * Do not go to work, school, or visit the hospital if you have flu-like symptoms.
 * Antiviral medicines can help prevent or reduce the severity of the flu. They do not take the place of an annual flu shot.
 
-To learn more, go to http://nyc.gov/flu. If you have questions about respiratory precautions at MSKCC, call infection control at (212) 639-7814. 
+To learn more, go to http://nyc.gov/flu. If you have questions about respiratory precautions at MSKCC, call infection control at (212) 639-7814.

@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Platelets are colorless cells that are a part of blood.  They are produced in bone marrow, the soft, spongy center in most of our large bones.  The main function of platelets is to control bleeding.  A normal platelet count is 150,000-400,000 platelets per microliter (mcl) of blood.

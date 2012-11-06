@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: []
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 This Guide was put together by people from many departments. It gives you information based on what our patients and their caregivers have told us. The guide is a product of our desire to support and encourage you as you provide care for someone with cancer. We hope it will be useful to you.

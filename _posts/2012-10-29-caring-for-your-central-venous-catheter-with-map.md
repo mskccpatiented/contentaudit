@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 This information will teach you about the placement and care of your central venous catheter (CVC). A CVC is placed in a large vein near the collarbone (see Figure 1). There are many different types of catheters and your doctor will decide which kind is best for you. All devices have 1 central catheter that enters your body. On the outside, the catheter may divide into 2 or 3 lumens. Each lumen has a clamp and a cap on the end.

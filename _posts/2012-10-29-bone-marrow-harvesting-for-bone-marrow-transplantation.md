@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Harvesting is the process of collecting stem cells. Autologous bone marrow harvesting is done to remove a patients own stem cells. The cells are given back to the patient later.  Allogeneic bone marrow harvesting is done to remove stem cells from a donor. These stem cells are given to a patient later.  

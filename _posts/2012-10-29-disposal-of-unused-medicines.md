@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Do not flush unused medicines down the drain or toilet. They damage our water supply and can harm wildlife. Controlled substances such as pain medicines can be misused.

@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: formatted
 date: 29-10-2012
 ---
 
@@ -44,15 +45,15 @@ Bereavement Services
 If Death Occurs at Home
 Conclusion
 Introduction 
-      This booklet is for patients with advanced cancer who are moving towards the end of their lives. It is also for the people who care for and love them.  You and your family may be wondering what lies ahead.  We cannot tell you exactly, because patients have different symptoms and different needs at the end of life. This booklet will help you understand some of the symptoms you may experience towards the end of life and the options you have available to you.
+      This booklet is for patients with advanced cancer who are moving towards the end of their lives. It is also for the people who care for and love them. You and your family may be wondering what lies ahead. We cannot tell you exactly, because patients have different symptoms and different needs at the end of life. This booklet will help you understand some of the symptoms you may experience towards the end of life and the options you have available to you.
 
 
-      At Memorial Sloan-Kettering we want to make sure you understand your treatment options.  By understanding your options you can make informed decisions about your care at the end of life. New York State has a new law that supports us in this effort. It is called the Palliative Care Information Act (2010). This law requires doctors and nurse practitioners to discuss the options with patients with a terminal illness. A terminal illness is one which is expected to result in death within six months. They must talk about the prognosis, treatment options, including the risks and benefits, and pain relief.  Some patients are not able to make their own decisions about these things. The law requires us to give this information to a person with authority to make decisions for them. This is usually the person assigned by the patient on the Health Care Proxy Form. Your physician or nurse practitioner may not wish to talk with you about your care end of life options. In that case, he or she must arrange for another physician or nurse practitioner to do so.
+      At Memorial Sloan-Kettering we want to make sure you understand your treatment options. By understanding your options you can make informed decisions about your care at the end of life. New York State has a new law that supports us in this effort. It is called the Palliative Care Information Act (2010). This law requires doctors and nurse practitioners to discuss the options with patients with a terminal illness. A terminal illness is one which is expected to result in death within six months. They must talk about the prognosis, treatment options, including the risks and benefits, and pain relief. Some patients are not able to make their own decisions about these things. The law requires us to give this information to a person with authority to make decisions for them. This is usually the person assigned by the patient on the Health Care Proxy Form. Your physician or nurse practitioner may not wish to talk with you about your care end of life options. In that case, he or she must arrange for anotherphysician or nurse practitioner to do so.
 
 Palliative Care
       Palliative care is an approach to caring for patients and their families.  Palliative care specialists are healthcare professionals who are expert in helping people optimize their quality of life when they are facing life-threatening or debilitating illnesses. Unlike hospice care, which is for people at the end of life, palliative care is provided as part of acute care, along with chemotherapy and other treatments.  
 
-      Your primary cancer doctor can often provide palliative care during this time, but sometimes patients need more specialized palliative care. In this case, your primary doctor may call on the Memorial Sloan-Kettering’s Pain and Palliative Care Service.  The doctors, nurses and nurse practitioners from this service will work closely with your cancer doctors to make you comfortable.  
+      Your primary cancer doctor can often provide palliative care during this time, but sometimes patients need more specialized palliative care. In this case, your primary doctor may call on the Memorial Sloan-Ketterings Pain and Palliative Care Service. The doctors, nurses and nurse practitioners from this service will work closely with your cancer doctors to make you comfortable. 
 
       At some point you and your doctor may decide that the goal of your care can longer be to cure your cancer. Instead the goal is to relieve your symptoms.  With the focus moved from cure to comfort, you and your family can concentrate on the quality of the time you have left. You might live for days, weeks, or many months. Palliative care aims to help you make the most of this time. 
 
@@ -79,7 +80,7 @@ Social Workers
 Social workers provide emotional support and counseling. You and your family may need to make decisions on end-of life care. This can be difficult.  You can call on the social worker to assist you as you think about what you want. 
 Your social worker can also:
 * assist with emotional support around issues such as change and loss.
-* strengthen your and your family’s coping skills.
+* strengthen your and your familys coping skills.
 * identify specific concerns that you or your family have.
 * prepare and support you and your family for your death.
 * help your family and members of the care team communicate.
@@ -122,11 +123,11 @@ Many people want to remain in control no matter how sick they are. If you appoin
 
 Coping Better: Talk Openly   
 Coping with worsening cancer is difficult. 
-As you become more dependent, your family and friends must work together to help you. If you and your family talk openly about death and dying, you are all likely to feel better. Not talking about what is happening simply avoids the subject. This is ultimately harmful. This sense of false hope – that everything will be all right – can seem hollow to the patient. The longer this goes on, the less time everyone has to say the things that matter.
+As you become more dependent, your family and friends must work together to help you. If you and your family talk openly about death and dying, you are all likely to feel better. Not talking about what is happening simply avoids the subject. This is ultimately harmful. This sense of false hope  that everything will be all right  can seem hollow to the patient. The longer this goes on, the less time everyone has to say the things that matter.
 
 Talking openly about death and dying also helps you and your family and friends to plan. If you can help loved ones to prepare for your death, this is of great benefit. Practical guidance may involve many areas. You can provide directions for burial and mourning. You can help with financial matters and delegate responsibilities. You can also give advice about how to move ahead with life.
 
-Moving ahead with life is an important task for your loved ones. Many patients think about it carefully. Family and friends may remember things that are said during this time forever.   Words that strengthen may guide family and friends on their journey through life. They will also lean on this strength when they themselves face the possibility of death.  
+Moving ahead with life is an important task for your loved ones. Many patients think about it carefully. Family and friends may remember things that are said during this time forever.  Words that strengthen may guide family and friends on their journey through life. They will also lean on this strength when they themselves face the possibility of death. 
 
 Depression and Anxiety: They Are Treatable
 Even though the time leading to death can be very difficult, most people cope well.   Feeling sad is normal, but depression is not. If you feel depressed for much of the day, let your doctor or nurse know. Depression can and should be treated. There are two main ways of treating depression and anxiety. One is talk therapy. The other is medication. Often these two approaches are used together. You must let your health care team know how you feel so they can help you. 
@@ -188,18 +189,18 @@ Confusion
 As death approaches, some patients become confused and agitated. When people are confused, what they say may have no real meaning. They may see things that are not there. Your family should remember that this is not who you are. This is from the disease and what is happening to your body. Sometimes confusion leads to feeling threatened. A confused person may accuse family members of stealing or doing other bad things.  Again, this should not be taken on face value, as it is part of the illness. These symptoms should be treated aggressively. They can prevent a peaceful death. 
       
    Treatment
-Doctors treat confusion and agitation by addressing the underlying cause when possible. However, there may be many causes for these symptoms at the end of life.  Whatever the cause, the symptoms must be treated. Usually this involves medicines that help to calm the person.  The medicines may also help you think more clearly. 
+Doctors treat confusion and agitation by addressing the underlying cause when possible. However, there may be many causes for these symptoms at the end of life.  Whatever the cause, the symptoms must be treated. Usually this involves medicines that help to calm the person.  The medicines may also help you think more clearly.
    Things Your Family Can Do
 * Keep the room well lit during the day.
 * Place a clock close by so you can be aware of the time.
-* Place a calendar or clearly visible note that identifies the date - “Today is Thursday, January 1, 2011.”
+* Place a calendar or clearly visible note that identifies the date - Today is Thursday, January 1, 2011.
 * Minimize noise levels in the room.
 * Continue to help you wear your hearing aids or glasses when possible.
 * Administer pain medicine.
 * Communicate clearly.
-* Explain all actions before they are done – “I am going to turn you now.”
+* Explain all actions before they are done  I am going to turn you now.
 * Make sure familiar objects are in the room. 
-* Manage constipation by following the doctor’s directions. 
+* Manage constipation by following the doctors directions. 
 * Promote relaxation and sleep. 
 * Administer oxygen if ordered.
 * Administer medication to treat confusion. 
@@ -208,10 +209,10 @@ Constipation
 Constipation is not having your usual number of bowel movements. You may not empty your bowel completely. You may have trouble passing hard stool. It can be an uncomfortable side effect of many medicines. The most common are those to treat pain, nausea, and depression, but other medicines can also cause it. It can also be caused by the disease itself as the tumor grows and affects different organs. Diet and decreased activity can make it worse.
 
    Treatment
-Take over-the-counter medicines such as stool softeners and laxatives. You do not need a prescription. Docusate sodium (Colace®) is a stool softener and senna (Senekot®) is a laxative.  Ask your doctor what to take and how much. If these do not work, tell your doctor or nurse. You may need a prescription for something stronger. 
+Take over-the-counter medicines such as stool softeners and laxatives. You do not need a prescription. Docusate sodium (Colace) is a stool softener and senna (Senekot) is a laxative.  Ask your doctor what to take and how much. If these do not work, tell your doctor or nurse. You may need a prescription for something stronger. 
 
    Things you can do
-Try to drink fluids if you can.  Include water, juices, soups, and ice cream. Eat foods with fiber. Examples are fruits, vegetables, whole grains, and cereals containing fiber. As you get closer to the end of your life, changes in your diet will not be possible because you will be eating less. Don’t force yourself to try to do what you cannot.
+Try to drink fluids if you can.  Include water, juices, soups, and ice cream. Eat foods with fiber. Examples are fruits, vegetables, whole grains, and cereals containing fiber. As you get closer to the end of your life, changes in your diet will not be possible because you will be eating less. Dont force yourself to try to do what you cannot.
 
 Diarrhea 
 Diarrhea is watery bowel movements. At the end of life, both the disease and its treatment can cause diarrhea. 
@@ -219,8 +220,8 @@ Diarrhea is watery bowel movements. At the end of life, both the disease and its
    Treatment
 
 Ask your doctor if you can take over-the-counter medicine. Examples are:
-* Loperamide (Imodium®)
-* Bismuth subsalicylate (Pepto Bismol® or Kaopectate®)
+* Loperamide (Imodium)
+* Bismuth subsalicylate (Pepto Bismol or Kaopectate)
 
    
    Things You Can Do
@@ -230,12 +231,12 @@ Increase the amount of fluid you drink if your doctor wants you to prevent dehyd
 Avoid milk and other dairy products. Do not eat foods that are irritating, such as spicy foods. Eat frequent, small meals whenever possible. 
 		
 Products are available for adults who are active despite diarrhea. Adult incontinent pads can be used when you are in bed. You can find these products in your pharmacy and some grocery stores. They include:
-? Depends®
-? Teva® (Serenity) 
+? Depends
+? Teva (Serenity) 
 It is important to change pads frequently to prevent skin breakdown. It is also important to keep the rectal area clean. Wash with gentle soap and water. Apply ointment after each diarrheal movement.  Ointments you can use include:
-? A&D® 
-? Balmex®
-? Desitin® ointment
+? A&D 
+? Balmex
+? Desitin ointment
 
 Difficulty Swallowing
 
@@ -243,7 +244,7 @@ You may have a feeling that your food is stuck in your throat. You may cough aft
 	Treatment
 Your doctor may tell you it is not safe to eat or drink at all.  In that case, intravenous hydration by vein may be considered. (See Hydration, page XX.)
    Things You Can do
-You may need only a change of diet. It includes chopping your food or pureeing it to make it easier to swallow. You might also use a thickening agent such as Thicken-Up® to make it safe for you to swallow.  
+You may need only a change of diet. It includes chopping your food or pureeing it to make it easier to swallow. You might also use a thickening agent such as Thicken-Up to make it safe for you to swallow.  
 
 Fatigue 
 
@@ -259,7 +260,7 @@ Pain often makes fatigue worse. Ignoring or trying to endure pain may cause stre
 * Sitting up or getting out of bed may help to lessen fatigue if you have a hard time walking. However, try to walk short distances every day.
 * Reading, writing, or doing another activity may keep you involved.  This can lessen your fatigue.
 * Fatigue is likely to affect your quality of sleep.  It might help to take 20 or 30 minute naps during the day. Take them before 3 p.m. That will lower the chance of your not sleeping at night.
-* Conserve your energy. Don’t be afraid to ask for help with simple things such as bathing or even eating. 
+* Conserve your energy. Dont be afraid to ask for help with simple things such as bathing or even eating. 
 
 Nausea and Vomiting 
 Nausea and vomiting are symptoms that may occur at the end of life. Nausea may begin as an unpleasant wave-like feeling. It may or may not result in vomiting. 
@@ -326,7 +327,7 @@ At the end of life you will become more fatigued. You:
 *  are likely to talk less and when you do it will be in a whisper. 
 * may have little desire to eat or drink. 
 Your body temperature will become cooler. Breathing may become shallow. A sigh may be followed by a period of no breathing. This pattern may continue for some time, often hours. Your skin color may change and become paler or grayish. The circulation in your hands and feet will decrease and they may become cool to touch. During the last hours of life, you may not speak and may seem to be in a coma or sleeping. Nevertheless,   you may still be able to hear voices. 
-“Death Rattle”
+Death Rattle
 In the last hours of life, you may develop a rattle in your breathing.  This happens because saliva or fluids collect in the throat or upper airways. It may not make you uncomfortable, but it may worry family members.  
 
    Treatment
@@ -337,9 +338,9 @@ They can change your position to see if that stops it.
 
 
 Help for Children 
-A serious illness in the family will affect the children.  It does not matter how young or old they are.  Your instinct may be to protect your child from the sadness and confusion that you are feeling.  However, it is better to be honest about what is happening.  Let your children know that this important person in their life is very sick and may die soon.  What they understand will vary. Much depends on their age and maturity.  All children will feel the pain in their own way. It might be helpful to let children take part in the end-of-life process.  Telling your children the truth right now will help them know they can trust you. Spend some time answering their questions.  Try to make it clear that if they have more questions later, you will answer them.  If you are having trouble talking to your children, ask a family member or friend to help you. There are also counselors who can help you with this.  Please call the MSKCC Department of Social Work at (212) 639-7020 and ask for a referral. You can also call the MSKCC Counseling Center at (646) 888-0100.
+A serious illness in the family will affect the children.  It does not matter how young or old they are. Your instinct may be to protect your child from the sadness and confusion that you are feeling. However, it is better to be honest about what is happening. Let your children know that this important person in their life is very sick and may die soon. What they understand will vary. Much depends on their age and maturity. All children will feel the pain in their own way.It might be helpful to let children take part in the end-of-life process.Telling your children the truth right now will help them know they can trust you. Spend some time answering their questions. Try to make it clear that if they have more questions later, you will answer them.  If you are having trouble talking to your children, ask a family member or friend to help you. There are also counselors who can help you with this. Please call the MSKCC Department of Social Work at (212) 639-7020 and ask for a referral. You can also call the MSKCC Counseling Center at (646) 888-0100.
 
-MSKCC’s Kids Express Program publishes a brochure that will give you some tips on how to talk to your children about your cancer. Ask your nurse or social worker for a copy.
+MSKCCs Kids Express Program publishes a brochure that will give you some tips on how to talk to your children about your cancer. Ask your nurse or social worker for a copy.
 
 Bereavement Services 
 After a patient dies, the social worker can:
@@ -358,12 +359,12 @@ It is hard to think about dying.  But many people believe it can be a time of gr
 
 Resources that may be useful:
 
-American Cancer Society, Inc. Caring for the Patient with Cancer at Home – A Guide for Patients and Families. Atlanta: American Cancer Society, Inc., 2000.
+American Cancer Society, Inc. Caring for the Patient with Cancer at Home  A Guide for Patients and Families. Atlanta: American Cancer Society, Inc., 2000.
 http://www.cancer.org/docroot/MBC/MBC_2x_OtherEffects.asp
 Call 800-ACS-2345 for a free copy.
 
 Coping with Advanced Cancer (National Cancer Institute)
- http://www.cancer.gov/cancertopics/advancedcancer
+http://www.cancer.gov/cancertopics/advancedcancer
 Call 800-4-CANCER for a free copy. 
 
 End-of-Life Care: Questions and Answers (National Cancer Institute)
@@ -374,11 +375,11 @@ End of Life Issues (U.S. National Library of Medicine)
 http://www.nlm.nih.gov/medlineplus/endoflifeissues.html
 Resources are available in Spanish and Chinese languages.
 
-Last Days of Life (PDQ®) (National Cancer Institute)
+Last Days of Life (PDQ) (National Cancer Institute)
 http://www.cancer.gov/cancertopics/pdq/supportivecare/lasthours/patient/allpages
 Call 800-4-CANCER for a free copy
 
-Transitional Care Planning (PDQ®) (National Cancer Institute)
+Transitional Care Planning (PDQ) (National Cancer Institute)
 http://www.cancer.gov/cancertopics/pdq/supportivecare/transitionalcare/patient/allpages
 Call 800-4-CANCER for a free copy.
 
@@ -386,12 +387,6 @@ When Someone You Love Has Advanced Cancer: Support for Caregivers (National Canc
 http://www.cancer.gov/cancertopics/when-someone-you-love-has-advanced-cancer 
 Call 800-4-CANCER for a free copy.
 
-©2011 Memorial Sloan-Kettering Cancer Center
+2011 Memorial Sloan-Kettering Cancer Center
 1275 York Avenue, New York, NY 10065
-
-
-
-
-2
-
 

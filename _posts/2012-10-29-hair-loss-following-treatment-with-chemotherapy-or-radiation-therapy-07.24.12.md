@@ -5,6 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
+status: unformatted 
 date: 29-10-2012
 ---
 Some treatments for cancer cause hair to fall out. Your hair can thin, fall out in patches, or fall out completely. Hair loss caused by cancer treatment is temporary; the hair grows back when treatment is finished.
