@@ -2,5 +2,4 @@
 layout: default
 title: Index
 ---
-A list of patient education articles relevant to bone marrow transplantation. 
-{%include posts_collate%}
+A <a href="/articles">list of patient education articles</a> relevant to bone marrow transplantation. 
