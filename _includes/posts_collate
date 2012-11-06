@@ -30,7 +30,8 @@ Usage:
       <ul id="all_articles">
     {% endif %}
   
-    <li><div id="status" class="{{ post.status}}">{{ post.status}}</div> <a href="{{ BASE_PATH }}{{ post.url }}" class="article_title">{{ post.title }}</a></li>
+    <li><div class="status {{ post.status}}">{{ post.status}}</div> 
+    <div class="article_path"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></div></li>
   
     {% if forloop.last %}
       </ul>
