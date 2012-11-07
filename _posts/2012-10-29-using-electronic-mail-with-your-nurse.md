@@ -8,7 +8,7 @@ tags: []
 summary: Why email is useful. Sensible guidelines. Describes the portal, how to enroll and log in. When to use electronic communication and when to call or communicate directly. Describes the security measures in place. 
 notes:
 strategy:
-status: formatted
+status: partial
 date: 29-10-2012
 ---
 Electronic mail (e-mail) is a good way to communicate with your nurse. You can use e-mail to ask your nurse about: 
@@ -30,6 +30,7 @@ There are some situations when you should not use e-mail to communicate with you
 Instead, you should call your nurse or doctor to discuss any of these issues. 
 
 ### General Concerns
+
 * Privacy and security concerns about sending e-mail include: 
 * The chance that an e-mail could be sent to a wrong address by mistake.
 * The chance that a third party could intercept a message between you and your nurse.
@@ -37,6 +38,7 @@ Instead, you should call your nurse or doctor to discuss any of these issues.
 * There is always the chance that your e-mail will not be received because of a technical problem.
 
 ### Guidelines For Sending An E-Mail
+
 1. Type your full name, date of birth, and the purpose of your message in the subject box (field) of your e-mail.  For example: John Smith 4/27/76 lab results. 
 2. When requesting a prescription refill, be sure to include: 
 
@@ -45,6 +47,7 @@ Instead, you should call your nurse or doctor to discuss any of these issues.
 * The dosage. 
 * How often you take it. 
 * When you need the refill. 
+
 3. Your nurse will send you e-mail as a secure document.  This means that you will need to click on a link or copy the link and paste it on your internet browser to get the message.  
 4. If you do not get a response within two business days, call your nurse or doctor on the phone.
 5. Your nurse may share your e-mail with other staff in order to answer your questions. He or she may consult with:
@@ -54,6 +57,7 @@ Instead, you should call your nurse or doctor to discuss any of these issues.
 * A dietitian.
 * A pharmacist. 
 * Office staff. 
+
 6. E-mails will become part of your medical record.  This means things that are communicated via e-mail are also noted in your files. 
 
 ### Using MyMSKCC
