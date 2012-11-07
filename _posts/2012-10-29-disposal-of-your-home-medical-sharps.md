@@ -5,15 +5,16 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
-status: unformatted 
+status: formatted 
 date: 29-10-2012
 ---
-Medical sharps include such things as a needle, syringe, or lancet. This card describes how to dispose of medical sharps safely. 
+Medical sharps include such things as a needle, syringe, or lancet. This card describes how to dispose of medical sharps safely.
+ 
 * Choose an empty container with a tight cap. 
 * It should be strong enough that needles cannot go through the sides and it should not be breakable. 
 * Thick plastic detergent bottles and aluminum coffee cans are best. 
 * Do NOT use paper or plastic bags.
-* Clearly label the container ÒHome Sharps.Ó Keep it away from children and pets. 
+* Clearly label the container Home Sharps. Keep it away from children and pets. 
 * Do not overfill the container. When it is 60 to 80% full, reinforce the lid or cap with strong tape to create a more secure seal and prevent leakage. 
 * Separate the container from trash that will be recycled.  
 * If you live in New York City, you may place the sealed container in with your regular trash for collection. Do not place it with your recyclables. 
@@ -24,4 +25,5 @@ Medical sharps include such things as a needle, syringe, or lancet. This card de
 
 Please ask your nurse or call the number below if you have any questions.
 
-Nurse __________________________	Telephone ___________________________
+Nurse 
+Telephone

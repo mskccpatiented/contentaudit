@@ -163,7 +163,7 @@ background:#A8C090;
 background:#F5634A;
 }
 
-.inprogress{
+.partial, .inprogress{
 background:#FF9C5B;
 }
 

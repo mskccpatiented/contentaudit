@@ -1,11 +1,11 @@
 ---
 title: Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
-url: directions-for-giving-an-injection-below-the-skin-with-neupogen-filgrastim-or-neulasta-pegfilgrastim-in-a-pre-filled-syringe
+url: giving-an-injection-below-the-skin-with-neupogen-filgrastim-or-neulasta-pegfilgrastim
 comments: true
 layout: default
 categories: [articles]
 tags: []
-status: unformatted 
+status: formatted 
 date: 29-10-2012
 ---
 Name of medicine ____________________________________________
@@ -14,25 +14,27 @@ Medication schedule
 
 Dose and amount  	
 
-Equipment
+### Equipment
+
 * Pre-filled syringe with plastic needle guard attached
 * Alcohol pads
 * Disposable sharps container
 * 2 X 2 gauze pad or cotton ball
-Other  	
+
+### Other  	
 A subcutaneous injection gives medicine below the skin.  A pre-filled syringe has the medicine already in it. When you are at home, use this fact card as a reference. A nurse will review this information when it is first prescribed. 
 
-Storing Neupogen or Neulasta
+### Storing Neupogen or Neulasta
+
 * Both medicines should be stored in the refrigerator, but not in the freezer.  If the medicine is frozen by accident, allow it to thaw in the refrigerator.  If it is frozen a second time, do not use it.  Call your doctor or nurse for further instructions. 
-
 * Take the medication out of the refrigerator 30 minutes prior to administration.
-
 * The medicine can be left out at room temperature for up to 24 hours.  Do not leave it in direct sunlight.  If you have any questions about how to store or carry it when you travel, call your doctor, nurse, or pharmacist.
 
-Prepare to Give the Injection
-1. Remove the prefilled syringe from the refrigerator 30 minutes before it is given to allow it to reach room temperature.  
+### Prepare to Give the Injection
+
+1. Remove the pre-filled syringe from the refrigerator 30 minutes before it is given to allow it to reach room temperature.  
 2. Prepare a clean area to work such as a kitchen table. A bathroom is not ideal.
-3. Do not shake the prefilled syringe.  Shaking may damage the Neupogen.  If it has been shaken, the solution may appear foamy and it should not be used. 
+3. Do not shake the pre-filled syringe.  Shaking may damage the Neupogen.  If it has been shaken, the solution may appear foamy and it should not be used. 
 4. Check to make sure the name Neupogen or Neulasta appears on the package or syringe label.
 5. Check to make sure the expiration date on the syringe has not passed.  If the date has passed, discard the syringe. 
 6. Check to make sure the strength is the same as your doctor prescribed.  The strength is listed in the colored dot on the package. 
@@ -40,18 +42,18 @@ Prepare to Give the Injection
 8. Gather the other materials needed (alcohol pad and Band Aid).
 9. Wash your hands well with soap and water.
 
-Choose an Injection site 
+### Choose an Injection site 
+
 1. Choose an injection site from the recommended areas. (Figure 1) 
 * The outer area of your upper arms 
 * The abdomen, except for the two inch area around your navel
 * The front of your middle thighs
 * The upper outer areas of your buttocks 
-
 2. Expose the area by removing or folding back any clothing that covers it.  Keep track of which site was used last and rotate the sites. Do not inject into an area that is tender, red, bruised, or hard.  Do not inject into an area that has scars or stretch marks.
- 
 3. Tear off any three edges on a sealed alcohol pad.  Hold the packet at an edge you did not tear.  Carefully open the packet to expose the alcohol pad but do not take it out. Set the open packet on your work area.  You will use this alcohol pad to clean the skin at the site just before you inject the medicine and again after the injection is completed.
 
-Giving the injection
+### Giving the injection
+
 1. Remove the syringe from the package and the tray.  Make sure that the needle guard is covering the barrel of the glass syringe.  Do not push the needle guard over the needle cover before injection. (Figure 2) If the needle guard is covering the needle, that means it has been activated.  In this case, do not use that syringe and use a new syringe from the package. 
 2. Hold the syringe through the needle guard windows with the needle pointing up.  This helps prevent medicine from leaking out of the needle. 
 3. Carefully pull the needle cover straight off. 
@@ -66,22 +68,19 @@ Giving the injection
 12. Do not recap the needle. 
 13. Keep your hands behind the needle at all times.  While holding the clear plastic finger grip of the syringe with one hand, grasp the needle guard with your free hand.  Slide the needle guard over the needle until the needle is completely covered.  You will hear the needle guard click into place.  If you do not hear it click, the needle guard may not be completely in place.  (Figure 5)
 14. Place the syringe with the needle guard covering the needle into the sharps container.  
-SPECIAL POINTS
+
+### Special Points
+
 * Inject the medicine at the same time each day.  If you miss a dose contact your doctor or nurse. 
 * Always wash your hands before you start the procedure.
 * Work in a clean area. Do not use the bathroom as a work area.
-* Do not allow anything to touch the needle. If anything touches it, you must use a new prefilled syringe. A needle that is not sterile can cause an infection.
+* Do not allow anything to touch the needle. If anything touches it, you must use a new pre-filled syringe. A needle that is not sterile can cause an infection.
 * Always check to see if you have the right amount of medicine in the syringe.
-* Prefilled syringes should be used only once. 
+* pre-filled syringes should be used only once. 
 * Put the syringes in a designated sharps container such as an empty plastic detergent bottle with a cap or a coffee can with a tight lid.
-* Label the container (e.g., ÒHome SharpsÓ).  Keep all equipment and medicine out of the reach of children and pets.
+* Label the container (e.g., Home Sharps).  Keep all equipment and medicine out of the reach of children and pets.
 * When the container is 60 to 80% full, secure the lid or cap with strong tape.  In New York City, you can discard the container with household waste.  For other counties, call your Department of Health.  You can also return it to your nurse at Memorial.
 * Please call your doctor or nurse if you have any questions or concerns.
 
-
-©2011 Memorial Sloan-Kettering Cancer Center
-1275 York Avenue, New York, New York 10021
-
-2
 
 

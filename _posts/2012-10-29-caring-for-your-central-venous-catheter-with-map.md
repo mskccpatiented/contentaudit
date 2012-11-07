@@ -5,32 +5,32 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
-status: unformatted 
+status: inprogress 
 date: 29-10-2012
 ---
 This information will teach you about the placement and care of your central venous catheter (CVC). A CVC is placed in a large vein near the collarbone (see Figure 1). There are many different types of catheters and your doctor will decide which kind is best for you. All devices have 1 central catheter that enters your body. On the outside, the catheter may divide into 2 or 3 lumens. Each lumen has a clamp and a cap on the end.
-A CVC can be used to give • Fluids
-• Chemotherapy
-• Medicine
-• Blood transfusions
-• Intravenous (IV) nutrition
+A CVC can be used to give * Fluids
+* Chemotherapy
+* Medicine
+* Blood transfusions
+* Intravenous (IV) nutrition
 The advantages of having a catheter are
-• You won’t need as many needle sticks.
-• It can stay in your body as long as a few years and be removed when it is no longer needed.
+* You won’t need as many needle sticks.
+* It can stay in your body as long as a few years and be removed when it is no longer needed.
 A nurse will help you learn how to care for your catheter. You can have a caregiver, family member, or friend learn with you. You will learn how to change your dressing and catheter caps. You will also learn how to flush your catheter using a syringe with heparin. This must be done to keep clots from forming inside your catheter. After you go home, use this information to help you remember the steps to care for your catheter.
 Before Your Procedure
 Please follow the instructions below to prepare for the placement of your CVC.
  ̈ Don’t take aspirin, any products that contain aspirin, or vitamin E for 5 days before your procedure. Review the card Common Medicines Containing Aspirin and Nonsteroidal Anti-Inflammatory Drugs (NSAIDs). It tells you which products have aspirin and which are anti-inflammatory medications.
  ̈ Ask your doctor what to do if you take – Blood thinners such as
-• Warfarin (Coumadin®) • Cilostazol (Pletal®)
-• Dalteparin (Fragmin®)
+* Warfarin (Coumadin&reg;) * Cilostazol (Pletal&reg;)
+* Dalteparin (Fragmin&reg;)
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Figure 1: Central venous catheter
-￼Caring for Your Central Venous Catheter
-1 of 8
 
-• Enoxaparin (Lovenox®)
-• Heparin injected under the skin (subcutaneously) • Clopidogrel (Plavix®)
-• Prasugrel (Effient®)
+
+
+* Enoxaparin (Lovenox&reg;)
+* Heparin injected under the skin (subcutaneously) * Clopidogrel (Plavix&reg;)
+* Prasugrel (Effient&reg;)
 – Medication for diabetes such as insulin
  ̈ Call your doctor before your procedure if you develop any illness. This includes a fever, cold, flu, or sore throat.
  ̈ If you have been told to be on a clear liquid diet
@@ -50,8 +50,8 @@ The morning of your procedure
  ̈ Leave valuables and jewelry, including rings, at home.
 Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital (SDH). Check in at the desk. Please arrive on time.
 In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
-￼Caring for Your Central Venous Catheter
-2 of 8
+
+
 
 Procedure
 An IV line will be started. You will receive medication through the IV line to control pain and anxiety. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
@@ -62,49 +62,48 @@ After Your Procedure
 You may have some discomfort at your incision sites and along the tunnel. Ask your nurse for medication to relieve your pain.
 Your dressings need to be left in place and kept dry for 48 hours following your procedure. Two days after your procedure, you can remove the dressing that covers the small incision near your collarbone. After that, you can leave it open to the air. The strips of adhesive tape that cover this incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your procedure. The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes anchored in the tunnel under your skin.
 Your catheter will not interfere with your usual activities, such as household tasks, job responsibilities, and exercise. However, we do suggest that you avoid contact sports, such as football and soccer, while your catheter is in place.
-Prepare the following emergency kit and keep it with you at all times: • Two catheter caps
-• One toothless clamp
-• Alcohol swabs
-• One roll of 2-inch tape
-• Two 2x2 gauze pads
-• Your doctor’s office and emergency telephone numbers
+Prepare the following emergency kit and keep it with you at all times: * Two catheter caps
+* One toothless clamp
+* Alcohol swabs
+* One roll of 2-inch tape
+* Two 2x2 gauze pads
+* Your doctor’s office and emergency telephone numbers
 Changing Your Dressing and Catheter Caps
 A nurse will teach you how to care for your catheter. You will learn how to use sterile technique to change your dressing. This will minimize your risk for infection. You can have a caregiver, family member, or friend learn with you.
-￼Caring for Your Central Venous Catheter 3 of 8
+
 
 You will see the folded Map for Dressing Change inside this booklet. Use it to follow the step-by-step instructions for changing your dressing. This is when you will use sterile technique. You will not be able to touch the booklet then because that would break sterile technique. You should open the map and spread it out where you can see it.
 General instructions
-• You will have time to practice catheter care with your nurse before you do it yourself. If you have any questions about your catheter care, please speak with your nurse.
-• The Tegaderm® dressing should be changed once a week, as long as it stays dry, intact, and clean. Change it on one of the days you are doing a cap change and a flushing. If you have problems with your skin, your nurse may suggest a different type of dressing. In that case, you may need to change it more often than once a week. No matter which dressing you have, always change it right away if it starts to come off or gets wet. Don’t just reinforce it.
-• Change the caps and flush the catheter twice a week, generally on Mondays and Fridays.
-• Clamp the catheter when it is not in use.
-• Don’t do your catheter care in the bathroom.
-• You may shower and bathe with the catheter in place using an Aquaguard®. This is a one-time use waterproof cover that goes over your dressing. Each time you shower, cover the Tegaderm dressing completely with a new Aquaguard to protect it from getting wet.
+* You will have time to practice catheter care with your nurse before you do it yourself. If you have any questions about your catheter care, please speak with your nurse.
+* The Tegaderm&reg; dressing should be changed once a week, as long as it stays dry, intact, and clean. Change it on one of the days you are doing a cap change and a flushing. If you have problems with your skin, your nurse may suggest a different type of dressing. In that case, you may need to change it more often than once a week. No matter which dressing you have, always change it right away if it starts to come off or gets wet. Don’t just reinforce it.
+* Change the caps and flush the catheter twice a week, generally on Mondays and Fridays.
+* Clamp the catheter when it is not in use.
+* Don’t do your catheter care in the bathroom.
+* You may shower and bathe with the catheter in place using an Aquaguard&reg;. This is a one-time use waterproof cover that goes over your dressing. Each time you shower, cover the Tegaderm dressing completely with a new Aquaguard to protect it from getting wet.
 – To put on the Aquaguard, peel off the top and side strips and place the top edge above your dressing. Smooth it down over your dressing. Do the same for the bottom part of your dressing, making sure that the bottom edge of the Aquaguard is below your dressing.
 – Don’t let the tape on the Aquaguard touch the Tegaderm dressing. It can lift your Tegaderm dressing when you remove the Aquaguard after showering. If your dressing gets wet, it needs to be changed.
-• Don’t submerge your catheter in water (e.g., a bathtub or swimming pool).
-• Keep your catheter secure at all times to avoid pulling it. You can tape the lumens of your catheter to your skin, tuck them into a bra if you are female, or pin them to clothing. Ask your nurse about the best way to secure your catheter.
-• If the exit site has drainage or is red, raw, or swollen, call your doctor. These may be signs of infection.
-• If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad. Cover the site with tape. Call your doctor or nurse immediately. Catheters can often be repaired.
+* Don’t submerge your catheter in water (e.g., a bathtub or swimming pool).
+* Keep your catheter secure at all times to avoid pulling it. You can tape the lumens of your catheter to your skin, tuck them into a bra if you are female, or pin them to clothing. Ask your nurse about the best way to secure your catheter.
+* If the exit site has drainage or is red, raw, or swollen, call your doctor. These may be signs of infection.
+* If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad. Cover the site with tape. Call your doctor or nurse immediately. Catheters can often be repaired.
 Equipment
-• One CVS tray with caps (if you will be changing the caps) – One mask
+* One CVS tray with caps (if you will be changing the caps) – One mask
 – One pair of sterile gloves
-– One ChloraPrep® applicator
+– One ChloraPrep&reg; applicator
 – Six alcohol prep pads
 – One Tegaderm dressing
-￼Caring for Your Central Venous Catheter
-4 of 8
+
 
 5”
-– One Biopatch®
-– One No Sting Barrier Film® applicator – One poly-lined drape
+– One Biopatch&reg;
+– One No Sting Barrier Film&reg; applicator – One poly-lined drape
 – Two catheter caps
-• An extra cap if you have 3 lumens
-• One pair of nonsterile gloves
-• Paper tape
-• Three alcohol pads if you have 3 lumens
-• A mirror that can stand up on a table (a make-up mirror works well)
-Note: The catheter caps may have many names. This will depend on the manufacturer of the CVC dressing change tray. Some examples are needleless injection cap, ULTRASITE® needleless valves, Saf-T PRN®, and Clave®. Some catheters don’t have caps. Your nurse will tell you if your catheter has no caps.
+* An extra cap if you have 3 lumens
+* One pair of nonsterile gloves
+* Paper tape
+* Three alcohol pads if you have 3 lumens
+* A mirror that can stand up on a table (a make-up mirror works well)
+Note: The catheter caps may have many names. This will depend on the manufacturer of the CVC dressing change tray. Some examples are needleless injection cap, ULTRASITE&reg; needleless valves, Saf-T PRN&reg;, and Clave&reg;. Some catheters don’t have caps. Your nurse will tell you if your catheter has no caps.
 Sterile procedure for changing your dressing
 1. Prepare a clean area in which to work. Remember not to change your dressing in the bathroom.
 2. Gather your equipment. Wash your hands thoroughly with warm water and antibacterial soap. Dry them with a clean towel or paper towel.
@@ -122,10 +121,10 @@ Figure 2: Dressing tray
 
 8. Put on the nonsterile gloves and remove the old dressing. The Biopatch should come off with the dressing. Throw away the gloves and old dressing.
 9. Without touching the area, inspect the catheter exit site and surrounding skin. It is easier to do this by looking in the mirror. Look for any signs of infection or irritation, such as
-• Red or raw skin
-• Swelling
-• Any drainage from the catheter site
-• Leakage around your catheter
+* Red or raw skin
+* Swelling
+* Any drainage from the catheter site
+* Leakage around your catheter
 Call your doctor or nurse after you complete the dressing change if you see any of these things.
 10. Take the paper drape out of the tray. Unfold it and place it, shiny side down, on your work area.
 Follow steps 11-20 on the Map for Dressing Change instructions to complete the dressing change. You are now done with the sterile part of the dressing change. Keep the gloves and mask on to change the
@@ -140,7 +139,6 @@ Changing the catheter caps
 27. Pick up the new catheter cap with your dominant hand. Use your thumb and index finger on your nondominant hand to remove the cover (see Figure 5). Twist the new catheter cap onto your catheter.
 28. Repeat steps 21-26 for the second and third lumens.
 Figure 4: Grasping the catheter while changing the cap
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Caring for Your Central Venous Catheter
 6 of 8
 Figure 5: Twisting on the new catheter cap
 
@@ -156,32 +154,31 @@ Flushing Your Catheter
 Flush the lumens with heparin 2 times a week, when your catheter is not in use. This is to keep the lines from becoming clogged.
 Equipment
 Figure 6: Cleaning the lumens
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼• One, 2, or 3 prefilled heparin syringes each containing 50 units of heparin. You will need one for each lumen
-• Two alcohol pads for each lumen
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼* One, 2, or 3 prefilled heparin syringes each containing 50 units of heparin. You will need one for each lumen
+* Two alcohol pads for each lumen
 Instructions for flushing your catheter
 1. Pick up 1 lumen and unclamp it.
 2. Wipe the end of the catheter cap with an alcohol pad.
 3. Without touching the cleaned end of the catheter cap, remove the cap from the heparin syringe. Discard.
 4. Carefully twist the heparin syringe into the catheter cap. If you can’t inject the heparin, stop and check to be sure there are no twists or other blockages in the tubing. Try to inject the heparin again. If you still can’t inject the heparin, don’t use extra pressure to flush the line. Remove the syringe, reclamp your catheter, and call your doctor or nurse.
 5. Use the following push/pause method to flush your catheter:
-• Quickly inject 1⁄3 of the heparin.
-• Pause.
-• Repeat.
-• Start injecting the last 1⁄3 of the heparin. As you are doing it, clamp your catheter. You will no longer be able to push fluid in once the clamp is closed.
+* Quickly inject 1⁄3 of the heparin.
+* Pause.
+* Repeat.
+* Start injecting the last 1⁄3 of the heparin. As you are doing it, clamp your catheter. You will no longer be able to push fluid in once the clamp is closed.
 6. Untwist the syringe from the lumen and discard the syringe.
 7. Repeat steps 1-6 for each lumen.
-Caring for Your Central Venous Catheter 7 of 8
+
 
 8. Secure your catheter in a way that makes you comfortable.
 9. Throw away your mask and gloves and wash your hands thoroughly.
 Call Your Doctor or Nurse if You
-• Have redness, swelling, or drainage around the area where the catheter exits your body
-• Are unable to flush your catheter
-• Have a temperature of 100.4° F (38° C) or higher or chills when you flush your catheter • Have a break or leak in your catheter
-• Have an unexplained problem with your catheter
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼©2012 Memorial Sloan-Kettering Cancer Center 1275 York Avenue, New York, New York 10065 B-057
-￼￼￼￼￼￼￼￼￼￼￼￼￼Caring for Your Central Venous Catheter
-8 of 8
+* Have redness, swelling, or drainage around the area where the catheter exits your body
+* Are unable to flush your catheter
+* Have a temperature of 100.4° F (38° C) or higher or chills when you flush your catheter * Have a break or leak in your catheter
+* Have an unexplained problem with your catheter
+
+
 
 ￼PATIENT EDUCATION
 Map for Dressing Change
@@ -189,42 +186,42 @@ NOTE: From this point on, don’t touch the catheter or your skin except with an
 11. Take the package with the sterile gloves out of the tray. Be careful not to touch anything else in the tray. Put on the sterile gloves, touching only the inside of the sterile glove with your bare hand. Be careful not to touch anything except what is in the dressing change tray
 after the gloves are on. Move everything from inside the
 dressing change tray onto the sterile drape.
-15. Use your dominant hand to pick up the Chloraprep®. Beginning at the insertion site, scrub up and down and side
-to side with the Chloraprep® to
+15. Use your dominant hand to pick up the Chloraprep&reg;. Beginning at the insertion site, scrub up and down and side
+to side with the Chloraprep&reg; to
 20. Peel the backing off
-of the Tegaderm® dressing (see Figure 6). Position it with the triangle shape over the catheter. Place it over the catheter
-and the Biopatch®. The Biopatch® should be in the center. Grasp the round paper tab
+of the Tegaderm&reg; dressing (see Figure 6). Position it with the triangle shape over the catheter. Place it over the catheter
+and the Biopatch&reg;. The Biopatch&reg; should be in the center. Grasp the round paper tab
 on the outside and peel the plastic off all the way around the dressing (see Figure 7). You may press on the outside of the dressing
 to make sure it is intact (see Figure 8).
 Continue the instructions in the booklet.
-make a 2 inch box (see Figure 3). Discard the Chloraprep®.
+make a 2 inch box (see Figure 3). Discard the Chloraprep&reg;.
 16. Allow the site to dry for at least 30 seconds. Don’t fan or blow on the site to speed up the drying. Hold the catheter away while it dries.
 17. Take another alcohol pad in your dominant hand. Place it around the catheter just above where it separates into lumens. Grasp the catheter with the alcohol wipe. Hold the catheter up and use another alcohol pad in your nondominant hand to clean the catheter. Start at the incision site and gently wipe down to where the catheter splits (see Figure 4). Don’t pull on the catheter.
-Figure 6: Tegaderm® dressing
+Figure 6: Tegaderm&reg; dressing
 Figure 3: Cleaning exit site
 5
 2
-12. Open the ChloraPrep® applicator by squeezing the tabs (see Figure 1). Open and remove all the alcohol prep pads. Put the alcohol pads back into the tray. Put the wrappers to the side or drop them in the trash.
-13. Pick up the ChloraPrep® applicator with your dominant hand. Pinch the wings on the side together until you hear
+12. Open the ChloraPrep&reg; applicator by squeezing the tabs (see Figure 1). Open and remove all the alcohol prep pads. Put the alcohol pads back into the tray. Put the wrappers to the side or drop them in the trash.
+13. Pick up the ChloraPrep&reg; applicator with your dominant hand. Pinch the wings on the side together until you hear
 a click (see Figure 1). This will make the antiseptic soak into the applicator sponge. You must press very hard to make the
 click sound.
 14. With your nondominant hand, grasp the catheter using the alcohol pad (see Figure 2). Don’t touch the catheter itself. Touch only the alcohol pad. Hold the catheter away from your chest.
 Figure 4: Catheter cleaning
-Figure 7: Applying the Tegaderm® dressing
-Skin Biopatch®
-Figure 8: Tegaderm® dressing and Biopatch® on skin
-©2012 Memorial Sloan-Kettering Cancer Center 1275 York Avenue, New York, New York 10065 B-057 Map
-3
-Figure 1: ChloraPrep® applicator
+Figure 7: Applying the Tegaderm&reg; dressing
+Skin Biopatch&reg;
+Figure 8: Tegaderm&reg; dressing and Biopatch&reg; on skin
+
+
+Figure 1: ChloraPrep&reg; applicator
 If the exit site is red, raw, or swollen or has drainage, notify your doctor after you finish the dressing change.
-18. Apply the No Sting Barrier Film® to your skin. Paint it on in the shape of an open rectangle about the size
-of the Tegaderm® dressing. The No Sting
+18. Apply the No Sting Barrier Film&reg; to your skin. Paint it on in the shape of an open rectangle about the size
+of the Tegaderm&reg; dressing. The No Sting
 Barrier Film will help the dressing
 Figure 2: Catheter
 stick to your skin.
-19. Open the package with the Biopatch®. Place the patch around the insertion site. The blue side should face up. The slit should line
+19. Open the package with the Biopatch&reg;. Place the patch around the insertion site. The blue side should face up. The slit should line
 up with the catheter (see Figure 5).
-Figure 5: Biopatch®
+Figure 5: Biopatch&reg;
 
 ￼￼STERILE GLOVES
 ￼￼￼￼￼￼￼1. Open the package with the sterile gloves. Pull the edges of the package down to keep them flat.

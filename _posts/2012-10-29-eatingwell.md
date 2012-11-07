@@ -5,7 +5,7 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
-status: inprogress 
+status: partial 
 date: 29-10-2012
 ---
 This information will help you maintain your nutrition during and after your cancer treatment.
@@ -276,31 +276,44 @@ Per bar:
 150 to 220 calories
 8 to 10 grams of protein
 Kosher
-12 Memorial Sloan-Kettering Cancer Center
 
-Contact information for buying nutritional supplements
+
+
+#### Contact information for buying nutritional supplements
 Abbott Nutrition 1-800-258-7677 www.abbottstore.com
+
 Nestle
-1-800-422-ASK2 (2752) www.nestle-nutrition.com
+1-800-422-ASK2 (2752) 
+www.nestle-nutrition.com
+
 Carnation
-1-800-289-7313 www.carnationinstantbreakfast.com
+1-800-289-7313 
+www.carnationinstantbreakfast.com
+
 Aptalis
-1-800-472-2634 http://store.axcanscandipharm.com/home.php
-Sample Menus
+1-800-472-2634 
+http://store.axcanscandipharm.com/home.php
+
+### Sample Menus
 Use these 4 sample menus to spark your imagination. They can give you ideas for making your own, high-calorie, high-protein meals
 at home. You may find it easier to divide a meal into 2 portions so that you have a small, ready-made meal to eat later in the day. If it is hard for you to make your meals, ask family or friends for help. Try making meals in batches on days when you have the energy and freeze them for a later date. You can also eat ready-made foods, if necessary.
-Key points
- If you have diabetes or high blood sugar, use products that are unsweetened or are made with sugar substitutes. Limit the amount of fruit juice that you drink.
- The amount of liquid in the meal plans is small so you dont feel full early during meals. Try to drink most of your liquids in between your meals. An average-sized adult needs 8 to 10, 8-ounce cups of liquids per day. This includes juices, water, milkshakes, and soups. It also includes solids that become liquid at room temperature such as Italian ices.
 
+#### Key points
 
- If you are lactose-intolerant, you should not drink regular cows milk. Instead, you should drink Lactaid milk, rice milk, almond milk, or soy milk.* Try the sweetened versions of these milks for extra calories. Take Lactaid tablets or drops with other dairy foods, such as ice cream or soft cheeses. Patients with mild to moderate lactose intolerance can usually handle hard aged cheeses and yogurt.
- Vegetarian and vegan menus are included. Both vegetarians and vegans should eat more nuts, seeds, and oils to increase their calories. Vegans should consider including dairy products and eggs in their diet. They should also take special care to eat foods rich in vitamin B12, calcium, iron, and zinc. Speak with a dietitian if you follow a vegetarian or vegan diet.
- Fruits and vegetables are low in calories. Therefore, they are not included in the meal plans often. You may find that you are not meeting the daily recommended servings. You may need to take a multivitamin, but check with your doctor first.
- See page 23 for recipes for Double Milk and the shakes listed in the sample menus.
+If you have diabetes or high blood sugar, use products that are unsweetened or are made with sugar substitutes. Limit the amount of fruit juice that you drink.
+
+The amount of liquid in the meal plans is small so you dont feel full early during meals. Try to drink most of your liquids in between your meals. An average-sized adult needs 8 to 10, 8-ounce cups of liquids per day. This includes juices, water, milkshakes, and soups. It also includes solids that become liquid at room temperature such as Italian ices.
+
+If you are lactose-intolerant, you should not drink regular cows milk. Instead, you should drink Lactaid milk, rice milk, almond milk, or soy milk.* Try the sweetened versions of these milks for extra calories. Take Lactaid tablets or drops with other dairy foods, such as ice cream or soft cheeses. Patients with mild to moderate lactose intolerance can usually handle hard aged cheeses and yogurt.
+
+Vegetarian and vegan menus are included. Both vegetarians and vegans should eat more nuts, seeds, and oils to increase their calories. Vegans should consider including dairy products and eggs in their diet. They should also take special care to eat foods rich in vitamin B12, calcium, iron, and zinc. Speak with a dietitian if you follow a vegetarian or vegan diet.
+
+Fruits and vegetables are low in calories. Therefore, they are not included in the meal plans often. You may find that you are not meeting the daily recommended servings. You may need to take a multivitamin, but check with your doctor first.
+ 
+See page 23 for recipes for Double Milk and the shakes listed in the sample menus.
 *If you have or have had breast cancer, ask your doctor if it is okay for you to eat foods with soy.
 
-Sample Menu 1
+#### Sample Menu 1
 Meal
 Regular Diet
 Regular Diet
@@ -555,9 +568,11 @@ One 2-inch slice of silken tofu cheese cake
 4 ounces of cranberry juice
 22 Memorial Sloan-Kettering Cancer Center
 
-Recipes
+### Recipes
+
 Before you make these recipes, please be aware that raw eggs can cause salmonella food poisoning. Do not add raw eggs to your shakes.
 If you have diabetes or high blood sugar, these recipes may not be appropriate for you. Speak with your dietitian.
+
 Double Milk
 1 quart of whole milk
 1 envelope of non-fat dry milk powder (to make 1 quart of product) Mix in blender and refrigerate.
@@ -806,8 +821,7 @@ Cook your foods until they are soft and tender. Use a blender to puree foods.
 Cut your foods into small pieces that are easy for you to chew. Rinse your mouth out with water often.
 Drink liquids with your meals, sipping in between bites.
 Use a straw to drink liquid to prevent it from touching your sore mouth.
-32
-Memorial Sloan-Kettering Cancer Center
+
 
  If you have dry mouth, try sugar-free mints or gum to make more saliva.
  Brush your teeth (with the permission of your doctor or dentist) and tongue. Drink more liquids to help to keep your mouth clean.
