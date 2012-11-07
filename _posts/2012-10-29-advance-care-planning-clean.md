@@ -2,10 +2,13 @@
 title: Advance Care Planning
 url: advance-care-planning
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
-status: unformatted 
+summary: Describes the process of identifying a healthcare agent - somebody who can make medical decisions on behalf of the patient. How do document those choices so there is no ambiguity. Specifying your preferences around medical decisions - like resussitation, artificial life support etc. 
+notes:
+strategy:
+status: partial 
 date: 29-10-2012
 ---
 The information in this booklet will help you protect your right to make your own decisions about your healthcare. It contains information about:

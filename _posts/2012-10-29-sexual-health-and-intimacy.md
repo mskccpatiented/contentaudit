@@ -2,9 +2,12 @@
 title: Sexual Health and Intimacy
 url: sexual-health-and-intimacy
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: How to feel comfortable with yourself, things you can do to feel more positive, how to maintain intimacy with your partner. Safe sex. Services at MSKCC related to sexuality and sexual health. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

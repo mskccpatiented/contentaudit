@@ -2,9 +2,12 @@
 title: SCT Exercise Program - Level 1
 url: sct-exercise-program-level-1
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Describes a set of exercises that patients can do in their room or home - ankle alphabet, leg push, heel slides, quad stretches, shoulder press and chest left etc. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

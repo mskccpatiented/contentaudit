@@ -2,9 +2,12 @@
 title: Preventing Blood Clots while you are in the Hospital
 url: preventing-blood-clots-while-you-are-in-the-hospital
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is a blood clot, when can they occur, walking to prevent clots, medications.
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

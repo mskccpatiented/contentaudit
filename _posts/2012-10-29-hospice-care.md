@@ -2,10 +2,13 @@
 title: Hospice
 url: hospice
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
 authors: Mary Corwin, Barbara Hennessey
+summary: Describes the role of a hospice.
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

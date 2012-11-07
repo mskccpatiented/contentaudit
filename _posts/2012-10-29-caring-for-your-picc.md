@@ -2,9 +2,12 @@
 title: Caring for Your Peripherally Inserted Central Catheter (PICC)
 url: caring-for-your-peripherally-inserted-central-catheter-picc
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Tells the patient about their catheter, why it's needed and how its maintained or cleaned; dressing change etc.
+notes:
+strategy:
 status: partial 
 date: 29-10-2012
 ---

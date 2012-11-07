@@ -2,9 +2,12 @@
 title: Your Implanted Port
 url: your-implanted-port
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Brief guide to the implanted port. How is it implanted. How to manage it afterwards. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

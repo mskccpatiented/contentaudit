@@ -2,9 +2,12 @@
 title: What You Need to Know About a Health Care Agent
 url: what-you-need-to-know-about-a-health-care-agent
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Describes the role of a health care agent in making decisions on behalf of the patient. What the agent can and can't do. How to document preferences to avoid ambiguity. External resources. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

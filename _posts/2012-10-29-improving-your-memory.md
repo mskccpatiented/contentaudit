@@ -2,9 +2,12 @@
 title: Improving Your Memory
 url: improving-your-memory
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Techniques for remembering things, improving memory. Includes techniques like using mnemonics, visualization, routines, writing things down. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

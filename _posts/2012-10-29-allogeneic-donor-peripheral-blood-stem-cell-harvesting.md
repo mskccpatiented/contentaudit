@@ -2,9 +2,12 @@
 title: Allogeneic Donor Peripheral Blood Stem Cell Harvesting
 url: allogeneic-donor-peripheral-blood-stem-cell-harvesting
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary:
+notes:
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---

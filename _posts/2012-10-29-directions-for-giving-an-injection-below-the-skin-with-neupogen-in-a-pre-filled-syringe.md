@@ -2,13 +2,16 @@
 title: Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
 url: giving-an-injection-below-the-skin-with-neupogen-filgrastim-or-neulasta-pegfilgrastim
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Describes the storage and ministration of a Filgrastim injection. How to prepare the injection site, how to give the injection.
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---
-Name of medicine ____________________________________________
+Name of medicine
 
 Medication schedule  	
 

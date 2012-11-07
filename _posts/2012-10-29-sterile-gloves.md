@@ -2,9 +2,12 @@
 title: Sterile Gloves
 url: sterile-gloves
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: How to open, put on, take off and dispose of sterile gloves. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

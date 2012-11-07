@@ -167,6 +167,15 @@ background:#F5634A;
 background:#FF9C5B;
 }
 
+.metadata{
+background:#eeeeee;
+padding: 1em;
+font-size:0.8em;
+margin-bottom:1em;
+-moz-border-radius: 8px;
+border-radius: 8px;
+}
+
 .article_path{
 font-family:helvetica, sans-serif;
 padding:0.75em;
@@ -176,10 +185,15 @@ width:80%;
 margin-left:140px;
 }
 
+#all_articles{
+margin-bottom:2em;
+}
+
 #all_articles li{
 clear:both;
 padding-top:0.5em;
 }
+
 
 a.article_title{
 }

@@ -2,9 +2,12 @@
 title: Disposal of Unused Medicines
 url: disposal-of-unused-medicines
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: How to or how not to dispose of unused medications.
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

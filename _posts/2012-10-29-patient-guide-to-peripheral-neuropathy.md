@@ -2,9 +2,12 @@
 title: Patient Guide to Peripheral Neuropathy
 url: patient-guide-to-peripheral-neuropathy
 comments: true
-layout: default
+layout: article
 categories: []
 tags: []
+summary: What is peripheral neuropathy, what are the causes, symptoms, how to avoid trips and falls, general safety tips, getting exercise and massage to alleviate symptoms. Commonly used terms. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

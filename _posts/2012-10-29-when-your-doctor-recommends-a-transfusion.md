@@ -2,9 +2,12 @@
 title: When Your Doctor Recommends a Transfusion
 url: when-your-doctor-recommends-a-transfusion
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is a transfusion and why is it necessary. How a transfusion is given. Risks and possible side effects. How blood is made safe. Who can donate blood. What danger signs to watch for. Questions to ask your doctor. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

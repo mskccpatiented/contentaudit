@@ -2,9 +2,12 @@
 title: Resources for Wigs and Hairpieces
 url: resources-for-wigs-and-hairpieces
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: A list of places in New York and Connecticut where the patient can purchase a wig. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

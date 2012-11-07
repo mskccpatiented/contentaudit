@@ -2,9 +2,12 @@
 title: SCT Exercise Program - Level 2
 url: sct-exercise-program-level-2
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Describes a set of exercises that patients can do in their room or home.
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

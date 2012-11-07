@@ -2,9 +2,12 @@
 title: Low Platelet Count - A Guide for Patients
 url: low-platelet-count-a-guide-for-patients
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is a platelet, how to avoid bleeding, dressing, what activities to avoid, safe sexual activity, medications to avoid, symptoms to avoid. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

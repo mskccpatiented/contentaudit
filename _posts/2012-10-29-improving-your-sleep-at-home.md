@@ -2,9 +2,12 @@
 title: Improving Your Sleep at Home
 url: improving-your-sleep-at-home
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Recommends activities like exercise, getting outdoors, limiting napping, dimming lights at night, limiting foods before sleep, relaxing before sleeping. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

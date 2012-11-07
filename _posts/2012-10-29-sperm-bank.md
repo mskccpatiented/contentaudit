@@ -2,9 +2,12 @@
 title: Sperm Banking
 url: sperm-banking
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Why sperm banking is offered to patients. What is it and how does it work. How can a patient bank sperm. How much it costs. Support available for costs. Where to learn more and who to contact. Find a sperm bank. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

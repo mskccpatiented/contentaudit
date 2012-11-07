@@ -2,9 +2,12 @@
 title: Memorial Sloan-Kettering Cancer Center Support Services
 url: memorial-sloan-kettering-cancer-center-support-services
 comments: true
-layout: default
+layout: article
 categories: []
 tags: []
+summary: Contact details for support services at MSKCC; chaplaincy, clinical genetics, integrative medicine, rehab etc. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

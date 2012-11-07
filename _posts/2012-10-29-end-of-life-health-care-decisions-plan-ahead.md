@@ -2,9 +2,12 @@
 title: End of Life Health Care Decisions-Plan Ahead
 url: end-of-life-health-care-decisions-plan-ahead
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Planning ahead, identifying and documenting your preferences, protecting your right to make decisions, downloadable forms. 
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

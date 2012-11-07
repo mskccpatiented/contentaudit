@@ -2,9 +2,12 @@
 title: Protected Walking
 url: protected-walking
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Safe walking, supported walking techniques, walking with canes or crutches. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

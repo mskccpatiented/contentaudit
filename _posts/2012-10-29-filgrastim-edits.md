@@ -2,9 +2,12 @@
 title: Filgrastim
 url: filgrastim
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is filgrastim, how it works, storage, side effects. 
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

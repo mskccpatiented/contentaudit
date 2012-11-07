@@ -2,9 +2,12 @@
 title: Safe Handling of Chemotherapy and Biotherapy At Home
 url: safe-handling-of-chemotherapy-and-biotherapy-at-home
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Describes safe handling of chemo. Washing of hands before touching medicine, wearing gloves, storage of medication, checks before and after administration, handling of waste and coping with spills. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

@@ -2,9 +2,12 @@
 title: Improving Your Sleep During Your Hospital Stay
 url: improving-your-sleep-during-your-hospital-stay
 comments: true
-layout: default
+layout: article
 categories: ["one", "two"]
 tags: ["one", "two"]
+summary: Why sleep might be interrupted. Recommends activities like exercise, getting outdoors, limiting napping, dimming lights at night, limiting foods before sleep, relaxing before sleeping. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

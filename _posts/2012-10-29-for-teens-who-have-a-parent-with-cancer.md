@@ -2,9 +2,12 @@
 title: For Teens Who Have a Parent with Cancer
 url: for-teens-who-have-a-parent-with-cancer
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is cancer, what the experience might be like for you, help you can get. 
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

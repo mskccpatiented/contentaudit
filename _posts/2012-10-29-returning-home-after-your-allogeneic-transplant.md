@@ -2,10 +2,13 @@
 title: Returning Home After Your Allogeneic Transplant
 url: returning-home-after-your-allogeneic-transplant
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
-status: formatted
+summary: What to expect when you go home, how to recognize problems or symptoms of infection, personal care - washing, brushing teeth, caring for the catheter. How to prepare the home, what to do with pets. How to deal with visitors. How to recognise GVHD. Why smoking and drinking are prohibited. How the outpatient visits work and what follow-up tests will be done. Information on medications and dietary supplements. Immunizations. Returning to work.  A list of important telephone numbers. 
+notes:
+strategy:
+status: partial
 date: 29-10-2012
 ---
 The Allogeneic Bone Marrow Transplant Service and the Division of Nursing, in collaboration with the Dental Service and the Department of Food and Nutrition Services

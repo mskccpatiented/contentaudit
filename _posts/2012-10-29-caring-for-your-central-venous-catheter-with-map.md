@@ -2,9 +2,12 @@
 title: Caring for Your Central Venous Catheter
 url: caring-for-your-central-venous-catheter
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Tells the patient about their catheter, why it's needed and how its maintained or cleaned; dressing change etc.
+notes:
+strategy:
 status: inprogress 
 date: 29-10-2012
 ---
@@ -264,7 +267,8 @@ Figure 5: Biopatch&reg;
 MEMORIAL SLOAN-KETTERING CANCER CENTER
 2. Pick up one glove by the folded cuff.
 3. Still holding just the cuff, slide your other hand into the glove, making sure the outside of the glove does not touch anything.
+4. Slip the fingers on the gloved hand under the cuff of the other glove and hold it up and away from anything else.
 5. Keep the thumb on your gloved hand pointing up so it is out of the way. Slide your other hand into the glove.
 6. Pull the glove all the way up. Be careful not to anything, including your wrist.
-2011Memorial Sloan-Kettering Cancer Center 1275 York Avenue, New York, New York 10065
-4. Slip the fingers on the gloved hand under the cuff of the other glove and hold it up and away from anything else.
+
+

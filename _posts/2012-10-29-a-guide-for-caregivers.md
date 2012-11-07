@@ -2,9 +2,12 @@
 title: A Guide for Caregivers
 url: a-guide-for-caregivers
 comments: true
-layout: default
+layout: article
 categories: []
 tags: []
+summary: A wide-ranging guide for caregiers about the issues they may face while caring for a person with cancer. Issues covered include managing medications, admission, returning home, transportation, financial issues, legal issues, family support, self care. 
+notes:
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---

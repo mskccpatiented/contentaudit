@@ -2,9 +2,12 @@
 title: A Guide to Prevent Pressure Ulcers or Sores
 url: a-guide-to-prevent-pressure-ulcers-or-sores
 comments: true
-layout: default
+layout: article
 categories: []
 tags: []
+summary:
+notes:
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---

@@ -2,9 +2,12 @@
 title: Using Electronic Mail with Your Nurse
 url: using-electronic-mail-with-your-nurse
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Why email is useful. Sensible guidelines. Describes the portal, how to enroll and log in. When to use electronic communication and when to call or communicate directly. Describes the security measures in place. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

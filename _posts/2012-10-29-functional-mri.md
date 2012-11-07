@@ -2,9 +2,12 @@
 title: Functional Magnetic Resonance Imaging (fMRI)
 url: functional-magnetic-resonance-imaging-fmri
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is fMRI, how it works, precautions before the scan, the day of the fMRI and afterwards. 
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

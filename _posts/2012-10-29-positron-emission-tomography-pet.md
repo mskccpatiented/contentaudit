@@ -2,9 +2,12 @@
 title: Positron Emission Tomography (PET)
 url: positron-emission-tomography
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is a PET scan, the injection of the tracer dye, what happens before the PET scan, what to tell your doctor before your scan, what happens on the day of the scan, after your scan, precautions. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

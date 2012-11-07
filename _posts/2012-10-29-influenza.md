@@ -1,9 +1,12 @@
 ---
 title: Influenza
 url: influenza
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: What is influenza, how is it spread, how it's different from a cold and what precautions people can take. 
+notes:
+strategy:
 status: formatted
 date: 29-10-2012
 ---

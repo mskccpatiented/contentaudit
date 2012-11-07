@@ -2,9 +2,12 @@
 title: Hair Loss Following Treatment with Chemotherapy or Radiation Therapy
 url: hair-loss-following-treatment-with-chemotherapy-or-radiation-therapy
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: Why you may lose your hair, caring for your hair, products to use or not to use, where to purchase a wig, insurance coverage for wigs.
+notes:
+strategy:
 status: formatted 
 date: 29-10-2012
 ---

@@ -2,9 +2,12 @@
 title: Eating Well During and After Your Cancer Treatment
 url: eating-well-during-and-after-your-cancer-treatment
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary: A sensible eating guide. Includes information about balanced meals, dietary supplements, sample menus. What to eat after your cancer treatment. 
+notes:
+strategy:
 status: partial 
 date: 29-10-2012
 ---

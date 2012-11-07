@@ -2,9 +2,12 @@
 title: Being Your Own Blood Donor 
 url: being-your-own-blood-donor
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary:
+notes: Probably not relevant.
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---

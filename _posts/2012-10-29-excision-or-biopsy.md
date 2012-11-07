@@ -2,9 +2,12 @@
 title: Excision or Biopsy
 url: excision-or-biopsy
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary:
+notes:
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---

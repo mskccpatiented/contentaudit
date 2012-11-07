@@ -2,10 +2,13 @@
 title: Neutropenia (Low White Blood Cell Count)
 url: neutropenia-low-white-blood-cell-count
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
-status: formatted
+summary: What is a white blood cell, what is neutropenia, how to avoid infections, personal care, washing, hygeine, what not to eat, symptoms to watch out for. Who to contact if you have issues. 
+notes:
+strategy:
+status: partial
 date: 29-10-2012
 ---
 This information will help you avoid infection while your white blood cell count is low. This is called neutropenia.

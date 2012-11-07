@@ -2,9 +2,12 @@
 title: Care After Treatment For Non-hodgkin Lymphoma And Hodgkin Lymphoma 
 url: care-after-treatment-for-non-hodgkin-lymphoma-and-hodgkin-lymphoma
 comments: true
-layout: default
+layout: article
 categories: [articles]
 tags: []
+summary:
+notes:
+strategy:
 status: unformatted 
 date: 29-10-2012
 ---
