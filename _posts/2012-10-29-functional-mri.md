@@ -8,7 +8,7 @@ tags: []
 summary: What is fMRI, how it works, precautions before the scan, the day of the fMRI and afterwards. 
 notes:
 strategy:
-status: formatted 
+status: partial 
 date: 29-10-2012
 ---
 An fMRI allows surgeons to see the areas of the brain that control speech and movement. They use this information to decide if surgery is safe. Most peoples brains are organized in a similar way. However, lesions in the brain can cause the speech and movement functions to move around. An fMRI maps these functions. This is done by asking you to perform certain tasks. When you do these tasks it helps the doctor find the speech and movement areas in your brain. This allows your doctor to see how your brain is organized. This information is then used to make decisions about your surgery. 
