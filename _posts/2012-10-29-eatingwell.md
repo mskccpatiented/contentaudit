@@ -5,153 +5,172 @@ comments: true
 layout: default
 categories: [articles]
 tags: []
-status: unformatted 
+status: inprogress 
 date: 29-10-2012
 ---
 This information will help you maintain your nutrition during and after your cancer treatment.
+
 Good nutrition is very important for patients with cancer. There may be some nutritional changes you can make now that will help you during treatment. Start by eating a healthy diet. This can increase your strength, help you maintain your weight, and help you fight infection. It may even help with the side effects of treatment.
-My Plate
-My Plate is a picture of a place
-setting that shows what a
-healthy meal should look like.
-It includes the 5 food groups
-that are the building blocks of
-a healthy diet. These groups
-include whole grains, fruits,
-vegetables, lean proteins, and
-low-fat dairy products. Foods that are high in fat and sugar should be limited or avoided. For more information about the My Plate guidelines, visit www.myplate.gov.
+
+### My Plate
+My Plate is a picture of a place setting that shows what a healthy meal should look like. It includes the 5 food groups that are the building blocks of a healthy diet. These groups include whole grains, fruits, vegetables, lean proteins, and low-fat dairy products. Foods that are high in fat and sugar should be limited or avoided. For more information about the My Plate guidelines, visit www.myplate.gov.
+
 The side effects of cancer and treatment can make it hard to eat. When this happens, it may be difficult for you to follow the My Plate guidelines. You may need to change your eating plan if you cant eat certain foods.
-How Treatment Can Affect Eating
-Surgery
+
+### How Treatment Can Affect Eating
+
+#### Surgery
 If your weight is below normal, you may have to gain weight before your surgery. In this booklet, you will find suggestions for how to eat more calories and protein. This can help you put on weight before surgery and help you heal afterward.
-Eating Well During and After Your Cancer Treatment 1
 
 Having mouth, throat, or stomach surgery can make it hard to eat. Sometimes, nutrition must be given to patients in other ways. It can be given through a vein, a tube in the nose, or straight into the stomach or the upper part of the intestine.
-Radiation
+
+#### Radiation
 Radiation treatment to the head and neck can cause trouble swallowing, taste changes, dry mouth, or soreness in the mouth or throat. Treatment to the chest can cause trouble swallowing. Treatment to the stomach, abdominal (stomach) area, or pelvis can cause nausea and vomiting. It can also cause diarrhea, cramps, and bloating.
-Chemotherapy
+
+#### Chemotherapy
 Many chemotherapy drugs can affect your digestive system. They can cause nausea and vomiting, decreased appetite, diarrhea, constipation, weight gain or loss, and changes in the taste or smell of food.
-Immunotherapy
+
+#### Immunotherapy
 Immunotherapy stimulates your bodys immune system to fight cancer cells. Side effects include
- Nausea and vomiting  Diarrhea
- Sore mouth
- Dry mouth
- Weight loss
- Changes in the taste of food  Muscle aches
- Fatigue
- Fever
-Hormonal therapy
+
+* Nausea and vomiting  Diarrhea
+* Sore mouth
+* Dry mouth
+* Weight loss
+* Changes in the taste of food  Muscle aches
+* Fatigue
+* Fever
+
+#### Hormonal therapy
 Hormonal therapy uses medications that stop your body from making some hormones or change the way they work. Side effects include changes in appetite, water retention, weight gain, and nausea and vomiting.
-2 Memorial Sloan-Kettering Cancer Center
 
-General Nutritional Guidelines
-Vitamin and mineral supplements
-You can get 100% of your daily recommended nutrients from a well-balanced diet. If your diet is lacking, vitamins and mineral supplements can help. Some patients take large amounts of antioxidants, herbs, or extra vitamins and minerals because they think it will help cure their cancer. This has not been shown to help in the fight against cancer. During some kinds of cancer treatments, this
-can actually harm you. If you are thinking about doing this, speak with your doctor first. A dietitian or pharmacist can also answer any questions you have.
-Clinical trials are research studies. They are done to test new
- Therapies
- Drugs or drug combinations  Methods of delivery
- Dosages and timing
-Some trials test vitamins or supplements. This is done to see if they have an effect on a type of cancer. One trial is looking at the effects of flaxseed supplementation in patients with non-small cell lung cancer who are being treated with chemotherapy and radiation. To find out more about this or other clinical trials
- Visit the clinical trials section of the National Cancer Institute (NCI) website at www.cancer.gov/clinicaltrials.
- Call the NCI Cancer Information Service at 1-800-4-CANCER (1-800-422-6237).
-Alternative and complementary therapies
-You may have read or heard about alternative therapies. Sometimes, these are used in place of conventional treatment. The safety and effectiveness of many of these treatments have not been confirmed. We do know that some are not safe. Others can interfere with your
-Eating Well During and After Your Cancer Treatment 3
+### General Nutritional Guidelines
 
-chemotherapy or radiation therapy. Speak to your doctor or nurse before you start any of these treatments. It could make your treatment less effective and cause harm.
+#### Vitamin and mineral supplements
+You can get 100% of your daily recommended nutrients from a well-balanced diet. If your diet is lacking, vitamins and mineral supplements can help. Some patients take large amounts of antioxidants, herbs, or extra vitamins and minerals because they think it will help cure their cancer. This has not been shown to help in the fight against cancer. During some kinds of cancer treatments, this can actually harm you. If you are thinking about doing this, speak with your doctor first. A dietitian or pharmacist can also answer any questions you have. 
+
+#### Alternative and complementary therapies
+You may have read or heard about alternative therapies. Sometimes, these are used in place of conventional treatment. The safety and effectiveness of many of these treatments have not been confirmed. We do know that some are not safe. Others can interfere with your chemotherapy or radiation therapy. Speak to your doctor or nurse before you start any of these treatments. It could make your treatment less effective and cause harm. 
+
 Complementary therapies can help patients cope with some of the symptoms of cancer and side effects of treatment, such as nausea, vomiting, and fatigue. They can also help reduce stress and promote a feeling of well-being. They do not cause any harm. Complementary therapies include
- Reflexology
- Meditation
- Massage
- Music therapy  Yoga
- Tai Chi
- Acupuncture
-Food safety
+
+* Reflexology
+* Meditation
+* Massage
+* Music therapy  
+* Yoga
+* Tai Chi
+* Acupuncture
+
+### Food safety
 During cancer treatment, your body has a hard time fighting off infection. It is more important than ever to make sure that the foods you are eating are safe. This will reduce your risk for foodborne illnesses and other infections. Below are a few suggestions to prevent any problems.
-4
-Memorial Sloan-Kettering Cancer Center
- 
  
 Before and after preparing food, wash your hands well with soap and warm water. Clean your cutting boards and counters thoroughly.
+
 Avoid eating any foods that have raw or undercooked eggs, meat, poultry, fish, or shellfish. Make sure that these raw foods or their juices never come in contact with other foods.
+
 Eat only pasteurized milk and cheeses. Drink only processed or pasteurized juices and ciders.
+
 Wash all raw fruits and vegetables well before eating, even if you are going to peel the skin off.
 
- Thaw frozen foods in the refrigerator. Do not leave them out to thaw at room temperature.
- After cooking, cool foods in the refrigerator. Do not let them cool at room temperature.
+Thaw frozen foods in the refrigerator. Do not leave them out to thaw at room temperature.
+
+After cooking, cool foods in the refrigerator. Do not let them cool at room temperature.
+
 If your immune system gets weaker, your doctor may ask you to follow stricter guidelines than those above. You may need to cut out most raw or uncooked fruits and vegetables, cold cuts and processed meats, raw honey, and unpasteurized products.
-Calories and Protein
+
+### Calories and Protein
 The suggestions in this booklet may be different from those in the My Plate guidelines. You may be told to add more of a certain food to increase your intake of calories and protein or decrease your discomfort with eating. A dietitian can help you find an eating plan that works best for you.
+
 Tips for getting the most from your meals
+
 Large meals can seem overwhelming or unappealing. This can happen when you have a decreased appetite or feel full shortly after you start eating. The following suggestions can help you get enough calories:
- Eat small meals 6 to 8 times a day instead of 3 main meals.
- Serve smaller food portions on salad plates instead of dinner plates.
- Drink hot chocolate, fruit juices, and nectars that are high in calories.
- Avoid low-calorie drinks, such as water, coffee, tea, and diet drinks. Make Double Milk and milkshakes using the recipes in this booklet.
- Have your favorite snack foods available at home and at work.
- Eat your favorite foods at any time of the day. For example, eat breakfast foods such as pancakes or omelets for lunch or dinner.
-Eating Well During and After Your Cancer Treatment 5
 
- Include different colors and textures of foods in your meals to make them more appealing.
- Make dining a good experience by eating your meals in a pleasant, relaxing setting with family or friends.
- Smells such as bread baking or bacon frying may help boost your appetite.
-Tips for adding more protein to your diet
+* Eat small meals 6 to 8 times a day instead of 3 main meals.
+* Serve smaller food portions on salad plates instead of dinner plates.
+* Drink hot chocolate, fruit juices, and nectars that are high in calories.
+* Avoid low-calorie drinks, such as water, coffee, tea, and diet drinks. Make Double Milk and milkshakes using the recipes in this booklet.
+* Have your favorite snack foods available at home and at work.
+* Eat your favorite foods at any time of the day. For example, eat breakfast foods such as pancakes or omelets for lunch or dinner.
+* Include different colors and textures of foods in your meals to make them more appealing.
+* Make dining a good experience by eating your meals in a pleasant, relaxing setting with family or friends.
+* Smells such as bread baking or bacon frying may help boost your appetite.
+
+### Tips for adding more protein to your diet
 Your body needs a balance of calories and protein to function at its best. You may temporarily need more protein in your diet. If so, your doctor or dietitian will let you know. If you recently had surgery or have wounds, eating more protein will help you heal. The following are suggestions to help you increase the protein in your diet:
-6
-Memorial Sloan-Kettering Cancer Center
- 
- 
 
-    
 Eat foods rich in protein, such as chicken, fish, pork, beef, lamb, eggs, milk, cheese, beans, and tofu.
+
 Drink Double Milk and use it in recipes that call for milk or water. You can use it in instant pudding, cocoa, omelets, and pancake mixes.
+
 Add cheese and diced meats to your omelets.
+
 Add powdered milk to creamy soups, mashed potatoes, milkshakes, and casseroles.
+
 Snack on cheese or nut butters (e.g., peanut butter, cashew butter, and almond butter) with crackers.
+
 Spread nut butters on apples, bananas, or celery.
+
 Try apple slices with cheese wedges and honey drizzled on top. Blend peanut butter into your chocolate or vanilla shakes. Snack on roasted nuts and sunflower, pumpkin, or chia seeds.
+
 Try hummus (a tasty Middle Eastern chickpea dip) with pita bread.
 
- Add cooked meats to soups, casseroles, salads, and omelets.
- Add wheat germ or ground flax seeds to cereals, casseroles, yogurt, and meat spreads.
- Eat desserts that are made with eggs. These include angel food cake, puddings, custards, and cheesecakes.
- Add grated cheese to sauces, vegetables, and soups. You can also add it to baked or mashed potatoes, casseroles, and salads.
- Melt cheese on hamburgers and breaded cutlets.
- Add chickpeas, kidney beans, tofu, hard-boiled eggs, nuts, and cooked meats or fish to your salads.
-Tips for adding more calories to your diet
-The suggestions below can help you take in more calories. They may seem to go against what you read and hear about healthy eating. However, while you are healing, it is more important that you get enough calories than eat only healthy foods.
- Dont eat foods that are fat-free or reduced in fat. Avoid food and drink labels that say low-fat, non-fat, or diet. For example, use whole milk instead of skim.
- Snack on dried fruits, nuts, or dried seeds. Add them to hot cereals, ice cream, or salads.
- Drink fruit nectars or fruit shakes.
- Add butter, margarine, or oils to potatoes, rice, and pasta. Also add them to cooked vegetables, sandwiches, toast, and hot cereals.
- Add cream cheese to toast or bagels or use it as a spread on vegetables.
- Spread cream cheese and jam or peanut butter and jelly on crackers.
-Eating Well During and After Your Cancer Treatment 7
+Add cooked meats to soups, casseroles, salads, and omelets.
 
-8
-Memorial Sloan-Kettering Cancer Center
+Add wheat germ or ground flax seeds to cereals, casseroles, yogurt, and meat spreads.
+
+Eat desserts that are made with eggs. These include angel food cake, puddings, custards, and cheesecakes.
  
-  
+Add grated cheese to sauces, vegetables, and soups. You can also add it to baked or mashed potatoes, casseroles, and salads.
 
-   
-  
+Melt cheese on hamburgers and breaded cutlets.
+
+Add chickpeas, kidney beans, tofu, hard-boiled eggs, nuts, and cooked meats or fish to your salads.
+
+### Tips for adding more calories to your diet
+The suggestions below can help you take in more calories. They may seem to go against what you read and hear about healthy eating. However, while you are healing, it is more important that you get enough calories than eat only healthy foods.
+ 
+Dont eat foods that are fat-free or reduced in fat. Avoid food and drink labels that say low-fat, non-fat, or diet. For example, use whole milk instead of skim.
+
+Snack on dried fruits, nuts, or dried seeds. Add them to hot cereals, ice cream, or salads.
+
+Drink fruit nectars or fruit shakes.
+
+Add butter, margarine, or oils to potatoes, rice, and pasta. Also add them to cooked vegetables, sandwiches, toast, and hot cereals.
+
+Add cream cheese to toast or bagels or use it as a spread on vegetables.
+
+Spread cream cheese and jam or peanut butter and jelly on crackers.
+
 Add jelly or honey to breads and crackers.
+
 Mix jam with diced fruit and use it as a topping over ice cream or cake.
+
 Snack on tortilla chips with guacamole. Add avocado slices to your salads.
+
 Use high-calorie dressings on salads, baked potatoes, and on chilled cooked vegetables, such as green beans or asparagus.
+
 Add sour cream, half and half, or heavy cream to mashed potatoes and cake and cookie recipes. You can also add it to pancake batter, sauces, gravies, soups, and casseroles.
+
 Top cakes, waffles, French toast, fruits, puddings, and hot chocolate with whipped cream.
+
 Make vegetables or pasta with cream sauces.
+
 Use mayonnaise in salads, sandwiches, and vegetable dips.
+
 Mix granola with yogurt or put it on top of ice cream or fruits.
+
 Top your ice cream or unfrosted cakes with sweetened condensed milk. Combine the condensed milk with peanut butter to add more calories and flavor.
+
 Add croutons to your salads or omelets.
+
 Include bread stuffing as a side dish with your meals.
+
 Drink homemade shakes. You can also drink high-calorie, high-protein drinks, such as Carnation Instant Breakfast or Ensure. See the next section for a list of nutritional supplements you can buy. Or, try the shake recipes on page 23 of this booklet.
 
-Nutritional Supplements
+### Nutritional Supplements
 If you cannot make your own shakes, there are many nutritional supplements that you can buy. Some are drinks that have vitamins and minerals added to them. Most are also lactose-free, which means that you can have them even if you are lactose intolerant (have difficulty digesting milk products). Check your local market or drug store to see if they carry any of the brands listed below.
+
 Nutritional Supplement (Manufacturer)
 Description
 Amount of Calories and Protein
@@ -273,10 +292,8 @@ at home. You may find it easier to divide a meal into 2 portions so that you hav
 Key points
  If you have diabetes or high blood sugar, use products that are unsweetened or are made with sugar substitutes. Limit the amount of fruit juice that you drink.
  The amount of liquid in the meal plans is small so you dont feel full early during meals. Try to drink most of your liquids in between your meals. An average-sized adult needs 8 to 10, 8-ounce cups of liquids per day. This includes juices, water, milkshakes, and soups. It also includes solids that become liquid at room temperature such as Italian ices.
-Eating Well During and After Your Cancer Treatment 13
 
-14
-Memorial Sloan-Kettering Cancer Center
+
  If you are lactose-intolerant, you should not drink regular cows milk. Instead, you should drink Lactaid milk, rice milk, almond milk, or soy milk.* Try the sweetened versions of these milks for extra calories. Take Lactaid tablets or drops with other dairy foods, such as ice cream or soft cheeses. Patients with mild to moderate lactose intolerance can usually handle hard aged cheeses and yogurt.
  Vegetarian and vegan menus are included. Both vegetarians and vegans should eat more nuts, seeds, and oils to increase their calories. Vegans should consider including dairy products and eggs in their diet. They should also take special care to eat foods rich in vitamin B12, calcium, iron, and zinc. Speak with a dietitian if you follow a vegetarian or vegan diet.
  Fruits and vegetables are low in calories. Therefore, they are not included in the meal plans often. You may find that you are not meeting the daily recommended servings. You may need to take a multivitamin, but check with your doctor first.
@@ -905,7 +922,7 @@ Dietitian/Nutritionist _________________________ Telephone______________________
 Dietitian/Nutritionist _________________________ Telephone__________________________________
 Eating Well During and After Your Cancer Treatment 39
 
-Resources
+### Resources
 Academy of Nutrition and Dietetics (AND)
 http://www.eatright.org/public
 The AND is the professional organization for registered dietitians. To find a registered dietitian in your area, click on Find a Registered Dietitian in the upper right corner of the website home page.
@@ -925,3 +942,14 @@ http://ods.od.nih.gov
 (301) 435-2920
 Has up-to-date information on dietary supplements.
 40 Memorial Sloan-Kettering Cancer Center
+
+### Where does this go? - Paul
+Clinical trials are research studies. They are done to test new
+ Therapies
+ Drugs or drug combinations  Methods of delivery
+ Dosages and timing
+
+Some trials test vitamins or supplements. This is done to see if they have an effect on a type of cancer. One trial is looking at the effects of flaxseed supplementation in patients with non-small cell lung cancer who are being treated with chemotherapy and radiation. To find out more about this or other clinical trials
+ Visit the clinical trials section of the National Cancer Institute (NCI) website at www.cancer.gov/clinicaltrials.
+ Call the NCI Cancer Information Service at 1-800-4-CANCER (1-800-422-6237).
+

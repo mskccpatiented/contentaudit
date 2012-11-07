@@ -160,7 +160,11 @@ text-align:center;
 background:#A8C090;
 }
 .unformatted{
-background:#F0C0A8;
+background:#F5634A;
+}
+
+.inprogress{
+background:#FF9C5B;
 }
 
 .article_path{
