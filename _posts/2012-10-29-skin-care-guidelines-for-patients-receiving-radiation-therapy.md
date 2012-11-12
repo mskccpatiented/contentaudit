@@ -3,11 +3,11 @@ title: Skin Care Guidelines for Patients Receiving Radiation Therapy
 url: skin-care-guidelines-for-patients-receiving-radiation-therapy
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Changes in the skin are common, describes why skin can change with chemotherapy and radiation, hair loss. How to care for your skin. Products that are gentle enough for cancer patients. What to avoid or not do. Who to contact with questions or problems.  
 notes:
-strategy:
+strategy: Consider writing this into more fluid text. Would work well as audio - consider recording as audio.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

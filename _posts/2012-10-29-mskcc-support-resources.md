@@ -3,11 +3,11 @@ title: Memorial Sloan-Kettering Cancer Center Support Services
 url: memorial-sloan-kettering-cancer-center-support-services
 comments: true
 layout: article
-categories: []
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Contact details for support services at MSKCC; chaplaincy, clinical genetics, integrative medicine, rehab etc. 
 notes:
-strategy:
+strategy: Develop a set of materials for each support service. Would be good to have audio/podcasts where each role is described and explored. A re-think. (Rethink? Yes. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

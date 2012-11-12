@@ -3,11 +3,11 @@ title: Returning Home After Your Autologous Transplant
 url: returning-home-after-your-autologous-transplant
 comments: true
 layout: article
-categories: [articles]
+categories: ['Transplant']
 tags: []
 summary: What to do before you go home, reconizing problems when you do go home, issues that people experience, symptoms of infection, personal care - washing, dental care, what to do with pets, how to deal with visitors. Returning to school or work, alcohol consumption, smoking, immunizations and follow-up (outpatient) care. Drugs and supplements - function and side effects.  Resuming normal activities. 
 notes:
-strategy:
+strategy: Consider breaking this up into smaller pieces. Definitely record audio.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

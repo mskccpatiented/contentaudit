@@ -3,11 +3,11 @@ title: Sperm Collection by Electroejaculation (EEJ)
 url: sperm-collection-by-electroejaculation
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes why this might be needed, how it works, what happens before the procedure, how sperm is collected, what happens after the procedure. Complications that can occur. 
 notes:
-strategy:
+strategy: Retain.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

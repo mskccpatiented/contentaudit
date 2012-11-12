@@ -3,11 +3,11 @@ title: Using Electronic Mail with Your Nurse
 url: using-electronic-mail-with-your-nurse
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Why email is useful. Sensible guidelines. Describes the portal, how to enroll and log in. When to use electronic communication and when to call or communicate directly. Describes the security measures in place. 
 notes:
-strategy:
+strategy: Validate and rewrite. Stronger connection to portal. Remove contact notes at the end of the document. (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: partial
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: What You Need to Know About a Health Care Agent
 url: what-you-need-to-know-about-a-health-care-agent
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes the role of a health care agent in making decisions on behalf of the patient. What the agent can and can't do. How to document preferences to avoid ambiguity. External resources. 
 notes:
-strategy:
+strategy: Maintain, possibly merge with advance care planning. Podcast. Offer downloadable health proxy form. Check links to extenal resources.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

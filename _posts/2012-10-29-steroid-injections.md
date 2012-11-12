@@ -3,11 +3,11 @@ title: Steroid Injections
 url: steroid-injections
 comments: true
 layout: article
-categories: [articles]
+categories: ['Medications']
 tags: []
 summary: Injections given to reduce swelling in joints, tendons and ligaments. What happens on the day of the procedure, the sensation of getting the injection, how to recover afterwards. What problems might occur, when to call. 
 notes:
-strategy:
+strategy: Graphics and video. (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

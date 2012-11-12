@@ -3,11 +3,11 @@ title: End of Life Health Care Decisions-Plan Ahead
 url: end-of-life-health-care-decisions-plan-ahead
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Planning ahead, identifying and documenting your preferences, protecting your right to make decisions, downloadable forms. 
-notes:
-strategy:
+notes: Feels like a duplication of the "Towards the End of Life" document. 
+strategy: Possibly remove.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

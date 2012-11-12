@@ -3,11 +3,11 @@ title: Improving Your Sleep During Your Hospital Stay
 url: improving-your-sleep-during-your-hospital-stay
 comments: true
 layout: article
-categories: ["one", "two"]
+categories: ['Side Effects and Symptom Management']
 tags: ["one", "two"]
 summary: Why sleep might be interrupted. Recommends activities like exercise, getting outdoors, limiting napping, dimming lights at night, limiting foods before sleep, relaxing before sleeping. 
-notes:
-strategy:
+notes: Essentially the same as the improving sleep guide for home with some information about disruptions to sleep in the hospital. Could be re-structured; practical guidance and immediate actions listed after longer-term actions (contact integrative care is suggested before limiting caffeine before bed time). The text reads like a list - not a soothing, helpful guide to falling asleep. 
+strategy: Rethink. Podcast definite. (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

@@ -7,7 +7,7 @@ categories: [articles]
 tags: []
 summary: Brief guide to the implanted port. How is it implanted. How to manage it afterwards. 
 notes:
-strategy:
+strategy: Some-rewriting to cover maintenance and cleaning of port. Add graphics. Photography of port. Remove contact section.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

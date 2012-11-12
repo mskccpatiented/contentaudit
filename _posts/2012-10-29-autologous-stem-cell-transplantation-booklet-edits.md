@@ -3,11 +3,11 @@ title: Autologous Stem Cell Transplantation
 url: autologous-stem-cell-transplantation
 comments: true
 layout: article
-categories: [articles]
+categories: ['Transplant']
 tags: []
 summary: A guide to autologous BMT. Introduces the service, team structure, pre-treatment phase (getting ready), chemotherapy, the transplant, side effects, diet, activity, infection control, post-transplant side effects, emotional issues and recovery. 
 notes:
-strategy:
+strategy: Longer guide. Possibly break into shorter articles.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: unformatted 
 date: 29-10-2012
 ---

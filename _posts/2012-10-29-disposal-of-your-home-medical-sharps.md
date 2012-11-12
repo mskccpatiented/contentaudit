@@ -3,11 +3,11 @@ title: Disposal of Your Home Medical Sharps
 url: disposal-of-your-home-medical-sharps
 comments: true
 layout: article
-categories: [articles]
+categories: ['Medications']
 tags: []
 summary: How to dispose of needles at home. What to do, what not to do. 
 notes: This is relevant for outpatient or homebound
-strategy: Add graphics. Might be better as a video. 
+strategy: Add graphics. Might be better as a video.  (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? Yes)
 status: formatted 
 date: 29-10-2012
 ---

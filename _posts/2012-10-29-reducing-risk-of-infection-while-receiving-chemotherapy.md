@@ -3,11 +3,11 @@ title: Reducing Your Risk of Infection While Receiving Chemotherapy
 url: reducing-your-risk-of-infection-while-receiving-chemotherapy
 comments: true
 layout: article
-categories: [articles]
+categories: ['Infection']
 tags: []
 summary: Washing, safe food handling, hygeine, who to call if you have problems.
 notes:
-strategy:
+strategy: Validate relevance.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

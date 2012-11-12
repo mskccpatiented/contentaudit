@@ -2,11 +2,11 @@
 title: Influenza
 url: influenza
 layout: article
-categories: [articles]
+categories: ['Self-Care and Follow-Up']
 tags: []
 summary: What is influenza, how is it spread, how it's different from a cold and what precautions people can take. 
-notes:
-strategy:
+notes: Does not describe treatment.
+strategy: Retain. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

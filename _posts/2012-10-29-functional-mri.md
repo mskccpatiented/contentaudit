@@ -3,11 +3,11 @@ title: Functional Magnetic Resonance Imaging (fMRI)
 url: functional-magnetic-resonance-imaging-fmri
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
 summary: What is fMRI, how it works, precautions before the scan, the day of the fMRI and afterwards. 
-notes:
-strategy:
+notes: Not a lot of information about what happens during the scan. 
+strategy: Would work well as a podcast or video. Add photos, diagrams to make it feel more humane.  (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: partial 
 date: 29-10-2012
 ---

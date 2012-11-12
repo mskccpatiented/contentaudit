@@ -3,11 +3,11 @@ title: Bone Marrow Harvesting For Autologous or Allogeneic Bone Marrow Transplan
 url: bone-marrow-harvesting-for-autologous-or-allogeneic-bone-marrow-transplants
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
 summary: Explains the collection process, what to do before the procedure, after the procedure. States who to call if there are issues.
 notes:
-strategy:
+strategy: Podcast. Photography.  (Rethink? Yes. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

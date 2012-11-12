@@ -3,11 +3,11 @@ title: A Guide for Caregivers
 url: a-guide-for-caregivers
 comments: true
 layout: article
-categories: []
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: A wide-ranging guide for caregiers about the issues they may face while caring for a person with cancer. Issues covered include managing medications, admission, returning home, transportation, financial issues, legal issues, family support, self care. 
-notes:
-strategy:
+notes: Emotional issues, family issues, self-care given very high-level treatment. 
+strategy: A complete re-think. A subject area, not an article. Create a set of resources for caregivers in many media. (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

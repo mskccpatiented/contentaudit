@@ -3,11 +3,11 @@ title: Low Microbial Diet
 url: low-microbial-diet
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Why a LM diet is valuable, how it helps reduce the risk of food-borne diseases or microbes that could cause illness in people who are immune-suppressed. What is a microbe. What to buy. How to store food. How to keep the kitchen clean and safe preparation and handling. What foods to eat and what to avoid. 
 notes:
-strategy:
+strategy: Re-think.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

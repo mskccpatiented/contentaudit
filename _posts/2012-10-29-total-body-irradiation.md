@@ -3,11 +3,11 @@ title: Total Body Irradiation
 url: total-body-irradiation
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
 summary: Why TBI is performed, destroys cancer cells in areas not reached by chemotherapy, further reduces the body's immune response before BMT. Describes the simulation day - what happens. Xrays will be taken. Skin markings will be put on the body (tattoos). The treatment schedule. Positioning your body on the platform. How the treatment works. Why staying still is important. Additional treatments (boosts) that can be given. Side effects. Fear, emotional support. What happens afterwards. 
 notes:
-strategy:
+strategy: Very dense and descriptive. Add photos or video. Audio a definite. (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

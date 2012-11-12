@@ -3,11 +3,11 @@ title: Safe Sexual Practices During Cancer Treatment - Information for Men
 url: safe-sexual-practices-during-cancer-treatment-information-for-men
 comments: true
 layout: article
-categories: [articles]
+categories: ['Sexual Health']
 tags: []
 summary: Describes problems that can arise if a woman becomes pregnant with sperm damaged by chemotherapy or radiation, precautions - barrier method contraception, precautions agains bleeding, keeping sexual partners safe from chemotherapeutics. Lists external resouces related to the subject. 
 notes:
-strategy:
+strategy: Ideally this would be a video. Definitely record audio. Restructure text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

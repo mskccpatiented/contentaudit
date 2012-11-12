@@ -3,11 +3,11 @@ title: Herbal Remedies And Cancer Treatment
 url: herbal-remedies-and-cancer-treatment
 comments: true
 layout: article
-categories: [articles]
+categories: ['Integrative Medicine']
 tags: []
 summary: What herbal remedies can do, what side-effects they can cause. 
 notes:
-strategy:
+strategy: Possible re-write. Possible podcast.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Allogeneic Donor Peripheral Blood Stem Cell Harvesting
 url: allogeneic-donor-peripheral-blood-stem-cell-harvesting
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
-summary:
+summary: A brief description of what stem cells are, how they're collected from the patient's body. 
 notes:
-strategy:
+strategy: Retain as text, also record podcast. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Handling Fatigue During and After Cancer Treatment
 url: handling-fatigue-during-and-after-cancer-treatment
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Why patients get fatigued, how to avoid getting fatigue, sensible sleep habits, activity planning, social activities, support groups, how to save energy. 
 notes:
-strategy:
+strategy: Possibly merge with other articles. Sleep is a good topic for a podcast.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

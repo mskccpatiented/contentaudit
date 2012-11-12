@@ -3,11 +3,11 @@ title: SCT Exercise Program - Level 2
 url: sct-exercise-program-level-2
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes a set of exercises that patients can do in their room or home.
 notes:
-strategy:
+strategy: Add images, possibly video (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Complementary Therapies to Ease the Way during Cancer Treatment and Recov
 url: complementary-therapies-to-ease-the-way-during-cancer-treatment-and-recovery
 comments: true
 layout: article
-categories: [articles]
+categories: ['Integrative Medicine']
 tags: []
 summary: Describes the services offered by the integrative medicine service at MSK; acupuncture, music therapy, self-hypnosis, nutrition, yoga, fitness, massage, meditation and relaxation. Lists common challenges faced by patients like anxiety, depression, and nausea and suggests therapies. 
-notes:
-strategy:
+notes: Advice/pointers towards other resources could be developed further - only points to the "about herbs" page on MSK site. 
+strategy: Rethink. Podcast. Better as a series of articles. Photography and maybe video to show techniques. (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted 
 date: 29-10-2012
 ---

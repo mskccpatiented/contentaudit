@@ -3,11 +3,11 @@ title: Care After Treatment For Non-hodgkin Lymphoma And Hodgkin Lymphoma
 url: care-after-treatment-for-non-hodgkin-lymphoma-and-hodgkin-lymphoma
 comments: true
 layout: article
-categories: [articles]
+categories: ['Self-Care and Follow-Up']
 tags: []
-summary:
+summary: A brief description of follow-up program for Lymphoma patients.
 notes:
-strategy:
+strategy: Validate relevance. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

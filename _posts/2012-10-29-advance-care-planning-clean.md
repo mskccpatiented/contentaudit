@@ -3,11 +3,11 @@ title: Advance Care Planning
 url: advance-care-planning
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes the process of identifying a healthcare agent - somebody who can make medical decisions on behalf of the patient. How do document those choices so there is no ambiguity. Specifying your preferences around medical decisions - like resussitation, artificial life support etc. 
-notes:
-strategy:
+notes: This would make a very good checklist, resource - something more engaging. A toolkit. 
+strategy: Re-structure; slant more as a practical how-to rather than useful information.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: partial 
 date: 29-10-2012
 ---

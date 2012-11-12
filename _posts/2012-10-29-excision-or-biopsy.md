@@ -3,11 +3,11 @@ title: Excision or Biopsy
 url: excision-or-biopsy
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
-summary:
+summary: Essentially a place for a member of the healthcare team to note down important information for the patient about how they should care for their biopsy site. 
 notes:
-strategy:
+strategy: Consider re-writing. Not really informative.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? No. Podcast or audio? No. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

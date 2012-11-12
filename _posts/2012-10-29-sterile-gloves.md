@@ -3,11 +3,11 @@ title: Sterile Gloves
 url: sterile-gloves
 comments: true
 layout: article
-categories: [articles]
+categories: ['Infection']
 tags: []
 summary: How to open, put on, take off and dispose of sterile gloves. 
 notes:
-strategy:
+strategy: Add graphics. Might be better as a video.  (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

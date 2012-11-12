@@ -3,11 +3,11 @@ title: Autologous (Your Own) Peripheral Blood Stem Cell Harvesting
 url: autologous-your-own-peripheral-blood-stem-cell-harvesting
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
-summary:
-notes:
-strategy:
+summary: A brief description of what stem cells are, how they're collected from the patient's body. 
+notes: Seems to lack a lot of detail - how are they taken, treated, frozen, delivered. Seems like half the story.
+strategy: Add more detail, re-write, podcast. (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

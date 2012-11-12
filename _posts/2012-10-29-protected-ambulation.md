@@ -3,11 +3,11 @@ title: Protected Walking
 url: protected-walking
 comments: true
 layout: article
-categories: [articles]
+categories: ['Self-Care and Follow-Up']
 tags: []
 summary: Safe walking, supported walking techniques, walking with canes or crutches. 
 notes:
-strategy:
+strategy: Audio or video definite. Text fine as-is. Add photos. (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

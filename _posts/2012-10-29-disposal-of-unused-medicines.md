@@ -3,11 +3,11 @@ title: Disposal of Unused Medicines
 url: disposal-of-unused-medicines
 comments: true
 layout: article
-categories: [articles]
+categories: ['Medications']
 tags: []
 summary: How to or how not to dispose of unused medications.
 notes:
-strategy:
+strategy: Retain, possible photos/graphics. Possible podcast.  (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

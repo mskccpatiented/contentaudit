@@ -3,11 +3,11 @@ title: Towards The End of Life - How You and Your Family Can Prepare
 url: towards-the-end-of-life-how-you-and-your-family-can-prepare
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Information for patients with advanced cancer who will die. Describes palliative and hospice care. Describes the role of case managers in planning. Speaks about the availability of chaplains and complementary care. Psychological and emotional issues, coping and talking. Physical and mental symptoms; digestive issues, confusion. Fatigue, nausea, swelling and pain. Agitation. Advice on speaking to children. Social workers' role in helping with bereavement. Resouces available outside MSKCC. 
 notes:
-strategy:
+strategy: New approach needed. Reads like a bullet-pointed list of things to do. Remove print items, table of contents etc. Rewrite or restructure. Possible candidate for breaking into multiple articles or its own site. Definite candidate for audio; a topic that needs to be explained by a human voice. Validate links and references. (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

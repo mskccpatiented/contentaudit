@@ -3,12 +3,12 @@ title: Hospice
 url: hospice
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 authors: Mary Corwin, Barbara Hennessey
 summary: Describes the role of a hospice.
-notes:
-strategy:
+notes: Essentially a definition of what a hospice is. No specific information or contact details.
+strategy: Re-write. Podcast definitely. (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

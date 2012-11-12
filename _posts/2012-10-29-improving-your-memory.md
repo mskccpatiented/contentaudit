@@ -3,11 +3,11 @@ title: Improving Your Memory
 url: improving-your-memory
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Techniques for remembering things, improving memory. Includes techniques like using mnemonics, visualization, routines, writing things down. 
 notes:
-strategy:
+strategy: Possible podcast. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

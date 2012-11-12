@@ -3,11 +3,11 @@ title: Resources for Wigs and Hairpieces
 url: resources-for-wigs-and-hairpieces
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: A list of places in New York and Connecticut where the patient can purchase a wig. 
 notes:
-strategy:
+strategy: No major changes. Validate content is still accurate. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

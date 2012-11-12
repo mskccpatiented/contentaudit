@@ -2,11 +2,11 @@
 title: Pegfilgrastim
 url: pegfilgrastim
 layout: article
-categories: [articles]
+categories: ['Medications']
 tags: []
 summary: What is neulasta, helps stimulate production of white blood cells, how it's given, any side effects, what to tell your doctor before you're given neulasta, when to call your doctor. 
 notes:
-strategy:
+strategy: Develop a standard format for drug/therapies. Consider adding photos of packaging for all drugs.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? Yes. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

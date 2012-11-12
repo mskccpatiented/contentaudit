@@ -3,11 +3,11 @@ title: Radiation Fibrosis Syndrome
 url: Radiation Fibrosis Syndrome
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: A description of how RFS develops, what the risk factors are, how to prevent it, symptoms and treatment. 
 notes:
-strategy:
+strategy: Some residual text from Word track-changes. Consider writing this into more fluid text. Would work well as audio - consider recording as audio.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

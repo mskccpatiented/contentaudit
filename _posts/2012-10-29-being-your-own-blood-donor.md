@@ -3,11 +3,11 @@ title: Being Your Own Blood Donor
 url: being-your-own-blood-donor
 comments: true
 layout: article
-categories: [articles]
+categories: ['Tests and Procedures']
 tags: []
 summary:
 notes: Probably not relevant.
-strategy:
+strategy: Validate relevance. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Transitioning Your Lymphoma Care from MSKCC to a Primary Care Doctor
 url: transitioning-your-lymphoma-care-from-mskcc-to-a-primary-care-doctor
 comments: true
 layout: article
-categories: [articles]
+categories: ['Self-Care and Follow-Up']
 tags: []
 summary: Describes the interaction between the MSKCC lymphoma doctor and the patient's primary care physician. General recommendations for ongoing care - immunization. Outpatient visits to MSKCC. 
 notes:
-strategy:
+strategy: Validate relevance. Restructure.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted
 date: 29-10-2012
 ---

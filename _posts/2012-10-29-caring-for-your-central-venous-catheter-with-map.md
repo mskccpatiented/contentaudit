@@ -3,11 +3,11 @@ title: Caring for Your Central Venous Catheter
 url: caring-for-your-central-venous-catheter
 comments: true
 layout: article
-categories: [articles]
+categories: ['Self-Care and Follow-Up']
 tags: []
 summary: Tells the patient about their catheter, why it's needed and how its maintained or cleaned; dressing change etc.
 notes:
-strategy:
+strategy: Re-structure, re-introduce graphics and photos, possible video series. Podcast.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: inprogress 
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Filgrastim
 url: filgrastim
 comments: true
 layout: article
-categories: [articles]
+categories: ['Medications']
 tags: []
 summary: What is filgrastim, how it works, storage, side effects. 
-notes:
-strategy:
+notes: Seems like a duplication of the administration of an injection of filgrastim guide. (But maybe pegfilgrastim and filgrastim are distinct enough to need their own guides). Unclear what early and late side effects mean. 
+strategy: Develop a standard format for drug/therapies. Consider adding photos of packaging for all drugs.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

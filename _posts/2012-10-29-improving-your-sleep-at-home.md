@@ -3,11 +3,11 @@ title: Improving Your Sleep at Home
 url: improving-your-sleep-at-home
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Recommends activities like exercise, getting outdoors, limiting napping, dimming lights at night, limiting foods before sleep, relaxing before sleeping. 
-notes:
-strategy:
+notes: Very dense, not particularly soothing. 
+strategy: Re-write as more fluid text. Podcast definitely.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

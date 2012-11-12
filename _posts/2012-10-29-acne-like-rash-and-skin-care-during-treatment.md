@@ -3,11 +3,11 @@ title: Acne-like Rash and Skin Care During Treatment with Targeted Therapies
 url: acne-like-rash-and-skin-care-during-treatment-with-targeted-therapies
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Some chemotherapies can cause skin irritations. Describes those irritations and actions that the patient can take. 
 notes:
-strategy:
+strategy: Validate relevance (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? No. Video? Yes)
 status: formatted  
 date: 29-10-2012
 ---

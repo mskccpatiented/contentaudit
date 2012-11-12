@@ -3,11 +3,11 @@ title: A Guide to Prevent Pressure Ulcers or Sores
 url: a-guide-to-prevent-pressure-ulcers-or-sores
 comments: true
 layout: article
-categories: []
+categories: ['Side Effects and Symptom Management']
 tags: []
-summary:
+summary: What is a pressure sore. How can one be prevented. 
 notes:
-strategy:
+strategy: Include. Ideally photography and possible podcast.  (Rethink? No. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

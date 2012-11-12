@@ -3,11 +3,11 @@ title: Selecting a Reproductive Endocrinologist or Fertility Center
 url: selecting-a-reproductive-endocrinologist-or-fertility-center
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes what a Reprodictive Endocrinologist does and gives a list of centers. 
 notes:
-strategy:
+strategy: Edit to give advice earlier. List centers later.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---

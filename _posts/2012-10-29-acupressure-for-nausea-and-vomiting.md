@@ -3,11 +3,11 @@ title: Acupressure for Nausea and Vomiting
 url: acupressure-for-nausea-and-vomiting
 comments: true
 layout: article
-categories: [articles]
+categories: ['Integrative Medicine']
 tags: []
 summary: Description of accupressure - finding pressure point p-6, massaging. Contact details for integrative medicine at MSK.
 notes:
-strategy:
+strategy: Include graphics, possible video. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: For Teens Who Have a Parent with Cancer
 url: for-teens-who-have-a-parent-with-cancer
 comments: true
 layout: article
-categories: [articles]
+categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: What is cancer, what the experience might be like for you, help you can get. 
-notes:
-strategy:
+notes: Feels like it's for younger children - not teenagers. 
+strategy: Definite re-think. Podcast.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: formatted 
 date: 29-10-2012
 ---

@@ -3,11 +3,11 @@ title: Eating Well During and After Your Cancer Treatment
 url: eating-well-during-and-after-your-cancer-treatment
 comments: true
 layout: article
-categories: [articles]
+categories: ['Diet, Smoking, and Lifestyles']
 tags: []
 summary: A sensible eating guide. Includes information about balanced meals, dietary supplements, sample menus. What to eat after your cancer treatment. 
-notes:
-strategy:
+notes: This doesn't seem to be hugely relevant - BMT patients probably have a specific diet/nutrition guide. 
+strategy: Validate relevance. Reformat large tables. Would be better as a nicely illustrated guide, or as a series of individual recipes.  (Rethink? Yes. Some re-writing? No. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? No)
 status: partial 
 date: 29-10-2012
 ---

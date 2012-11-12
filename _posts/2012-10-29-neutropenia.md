@@ -3,11 +3,11 @@ title: Neutropenia (Low White Blood Cell Count)
 url: neutropenia-low-white-blood-cell-count
 comments: true
 layout: article
-categories: [articles]
+categories: ['Side Effects and Symptom Management']
 tags: []
 summary: What is a white blood cell, what is neutropenia, how to avoid infections, personal care, washing, hygeine, what not to eat, symptoms to watch out for. Who to contact if you have issues. 
 notes:
-strategy:
+strategy: Consider writing this into more fluid text. Would work well as audio - consider recording as audio. Consider recording as a video interview.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? Yes)
 status: partial
 date: 29-10-2012
 ---

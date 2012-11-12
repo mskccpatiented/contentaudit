@@ -20,19 +20,19 @@ Use this pressure point several times a day or as needed. We recommend using it 
 For more information about acupressure or other complementary therapies to maintain well-being before, during, and after cancer treatment, call the Integrative Medicine Center at Memorial Sloan-Kettering, (646) 888-0800. 
 Or visit our website: http://www.mskcc.org/mskcc/html/1979.cfm
 
-Acupresión para las náuseas y vómitos 
+Acupresin para las nuseas y vmitos 
 
-La acupresión se basa en el concepto de la acupuntura de la medicina tradicional china y ha sido objeto de estudio científico moderno. La acupresión utiliza presión de los dedos para estimular los puntos gatillo en el cuerpo (puntos de acupuntura). Al pulsar estos puntos, puede ayudar a liberar la tensión muscular y promover la circulación de la sangre. La investigación clínica sugiere que también puede aliviar muchos efectos secundarios comunes de la quimioterapia. La acupresión es fácil de aprender y puede ser enseñada y utilizada por cualquier persona, incluyendo a uno mismo. 
+La acupresin se basa en el concepto de la acupuntura de la medicina tradicional china y ha sido objeto de estudio cientfico moderno. La acupresin utiliza presin de los dedos para estimular los puntos gatillo en el cuerpo (puntos de acupuntura). Al pulsar estos puntos, puede ayudar a liberar la tensin muscular y promover la circulacin de la sangre. La investigacin clnica sugiere que tambin puede aliviar muchos efectos secundarios comunes de la quimioterapia. La acupresin es fcil de aprender y puede ser enseada y utilizada por cualquier persona, incluyendo a uno mismo. 
 
-Punto de presión P-6 
+Punto de presin P-6 
 
-P-6, ó Neiguan, es un punto de presión en el interior de la muñeca. Ha sido utilizado para aliviar las náuseas y los vómitos asociados con la quimioterapia y otros tratamientos. También se utiliza para aliviar la ansiedad. 
+P-6,  Neiguan, es un punto de presin en el interior de la mueca. Ha sido utilizado para aliviar las nuseas y los vmitos asociados con la quimioterapia y otros tratamientos. Tambin se utiliza para aliviar la ansiedad. 
 
 Instrucciones 
-Vuelta sus brazos cosa de que las palmas de las manos estén boca arriba. El punto está situado cerca del pliegue de la muñeca, debajo de la correa del reloj. Para encontrar el punto, coloque los tres primeros dedos de la mano a través de la muñeca (Fig. 1). El punto por lo general se encuentra directamente debajo de ellos. Coloque el pulgar sobre el punto (Fig. 2). Debajo del pulgar, debería sentir uno o dos grandes tendones. Aplique presión con un movimiento circular a este punto con el pulgar, de dos a tres minutos. La presión debe ser firme pero sin causar molestias. Después de dos o tres minutos, aplique presión en el mismo punto en la otra muñeca. 
+Vuelta sus brazos cosa de que las palmas de las manos estn boca arriba. El punto est situado cerca del pliegue de la mueca, debajo de la correa del reloj. Para encontrar el punto, coloque los tres primeros dedos de la mano a travs de la mueca (Fig. 1). El punto por lo general se encuentra directamente debajo de ellos. Coloque el pulgar sobre el punto (Fig. 2). Debajo del pulgar, debera sentir uno o dos grandes tendones. Aplique presin con un movimiento circular a este punto con el pulgar, de dos a tres minutos. La presin debe ser firme pero sin causar molestias. Despus de dos o tres minutos, aplique presin en el mismo punto en la otra mueca. 
 
-Utilice este punto de presión varias veces al día o cuando sea necesario. Recomendamos utilizarlo antes de cada comida y antes de la hora de dormir. 
+Utilice este punto de presin varias veces al da o cuando sea necesario. Recomendamos utilizarlo antes de cada comida y antes de la hora de dormir. 
 
-Para obtener más información acerca de acupresión u otras terapias complementarias para mantener el bienestar antes, durante y después del tratamiento del cáncer, llame al Centro de Medicina Integradora en el Memorial Sloan-Kettering, (646) 888-0800. 
+Para obtener ms informacin acerca de acupresin u otras terapias complementarias para mantener el bienestar antes, durante y despus del tratamiento del cncer, llame al Centro de Medicina Integradora en el Memorial Sloan-Kettering, (646) 888-0800. 
 
 O visite nuestro sitio web: http://www.mskcc.org/mskcc/html/1979.cfm 
