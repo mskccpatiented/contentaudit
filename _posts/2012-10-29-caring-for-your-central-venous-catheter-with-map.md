@@ -2,6 +2,8 @@
 title: Caring for Your Central Venous Catheter
 url: caring-for-your-central-venous-catheter
 comments: true
+jargonwords: ['venous', 'catheter', 'cvc', 'collarbone', 'catheters', 'lumens', 'lumen', 'clamp', 'transfusions', 'wont', 'heparin', 'clots', 'dont', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'thinners', 'warfarin', 'coumadinreg', 'cilostazol', 'pletalreg', 'dalteparin', 'fragminreg', 'enoxaparin', 'lovenoxreg', 'subcutaneously', 'clopidogrel', 'plavixreg', 'prasugrel', 'effientreg', 'eg', 'valuables', 'escalator', 'nd', 'sdh', 'interventional', 'radiology', 'numbed', 'anesthetic', 'incision', 'tunneled', 'threaded', 'stitched', 'adhesive', 'dressings', 'stitch', 'toothless', 'swabs', '-inch', 'gauze', 'step-by-step', 'tegadermreg', 'flushing', 'bathe', 'aquaguardreg', 'tegaderm', 'aquaguard', 'showering', 'submerge', 'tuck', 'cvs', 'chloraprepreg', 'applicator', 'biopatchreg', 'filmreg', 'poly-lined', 'drape', 'nonsterile', 'needleless', 'ultrasitereg', 'saf-t', 'prnreg', 'clavereg', 'antibacterial', 'unpin', 'clamps', 'biopatch', '-', 'nondominant', 'clogged', 'prefilled', 'syringes', 'unclamp', 'blockages', 'reclamp', 'pushpause', 'untwist', 'redness', 'chills', 'swab', 'insertion', 'dries', 'splits', 'wrappers', 'antiseptic', 'slit']
+jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']
 tags: []

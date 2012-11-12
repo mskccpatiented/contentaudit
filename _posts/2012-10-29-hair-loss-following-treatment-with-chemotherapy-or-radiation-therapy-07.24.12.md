@@ -2,6 +2,8 @@
 title: Hair Loss Following Treatment with Chemotherapy or Radiation Therapy
 url: hair-loss-following-treatment-with-chemotherapy-or-radiation-therapy
 comments: true
+jargonwords: ['baldnot', 'chemo', 'disrupts', 'turban', 'pillowcase', 'tangles', 'widetooth', 'bristle', 'moistened', 'hairdresser', 'sunburn', 'bleach', 'permanents', 'perm', 'barrettes', 'scrunchies', 'dryers', 'curlers', 'hairpieces', 'try-on', 'salesperson', 'custom-made', 'customized', 'ready-made', 'styled', 'wigs', 'one-size', 'hairpiece', 'combed', 'hairstyle', 'turbans']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

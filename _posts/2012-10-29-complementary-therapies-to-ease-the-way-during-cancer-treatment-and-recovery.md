@@ -2,6 +2,8 @@
 title: Complementary Therapies to Ease the Way during Cancer Treatment and Recovery
 url: complementary-therapies-to-ease-the-way-during-cancer-treatment-and-recovery
 comments: true
+jargonwords: ['inpatient', 'acupuncture', 'self-hypnosis', 'mind-body', 'acupressure', 'crease', 'aromatherapy', 'calming', 'chamomile', 'scented', 'one-hour', '--', 'bright-light', 'tai', 'wort', 'anti-depressant', 'interferes', 'shiatsu', 'peppermint', 'gelatin', 'blood-thinner', 'accredited', 'acupuncturist', 'biofeedback', 'capsicum', 'cannot', 'aches', 'hydrotherapy', 'jacuzzi', 'stomas', 'capsaicin', 'relieving', 'rub-on', 'relievers', 'mucus', 'pharmacies', 'salicin', 'upsets', 'hollows', 'feverfew', 'migraine', 'blood-thinning', 'primrose', 'tamoxifen', 'raloxifene', 'constipation', 'senna', 'laxative', 'plantago', 'psyllium', '-ounce', 'prunes', 'colds', 'echinacea', 'ragweed', 'daisies', 'sunflowers', 'immunosuppressive', 'eucalyptus', 'sinuses', 'inhaled', 'humidifier', 'meditate', 'passionflower', 'balm', 'valerian', 'non-prescription', 'breast-feeding', 'clotting', 'chemo', 'sensitize', 'aloe', 'cascara', 'laxatives', 'chaparral', 'antioxidant', 'chasteberry', 'premenstrual', 'comfrey', 'kava', 'licorice', 'peptic', 'expectorant', 'lobelia', 'pau', 'darco', 'pennyroyal', 'clover', 'dont', 'receptor', 'yohimbe', 'enhancer']
+jargonpercent:
 layout: article
 categories: ['Integrative Medicine']
 tags: []

@@ -2,6 +2,8 @@
 title: SCT Exercise Program - Level 2
 url: sct-exercise-program-level-2
 comments: true
+jargonwords: ['bridging', 'abdominals', bedrail', 'straightening', 'handrail', 'abductor']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

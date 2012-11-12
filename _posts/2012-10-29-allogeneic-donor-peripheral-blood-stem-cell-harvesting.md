@@ -2,6 +2,8 @@
 title: Allogeneic Donor Peripheral Blood Stem Cell Harvesting
 url: allogeneic-donor-peripheral-blood-stem-cell-harvesting
 comments: true
+jargonwords: ['matured', 'platelet', 'pluripotent', 'progenitor', 'allogeneic', 'g-csf', 'flu-like', 'acetaminophen', 'tylenol', 'recliner', 'twitching', 'tingling', 'tums', 'dressings', 'redness', 'bleeding', 'pain', 'swelling', 'neupogen', 'mcg', 'subcutaneously']
+jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
 tags: []

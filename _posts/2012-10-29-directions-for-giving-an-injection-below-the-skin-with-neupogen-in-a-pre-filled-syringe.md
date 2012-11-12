@@ -2,6 +2,8 @@
 title: Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
 url: giving-an-injection-below-the-skin-with-neupogen-filgrastim-or-neulasta-pegfilgrastim
 comments: true
+jargonwords: ['sharps', 'gauze', 'subcutaneous', 'neupogen', 'neulasta', 'thaw', 'foamy', 'expiration', 'colorless', 'discolored', 'navel', 'rotate', 'plunger', 'dosage', 'recap', 'syringes', 'detergent']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

@@ -1,6 +1,8 @@
 ---
 title: Influenza
 url: influenza
+jargonwords: ['chills', 'tiredness', 'aches', 'droplets', 'coughs', 'sneezes', 'milder', 'inpatients', 'cleanser', 'playroom', 'discontinued', 'outpatients', 'sneeze', 'flu-like', 'antiviral', 'mskcc', '-']
+jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']
 tags: []

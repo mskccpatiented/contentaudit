@@ -2,6 +2,8 @@
 title: Hospice
 url: hospice
 comments: true
+jargonwords: ['certifies', 'terminally']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

@@ -2,6 +2,8 @@
 title: SCT Exercise Program - Level 1
 url: sct-exercise-program-level-1
 comments: true
+jargonwords: ['abductor']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

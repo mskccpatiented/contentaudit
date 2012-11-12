@@ -2,6 +2,8 @@
 title: Excision or Biopsy
 url: excision-or-biopsy
 comments: true
+jargonwords: ['excision', 'applicators', 'gauze', 'ointment', 'adhesive', 'cleanse', 'suture', 'moistened', 'tylenol', 'acetaminophen', 'redness', 'yellowish', 'sloan-kettering', 'sutures']
+jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []

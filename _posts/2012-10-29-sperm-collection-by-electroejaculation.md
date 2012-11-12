@@ -2,6 +2,8 @@
 title: Sperm Collection by Electroejaculation (EEJ) 
 url: sperm-collection-by-electroejaculation
 comments: true
+jargonwords: ['eej', 'massaging', 'ejaculation', 'catheter', 'ejaculate', 'rectum', 'semen', 'vials', 'mountainside', '--', 'urinary', 'urination', 'chills']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

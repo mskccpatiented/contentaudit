@@ -2,6 +2,8 @@
 title: What You Need to Know About a Health Care Agent
 url: what-you-need-to-know-about-a-health-care-agent
 comments: true
+jargonwords: ['notary', 'cannot', 'restart', 'respirator', 'pre-surgical']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

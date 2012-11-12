@@ -2,6 +2,8 @@
 title: Sterile Gloves
 url: sterile-gloves
 comments: true
+jargonwords:
+jargonpercent:
 layout: article
 categories: ['Infection']
 tags: []

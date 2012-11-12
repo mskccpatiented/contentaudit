@@ -2,6 +2,8 @@
 title: Functional Magnetic Resonance Imaging (fMRI)
 url: functional-magnetic-resonance-imaging-fmri
 comments: true
+jargonwords: ['fmri', 'mri', 'pacemakers', 'shavings', 'roomif', 'debit', 'donut-shaped', 'technologist', 'clinician', 'cannot', 'fentanyl', 'radiologist']
+jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []

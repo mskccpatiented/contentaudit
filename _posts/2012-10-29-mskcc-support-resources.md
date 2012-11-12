@@ -2,6 +2,8 @@
 title: Memorial Sloan-Kettering Cancer Center Support Services
 url: memorial-sloan-kettering-cancer-center-support-services
 comments: true
+jargonwords: ['mindbody', 'dietitians', 'assistive', 'rlac', 'doesnt', 'cancer-related', 'erectile', 'womens', 'sloan-ketterings']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

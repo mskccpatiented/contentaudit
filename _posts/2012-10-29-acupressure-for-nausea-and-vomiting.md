@@ -2,6 +2,8 @@
 title: Acupressure for Nausea and Vomiting
 url: acupressure-for-nausea-and-vomiting
 comments: true
+jargonwords: ['acupressure', 'acupuncture', 'acupoints', 'tensionand', 'neiguan', 'rotate', 'crease', 'tendons', 'sloan-kettering']
+jargonpercent: 
 layout: article
 categories: ['Integrative Medicine']
 tags: []

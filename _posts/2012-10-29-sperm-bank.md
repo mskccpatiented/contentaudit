@@ -2,6 +2,8 @@
 title: Sperm Banking
 url: sperm-banking
 comments: true
+jargonwords: ['infertile', 'cannot', 'excite', 'masturbating', 'lubricants', 'ejaculate', 'dont', 'masturbation', 'hopelivestrong', 'mskcc', 'cryobank', '-', 'idant', 'repro', 'nd', 'cryo', 'morristown', 'alana', 'rn', 'mineola', 'nesconset', 'hwy', 'brook', 'mcgreevy', 'mountainside']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

@@ -2,6 +2,8 @@
 title: Low Platelet Count - A Guide for Patients
 url: low-platelet-count-a-guide-for-patients
 comments: true
+jargonwords: ['platelets', 'colorless', 'spongy', 'platelet', '-', 'microliter', 'mcl', 'cbc', 'self-care', 'straightedge', 'clippers', 'perineal', 'rectal', 'suppositories', 'enemas', 'tampons', 'rectally', 'softeners', 'laxatives', 'bicycling', 'lubrication', 'anal', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'ibuprofen', 'advil', 'manicures', 'pedicures', 'waxing', 'electrolysis', 'bruising', 'sclera', 'mskcc', 'nosebleeds', 'dizziness', 'bleeds']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

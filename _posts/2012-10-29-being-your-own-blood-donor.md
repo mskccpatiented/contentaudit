@@ -2,6 +2,8 @@
 title: Being Your Own Blood Donor 
 url: being-your-own-blood-donor
 comments: true
+jargonwords: ['autologous', 'mskcc', 'expires', 'tiring', 'ferrous', 'sulfate', 'supplent', 'constipation', 'dark-color', 'colace']
+jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
 tags: []

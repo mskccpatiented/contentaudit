@@ -2,6 +2,8 @@
 title: Reducing Your Risk of Infection While Receiving Chemotherapy
 url: reducing-your-risk-of-infection-while-receiving-chemotherapy
 comments: true
+jargonwords: ['neutrophils', 'scrubbing', 'waterless', 'sanitizer', 'purell', 'toothbrushes', 'vaccinations', 'ie', 'sneezing', 'neutrophil', 'chills', 'sweats']
+jargonpercent:
 layout: article
 categories: ['Infection']
 tags: []

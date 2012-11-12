@@ -2,6 +2,8 @@
 title: Herbal Remedies And Cancer Treatment
 url: herbal-remedies-and-cancer-treatment
 comments: true
+jargonwords: ['numbs', 'acai', 'interacts', 'antioxidant', 'echinacea', 'platelets', 'ginkgo', 'biloba', 'ginseng', 'turmeric', 'anti-tumor', 'wort', 'valerian', 'sedative-hypnotic', 'botanicals']
+jargonpercent:
 layout: article
 categories: ['Integrative Medicine']
 tags: []

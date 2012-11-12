@@ -2,6 +2,8 @@
 title: Positron Emission Tomography (PET)
 url: positron-emission-tomography
 comments: true
+jargonwords: ['tracer', 'fluorodeoxyglucose', 'fdg', 'tracers', 'bodys', 'cancerous', 'radiology', 'oncology', 'mints', 'rescheduled', 'chills', 'mri', 'fingerstick', 'urinate', 'technologist', 'donut-shape', 'mskcc', 'radiotracer', 'lactation', '-hour']
+jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []

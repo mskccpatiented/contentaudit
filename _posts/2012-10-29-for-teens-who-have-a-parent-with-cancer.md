@@ -2,6 +2,8 @@
 title: For Teens Who Have a Parent with Cancer
 url: for-teens-who-have-a-parent-with-cancer
 comments: true
+jargonwords: ['grandparent', 'sicker', 'cancerous']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

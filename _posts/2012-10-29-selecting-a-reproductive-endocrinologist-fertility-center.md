@@ -2,6 +2,8 @@
 title: Selecting a Reproductive Endocrinologist or Fertility Center
 url: selecting-a-reproductive-endocrinologist-or-fertility-center
 comments: true
+jargonwords: ['endocrinologists', 'weill', 'york-presbyterian', 'kisco', 'monday-friday', '-', 'womens', 'lcsw', 'nyu', 'langone', 'paramus', 'jarlyn', 'dominguez', 'fino', 'kaitlyn', 'webapptrmanycom', 'morristown', 'somerset', 'alana', 'rn', 'madeline', 'aversa', 'clarisa', 'gracia', 'nesconset', 'brook', 'mcgreevy', 'endocrinologistfertility', 'gynecologist', 'oncologist', 'ivf', 'sart', 'thawed', 'non-donor', 'oocytes', 'ovarian', 'gestational', 'livestrongs', 'discounted', 'mskcc']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

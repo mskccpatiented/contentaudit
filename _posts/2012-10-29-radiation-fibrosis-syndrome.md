@@ -2,6 +2,8 @@
 title: Radiation Fibrosis Syndrome
 url: Radiation Fibrosis Syndrome
 comments: true
+jargonwords: ['fibrosis', 'dont', 'fibrous', 'shouldnt', 'eg', 'degenerative', 'rheumatologic', 'oncologists', 'lymphedema', 'ulcerationssr', 'trismus', 'shortness', 'palpitations', 'obstructions', 'blockage', 'intestines', 'urinary', 'urination', 'urinating', 're-training', 'spasms', 'dilation', 'insertion', 'stents', 'trachea', 'esophagus', 'unblock', 'assistive', 'srare', 'bany']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

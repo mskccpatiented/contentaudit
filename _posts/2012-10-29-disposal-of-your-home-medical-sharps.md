@@ -2,6 +2,8 @@
 title: Disposal of Your Home Medical Sharps
 url: disposal-of-your-home-medical-sharps
 comments: true
+jargonwords: ['sharps', 'lancet', 'breakable', 'detergent', 'overfill', 'recyclables', 'non-federal']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

@@ -2,6 +2,8 @@
 title: Chemotherapy - Why the Wait?
 url: chemotherapy-why-the-wait
 comments: true
+jargonwords: []
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

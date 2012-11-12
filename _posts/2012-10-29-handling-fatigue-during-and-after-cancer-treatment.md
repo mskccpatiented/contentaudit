@@ -2,6 +2,8 @@
 title: Handling Fatigue During and After Cancer Treatment 
 url: handling-fatigue-during-and-after-cancer-treatment
 comments: true
+jargonwords: ['shortness', 'doctorhospital', 'eg', 'naps', 'fatigued', 'prioritize', 'dont', 'exhausting', 'well-balanced', 'high-protein', 'digest', 'dietitian', 'ot', 'overtiring', 'waist-high', 'squat', 'caddy', 'blouses', 'exhale', 'inhale', 'clothe', 'waistbands', 'slip-on', 'shock-absorbent', 'insoles']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

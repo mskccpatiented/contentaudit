@@ -2,6 +2,8 @@
 title: Low Microbial Diet 
 url: low-microbial-diet
 comments: true
+jargonwords:
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

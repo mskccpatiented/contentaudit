@@ -2,6 +2,8 @@
 title: Protected Walking
 url: protected-walking
 comments: true
+jargonwords: ['splint', 'crutches', 'heshe', 'non-weight-bearing', 'touch-down', 'weight-bearing', 'crutch']
+jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']
 tags: []

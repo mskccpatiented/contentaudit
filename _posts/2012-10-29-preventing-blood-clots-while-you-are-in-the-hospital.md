@@ -2,6 +2,8 @@
 title: Preventing Blood Clots while you are in the Hospital
 url: preventing-blood-clots-while-you-are-in-the-hospital
 comments: true
+jargonwords: ['clots', 'clot', 'thrombosis', 'dvt', 'blockage', 'redness', 'worsen', 'embolus', 'pe', 'shortness', 'scd', 'scds', 'inflate', 'deflate', 'circulate', 'pct', 'pinched', 'beeping', 'anticoagulation']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

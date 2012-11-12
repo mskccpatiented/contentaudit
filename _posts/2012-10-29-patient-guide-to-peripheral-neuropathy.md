@@ -2,6 +2,8 @@
 title: Patient Guide to Peripheral Neuropathy
 url: patient-guide-to-peripheral-neuropathy
 comments: true
+jargonwords: ['neuropathy', 'glossary', 'underlined', 'anticancer', 'hypothyroid', 'underactive', 'auto-immune', 'chemo', 'stocking-glove', 'tingling', 'prickling', 'pinching', 'paresthesias', 'dysesthesia', 'numbness', 'cisplatin', 'paclitaxel', 'taxol', 'vincristine', 'vinblastine', 'cannot', 'instep', 'heaviness', 'stairways', 'keyholes', 'handrails', 'non-slip', 'non-glare', 'non-skid', 'over-bed', 'walkways', 'tubs', 'nonbreakable', 'dispenser', 'washmit', 'hard-to-reach', 'clippers', 'dishwater', 'light-weight', 'openers', 'grippers', 'grabbers', 'mitts', 'rakes', 'shovels', 'hoses', 'mowers', 'trimmers', 'saws', 'blowers', 'buttoners', 'molded', 'laces', 'velcro', 'in-step', 'extenders', 'fasteners', 'low-back', 'toned', 'massages', 'lotions', 'assistive', 'podiatrist', '-', 'dysesthesias', 'stabs']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

@@ -2,6 +2,8 @@
 title: Total Body Irradiation
 url: total-body-irradiation
 comments: true
+jargonwords: ['irradiation', 'tbi', 'testes', 'wont', 'engraft', 'oncologist', 'necklaces', 'undress', 'simulator', 'pinprick', 'cannot', 'loose-fitting', 'hairpins', 'papoose', 'bicycle-like', 'plexiglass', 'restarted', 'boosts', 'spleen', 'bathe', 'myelodysplastic', 'scrotum', 'salivary', 'vomit', 'lotions', 'ointment', 'deodorants', 'aquaphor', 'reddening', 'itchy', 'scrotal', 'sores', 'sterility', 'sac', 'cataracts', 'malignancies']
+jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []

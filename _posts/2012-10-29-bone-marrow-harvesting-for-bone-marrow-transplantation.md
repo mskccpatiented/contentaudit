@@ -2,6 +2,8 @@
 title: Bone Marrow Harvesting For Autologous or Allogeneic Bone Marrow Transplants
 url: bone-marrow-harvesting-for-autologous-or-allogeneic-bone-marrow-transplants
 comments: true
+jargonwords: ['autologous', 'allogeneic', 'nsaids', 'ibuprofen', 'motrin', 'advil', 'breastbone', 'dressings', 'well-balanced', 'aerobics', 'jacuzzi', 'redness', 'chills']
+jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
 tags: []

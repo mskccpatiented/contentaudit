@@ -2,6 +2,8 @@
 title: Transitioning Your Lymphoma Care from MSKCC to a Primary Care Doctor
 url: transitioning-your-lymphoma-care-from-mskcc-to-a-primary-care-doctor
 comments: true
+jargonwords: ['lymphoma']
+jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']
 tags: []

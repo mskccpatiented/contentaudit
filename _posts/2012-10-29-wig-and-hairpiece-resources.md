@@ -2,6 +2,8 @@
 title: Resources for Wigs and Hairpieces
 url: resources-for-wigs-and-hairpieces
 comments: true
+jargonwords: ['wigs', 'hairpieces', 'prosthetics']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

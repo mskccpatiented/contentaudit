@@ -2,6 +2,8 @@
 title: Your Implanted Port
 url: your-implanted-port
 comments: true
+jargonwords: ['implanted', 'bardport', 'mediport', 'powerport', 'port-a-cath', 'power-injectable', 'catheter', 'septum', 'self-sealing', 'oblong', 'collarbone', 'v-neck', 'accessing', 'septas', 'lumen', 'interventional', 'radiology', 'drowsy', 'numbed', 'anesthetic', 'incision', 'threaded', 'sutured', 'dressings', 'incisions', 'adhesive', 'dermabond', 'seatbelt', 'heals', 'heparin', 'clots', 'flushing', 'insertion', 'pus', 'paging']
+jargonpercent:
 layout: article
 categories: [articles]
 tags: []

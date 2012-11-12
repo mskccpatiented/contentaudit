@@ -2,6 +2,8 @@
 title: Skin Care Guidelines for Patients Receiving Radiation Therapy 
 url: skin-care-guidelines-for-patients-receiving-radiation-therapy
 comments: true
+jargonwords: ['tanned', 'itchy', 'flaky', 'blisters', 'bathe', 'unscented', 'soaps', 'neutrogena', 'cetaphil', 'washcloth', 'scrubbing', 'felt-tipped', 'moisturize', 'moisturizer', 'instruct', 'moisturizers', 'aquaphor', 'eucerin', 'calendula', 'aloe', 'loose-fitting', 'lotions', 'perfumes', 'powders', 'aftershave', 'non-aluminum', 'deodorant', 'discontinue', 'toms', 'deodorants', 'tubs', 'itching', 'chlorinated', 'tanning', 'paba-free', 'sunblock', 'blistering', 'oncologist', '-']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

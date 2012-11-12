@@ -2,6 +2,8 @@
 title: Improving Your Sleep at Home
 url: improving-your-sleep-at-home
 comments: true
+jargonwords: ['napping', 'naps', 'mskcc', '-', 'dimming', 'low-watt', 'urinate', 'cannot', 'earplugs', 'dont', 'night-lights', 'exhale', 'inhale', 'limplike']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

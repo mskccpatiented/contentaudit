@@ -2,6 +2,8 @@
 title: Safe Sexual Practices During Cancer Treatment - Information for Men
 url: safe-sexual-practices-during-cancer-treatment-information-for-men
 comments: true
+jargonwords: ['observances', 'anticancer', 'miscarriage', 'ejaculation', 'gynecologist', 'intrauterine', 'iuds', 'diaphragms', 'stis', 'testes', 'genitals', 'anal', 'mucous', 'inserting', 'vibrators', 'anus', 'cuddling', 'foreskin', 'itching', 'secretions', 'semen', 'abstain', 'feces', 'mans', 'dont', 'polyurethane', 'spermicides', 'lubricated', 'water-', 'silicone-based', 'lubricant', 'expiration', 'wrapper', 'pinching', 'unroll', 'ejaculated', 'childbearing', 'morning-after', 'spermicide', 'vulva', 'mskcc', '-', '--acs-', 'obstetricians', 'gynecologists', '---cancer']
+jargonpercent:
 layout: article
 categories: ['Sexual Health']
 tags: []

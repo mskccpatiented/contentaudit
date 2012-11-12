@@ -2,6 +2,8 @@
 title: A Guide to Prevent Pressure Ulcers or Sores
 url: a-guide-to-prevent-pressure-ulcers-or-sores
 comments: true
+jargonwords: ['bodys', 'sores', 'ulcer', 'bedsore', 'unrelieved', 'doughnut', 'bathe', 'blistered']
+jargonpercent: 
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

@@ -18,6 +18,13 @@
 {% if page.summary %}<p><strong>Summary: </strong>{{ page.summary }}</p> {% endif %}
 {% if page.notes %}<p><strong>Notes: </strong> {{ page.notes }}</p> {% endif %}
 {% if page.strategy %}<p><strong>Strategy/Actions: </strong>{{ page.strategy }}</p> {% endif %}
+{% if page.jargonwords %}
+<p id="jargon_list">
+<strong>Jargon: </strong>
+  {% assign jargonwords = page.jargonwords %}
+  {% include jargon_words %}
+</p>
+{% endif %}
 </div>
 {{content}} 
 </div>

@@ -2,6 +2,8 @@
 title: Steroid Injections
 url: steroid-injections
 comments: true
+jargonwords: ['tendonitis', 'bursitis', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'ibuprophen', 'advil', 'naproxen', 'aleve', 'clotting', 'warfarin', 'coumadin', 'clopidogrel', 'bisulfate', 'plavix', 'tinzaparin', 'innohep', 'dalteparin', 'fragmin', 'heparin', 'adhesive', 'lidocaine', 'antiseptic', 'numbing', 'soreness', 'raynauds', 'bandageband-aid', 'hotwarm', 'redness', 'itching']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

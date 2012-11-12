@@ -2,6 +2,8 @@
 title: A Guide for Caregivers
 url: a-guide-for-caregivers
 comments: true
+jargonwords:
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

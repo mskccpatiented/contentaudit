@@ -2,6 +2,8 @@
 title: End of Life Health Care Decisions-Plan Ahead
 url: end-of-life-health-care-decisions-plan-ahead
 comments: true
+jargonwords: ['kettering', 'terminally', 'appointing', 'molst', 'cannot', 'dnr', 'notary', 'cardiopulmonary', 'resuscitation', 'restart', 'intubation', 'inserting', 'ventilator', 'hydration', 'resuscitate', 'inpatient', 'non']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

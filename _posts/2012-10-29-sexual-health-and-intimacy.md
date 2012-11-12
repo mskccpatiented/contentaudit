@@ -2,6 +2,8 @@
 title: Sexual Health and Intimacy
 url: sexual-health-and-intimacy
 comments: true
+jargonwords: ['venous', 'catheters', 'caress', 'cuddle', 'tiring', 'moisturizers', 'lubricants', 'erections', 'platelet', 'bleed-', 'anal', 'dryness', 'tightness', 'erection', 'incontinence', 'mskcc', 'andor', '--', 'erectile', 'ejaculatory', 'pelvic', 'urinary', 'fecal', 'cosmetology', '--look', 'acs', 'booklets', '--acs-', 'nci', '---cancer']
+jargonpercent:
 layout: article
 categories: ['Sexual Health']
 tags: []

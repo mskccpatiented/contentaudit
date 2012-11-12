@@ -2,6 +2,8 @@
 title: Filgrastim
 url: filgrastim
 comments: true
+jargonwords: ['filgrastim', 'neupogen', 'g-csf', 'granulocyte-colony', 'subcutaneously', 'sq', 'breastbone', 'doctornurse', 'rotate', 'soreness', 'chills']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

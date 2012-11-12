@@ -2,6 +2,8 @@
 title: Safe Sexual Practices During Cancer Treatment - Information for Women
 url: safe-sexual-practices-during-cancer-treatment-information-for-women
 comments: true
+jargonwords: ['observances', 'anticancer', 'miscarriage', 'ejaculation', 'gynecologist', 'nonhormonal', 'diaphragm', 'reusable', 'intrauterine', 'iud', 't-shaped', 'iuds', 'tubal', 'ligation', 'stis', 'progestin', 'hormone-sensitive', 'clots', 'migraines', 'oncologist', 'injectable', 'depo-provera', 'implantable', 'implanon', 'lng', 'mirena', 'ovaries', 'genitals', 'anal', 'polyurethane', 'sexcondoms', 'mucous', 'inserting', 'vibrators', 'anus', 'cuddling', 'water-based', 'lubricant', 'abstain', 'moisturizers', 'lubricants', 'dryness', 'itching', 'secretions', 'semen', 'feces', 'womans', 'spermicides', 'lubricated', 'water-', 'silicone-based', 'expiration', 'wrapper', 'dont', 'pinching', 'unroll', 'ejaculated', 'childbearing', 'morning-after', 'spermicide', 'vulva', 'mskcc', 'womens', '-', '---', 'obstetricians', 'gynecologists', '---cancer']
+jargonpercent:
 layout: article
 categories: ['Sexual Health']
 tags: []

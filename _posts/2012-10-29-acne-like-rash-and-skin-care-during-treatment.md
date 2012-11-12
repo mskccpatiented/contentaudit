@@ -2,6 +2,8 @@
 title: Acne-like Rash and Skin Care During Treatment with Targeted Therapies
 url: acne-like-rash-and-skin-care-during-treatment-with-targeted-therapies
 comments: true
+jargonwords: ['erlotinib', 'tarceva', 'cetuximab', 'erbitux', 'panitumumab', 'vectibix', 'lapatinib', 'tykerb', 'acne-like', 'itching', 'anti-acne', 'scaly', 'dryness', 'fissures', 'toenails', 'buttoning', 'uvb', 'uva', 'redness', 'trth', 'trtd', 'classthirddry', 'skintdtdover-the-counter', 'moisturizers', 'vanicream', 'eucerin', 'aquaphor', 'ointments', 'lotionstdtr', 'classthirdvery', 'areastdtdover-the-counter', 'am-lactin', 'tdtr', 'classthirdfissures', 'fingertipstdtdcreams', 'desitin', 'strengthtdtr', 'classthirditchy', 'skintdtd', 'sarna', 'benadryl', 'anti-itch', 'drowsiness', 'nighttdtr', 'classthirdred', 'inflamed', 'corticosteroids', 'foams', 'corticosteroidstdtr', 'classthirdinflammation', 'toenailstdtd', 'injure', 'secretions', 'diluted', 'watertdtr', 'classthirdincreased', 'facetdtdelectric', 'razors', 'depilatoriestdtr']
+jargonpercent: 
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

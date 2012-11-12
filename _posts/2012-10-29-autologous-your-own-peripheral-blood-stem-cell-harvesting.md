@@ -2,6 +2,8 @@
 title: Autologous (Your Own) Peripheral Blood Stem Cell Harvesting
 url: autologous-your-own-peripheral-blood-stem-cell-harvesting
 comments: true
+jargonwords: ['pluripotent', 'progenitor', 'matured', 'platelet', 'thawed', 'catheter', 'reclining', 'recapped', 'chills', 'redness', 'insertion']
+jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
 tags: []

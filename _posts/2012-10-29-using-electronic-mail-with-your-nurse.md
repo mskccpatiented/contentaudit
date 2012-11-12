@@ -2,6 +2,8 @@
 title: Using Electronic Mail with Your Nurse
 url: using-electronic-mail-with-your-nurse
 comments: true
+jargonwords: ['refills', 'refill', 'intercept', 'dosage', 'dietitian', 'mymskcc', 'emailing']
+jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []

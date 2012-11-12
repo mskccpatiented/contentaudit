@@ -1,7 +1,7 @@
 ---
 title: Pegfilgrastim
 url: pegfilgrastim
-layout: article
+jargonwords: ['pegfilgrastim', 'subcutaneously', 'breastbone', 'redness', 'itching', 'flu-like', 'aches', 'low-grade', 'shortness', 'wheezing', 'sickle', 'breast-feeding', 'tylenol', 'relievers', 'frothy', 'foamy', 'chills']
 categories: ['Medications']
 tags: []
 summary: What is neulasta, helps stimulate production of white blood cells, how it's given, any side effects, what to tell your doctor before you're given neulasta, when to call your doctor. 

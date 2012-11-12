@@ -2,6 +2,8 @@
 title: When Your Doctor Recommends a Transfusion
 url: when-your-doctor-recommends-a-transfusion
 comments: true
+jargonwords: ['transfusion', 'transfusions', 'platelets', 'clots', 'indwelling', 'catheter', 'mediport', '-', 'syphilis', 'trypanosoma', 'cruzi', 'chills', 'hives', 'ab', 'rh', 'crossmatch', 'autologous', 'dont', 'life-saving', 'flushing', 'itching', 'shortness', 'fainting', 'cbc', 'hemoglobin', 'tiredness', 'eg', 'platelet', 'thrombocytopenia', 'nosebleeds', 'bruising', 'wont', 'floss', 'relievers', 'ibuprofen', 'rectal', 'suppositories', 'tampons', 'enemas', 'thrombocytopenias', 'leukopenia', 'urinary', 'colds', 'achiness', 'urination', 'cannot']
+jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []

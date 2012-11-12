@@ -2,6 +2,8 @@
 title: Improving Your Sleep During Your Hospital Stay
 url: improving-your-sleep-during-your-hospital-stay
 comments: true
+jargonwords: ['eg', 'shortness', 'napping', 'naps', 'woken', 'mskcc', 'acupuncture', 'mindbody', '-', 'blackout', 'earphones', 'earplugs', 'exhale', 'inhale', 'cannot', 'crossword']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: ["one", "two"]

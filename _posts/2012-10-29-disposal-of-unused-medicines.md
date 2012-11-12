@@ -2,6 +2,8 @@
 title: Disposal of Unused Medicines
 url: disposal-of-unused-medicines
 comments: true
+jargonwords: ['misused', 'sealable', 'non-recycled', 'municipality', 'pick-up']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

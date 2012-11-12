@@ -2,6 +2,8 @@
 title: Improving Your Memory
 url: improving-your-memory
 comments: true
+jargonwords: ['forgetfulness', 'eg', 'mnemonics', 'acronym', 'tgif', 'hath', 'youll', 'chunking', 'yesterdays', 'recycle', 'theyll', 'wont', 'someones', 'scrabble', 'engagements', 'dont', 'pillbox']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

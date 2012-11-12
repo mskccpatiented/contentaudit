@@ -2,6 +2,8 @@
 title: Caring for Your Peripherally Inserted Central Catheter (PICC)
 url: caring-for-your-peripherally-inserted-central-catheter-picc
 comments: true
+jargonwords: ['picc', 'catheter', 'lumens', 'transfusions', 'parenteral', 'tpn', 'showering', 'statlock', 'steri', 'sutures', 'insertion', 'compresses', 'redness', 'dont', 'insertions', 'tourniquets', 'toothless', 'clamp', 'swabs', '-inch', 'gauze', 'dampwet', 'antibacterial', 'clamps', 'nonsterile', 'biopatch', 'drape', 'lumen', 'nondominant', 'flushing', 'clogged', 'pre-filled', 'saline', 'plunger', 'swab', 'blockages', 'biohazard', 'bard', 'piccs', 'tomography', 'cannot', 'shortness', 'lightheaded', 'palpitations']
+jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']
 tags: []

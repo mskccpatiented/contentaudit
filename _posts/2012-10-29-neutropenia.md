@@ -2,6 +2,8 @@
 title: Neutropenia (Low White Blood Cell Count)
 url: neutropenia-low-white-blood-cell-count
 comments: true
+jargonwords: ['neutropenia', 'neutrophils', 'wbc', 'neutrophil', 'orally', 'bathe', 'anal', 'antibacterial', 'antimicrobial', 'ultra-soft', 'gels', 'purell', 'colds', 'tampons', 'suppositories', 'enemas', 'dont', 'dietitian', 'manicure', 'pedicure', 'waxing', 'ie', 'chills', 'sweats', 'sores', 'irritability', 'urination', 'flu-like', '-']
+jargonpercent:
 layout: article
 categories: ['Side Effects and Symptom Management']
 tags: []

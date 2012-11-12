@@ -2,6 +2,8 @@
 title: Safe Handling of Chemotherapy and Biotherapy At Home
 url: safe-handling-of-chemotherapy-and-biotherapy-at-home
 comments: true
+jargonwords: ['biotherapy', 'swallows', '--', 'left-over', 'cannot', 'sharps', 'clamping', 'andor', '-', 'vomit', 'semen', 'emptying', 'rinsing', 'bedpan', 'urinal', 'commode', 'soiled', 'detergent', 'disinfectant', 'bleach', 'redness', 'splashes']
+jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []

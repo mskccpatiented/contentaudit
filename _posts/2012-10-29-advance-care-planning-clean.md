@@ -2,6 +2,8 @@
 title: Advance Care Planning
 url: advance-care-planning
 comments: true
+jargonwords: ['palliative', 'cardiopulmonary', 'resuscitation', 'compressions', 'defibrillation', 'restart', 'intubation', 'inserting', 'ventilator', 'hydration', 'artifical', 'notary']
+jargonpercent: 
 layout: article
 categories: ['Patient and Caregiver Supportive Services']
 tags: []
