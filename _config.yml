@@ -11,7 +11,11 @@ navigation:
 - text: Articles
   url: /articles/index.html
   cleanurl: /articles/
-  layout: post
+  layout: default
+- text: Strategy
+  url: /strategy/index.html
+  cleanurl: /strategy/
+  layout: default
 secondary:
 - text: RSS
   url: /feed.xml

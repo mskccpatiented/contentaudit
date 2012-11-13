@@ -15,6 +15,7 @@
 <h2 class="articletitle"><a href="{{ page.url }}">{{ page.title }}</a></h2>
 <div class="content">
 <div class="metadata">
+{% if page.categories %}<p><strong>Primary Category: </strong>{{ page.categories }}</p> {% endif %}
 {% if page.summary %}<p><strong>Summary: </strong>{{ page.summary }}</p> {% endif %}
 {% if page.notes %}<p><strong>Notes: </strong> {{ page.notes }}</p> {% endif %}
 {% if page.strategy %}<p><strong>Strategy/Actions: </strong>{{ page.strategy }}</p> {% endif %}

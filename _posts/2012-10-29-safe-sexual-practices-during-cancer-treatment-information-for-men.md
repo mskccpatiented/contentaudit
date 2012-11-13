@@ -10,7 +10,7 @@ tags: []
 summary: Describes problems that can arise if a woman becomes pregnant with sperm damaged by chemotherapy or radiation, precautions - barrier method contraception, precautions agains bleeding, keeping sexual partners safe from chemotherapeutics. Lists external resouces related to the subject. 
 notes:
 strategy: Ideally this would be a video. Definitely record audio. Restructure text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
-status: formatted
+status: partial
 date: 29-10-2012
 ---
 Sex is an important part of life for many people. You can be sexually active during your cancer treatment, but it is important to do this safely by taking steps to protect yourself and your partner.
