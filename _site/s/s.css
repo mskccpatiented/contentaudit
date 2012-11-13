@@ -146,22 +146,21 @@ font-weight:bold;
 /*-- Article List Page, Status--*/
 
 .status{
-padding:0.25em;
+padding:0.15em;
+margin-left:0.15em;
 font-size:1em;
 text-transform:uppercase;
-text-align:center;
-margin-left:0.5em;
 }
 
 .formatted{
-background:#A8C090;
+border-bottom:5px solid #A8C090;
 }
 .unformatted{
-background:#F5634A;
+border-bottom:5px solid #F5634A;
 }
 
 .partial, .inprogress{
-background:#FF9C5B;
+border-bottom:5px solid #FF9C5B;
 }
 
 .metadata{

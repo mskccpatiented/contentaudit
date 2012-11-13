@@ -11,7 +11,7 @@
     {% if post.summary %}<p><strong>Summary: </strong>{{ post.summary }}</p> {% endif %}
 	{% if post.notes %}<p><strong>Notes: </strong> {{ post.notes }}</p> {% endif %}
 	{% if post.strategy %}<p><strong>Strategy/Actions: </strong>{{ post.strategy }}</p> {% endif %}
-	{% if post.strategy %}<p><strong>Reformatting for Web: </strong><span class="status {{ post.status}}">{{ post.status }}</span></p> {% endif %}
+	{% if post.strategy %}<p><strong>Formatted for Web: </strong><span class="status {{ post.status}}">{{ post.status }}</span></p>{% endif %}
     </li>
   
     {% if forloop.last %}
