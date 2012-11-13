@@ -1,0 +1,4 @@
+{% for word in jargonwords %}
+<a href="/glossary/{{ word }}">{{ word }}</a>
+{% endfor %}
+{% assign jargonwords = null %}

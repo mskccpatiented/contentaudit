@@ -146,14 +146,11 @@ font-weight:bold;
 /*-- Article List Page, Status--*/
 
 .status{
-font-family:helvetica, sans-serif;
-padding:0.75em;
+padding:0.25em;
 font-size:1em;
-color:#666666;
 text-transform:uppercase;
-float:left;
-width:120px;
 text-align:center;
+margin-left:0.5em;
 }
 
 .formatted{
@@ -192,8 +189,24 @@ margin-bottom:2em;
 #all_articles li{
 clear:both;
 padding-top:0.5em;
+border-bottom:1px solid silver;
+margin-bottom:1em;
 }
 
+#all_articles li h3 a:link{
+text-decoration:none;
+}
+
+#all_articles li h3 a:hover{
+text-decoration:underline;
+color:#1B75BB;
+}	
+
+
+#all_articles li p{
+font-size:1.2em;
+font-family: times, serif;
+}
 
 a.article_title{
 }
@@ -213,6 +226,28 @@ margin: 0.5em 0 0 0;
 .postmeta p{
 text-indent:0;
 }
+
+p a:link{
+text-decoration: none;
+color:#1B75BB;
+}
+
+p a:active{
+text-decoration: none;
+color:#1B75BB;
+}
+
+p a:hover{
+text-decoration: underline;
+color:#1B75BB;
+}
+
+p a:visited{
+text-decoration: none;
+color:#1B75BB;
+}
+
+
 
 .postmeta .date{
 font-size: 1em; 
@@ -510,8 +545,7 @@ line-height: 1.4em;
 
 @media screen and (min-width: 960px) {
 #wrapper{ color: #222; width: 960px; margin: 0 auto; margin-bottom:40px; margin-top:0; padding: 1.5em; text-align: left; overflow: visible; }
-.content_wide{ width:100%;}
-.content{ width:730px; }
+.content_wide, .content{ width:730px; }
 .postmeta{float:none;margin:0 0 1em 0;width:100%;}
 .postmeta .permalink{display:inline;font-size: 1em; color: rgba(100, 100, 100, 1.00);}
 .postmeta .permalink a{color: rgba(100, 100, 100, 1.00);}
@@ -520,8 +554,7 @@ line-height: 1.4em;
 
 @media screen and (max-width: 960px) {
 #wrapper{ color: #222; width: 90%; margin: 0 auto; margin-bottom:40px; margin-top:0; padding: 1.5em; text-align: left; overflow: visible; }
-.content{width:100%;}
-.content_wide{ width:100%;}
+.content_wide, .content{width:100%;}
 .postmeta{float:none;margin:0 0 1em 0;width:100%;}
 .postmeta .permalink{display:inline;font-size: 1em; color: rgba(100, 100, 100, 1.00);}
 .postmeta .permalink a{color: rgba(100, 100, 100, 1.00);}
