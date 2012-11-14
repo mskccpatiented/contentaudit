@@ -28,11 +28,11 @@ The spread of all recommended actions is shown below:
 <table>
 <tr><th class="fifty">Action</th><th>Num. Articles</th></tr>
 <tr><td class="fifty">Re-Think</td><td>20</td></tr>
-<tr><td class="fifty">Re-Write</td><td>42</td></tr>
-<tr><td class="fifty">Improve Graphics</td><td>15</td></tr>
-<tr><td class="fifty">Improve Photography</td><td>15</td></tr>
-<tr><td class="fifty">Record Audio/Podcast<td>32</td></tr>
-<tr><td class="fifty">Record Video</td><td>11</td></tr>
+<tr><td class="fifty">Full/Partial Re-write</td><td>44</td></tr>
+<tr><td class="fifty">Improve Graphics</td><td>28</td></tr>
+<tr><td class="fifty">Improve Photography</td><td>35</td></tr>
+<tr><td class="fifty">Record Audio/Podcast<td>55</td></tr>
+<tr><td class="fifty">Record Video</td><td>19</td></tr>
 </table>
 
 ### General Recommendations - Content

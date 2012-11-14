@@ -2,7 +2,7 @@
 title: SCT Exercise Program - Level 3
 url: sct-exercise-program-level-3
 comments: true
-jargonwords: ['handrail', 'footstool', 'push-ups', 'abdominals', '-']
+jargonwords: ['handrail', 'footstool', 'push-ups', 'abdominals']
 jargonpercent:
 layout: article
 categories: ['Patient and Caregiver Supportive Services']

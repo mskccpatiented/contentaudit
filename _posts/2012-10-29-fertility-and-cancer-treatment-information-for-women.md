@@ -9,7 +9,7 @@ categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Describes how fertility, fertilization works. Describes the effects of cancer treatment on fertility. Presents FAQs about fertility and cancer treatment. Lists some organizations who can offer further support. 
 notes: Seems to cover the same ground as the other guides about fertility.
-strategy: Validate relevance.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
+strategy: Validate relevance.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

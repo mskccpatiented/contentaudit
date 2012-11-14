@@ -9,7 +9,7 @@ categories: ['Integrative Medicine']
 tags: []
 summary: Description of accupressure - finding pressure point p-6, massaging. Contact details for integrative medicine at MSK.
 notes:
-strategy: Include graphics, possible video. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
+strategy: Include graphics or photos as illustrations. Possible video. Definite podcast. (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: unformatted 
 date: 29-10-2012
 ---

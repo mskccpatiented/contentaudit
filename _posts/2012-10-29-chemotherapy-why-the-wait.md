@@ -2,14 +2,14 @@
 title: Chemotherapy - Why the Wait?
 url: chemotherapy-why-the-wait
 comments: true
-jargonwords: []
+jargonwords: ['chemotherapy', 'infusion'	]
 jargonpercent:
 layout: article
 categories: ['Medications']
 tags: []
 summary: Lists the steps that chemotherapeutics go through before being infused, offered to the patient. 
-notes:
-strategy: Re-title. Re-introduce photos/graphics. Possible video.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? No. Video? Yes)
+notes: Simple and informative, offers confidence.
+strategy: Re-title. Re-introduce photos/graphics. Definite audio - straightforward topic. Possible video.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: formatted 
 date: 29-10-2012
 ---

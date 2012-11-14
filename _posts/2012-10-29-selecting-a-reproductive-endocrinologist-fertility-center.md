@@ -9,7 +9,7 @@ categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Describes what a Reprodictive Endocrinologist does and gives a list of centers. 
 notes:
-strategy: Edit to give advice earlier. List centers later.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? No. Video? Yes)
+strategy: Edit to give advice earlier. List centers later. Possible podcast.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)	
 status: formatted
 date: 29-10-2012
 ---

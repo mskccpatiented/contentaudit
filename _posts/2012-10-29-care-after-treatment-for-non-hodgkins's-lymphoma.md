@@ -2,7 +2,7 @@
 title: Care After Treatment For Non-hodgkin Lymphoma And Hodgkin Lymphoma 
 url: care-after-treatment-for-non-hodgkin-lymphoma-and-hodgkin-lymphoma
 comments: true
-jargonwords:
+jargonwords: ['hodgkin', 'lymphoma', 'non-hodgkin', 'mammogram', 'armpit', 'lipid', 'triglyceride', 'internist', 'survivorship']
 jargonpercent:
 layout: article
 categories: ['Self-Care and Follow-Up']

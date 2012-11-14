@@ -9,7 +9,7 @@ categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Some chemotherapies can cause skin irritations. Describes those irritations and actions that the patient can take. 
 notes:
-strategy: Validate relevance (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? Yes. Podcast or audio? No. Video? Yes)
+strategy: Validate relevance. If retained consider making it a podcast. Write into more fluid text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: formatted  
 date: 29-10-2012
 ---

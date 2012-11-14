@@ -9,7 +9,7 @@ categories: ['Self-Care and Follow-Up']
 tags: []
 summary: Tells the patient about their catheter, why it's needed and how its maintained or cleaned; dressing change etc.
 notes:
-strategy: Validate relevance. Tidy up lists; consider re-writing as more fluid text. Re-introduce photos/diagrams.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? Yes. Podcast or audio? Yes. Video? Yes)
+strategy: Validate relevance. Tidy up lists; consider re-writing as more fluid text. Re-introduce photos/diagrams.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
 status: partial 
 date: 29-10-2012
 ---

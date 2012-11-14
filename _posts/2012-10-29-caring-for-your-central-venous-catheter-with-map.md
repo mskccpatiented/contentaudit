@@ -10,7 +10,7 @@ tags: []
 summary: Tells the patient about their catheter, why it's needed and how its maintained or cleaned; dressing change etc.
 notes:
 strategy: Re-structure, re-introduce graphics and photos, possible video series. Podcast.  (Rethink? Yes. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
-status: inprogress 
+status: partial 
 date: 29-10-2012
 ---
 This information will teach you about the placement and care of your central venous catheter (CVC). A CVC is placed in a large vein near the collarbone (see Figure 1). There are many different types of catheters and your doctor will decide which kind is best for you. All devices have 1 central catheter that enters your body. On the outside, the catheter may divide into 2 or 3 lumens. Each lumen has a clamp and a cap on the end.

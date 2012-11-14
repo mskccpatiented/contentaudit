@@ -9,7 +9,7 @@ categories: ['Medications']
 tags: []
 summary: Describes safe handling of chemo. Washing of hands before touching medicine, wearing gloves, storage of medication, checks before and after administration, handling of waste and coping with spills. 
 notes:
-strategy: Ideally this would be a video. Definitely record audio. Restructure text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
+strategy: Really a skills-based article, so better to demonstrate those skills. Photos, graphics. Possible audio. Possible Video. Restructure text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---

@@ -1,4 +1,4 @@
 {% for word in jargonwords %}
-<a href="/glossary/{{ word }}">{{ word }}</a>
+<a href="http://wordnik.com/words/{{ word }}">{{ word }}</a>
 {% endfor %}
 {% assign jargonwords = null %}

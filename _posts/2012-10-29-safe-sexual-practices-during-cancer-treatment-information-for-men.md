@@ -9,7 +9,7 @@ categories: ['Sexual Health']
 tags: []
 summary: Describes problems that can arise if a woman becomes pregnant with sperm damaged by chemotherapy or radiation, precautions - barrier method contraception, precautions agains bleeding, keeping sexual partners safe from chemotherapeutics. Lists external resouces related to the subject. 
 notes:
-strategy: Ideally this would be a video. Definitely record audio. Restructure text.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Yes. Photography? Yes. Podcast or audio? Yes. Video? Yes)
+strategy: Restructure. Good candidate for podcast. Could be broken into shorter articles.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? Yes)
 status: partial
 date: 29-10-2012
 ---

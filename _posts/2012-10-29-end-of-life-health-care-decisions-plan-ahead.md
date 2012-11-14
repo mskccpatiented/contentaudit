@@ -9,7 +9,7 @@ categories: ['Patient and Caregiver Supportive Services']
 tags: []
 summary: Planning ahead, identifying and documenting your preferences, protecting your right to make decisions, downloadable forms. 
 notes: Feels like a duplication of the "Towards the End of Life" document. 
-strategy: Possibly remove.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
+strategy: Possibly remove. If retained, re-write and possible audio.   (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)	
 status: formatted 
 date: 29-10-2012
 ---

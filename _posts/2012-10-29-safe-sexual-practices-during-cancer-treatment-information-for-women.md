@@ -2,14 +2,14 @@
 title: Safe Sexual Practices During Cancer Treatment - Information for Women
 url: safe-sexual-practices-during-cancer-treatment-information-for-women
 comments: true
-jargonwords: ['observances', 'anticancer', 'miscarriage', 'ejaculation', 'gynecologist', 'nonhormonal', 'diaphragm', 'reusable', 'intrauterine', 'iud', 't-shaped', 'iuds', 'tubal', 'ligation', 'stis', 'progestin', 'hormone-sensitive', 'clots', 'migraines', 'oncologist', 'injectable', 'depo-provera', 'implantable', 'implanon', 'lng', 'mirena', 'ovaries', 'genitals', 'anal', 'polyurethane', 'sexcondoms', 'mucous', 'inserting', 'vibrators', 'anus', 'cuddling', 'water-based', 'lubricant', 'abstain', 'moisturizers', 'lubricants', 'dryness', 'itching', 'secretions', 'semen', 'feces', 'womans', 'spermicides', 'lubricated', 'water-', 'silicone-based', 'expiration', 'wrapper', 'dont', 'pinching', 'unroll', 'ejaculated', 'childbearing', 'morning-after', 'spermicide', 'vulva', 'mskcc', 'womens', '-', '---', 'obstetricians', 'gynecologists', '---cancer']
+jargonwords: ['observances', 'anticancer', 'miscarriage', 'ejaculation', 'gynecologist', 'nonhormonal', 'diaphragm', 'reusable', 'intrauterine', 'iud', 't-shaped', 'iuds', 'tubal', 'ligation', 'stis', 'progestin', 'hormone-sensitive', 'clots', 'migraines', 'oncologist', 'injectable', 'depo-provera', 'implantable', 'implanon', 'lng', 'mirena', 'ovaries', 'genitals', 'anal', 'polyurethane', 'sexcondoms', 'mucous', 'inserting', 'vibrators', 'anus', 'cuddling', 'water-based', 'lubricant', 'abstain', 'moisturizers', 'lubricants', 'dryness', 'itching', 'secretions', 'semen', 'feces', 'womans', 'spermicides', 'lubricated', 'water-', 'silicone-based', 'expiration', 'wrapper', 'dont', 'pinching', 'unroll', 'ejaculated', 'childbearing', 'morning-after', 'spermicide', 'vulva', 'mskcc', 'womens’, ‘obstetricians', 'gynecologists']
 jargonpercent:
 layout: article
 categories: ['Sexual Health']
 tags: []
-summary: Describes problems that can arise if a woman becomes pregnant with sperm damaged by chemotherapy or radiation, precautions - hormonal birth control, barrier method contraception, precautions agains bleeding, keeping sexual partners safe from chemotherapeutics. Lists external resouces related to the subject. 
+summary: Describes problems that can arise if a woman becomes pregnant with sperm damaged by chemotherapy or radiation, precautions - hormonal birth control, barrier method contraception, precautions agains bleeding, keeping sexual partners safe from chemotherapeutics. Lists external resources related to the subject. 
 notes:
-strategy: Restructure. Good candidate for podcast. Could be broken into shorter articles.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? No. Video? No)
+strategy: Restructure. Good candidate for podcast. Could be broken into shorter articles.  (Rethink? No. Some re-writing? No. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? Yes)
 status: formatted
 date: 29-10-2012
 ---
