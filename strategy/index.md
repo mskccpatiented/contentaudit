@@ -37,19 +37,12 @@ The spread of all recommended actions is shown below:
 
 ### General Recommendations - Content
 
-#### Maintenance
-
-
 #### Publishing
 At the moment Patient Education content is published as printed documents and online through the patient portal as PDFs. It may now be desirable to consider other publishing platforms to deliver content. 
 
 For example; audio recordings could be published online and submitted to iTunes as a podcast. This would allow patients to download brief, informative pieces of content related to their care from their personal devices.
 
-A similar approach could be used for video; using a Vimeo or YouTube channel to deliver useful content. Twitter could even be used to publish small tips related to BMT, which could link back to longer, more substantive articles.
-
-#### External Links
-
- 
+A similar approach could be used for video; using a Vimeo or YouTube channel to deliver useful content. Twitter could even be used to publish small tips related to BMT, which could link back to longer, more substantive articles. 
 
 #### Hypertext
 At the moment, content is produced as a set of standalone, printed articles. Despite the fact that these articles cover compatible topics there is little cross-referencing done. 
