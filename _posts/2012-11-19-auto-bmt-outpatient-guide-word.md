@@ -1,6 +1,6 @@
 ---
-title: Outpatient Autologous Stem Cell Transplant
-url: outpatient-autologous-stem-cell-transplant
+title: Outpatient Autologous Stem Cell Transplant (Word)
+url: outpatient-autologous-stem-cell-transplant-word
 comments: true
 jargonwords: ['autologous', 'sloan-kettering', 'binder', 'roadmap', 'bmt', 'mskcc', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'circulate', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'dont', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'andor', 'well-', 'clipping', 'unwritten', 'libguides', 'mskccs', '-', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogenreg', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviacreg', 'hickmanreg', 'quintonreg', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'doesnt', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'rinses', 'toothpaste', 'irritate', 'mucous', 'toothettesreg', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'eg', 'unpasteurized', 'fresh-squeezed', 'alfalfa', 'radish', 'dents', 'ready-to-eat', 'expiration', 'cloths', 'sponges', 'bleach', 'lysol', 'sanitizer', 'clorox', 'clean-up', 'nonporous', 'soapy', 'hard-to-clean', 'rinds', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'youll', 'non-', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'skype', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'ultra-soft', 'gels', 'purell', 'colds', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'ie', 'chills', 'sweats', 'irritability', 'urination', 'flu-like', 'colorless', 'plate-', 'microliter', 'mcl', 'pre-', 'self-care', 'straightedge', 'clippers', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'afaintredrashonyourtrunkarmsandlegs', 'vaginalspottingorheavymenstrualbleeding', 'sclera', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin-like', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'wwwcancercareorg', 'lymphoma', 'wwwlls', 'org', 'wwwllsorg', 'wwwmarrow', 'www', 'bonemarroworg', 'cancercareorg', 'presurgical', 'bobst', 'myeloma', 'allogeneic', 'nd', 'chaplaincy', 'chaplains', 'interfaith', 'preauthorization', 'mindbody', 'preapproval', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'kinney', 'atms', 'citibank', 'laundromats', 'reade', 'goldbergers', 'bagel', 'deligrocery', 'dunkin', 'donuts', 'togo', 'mcdonalds', 'wongs', 'lenox', 'catherines', 'playgroundpark', 'ywca', 'gristedes', 'emporium', 'clearview', 'buslines', 'northbound', 'southbound', 'crosstown', 'mskccstampmachinenearcashier', 'usmailboxesoncornerat', 'lenoxhillpostofficeeth', 'synagogues', 'masjid', 'adventist', 'trinity', 'coptic', '--', 'mysorexar', 'jehovah', 'congregational', 'kehliath', 'jeshurun', 'yorkville', 'lisker', 'zichron', 'ephrain', 'emanu-el', 'manhattanupper', 'sq', 'affinia', 'suite-hotel', 'ten-minute', 'sloan-ketterings', 'pull-out', '-hour', 'five-minute', 'fitzpatricks', 'rosewood', '-minute', 'five-', 'carlyles', 'manhattans', 'guestrooms', 'kitchenette', 'roll-', 'coupon', 'ferros', 'sloan-', 'kettering', 'kitchenettes', 'renovated', '-hm-tower', 'tri-state', 'doorman', 'one-bedroom', 'two-', 'three-bedroom', 'melisa', 'sabo', 'aka', 'one-', 'two-bedroom', 'lounges', 'doormen', 'two-bedroomtwo-bath', 'seasonally', 'avni', 'kancherla', 'dellatorre', 'alder', 'vcrs', 'stereos', 'selena', 'ext', 'need-based', 'ssdi', 'deductable', 'inpatient', 'in-home', 'ssi', 'allotment', 'infoline', 'glossary']
 jargonpercent: 
@@ -8,32 +8,32 @@ layout: article
 categories: ['Tests and Procedures']
 tags: []
 summary: Guide to outpatient BMT. Still in draft. 
-notes: Sourced from PDF. Another version is in a Word Doc- they appear to be different, but I can't tell which version is more accurate or up to date.
+notes: Sourced from Word Document. Another version is in a PDF file. Still determining which one is more up to date. 
 strategy: 
 status: unformatted  
 date: 29-10-2012
 ---
 # Outpatient Autologous Stem Cell Transplant
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. The outpatient center provides a comfortable, convenient, and safe option for your care while receiving your stem cell transplant. The information in this binder will serve as a roadmap throughout the transplant process, outlining what to expect and how to prepare yourself physically and emotionally.
+
 Our goal is to make both you and your caregiver comfortable during your treatment. While you are receiving your outpatient treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic everyday for blood work, vital signs, weight and physical examination. You will also receive your treatment in this area. While you are in
-the outpatient clinic you will
-be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for the patient. There is a communal lounge with coffee and tea for caregivers. This area has wireless internet available for your use.
+the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for the patient. There is a communal lounge with coffee and tea for caregivers. This area has wireless internet available for your use.
+
 At MSKCC, the Adult Bone Marrow Transplant Service works as a team. Your attending doctor, the one you see in
-the clinic, will be in charge of your care throughout your treatment. Fellows, nurse
-practitioners, hospitalists and house staff are
-also partners in your care. A fellow is a doctor who has completed general training and is receiving additional training in cancer care. A nurse practitioner is a nurse who has a Master’s
+the clinic, will be in charge of your care throughout your treatment. Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. A fellow is a doctor who has completed general training and is receiving additional training in cancer care. A nurse practitioner is a nurse who has a Master’s
 or Doctorate degree. The nurse practitioner
 is licensed to examine you, provide medical treatments and prescribe medications. The hospitalist is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. House staff are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
 A team of nurses will provide your day-to-day nursing care. While you are here, you will come to know all of the members of your team.
 
 ## Autologous Bone Marrow Transplant
-
 Stem cell transplants are used to treat for many forms of cancer. Different types of cancers are treated different types of transplant methods. You will be receiving an autologous bone marrow transplant.
+
 In an autologous stem cell transplant, your own stem cells will be used for your transplant. Your stem cells are collected, stored, then returned to your body after you receive chemotherapy.
+
 Stem cells give rise to all blood cells. Stem
 cells either divide to form a new stem cell, or they mature to become a red blood cell, white blood cell, or platelet. Your hip, breastbone (sternum), and pelvis contain the largest amount of stem cells, however some circulate in your bloodstream.
 
-* Visual schematic of the transplant process
+**Visual schematic of the transplant process**
 
 —
 Bone marrow is spongy tissue found inside bones.
