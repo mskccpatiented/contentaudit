@@ -2,7 +2,7 @@
 title: Outpatient Autologous Stem Cell Transplant (Word)
 url: outpatient-autologous-stem-cell-transplant-word
 comments: true
-jargonwords: ['autologous', 'sloan-kettering', 'binder', 'roadmap', 'bmt', 'mskcc', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'circulate', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'dont', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'andor', 'well-', 'clipping', 'unwritten', 'libguides', 'mskccs', '-', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogenreg', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviacreg', 'hickmanreg', 'quintonreg', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'doesnt', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'rinses', 'toothpaste', 'irritate', 'mucous', 'toothettesreg', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'eg', 'unpasteurized', 'fresh-squeezed', 'alfalfa', 'radish', 'dents', 'ready-to-eat', 'expiration', 'cloths', 'sponges', 'bleach', 'lysol', 'sanitizer', 'clorox', 'clean-up', 'nonporous', 'soapy', 'hard-to-clean', 'rinds', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'youll', 'non-', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'skype', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'ultra-soft', 'gels', 'purell', 'colds', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'ie', 'chills', 'sweats', 'irritability', 'urination', 'flu-like', 'colorless', 'plate-', 'microliter', 'mcl', 'pre-', 'self-care', 'straightedge', 'clippers', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'afaintredrashonyourtrunkarmsandlegs', 'vaginalspottingorheavymenstrualbleeding', 'sclera', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin-like', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'wwwcancercareorg', 'lymphoma', 'wwwlls', 'org', 'wwwllsorg', 'wwwmarrow', 'www', 'bonemarroworg', 'cancercareorg', 'presurgical', 'bobst', 'myeloma', 'allogeneic', 'nd', 'chaplaincy', 'chaplains', 'interfaith', 'preauthorization', 'mindbody', 'preapproval', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'kinney', 'atms', 'citibank', 'laundromats', 'reade', 'goldbergers', 'bagel', 'deligrocery', 'dunkin', 'donuts', 'togo', 'mcdonalds', 'wongs', 'lenox', 'catherines', 'playgroundpark', 'ywca', 'gristedes', 'emporium', 'clearview', 'buslines', 'northbound', 'southbound', 'crosstown', 'mskccstampmachinenearcashier', 'usmailboxesoncornerat', 'lenoxhillpostofficeeth', 'synagogues', 'masjid', 'adventist', 'trinity', 'coptic', '--', 'mysorexar', 'jehovah', 'congregational', 'kehliath', 'jeshurun', 'yorkville', 'lisker', 'zichron', 'ephrain', 'emanu-el', 'manhattanupper', 'sq', 'affinia', 'suite-hotel', 'ten-minute', 'sloan-ketterings', 'pull-out', '-hour', 'five-minute', 'fitzpatricks', 'rosewood', '-minute', 'five-', 'carlyles', 'manhattans', 'guestrooms', 'kitchenette', 'roll-', 'coupon', 'ferros', 'sloan-', 'kettering', 'kitchenettes', 'renovated', '-hm-tower', 'tri-state', 'doorman', 'one-bedroom', 'two-', 'three-bedroom', 'melisa', 'sabo', 'aka', 'one-', 'two-bedroom', 'lounges', 'doormen', 'two-bedroomtwo-bath', 'seasonally', 'avni', 'kancherla', 'dellatorre', 'alder', 'vcrs', 'stereos', 'selena', 'ext', 'need-based', 'ssdi', 'deductable', 'inpatient', 'in-home', 'ssi', 'allotment', 'infoline', 'glossary']
+jargonwords: ['autologous', 'sloan-kettering', 'binder', 'roadmap', 'bmt', 'mskcc', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'circulate', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'dont', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'andor', 'well-', 'clipping', 'unwritten', 'libguides', 'caregiver', 'mskccs', '-', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogenreg', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviacreg', 'hickmanreg', 'quintonreg', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'doesnt', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'rinses', 'toothpaste', 'irritate', 'mucous', 'toothettesreg', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'eg', 'unpasteurized', 'fresh-squeezed', 'alfalfa', 'radish', 'dents', 'ready-to-eat', 'expiration', 'cloths', 'sponges', 'bleach', 'lysol', 'sanitizer', 'clorox', 'clean-up', 'nonporous', 'soapy', 'hard-to-clean', 'rinds', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'youll', 'non-', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'skype', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'ultra-soft', 'gels', 'purell', 'colds', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'ie', 'chills', 'sweats', 'irritability', 'urination', 'flu-like', 'colorless', 'plate-', 'microliter', 'mcl', 'pre-', 'self-care', 'straightedge', 'clippers', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'afaintredrashonyourtrunkarmsandlegs', 'vaginalspottingorheavymenstrualbleeding', 'sclera', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin-like', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'wwwcancercareorg', 'lymphoma', 'wwwlls', 'org', 'wwwllsorg', 'wwwmarrow', 'www', 'bonemarroworg', 'cancercareorg', 'presurgical', 'bobst', 'myeloma', 'allogeneic', 'nd', 'chaplaincy', 'chaplains', 'interfaith', 'preauthorization', 'mindbody', 'preapproval', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'kinney', 'atms', 'citibank', 'laundromats', 'reade', 'goldbergers', 'bagel', 'deligrocery', 'dunkin', 'donuts', 'togo', 'mcdonalds', 'wongs', 'lenox', 'catherines', 'playgroundpark', 'ywca', 'gristedes', 'emporium', 'clearview', 'buslines', 'northbound', 'southbound', 'crosstown', 'mskccstampmachinenearcashier', 'usmailboxesoncornerat', 'lenoxhillpostofficeeth', 'synagogues', 'masjid', 'adventist', 'trinity', 'coptic', '--', 'mysorexar', 'jehovah', 'congregational', 'kehliath', 'jeshurun', 'yorkville', 'lisker', 'zichron', 'ephrain', 'emanu-el', 'manhattanupper', 'sq', 'affinia', 'suite-hotel', 'ten-minute', 'sloan-ketterings', 'pull-out', '-hour', 'five-minute', 'fitzpatricks', 'rosewood', '-minute', 'five-', 'carlyles', 'manhattans', 'guestrooms', 'kitchenette', 'roll-', 'coupon', 'ferros', 'sloan-', 'kettering', 'kitchenettes', 'renovated', '-hm-tower', 'tri-state', 'doorman', 'one-bedroom', 'two-', 'three-bedroom', 'melisa', 'sabo', 'aka', 'one-', 'two-bedroom', 'lounges', 'doormen', 'two-bedroomtwo-bath', 'seasonally', 'avni', 'kancherla', 'dellatorre', 'alder', 'vcrs', 'stereos', 'selena', 'ext', 'need-based', 'ssdi', 'deductable', 'inpatient', 'in-home', 'ssi', 'allotment', 'infoline', 'glossary']
 jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
@@ -10,83 +10,94 @@ tags: []
 summary: Guide to outpatient BMT. Still in draft. 
 notes: Sourced from Word Document. Another version is in a PDF file. Still determining which one is more up to date. 
 strategy: 
-status: unformatted 
-date: 29-10-2012
+status: partial 
+date: 19-11-2012
 ---
 # The Adult Bone Marrow Transplant Service 
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial 
 
 Sloan-Kettering Cancer Center. You and your family will spend a lot of time with us in the weeks to come. This booklet will help you learn about autologous stem cell transplantation, why you will need special care, and the team of health care professionals who will care for you during your transplant. 
 
-At MSKCC, the Adult Bone Marrow Transplant Service works as a team. Your doctor, the one you see in the clinic, will be in charge of your care throughout your treatment. Who do pts see daily in the outpt clinic? if you have to get admitted However, your doctor may not be the one to manage your day-to-day care while you are in the hospital. Attending doctors rotate on the inpatient unit. One attending will be responsible for your care for two weeks before another attending takes over. Any important decisions are made with your doctor. 
+At MSKCC, the Adult Bone Marrow Transplant Service works as a team. Your doctor, the one you see in the clinic, will be in charge of your care throughout your treatment. **Who do pts see daily in the outpt clinic? if you have to get admitted However, your doctor may not be the one to manage your day-to-day care while you are in the hospital. Attending doctors rotate on the inpatient unit. One attending will be responsible for your care for two weeks before another attending takes over. Any important decisions are made with your doctor**. 
 
-Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. The fellow is an internist doing special training in cancer. A nurse practitioner is a nurse who has an advanced degree in an area of care. This nurse practitioner can take patient histories, do physical exams, and prescribe treatments and medicine. He or she can also provide medical care with the doctors. The hospitalist is a doctor who only sees patients in the hospital. He or she will cover the unit at night. House staff are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors. While you are here, you will come to know all of the members of your team. You can always contact your doctor if you have any questions. A team of primary nurses will be responsible for your day-to-day nursing care. 
+Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. 
 
+The fellow is an internist doing special training in cancer. 
 
+A nurse practitioner is a nurse who has an advanced degree in an area of care. This nurse practitioner can take patient histories, do physical exams, and prescribe treatments and medicine. He or she can also provide medical care with the doctors.
 
+The hospitalist is a doctor who only sees patients in the hospital. He or she will cover the unit at night. 
 
+House staff are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors. While you are here, you will come to know all of the members of your team. You can always contact your doctor if you have any questions. A team of primary nurses will be responsible for your day-to-day nursing care. 
 
-
-Autologous Stem Cell Transplantation
+## Autologous Stem Cell Transplantation
 Autologous means from yourself. Stem cells will form your new bone marrow after you have been treated. The stem cells in your blood are collected (harvested) before you are treated with high-dose chemotherapy called the conditioning regimen. We call this stem cell harvesting. You will have injections of G-CSF to help your body make more stem cells. 
 
 Stem cell harvesting is done in the Blood Donor Room. It is very similar to giving blood. You will sit in a chair or lie in a bed and can read or bring music to listen to. It takes 3 to 4 hours for each collection. Several harvesting procedures (usually anywhere between 1 and 5) are required to get enough stem cells to support an autologous stem cell transplant. 
-Why You Need an Autologous Stem Cell Transplant 
+
+### Why You Need an Autologous Stem Cell Transplant 
 Your type of cancer responds to high doses of chemotherapy. A side effect of this is that your bone marrow will be wiped out. When your treatments are finished, the stem cells will be given back to you (transplanted) through your catheter. The stem cells will allow your bone marrow to again produce blood cells. The stem cell infusion takes 15-30 minutes. It is very much like having a blood transfusion.
 
 Stem cell transplants are used to rescue patients bone marrow after treatment for many forms of cancer. These cancers are often treated differently. Your doctors and nurses will tell you about your treatment. 
 
-RELAPSE 
+#### RELAPSE 
 Relapse of your original disease can occur if the treatments did not destroy all the cancer cells. Some conditions may put a patient at a higher risk for relapse. Your doctor will discuss these with you. 
 
-Before your Autologous Stem Cell Transplant
+## Before your Autologous Stem Cell Transplant
 The Outpatient Bone Marrow Transplant (BMT) Clinic at Memorial Sloan-Kettering Cancer Center provides a comfortable, convenient, safe option for your care while receiving your autologous stem cell transplant. The clinic is located on the 4th floor of the main hospital, off the M elevator bank. Here you will be treated by a specialized team who will provide you with the latest bone marrow treatment options, including support throughout the process.
 
 Our goal is to make both you and your caregiver comfortable during your treatment. While you are receiving your outpatient treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic everyday for blood work, vital signs, weight and physical examination. You will also receive your treatment in this area. While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for the patient. There is a communal lounge with coffee and tea for caregivers. This area has Wi-Fi capability for internet use.
 
 Before your outpatient treatment starts, there are a number of arrangements to make. It is also helpful to gather items you will need ahead of time. We have compiled this checklist to guide you. 
-Before your transplant:
-	Identify a caregiver
-	Arrange for transportation
-	Arrange for housing
-	Arrange for childcare
-	Arrange for pet care  your pets cannot stay with you during your transplant
-	Check your prescription drug coverage
-	Purchase a tote bag or rolling bag to carry your supplies to clinic every day
-	Attend the outpatient transplant orientation with the Nurse Practitioner 
-	Add anything else you want to remember here
-	Add anything else you want to remember here
+
+### Before your transplant:
+
+* Identify a caregiver
+* Arrange for transportation
+* Arrange for housing
+* Arrange for childcare
+* Arrange for pet care - your pets cannot stay with you during your transplant
+* Check your prescription drug coverage
+* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+* Attend the outpatient transplant orientation with the Nurse Practitioner 
+
+**Add anything else you want to remember here**
+
+**Add anything else you want to remember here**
 
 You must bring the following items to your clinic appointment everyday:
 	
-All prescription medications you were instructed to take during the bone marrow transplant period. (You will be given prescriptions in clinic 7-10 days before you are scheduled for your bone marrow transplant for antibiotics, antinausea medications, and any other medications needed.)
+* All prescription medications you were instructed to take during the bone marrow transplant period. (You will be given prescriptions in clinic 7-10 days before you are scheduled for your bone marrow transplant for antibiotics, antinausea medications, and any other medications needed.)
+* Comfortable day clothes  sweat pants, large t-shirts, shirts that open in the front, and shoes with traction like sneakers
+* Notebook/pad  keep a list of questions for your health care team
+* Your temperature and oral intake record
+* Add anything else you want to remember here
+* Add anything else you want to remember here
 
-	Comfortable day clothes  sweat pants, large t-shirts, shirts that open in the front, and shoes with traction like sneakers
-	Notebook/pad  keep a list of questions for your health care team
-	Your temperature and oral intake record
-	Add anything else you want to remember here
-	Add anything else you want to remember here
 You may also find it helpful to have the following items with you in clinic:
-	A list of all prescription and non-prescription medications you are taking with dosages and frequency. Include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
-	Lip moisturizer - i.e. ChapStick
-	Distractions  books, magazines, music, or puzzles to help pass the time
-	Cell phone
-	Laptop, iPad, iPod or other electronic device
-	Add anything else you want to remember here
-	Add anything else you want to remember here
+
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. Include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
+* Lip moisturizer - i.e. ChapStick
+* Distractions  books, magazines, music, or puzzles to help pass the time
+* Cell phone
+* Laptop, iPad, iPod or other electronic device
+* Add anything else you want to remember here
+* Add anything else you want to remember here
 
 Bring the following items to New York City with you and leave in your hotel room:
-	Ultra soft toothbrush
-	Skin moisturizer  i.e. Lubriderm
-	Gentle soap  i.e. Dove or Caress
-	Puffs or other soft tissue (standard hospital tissues are provided)
-	Night clothes like pajamas, a robe and slippers/socks with traction
-	Add anything else you want to remember here
-	Add anything else you want to remember here
+	
+* Ultra soft toothbrush
+* Skin moisturizer  i.e. Lubriderm
+* Gentle soap  i.e. Dove or Caress
+* Puffs or other soft tissue (standard hospital tissues are provided)
+* Night clothes like pajamas, a robe and slippers/socks with traction
+* Add anything else you want to remember here
+* Add anything else you want to remember here
 
-Choosing your caregiver
+## Choosing your caregiver
 During your outpatient transplant you will need someone to help take care of you. This person is usually a family member or a close friend. Your caregiver can be just one person during your entire transplant, or you may have different caregivers during different times. While in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care both during the transplant process and after your transplant.
 These are examples of what your caregiver will do:
+
 * Provide emotional support
 * Provide physical care during and after transplant. You may be tired and need help with everyday tasks
 * Care of your central line. Your nurses will teach you both how to do this
@@ -106,27 +117,32 @@ These are examples of what your caregiver will do:
 * Bring you to and from the hospital 
 Being a caregiver can be stressful and tiring at times. During the hours you are in clinic, your caregiver should take the time to care for themselves. There are many resources available at MSKCC for patients and caregivers. You can learn about them in your patient education binder or by talking with your team. 
 
-Diet
+### Diet
 There is no special diet to get ready for your transplant. You do not need to take more vitamins or gain weight. Our dietitians will help you keep your nutritional balance. However, if you are under- or overweight, try to get to your normal weight with your doctors guidance, before your transplant. 
 
-Harvesting 
+### Harvesting 
 The stem cells are collected by a machine that separates them from your blood. Before the procedure, your doctor or nurse will check the veins in your arms. If the veins are not easy to find, an IV catheter (a small flexible tube) may be inserted in a large vein in your neck or chest after a local anesthetic is injected. The catheter can stay in place for many months. It will be used to draw blood or give you chemotherapy after the harvesting. You will also need it for fluids, IV medicines, and blood transfusions. Broviac, Hickman, and Quinton catheters are brands of long-term IV catheters. The catheter may have two or more branches called lumens. Wear shirts that button or zip in the front or tops with a low collar so that the catheter can be accessed easily throughout your care. If the veins on your arms are easy to find, you may not need a catheter for the harvest. 
 
 Blood is drawn from a vein in an arm or one of the lumens of the catheter. It is circulated through the machine. The stem cells are separated from your blood before it is returned to you through the other arm or another lumen on the catheter. One to five visits may be needed to collect enough stem cells. 
 
 Most patients have no side effects after the harvesting. They can go back to their regular activities. After your stem cells are harvested, they are frozen and stored until you need them. Before your harvesting, your nurse will give you the fact card, Peripheral Blood Stem Cell Harvesting. 
 
-Fertility 
+### Fertility 
 In nearly all cases, patients become infertile after a stem cell transplant. This means you will not be able to have children naturally. Many patients can take steps before transplant to preserve their fertility. 
+
 * Men can collect and freeze sperm (sperm banking) 
 * Women may be able to collect eggs. The eggs can be fertilized to create embryos which are then frozen. Or, the eggs themselves can be frozen.
+
 Frozen sperm, embryos, and eggs can be stored for many years. They can be thawed and used in the future, once you are medically cleared and ready to start a family. Tell your doctor or nurse if you want more information about options to preserve your fertility.
 
 Being infertile does not affect your ability to be sexually active. However it is important to use birth control. Sexuality is covered in the booklet you will get before your discharge after transplant.
-Dental Exam
+
+### Dental Exam
 You must have a full dental exam. Any cavities, loose fillings, or gum disease should be taken care of before your transplant. You can have this done by your own dentist or you can see our dentists. If you see your own dentist, please ask him or her to provide a note that you have no dental problems. If there are questions, please ask the dentist to speak with an MSKCC dentist.
-Tests
+
+### Tests
 Before your treatment starts, you will have some tests that will tell us how your body is functioning. Some of these tests may have been done before your admission. The results of the tests will be used to watch for changes that may occur during or after your treatment.
+
 * Chest x-ray 
 * Blood tests 
 * Urine tests
@@ -139,14 +155,17 @@ Before your treatment starts, you will have some tests that will tell us how you
 
 Your doctor and nurse will explain any other tests that you may need. 
 
-ADMISSION DAY 
+## ADMISSION DAY 
 Go to the Admissions Center at 1275 York Avenue. You will be taken to your room on the transplant unit. A member of your healthcare team will examine you and take your health history. You will meet the nurse who will be your primary caregiver. Other nurses will help design and carry out your care plan. You may also meet the social worker, dietitian, psychiatrist, nursing assistants, case manager, and unit secretaries. You will be in the hospital three to five weeks. Be sure to ask any questions you have. 
+
 If you do not have a catheter already, you may go to have one placed just before your admission to the unit. You will then go from the Surgical Day Hospital to the bed on the transplant unit.
 
 If you will have radiation, it is usually given before chemotherapy. When you finish chemotherapy, you may have one or two days of rest before your transplant. After these treatments, your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, all staff and visitors who enter your room will follow special rules. Your doctor and nurse will explain these in detail. It will be 10 - 20 days before your transplanted stem cells have made enough blood cells for you to leave the hospital. 
-Chemotherapy
+
+### Chemotherapy
 High doses of chemotherapy are used to destroy cancer cells. You may receive several chemotherapy drugs before your transplant. Your doctor will tell you more about the drugs that you are going to receive. Your nurse will also give you information about the drugs and their side effects. 
-Melphalan Intravenous (MEL-fa-lan)
+
+#### Melphalan Intravenous (MEL-fa-lan)
 Also Known As: Alkeran Intravenous (IV)
 How It Is Given:
 Intravenously (by vein)
@@ -174,9 +193,8 @@ the way this drug works. Include:
  Vitamins.
  Dietary supplements.
  Care for your mouth the way your doctor or nurse told you to do it.
-PATIENT INFORMATION
-CHEMOTHERAPY FACT CARD
-Melphalan Intravenous [ 2 of 2 ]
+
+
 Call Your Doctor or Nurse If You:
  Have a fever of 100.4 F (38 C) or higher.
  Have nausea or vomiting and are unable to eat or drink for more than
@@ -259,20 +277,23 @@ Bleeding
 You are at risk for bleeding when your platelet count is low. You will receive platelet transfusions as needed. 
 Fatigue and Weakness
 When your RBC count is low, you may feel tired. Your nurse or nursing assistant will assist you with your daily activities if you need help. Try to walk every day to maintain your muscle tone and strength. You may also receive red blood cell transfusions as needed. These and all other blood products will be irradiated to prevent adverse side effects. 
-INFECTION PRECAUTIONS 
-Personal Hygiene
+
+## INFECTION PRECAUTIONS 
+
+### Personal Hygiene
 Keeping yourself clean is very important. You will have a routine to clean your skin each day with antibacterial soap. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Pay extra attention to washing your underarms, groin, and the (perineal) area between the genitals and rectum. These moist areas harbor germs. You may shampoo your scalp with ordinary soap once a day. If you need help, the nurses and nursing assistants will assist you. 
 
 After you urinate or move your bowels, wash your buttocks and perineal area with antibacterial soap. You can also use moist wipes. Pat the area dry. Wash your hands well after urinating or moving your bowels and before eating. 
 
 Keep the skin around your long-term IV catheter very clean. The dressing that covers and protects it will be changed each week, as long as it is dry and covered. To reduce the chance of infection, do not allow the IV tubing to touch the floor. 
 
-Oral Hygiene
+### Oral Hygiene
 It is especially important to take good care of your mouth throughout your hospitalization. Good mouth care can help prevent infections and other complications in your mouth. The nurse will work with you to plan your mouth care routine. Some of the guidelines you must follow are listed below. 
 
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every two hours, depending on how your mouth feels. 
 * Use only the mouthwash that your nurse gives you. Do not use commercial mouthwash or toothpaste. These products irritate and dry the mucous membranes of the mouth and throat. 
 * Use only the toothbrush given to you on the unit or by the MSKCC dental service. You may also use Toothettes disposable foam sticks. 
+
 * Do not use dental floss. 
 * Avoid licking your lips. It increases drying and chapping. 
 * Apply a lubricant after mouth care and every two to four hours as needed. This will help keep your lips moist. 
@@ -280,7 +301,7 @@ It is especially important to take good care of your mouth throughout your hospi
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature. 
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain. 
 
-Protective Isolation
+## Protective Isolation
 You will be in a private room during the critical times of your transplant. Anyone who enters your room must wash their hands well with antibacterial soap or alcohol-based hand gel. Your doctor and nurse will tell you how to protect yourself from germs and infection. They will give you printed instructions on the isolation procedure used in the unit. 
 BLEEDING PRECAUTIONS
 Platelets work to prevent and control bleeding. While your platelet count is low, you will have an increased tendency to bleed. The nurse will check your stool and urine routinely for blood. Take these precautions:
@@ -295,6 +316,7 @@ BASIC GUIDELINES FOR BLOOD DONORS
 Patients often need red blood cells and platelets when their counts are too low. We ask family members and friends to donate blood and are grateful when they can do it. Any blood donation helps our patients. When you start treatment, ask a family member to call the Blood Donor program to find out about giving blood. The number is (212) 639-8177. It takes about two hours to donate platelets and about 45 minutes for red blood cells. Donors can call (212) 639-7648 to make an appointment. 
 
 Blood donors must:
+
 * Be 17 - 75 years of age. 
 * Weigh over 110 pounds (50 kg). 
 * Not have signs of a cold or active allergy at the time of donation. 
@@ -304,78 +326,117 @@ Blood donors must:
 * Not drink alcohol eight hours before donating. 
 * Eat a light meal, but avoid fatty foods before donating. 
 
-BONE MARROW ENGRAFTMENT AND IMMUNE RECOVERY
+## BONE MARROW ENGRAFTMENT AND IMMUNE RECOVERY
 Engraftment occurs when the bone marrow begins to form the cells that give rise to mature blood cells. About ten days after the transplant, marrow engraftment will be evident as the white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last. The immune system may take six to twelve months to recover fully. 
 
-WORKING TOGETHER
+## WORKING TOGETHER
 As more stem cell transplants are done, changes are made in the treatment plan based on research and experience. These changes aim to decrease complications and to promote the growth of the new marrow. The special care you need when you have a transplant does not change, regardless of the treatment plan. 
 
 Some patients have said they feel bored in the room because theres nothing to do, or they are tired of feeling sick and cant wait to go home. Others say they are anxious and depressed. It is natural to feel this way. Sometimes it helps to talk. Patience and active participation in your daily care is important in the weeks after your transplant. Talk to your nurse, social worker, chaplain, or doctor about your feelings. Patient-to-patient volunteers, the Patients Library, Recreation, and the Integrative Medicine Service may also help. A member of the Department of Psychiatry can talk to you and your family or advise the transplant team about medicine that can help. It is important that we work together. You, your family, and all the staff are on the same team to help care for you. Share your concerns with your nurse. 
 
-Emotions
+## Emotions
 Most people have some distress during the course of treatment. Fear of the disease, treatment, and even the unknown are common and normal. Being in the hospital for a long time, the slow recovery after transplant, and low energy may be frustrating. Dealing with your feelings can help you cope with treatment and feel better. You may want to speak with your social worker. Other services are also available to help you. Patients have taught us over the years some ways that people can cope positively with cancer and feel better as a result. The following are suggestions that might be helpful. 
 
-Ask Questions
+### Ask Questions
 Learning about your illness, transplant, and treatment is one way to decrease fear of the unknown. The transplant can be overwhelming because many things are happening. By making a list of your worries or questions, you can focus on two or three concerns at a time. The team caring for you expects you to have questions and will answer them. 
 
-Share Feelings and Thoughts
+### Share Feelings and Thoughts
 Sharing how you feel with others and what you think about your transplant is one way to decrease the burden. Some patients find this difficult because they do not want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful. 
 
 While you are in the hospital, we will try to help you feel comfortable. Sometimes it is best to take things one day at a time. We know that you will be watching each day for the moment when you can go home. The staff will watch and wait with you. Before you go home, your nurse will give you a copy of Returning Home After Your Autologous Transplant. This booklet will help to prepare you to return to your home environment. It will address some common concerns of patients who have had a transplant. We care about you and your family, and we want to help you as much as we can. There are many people available to help you and your family cope. Please share your questions and concerns with us. 
-Common Terms
+
+## Common Terms
+
 This section is a glossary of common used terms that you may hear. 
+
 Allogeneic bone marrow transplant - a transplant in which bone marrow is taken from a genetically different donor and given to a patient
+
 Antibiotic - a drug that destroys bacterial germs and is used to treat or prevent infections
+
 Antiemetic - a drug that prevents or lessens nausea and vomiting
+
 Autologous stem cell transplant - a transplant using the patient's own stem cells
+
 Bacteria - small germs that may cause infection
+
 Blood culture - a blood test used to check for a specific infection in the blood
+
 Bone marrow - spongy material in the center of bones where blood cells are made
+
 Bone marrow aspiration - the taking of bone marrow from the center of the hip or (rarely) breastbone
+
 Cardiomyopathy - damage to the heart muscle that affects the amount of blood the heart pumps through the body
 cc (cubic centimeter) - a unit of measure that is also called a milliliter, mL (there are 30cc or 30mL in one ounce)
+
 Chemotherapy - anticancer drugs, used alone or in combination, to treat cancer
+
 Complete blood count (CBC) - a blood test to measure the type and number of blood cells
+
 Cryopreservation - the process of freezing, e.g., stem cells
-Edema  swelling which occurs (usually in the lower legs) when fluid moves from the blood vessels to the soft tissue
+
+Edema - swelling which occurs (usually in the lower legs) when fluid moves from the blood vessels to the soft tissue
+
 Engraftment - the growth of transplanted stem cells reflected when the blood count begins to return to normal
+
 Esophagitis - an inflammation of the esophagus (food pipe)
+
 Esophagus - the part of the digestive tract that connects the mouth to the stomach
+
 Fractionated radiation - the total dose of radiation treatment divided over several days
+
 Fungus (e.g., Candida) - germs that can cause infection
+
 Harvesting - collecting the bone marrow or stem cells that are needed for a transplant
+
 Hemoglobin - the part of the red blood cells that carries oxygen
+
 Immunosuppression - a decreased ability of the immune system to fight infection. (It can be caused by chemotherapy or other drugs, radiation, infection, or by the cancer itself.)
-Interstitial pneumonia  an infection of the lung, often due to a virus, radiation, or chemotherapy
+
+Interstitial pneumonia - an infection of the lung, often due to a virus, radiation, or chemotherapy
+
 Irradiated blood products - blood products that have been exposed to a radiation source to prevent white blood cells from dividing
+
 Jaundice - a yellowish skin color, usually reflecting damage to the liver
+
 Leukemia - a disease in which the bone marrow makes abnormal white blood cells
+
 Lymphatic system - that part of the circulatory system consisting of lymph nodes and vessels that filter out germs and diseased cells
+
 Lymphoma - a cancer of the immune system involving the lymph tissue
+
 Mucositis  painful sores in the mouth and throat that can be a side effect of chemotherapy and radiation therapy
 Neutropenia - a low neutrophil count (white blood cells that fight infection), making the patient prone to infection
 Neutropenic diet - a diet that eliminates foods high in bacteria for patients who are more susceptible to infection because of a low neutrophil count 
+
 NPO - nothing by mouth
+
 Platelet - a type of blood cell that helps blood clot and stops bleeding
+
 Premedication - medications given before a treatment to decrease or prevent side effects
+
 Radiation therapy - the use of high-energy x-rays to treat diseases
+
 Red blood cell - a type of blood cell that carries oxygen in the body
+
 Relapse - the return of the pre-transplant illness during or after treatment
+
 Saline - a salt and water solution
+
 Solid tumor - abnormal growth of cells that form a mass in an area of the body
+
 TBI (total body irradiation) - radiation treatments given to the whole body
+
 TLI (total lymphoid irradiation) - radiation treatments given to the parts of the body where most of the lymphatic system is located
+
 Toothette - a small, soft sponge on a stick used in place of a toothbrush
+
 TPN (total parenteral nutrition) - a highly concentrated nutritional supplement given directly through a vein 
+
 Transplant team - attending physician, fellow, intern, resident, nurse practitioner, nurse, nursing assistant, social worker, psychiatrist, dietitian/nutritionist, pharmacist, physical or occupational therapist, case manager, and consultant physicians
+
 Virus - a small germ, such as herpes virus, hepatitis B and C, and varicella, which can cause infection
+
 White blood cell - a kind of blood cell that helps fight infection
-
-
-
-2011 Memorial Sloan-Kettering Cancer Center
-1275 York Avenue, New York, NY 10065
-
 
 ## Glossary
 

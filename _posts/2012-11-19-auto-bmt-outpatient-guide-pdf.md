@@ -11,7 +11,7 @@ summary: Guide to outpatient BMT. Still in draft.
 notes: Sourced from PDF. Another version is in a Word Doc- they appear to be different, but I can't tell which version is more accurate or up to date.
 strategy: 
 status: unformatted  
-date: 29-10-2012
+date: 19-11-2012
 ---
 # Outpatient Autologous Stem Cell Transplant
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. The outpatient center provides a comfortable, convenient, and safe option for your care while receiving your stem cell transplant. The information in this binder will serve as a roadmap throughout the transplant process, outlining what to expect and how to prepare yourself physically and emotionally.

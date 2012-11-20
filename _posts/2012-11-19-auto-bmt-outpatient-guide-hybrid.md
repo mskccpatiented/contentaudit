@@ -2,53 +2,175 @@
 title: Outpatient Autologous Stem Cell Transplant (Hybrid)
 url: outpatient-autologous-stem-cell-transplant-hybrid
 comments: true
-jargonwords: ['autologous', 'sloan-kettering', 'binder', 'roadmap', 'bmt', 'mskcc', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'circulate', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'dont', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'andor', 'well-', 'clipping', 'unwritten', 'libguides', 'mskccs', '-', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogenreg', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviacreg', 'hickmanreg', 'quintonreg', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'doesnt', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'rinses', 'toothpaste', 'irritate', 'mucous', 'toothettesreg', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'eg', 'unpasteurized', 'fresh-squeezed', 'alfalfa', 'radish', 'dents', 'ready-to-eat', 'expiration', 'cloths', 'sponges', 'bleach', 'lysol', 'sanitizer', 'clorox', 'clean-up', 'nonporous', 'soapy', 'hard-to-clean', 'rinds', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'youll', 'non-', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'skype', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'ultra-soft', 'gels', 'purell', 'colds', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'ie', 'chills', 'sweats', 'irritability', 'urination', 'flu-like', 'colorless', 'plate-', 'microliter', 'mcl', 'pre-', 'self-care', 'straightedge', 'clippers', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'afaintredrashonyourtrunkarmsandlegs', 'vaginalspottingorheavymenstrualbleeding', 'sclera', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin-like', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'wwwcancercareorg', 'lymphoma', 'wwwlls', 'org', 'wwwllsorg', 'wwwmarrow', 'www', 'bonemarroworg', 'cancercareorg', 'presurgical', 'bobst', 'myeloma', 'allogeneic', 'nd', 'chaplaincy', 'chaplains', 'interfaith', 'preauthorization', 'mindbody', 'preapproval', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'kinney', 'atms', 'citibank', 'laundromats', 'reade', 'goldbergers', 'bagel', 'deligrocery', 'dunkin', 'donuts', 'togo', 'mcdonalds', 'wongs', 'lenox', 'catherines', 'playgroundpark', 'ywca', 'gristedes', 'emporium', 'clearview', 'buslines', 'northbound', 'southbound', 'crosstown', 'mskccstampmachinenearcashier', 'usmailboxesoncornerat', 'lenoxhillpostofficeeth', 'synagogues', 'masjid', 'adventist', 'trinity', 'coptic', '--', 'mysorexar', 'jehovah', 'congregational', 'kehliath', 'jeshurun', 'yorkville', 'lisker', 'zichron', 'ephrain', 'emanu-el', 'manhattanupper', 'sq', 'affinia', 'suite-hotel', 'ten-minute', 'sloan-ketterings', 'pull-out', '-hour', 'five-minute', 'fitzpatricks', 'rosewood', '-minute', 'five-', 'carlyles', 'manhattans', 'guestrooms', 'kitchenette', 'roll-', 'coupon', 'ferros', 'sloan-', 'kettering', 'kitchenettes', 'renovated', '-hm-tower', 'tri-state', 'doorman', 'one-bedroom', 'two-', 'three-bedroom', 'melisa', 'sabo', 'aka', 'one-', 'two-bedroom', 'lounges', 'doormen', 'two-bedroomtwo-bath', 'seasonally', 'avni', 'kancherla', 'dellatorre', 'alder', 'vcrs', 'stereos', 'selena', 'ext', 'need-based', 'ssdi', 'deductable', 'inpatient', 'in-home', 'ssi', 'allotment', 'infoline', 'glossary']
+jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'non-steroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac']
 jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
 tags: []
 summary: Guide to outpatient BMT. Still in draft. 
-notes: Sourced from Word Document. Another version is in a PDF file. Still determining which one is more up to date. 
+notes: A combination, re-write of materials related to Outpatient Auto BMT. 
 strategy: 
-status: unformatted  
-date: 29-10-2012
+status: unformatted 
+date: 19-11-2012
 ---
 # Outpatient Autologous Stem Cell Transplant
-Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. The outpatient center provides a comfortable, convenient, and safe option for your care while receiving your stem cell transplant. The information in this binder will serve as a roadmap throughout the transplant process, outlining what to expect and how to prepare yourself physically and emotionally.
 
-Our goal is to make both you and your caregiver comfortable during your treatment. While you are receiving your outpatient treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic everyday for blood work, vital signs, weight and physical examination. You will also receive your treatment in this area. While you are in
-the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for the patient. There is a communal lounge with coffee and tea for caregivers. This area has wireless internet available for your use.
+## Table of Contents/Structure
 
-At MSKCC, the Adult Bone Marrow Transplant Service works as a team. Your attending doctor, the one you see in
-the clinic, will be in charge of your care throughout your treatment. Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. A fellow is a doctor who has completed general training and is receiving additional training in cancer care. A nurse practitioner is a nurse who has a Master’s
-or Doctorate degree. The nurse practitioner
-is licensed to examine you, provide medical treatments and prescribe medications. The hospitalist is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. House staff are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
-A team of nurses will provide your day-to-day nursing care. While you are here, you will come to know all of the members of your team.
+* Welcome, Overview
+* What's in this document
+* How to use the document ("read this once, all the way through, then again before each phase..etc")
+* Where else to find information
+* Crash course to Auto BMT
+* What is bone marrow
+* What is a stem cell
+* Diseases that affect bone marrow
+* Treatment - Auto BMT. How it's carried out.
+* Nice diagram of whole process
+* For each phase: Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
+* Outpatient BMT - overview. You'll have your treatment here, stay there, come back for daily visits.
+* The Team. Roles, what each person does. 
+* Phase 1 - * The role of the caregiver
+* Financial issues.
+Before. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
+* Phase 2 - During. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
+* Phase 3 - After. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel.
+* Topics - Sexual Health, Sexuality
+* Topcis - Diet and Nutrition
+* Topics - Emotional Support
+* Topics - Financial Issues
+* Topics - Rest, Relaxation
+* Topics - Exercise, Activity
+* Topics - Mouth Care
+* (Note: Some of the topics align neatly to phases, some don't. Should we summarize information on topics in each phase, and refer to a more complete document - like in an appendix? Say for example we are in Phase 1, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)
 
-## Autologous Bone Marrow Transplant
-Stem cell transplants are used to treat for many forms of cancer. Different types of cancers are treated different types of transplant methods. You will be receiving an autologous bone marrow transplant.
+## Welcome, Overview
+Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
 
-In an autologous stem cell transplant, your own stem cells will be used for your transplant. Your stem cells are collected, stored, then returned to your body after you receive chemotherapy.
+### What's in This Booklet?
+This booklet will help you learn about autologous transplantation; what it is and why it's been recommended for you. 
 
-Stem cells give rise to all blood cells. Stem
-cells either divide to form a new stem cell, or they mature to become a red blood cell, white blood cell, or platelet. Your hip, breastbone (sternum), and pelvis contain the largest amount of stem cells, however some circulate in your bloodstream.
+You'll learn about the key phases of your treatment and the team who will care for you. We'll help you prepare for each phase, recommend things you should do and things you should avoid. 
 
-**Visual schematic of the transplant process**
+We'll also recommend further reading on useful topics like sex, diet and exercise. 
 
-—
-Bone marrow is spongy tissue found inside bones.
-Stem cells are blood cells that have not yet become a specific kind of blood cell.
-Blood cells are made in the bone marrow
-* White blood cells (WBC) fight infection
-* Red blood cells (RBC) carry oxygen
-* Platelets (PLT) help form clots to prevent bleeding
-—
+### How To Use This Booklet?
+You should read this booklet completely at least once, then use refer to it as your treatment progresses. 
 
-## Preparing For Your Transplant
-The information in this section will help you prepare for your autologous stem cell transplant.
+As you read through the booklet make a note of any questions that come to mind. Your doctor, or a member of your healthcare team, can answer your questions when you see them next.
 
-### Choosing Your Caregiver
-One of the most important steps as you prepare for your outpatient transplant is choosing your caregiver. Your caregiver will be an important part of your healthcare team. This person is usually a family member or a close friend. You may have just one caregiver during your entire transplant, or you may have different caregivers during different times. It is important to know that while in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care throughout your transplant process.
+### Language Used In This Booklet?
+We've done our best to keep the amount of medical jargon in this booklet to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we're prepared a glossary of useful terms at the back of this booklet. 
+
+### We Need Your Help
+We are constantly trying to improve the information we offer to patients and their families/friends. If you get to the end of this booklet and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
+
+## Bone Marrow Basics
+
+### What is Bone Marrow, What Are Stem Cells?
+<!—DIAGRAM OR DRAWING: We should draw a diagram of this process, the stock ones available online are not good—> 
+
+Bone marrow is a substance found in the spaces in the center of the larger bones in your body; your hip, breastbone and pelvis.
+
+Your bone marrow is where the different types of blood cells are made - including the white blood cells that fight infection, red blood cells that carry oxygen and and platelets that clot to stop you bleeding. 
+
+But, you might ask, how are these blood cells "made"? 
+
+Bone marrow contains a large number of what are called stem cells. Stem cells are young blood cells; they can create many copies of themselves, *dividing* again and again to create more stem cells. They can also follow a path called *differentiation*, where they change into the different types of blood cells found in your body. Stem cells are constantly dividing and differentiating in our bone marrow; new blood cells are created to replace older cells.
+
+### Why You Need a Transplant
+You have malfunctioning, cancerous cells in your body - and these cells are diving rapidly. Your type of cancer responds to high doses of chemotherapy, a form of cancer treatment that uses chemicals to kill these rapidly dividing cells. 
+
+One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood. 
+
+When you receive chemotherapy to kill the cancerous cells in your body your bone marrow will be wiped out and you will lose the ability to make new blood cells. Because you can't make new blood cells, your immune system and your body's ability to heal and renew itself are compromised. This is why you need a transplant.  
+
+### What is an Autologous Transplant?
+Autologous means *from yourself* - an autologous bone marrow transplant, also called an autologous *stem cell* transplant, is one where stem cells are collected (also called "harvested") from your body before you receive your chemotherapy. These stem cells are stored safely while you receive your chemotherapy, then given back to you. You are literally receiving a transplant from yourself.
+
+An autologous transplant has three key phases:
+
+1. Before - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+2. During - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
+3. After - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
+
+Each patient's journey is a little different; your medical team will be able to explain your transplant in more detail.
+
+### What is an Outpatient Bone Marrow Transplant?
+Until relatively recently, bone marrow transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
+
+Now, bone marrow transplants like yours can be done on an outpatient basis. **<Are they admitted?>**
+
+While you are receiving your treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic every day for blood work, vital signs, weight and physical examination. 
+
+While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. 
+
+You will also receive your treatment in this area. **what does this mean?**
+
+## Your Transplant Team
+A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you. 
+
+Your *attending doctor* will be in charge of your care throughout your treatment. Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. 
+
+A *fellow* is a doctor who has completed general training and is receiving additional training in cancer care. 
+
+A *nurse practitioner* is a nurse who has a master’s or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. 
+
+The *hospitalist* is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
+
+*House staff* are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
+
+A team of *nurses* will provide your day-to-day nursing care. 
+
+While you are here, you will come to know all of the members of your team.
+
+**Useful to mention other support services here, PT, OT, Social Work?**
+
+## Phase 1 - Before Your Transplant
+<!— Diagram of the transplant process, with a "you are here" marker on Phase one—>
+
+### One Page Summary of This Phase
+In this phase you'll make preparations for your transplant; practically, physically and emotionally. 
+
+#### Activities
+These are some of the things that will happen during this phase:
+
+* Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver.
+* Testing - You'll undergo a round of tests
+* Admission - You'll be admitted to the hospital
+* Harvesting - Your stem cells will be collected and stored
+* Chemotherapy - You will receive high dose chemotherapy
+
+We cover each of these activities in detail later in this section. 
+
+#### Topics
+It's also important that you know about these topics during this phase:
+
+* How your *fertility* will be affected by your treatment
+* Acknowledging and managing your *emotions*
+* What you can and cannot eat during transplant and recovery
+* Remaining active during your transplant and recovery
+
+We cover each of these topics in detail later in this section. 
+
+#### Actions - Things You Need to Do 
+* Item 1
+* Item 2
+* Item 3
+* Item 4
+* Item 5
+
+**Should this be included at the end of each chapter?**
+
+
+### Activities - Choosing Your Caregiver
+One of the most important steps as you prepare for your outpatient transplant is choosing your caregiver. 
+
+Your caregiver will be an important part of your healthcare team. This person is usually a family member or a close friend. You may have just one caregiver during your entire transplant, or you may have different caregivers during different times. 
+
+It is important to know that while in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care throughout your transplant process.
+
+
 
 * Provide emotional support
 * Provide physical care during and after transplant.
@@ -69,6 +191,26 @@ One of the most important steps as you prepare for your outpatient transplant is
 * Bring you to and from the hospital
 
 There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team.
+
+
+
+
+
+
+
+
+## Phase 2 - Your Transplant
+
+
+
+
+## Phase 3 - After Your Transplant
+
+
+
+## Preparing For Your Transplant
+
+
 
 ### Managing your Emotions
 Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
@@ -118,6 +260,8 @@ Being in the best physical health you can before your transplant will help you r
 
 ### Eating Well
 When preparing for your transplant, eat a well- balanced diet high in protein, vitamins, and minerals. It’s important to be in the best physical health you can be before your transplant because you will have difficulty eating during some periods of time during your transplant.
+
+
 
 ### Hair Care
 Most patients will lose their hair during transplant, which can be a traumatic experience. Some patients choose to cut their hair short before transplant to lessen the shock of losing their hair. Whether or not you choose to cut your hair, before your transplant is a good time to think about whether you might want a wig. If a wig is something your considering, you may wish to visit a wig store while you still have your hair, or with
