@@ -16,25 +16,22 @@ date: 19-11-2012
 # Outpatient Autologous Stem Cell Transplant
 
 ## Table of Contents/Structure
-
-* Welcome, Overview
+### Overview
 * What's in this document
 * How to use the document ("read this once, all the way through, then again before each phase..etc")
 * Where else to find information
 * Crash course to Auto BMT
 * What is bone marrow
 * What is a stem cell
-* Diseases that affect bone marrow
 * Treatment - Auto BMT. How it's carried out.
-* Nice diagram of whole process
-* For each phase: Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
 * Outpatient BMT - overview. You'll have your treatment here, stay there, come back for daily visits.
 * The Team. Roles, what each person does. 
-* Phase 1 - * The role of the caregiver
-* Financial issues.
-Before. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
-* Phase 2 - During. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
-* Phase 3 - After. Name, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel.
+* Nice diagram of whole process
+
+### Phase 1,2,3
+* One Page Summary - Name of the phase, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
+
+### Topics - These will live in whatever phase is most relevant, at least in summary.
 * Topics - Sexual Health, Sexuality
 * Topcis - Diet and Nutrition
 * Topics - Emotional Support
@@ -42,7 +39,8 @@ Before. Name, when it happens, major activities, things you need to do (checklis
 * Topics - Rest, Relaxation
 * Topics - Exercise, Activity
 * Topics - Mouth Care
-* (Note: Some of the topics align neatly to phases, some don't. Should we summarize information on topics in each phase, and refer to a more complete document - like in an appendix? Say for example we are in Phase 1, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)
+
+<p class="question">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</p>
 
 ## Welcome, Overview
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
@@ -169,8 +167,7 @@ We cover each of these topics in detail later in this section.
 * Item 4
 * Item 5
 
-**Should this be included at the end of each chapter?**
-
+<p class="question">Should this be included at the end of each chapter?</p>
 
 ### Activities - Choosing Your Caregiver
 One of the most important steps as you prepare for your outpatient transplant is choosing your caregiver. 
@@ -179,7 +176,7 @@ Your caregiver will be an important part of your healthcare team. This person is
 
 It is important to know that while in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care throughout your transplant process.
 
-
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 
 * Provide emotional support
 * Provide physical care during and after transplant.

@@ -329,6 +329,18 @@ text-align:center;
 margin-top:190px;
 }
 
+p.question{
+padding:1em;
+border:1px solid slategray;
+background: #98D6E2;
+}
+
+p.dmz{
+padding:1em;
+border:1px solid slategray;
+background: #FF9C5B;;
+}
+
 /* ----- ------*/
 article{
 margin:1em 0 2em 0;
