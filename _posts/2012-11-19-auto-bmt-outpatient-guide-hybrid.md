@@ -127,7 +127,7 @@ While you are here, you will come to know all of the members of your team.
 **Useful to mention other support services here, PT, OT, Social Work?**
 
 ## Phase 1 - Before Your Transplant
-<!— Diagram of the transplant process, with a "you are here" marker on Phase one—>
+<div class="image-placeholder">Image Placeholder: Diagram of the transplant process, with a "you are here" marker on Phase one</div>
 
 ### One Page Summary of This Phase
 In this phase you'll make preparations for your transplant; practically, physically and emotionally. 

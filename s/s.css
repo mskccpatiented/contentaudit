@@ -317,6 +317,14 @@ list-style: square inside;
 
 }
 
+.image-placeholder{
+border:1px solid slategray;
+background: whitesmoke;
+width:100%;
+min-height:400px;
+text-align:center;
+}
+
 /* ----- ------*/
 article{
 margin:1em 0 2em 0;
