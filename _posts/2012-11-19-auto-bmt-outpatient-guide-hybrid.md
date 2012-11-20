@@ -104,13 +104,13 @@ Each patient's journey is a little different; your medical team will be able to 
 ### What is an Outpatient Bone Marrow Transplant?
 Until relatively recently, bone marrow transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
 
-Now, bone marrow transplants like yours can be done on an outpatient basis. **<Are they admitted?>**
+Now, bone marrow transplants like yours can be done on an outpatient basis. *I will add a longer description here*
+
+<p class="question">My understanding is that the person is admitted for the acute part of their transplant; the chemo, transplantation, then they are discharged to the hospital. Is that correct? When is it usual for a patient to move into the hotel?</p>
 
 While you are receiving your treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic every day for blood work, vital signs, weight and physical examination. 
 
 While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. 
-
-You will also receive your treatment in this area. **what does this mean?**
 
 ## Your Transplant Team
 <div class="image-placeholder"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
@@ -131,7 +131,7 @@ A team of *nurses* will provide your day-to-day nursing care.
 
 While you are here, you will come to know all of the members of your team.
 
-**Useful to mention other support services here, PT, OT, Social Work?**
+<p class="question">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</p>
 
 ## Phase 1 - Before Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
@@ -176,7 +176,7 @@ Your caregiver will be an important part of your healthcare team. This person is
 
 It is important to know that while in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care throughout your transplant process.
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+<p class="question">I would like to write this bullet-point list into more fluid text, is that acceptable?</p>
 
 * Provide emotional support
 * Provide physical care during and after transplant.
@@ -198,11 +198,7 @@ It is important to know that while in the role of your caregiver, this person wi
 
 There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team.
 
-
-
-
-
-
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 
 
 ## Phase 2 - Your Transplant
