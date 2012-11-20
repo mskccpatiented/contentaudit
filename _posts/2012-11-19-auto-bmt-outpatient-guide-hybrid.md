@@ -68,7 +68,7 @@ We are constantly trying to improve the information we offer to patients and the
 ## Bone Marrow Basics
 
 ### What is Bone Marrow, What Are Stem Cells?
-<!—DIAGRAM OR DRAWING: We should draw a diagram of this process, the stock ones available online are not good—> 
+<div class="image-placeholder"><p>Image Placeholder: We should draw a diagram of this process; marrow->stem cells->differentiated cells. The stock ones available online are not good and we can do better.</p></div>
 
 Bone marrow is a substance found in the spaces in the center of the larger bones in your body; your hip, breastbone and pelvis.
 
@@ -90,9 +90,16 @@ Autologous means *from yourself* - an autologous bone marrow transplant, also ca
 
 An autologous transplant has three key phases:
 
-1. Before - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
-2. During - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
-3. After - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
+<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
+Before - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+
+<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection; apheresis. Maybe also chemotherapy being given through the catheter. </p></div>
+
+During - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
+
+<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
+
+After - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
 
 Each patient's journey is a little different; your medical team will be able to explain your transplant in more detail.
 
@@ -108,9 +115,11 @@ While you are in the outpatient clinic you will be cared for in a private room t
 You will also receive your treatment in this area. **what does this mean?**
 
 ## Your Transplant Team
+<div class="image-placeholder"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
+
 A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you. 
 
-Your *attending doctor* will be in charge of your care throughout your treatment. Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. 
+Your *attending doctor* will be in charge of your care throughout your treatment. Fellows, nurse practitioners, hospitalists and house staff are also partners in your care. *Should we give the names of some attending doctors?*
 
 A *fellow* is a doctor who has completed general training and is receiving additional training in cancer care. 
 
@@ -127,7 +136,7 @@ While you are here, you will come to know all of the members of your team.
 **Useful to mention other support services here, PT, OT, Social Work?**
 
 ## Phase 1 - Before Your Transplant
-<div class="image-placeholder">Image Placeholder: Diagram of the transplant process, with a "you are here" marker on Phase one</div>
+<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
 
 ### One Page Summary of This Phase
 In this phase you'll make preparations for your transplant; practically, physically and emotionally. 

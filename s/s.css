@@ -325,6 +325,10 @@ min-height:400px;
 text-align:center;
 }
 
+.image-placeholder p{
+margin-top:190px;
+}
+
 /* ----- ------*/
 article{
 margin:1em 0 2em 0;
