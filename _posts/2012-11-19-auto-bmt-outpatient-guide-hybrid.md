@@ -97,15 +97,15 @@ Autologous means *from yourself* - an autologous bone marrow transplant, also ca
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-Before - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+**Before** - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection; apheresis. Maybe also chemotherapy being given through the catheter. </p></div>
 
-During - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
+**During** - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
 
-After - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
+**After** - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
 
 Each patient's journey is a little different; your medical team will be able to explain your transplant in more detail.
 
@@ -253,15 +253,38 @@ It's likely that you'll receive these tests:
 Your doctor and nurse will explain any other tests that you may need.<p class="question">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</p>
 
 ### Being Fitted with your Central Venous Catheter
-
 On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
 
 #### What is the CVC? Why Do I Need One?
+<div class="image-placeholder"><p>A clear diagram of the central venous catheter.</p></div>
+A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
+A central venous catheter allows your healthcare team to give you medicine, fluids, electrolytes, blood transfusions and chemotherapy without the need to stick you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
 
+The catheter will stay in your body throughout your treatment and is usually removed around twelve days after you receive your stem cell transplant.
 
+#### Before Your Catheter is Fitted
+Before your catheter is fitted you shouldn't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
 
-### 
+<p class="question">Do we need to state this or is the BMT Outpatient Team monitoring/communicating this?</p> 
+
+Call your doctor before your procedure if you develop any illness. This includes a fever, cold, flu, or sore throat.
+
+If you have been told to be on a clear liquid diet you shouldn't eat any solid food after midnight the night before your procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure.
+
+#### The Procedure
+You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
+
+If you wear contact lenses you should wear glasses on the day you are fitted for your catheter. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
+
+You and your caregiver should leave any valuables or jewelry at home. 
+
+Bring only your medications and the money you need for the day to the hospital. 
+
+<p class="outstanding">Continuing to write this based on the care for your CVC document.</p>
+
+#### Taking Care of Your Catheter
+<p class="outstanding">Summarize the "Caring for your CVC" resource, then ask the patient to read it completely.</p>
  <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 ## Phase 2 - Your Transplant
 
