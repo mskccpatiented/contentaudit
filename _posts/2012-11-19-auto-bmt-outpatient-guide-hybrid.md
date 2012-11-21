@@ -74,14 +74,22 @@ Your bone marrow is where the different types of blood cells are made - includin
 
 But, you might ask, how are these blood cells "made"? 
 
-Bone marrow contains a large number of what are called stem cells. Stem cells are young blood cells; they can create many copies of themselves, *dividing* again and again to create more stem cells. They can also follow a path called *differentiation*, where they change into the different types of blood cells found in your body. Stem cells are constantly dividing and differentiating in our bone marrow; new blood cells are created to replace older cells.
+Bone marrow contains a large number of what are called stem cells. Stem cells are young blood cells; they can create many copies of themselves - *dividing* again and again to create more stem cells. 
+
+Your stem cells can also follow a path called *differentiation*, where they change into the different types of blood cells found in your body. 
+
+Stem cells are constantly dividing and differentiating in our bone marrow creating new blood cells to replace older cells.
 
 ### Why You Need a Transplant
 You have malfunctioning, cancerous cells in your body - and these cells are diving rapidly. Your type of cancer responds to high doses of chemotherapy, a form of cancer treatment that uses chemicals to kill these rapidly dividing cells. 
 
 One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood. 
 
-When you receive chemotherapy to kill the cancerous cells in your body your bone marrow will be wiped out and you will lose the ability to make new blood cells. Because you can't make new blood cells, your immune system and your body's ability to heal and renew itself are compromised. This is why you need a transplant.  
+When you receive chemotherapy to kill the cancerous cells in your body your bone marrow will be wiped out and you will lose the ability to make new blood cells. 
+
+Because you can't make new blood cells, your immune system and your body's ability to renew itself are compromised. 
+
+This is why you need a transplant.  
 
 ### What is an Autologous Transplant?
 Autologous means *from yourself* - an autologous bone marrow transplant, also called an autologous *stem cell* transplant, is one where stem cells are collected (also called "harvested") from your body before you receive your chemotherapy. These stem cells are stored safely while you receive your chemotherapy, then given back to you. You are literally receiving a transplant from yourself.
@@ -104,7 +112,7 @@ Each patient's journey is a little different; your medical team will be able to 
 ### What is an Outpatient Bone Marrow Transplant?
 Until relatively recently, bone marrow transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
 
-Now, bone marrow transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You would only be admitted to the hospital for an overnight stay if you developed complications. 
+Now, bone marrow transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You will only be admitted to the hospital for an overnight stay if you develop complications. 
 
 Here is a typical timeline for an outpatient transplant:
 
@@ -249,11 +257,11 @@ Your doctor and nurse will explain any other tests that you may need.<p class=
 On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
 
 #### What is the CVC? Why Do I Need One?
-<div class="image-placeholder"><p>Image Placeholder: Drawing of Central Venous Catheter.</p></div>
 
 
 
-####  
+
+### 
  <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 ## Phase 2 - Your Transplant
 
