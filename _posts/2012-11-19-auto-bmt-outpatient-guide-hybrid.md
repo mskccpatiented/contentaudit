@@ -104,11 +104,30 @@ Each patient's journey is a little different; your medical team will be able to 
 ### What is an Outpatient Bone Marrow Transplant?
 Until relatively recently, bone marrow transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
 
-Now, bone marrow transplants like yours can be done on an outpatient basis. *I will add a longer description here*
+Now, bone marrow transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination
+
+Here is a typical timeline for an outpatient transplant:
+
+* *Day −4:* You and your caregiver check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
+* *Day −3:* You and your caregiver come to MSKCC's Interventional Radiology department at main campus where you are fitted with a central venous catheter. You return to your hotel or apartment in the evening.
+* *Day −2:* You come to the Outpatient BMT Clinic where you receive your chemotherapy. You return to your hotel or apartment in the evening.
+* *Day −1:* This is a rest day; you remain in your hotel or apartment for the day.
+* *Day 0:* Transplant day. You come to the Outpatient BMT Clinic where you receive your stem cell transplant. You return to your hotel or apartment in the evening.
+* *Day +1 to +12:* You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary.
+
+After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for an additional two weeks. You will visit the Outpatient BMT Clinic twice a week, instead of every day. 
+
+You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
+
+
+
+We explain each of these activities
+
+
 
 <p class="question">My understanding is that the person is admitted for the acute part of their transplant; the chemo, transplantation, then they are discharged to the hospital. Is that correct? When is it usual for a patient to move into the hotel?</p>
 
-While you are receiving your treatment, you will stay in a local hotel or apartment. From there you will come to the outpatient BMT clinic every day for blood work, vital signs, weight and physical examination. 
+
 
 While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. 
 
