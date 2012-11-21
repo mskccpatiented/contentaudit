@@ -104,7 +104,7 @@ Each patient's journey is a little different; your medical team will be able to 
 ### What is an Outpatient Bone Marrow Transplant?
 Until relatively recently, bone marrow transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
 
-Now, bone marrow transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination
+Now, bone marrow transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You would only be admitted to the hospital for an overnight stay if you developed complications. 
 
 Here is a typical timeline for an outpatient transplant:
 
@@ -113,23 +113,13 @@ Here is a typical timeline for an outpatient transplant:
 * *Day −2:* You come to the Outpatient BMT Clinic where you receive your chemotherapy. You return to your hotel or apartment in the evening.
 * *Day −1:* This is a rest day; you remain in your hotel or apartment for the day.
 * *Day 0:* Transplant day. You come to the Outpatient BMT Clinic where you receive your stem cell transplant. You return to your hotel or apartment in the evening.
-* *Day +1 to +12:* You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary.
+* *Day +1 to +12:* You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. You return to your hotel or apartment every evening.
 
 After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for an additional two weeks. You will visit the Outpatient BMT Clinic twice a week, instead of every day. 
 
 You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
-
-
-We explain each of these activities
-
-
-
-<p class="question">My understanding is that the person is admitted for the acute part of their transplant; the chemo, transplantation, then they are discharged to the hospital. Is that correct? When is it usual for a patient to move into the hotel?</p>
-
-
-
-While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. 
+<p class="move">Move: While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers.</p>
 
 ## Your Transplant Team
 <div class="image-placeholder"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
@@ -148,9 +138,13 @@ The *hospitalist* is a doctor who only sees patients while they are in the hospi
 
 A team of *nurses* will provide your day-to-day nursing care. 
 
+A *Clinical Pharmacist* who specializes in the care of transplant patients will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review your medications daily with the outpatient team.
+
+*Social Workers* are members of the healthcare team who will help you and your family manage the stresses that come with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling and refer you or your family to other resources and services as needed. 
+
 While you are here, you will come to know all of the members of your team.
 
-<p class="question">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</p>
+<p class="question complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</p>
 
 ## Phase 1 - Before Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>

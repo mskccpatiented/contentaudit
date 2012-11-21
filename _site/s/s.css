@@ -341,6 +341,16 @@ border:1px solid slategray;
 background: #FF9C5B;;
 }
 
+p.move{
+padding:0.25em;
+border:1px solid slategray;
+background:silver;
+}
+
+.complete{
+text-decoration:line-through;
+}
+
 /* ----- ------*/
 article{
 margin:1em 0 2em 0;
