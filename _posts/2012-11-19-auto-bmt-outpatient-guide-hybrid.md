@@ -144,7 +144,7 @@ A *Clinical Pharmacist* who specializes in the care of transplant patients will 
 
 While you are here, you will come to know all of the members of your team.
 
-<p class="question"><span class="complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</span> Decision: Yes, include social work and pharmacist - but not pt/ot.</p>
+<p class="question"><span class="complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</span> Decision: Yes, include social work and pharmacist - but not PT/OT</p>
 
 ## Phase 1 - Before Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
@@ -180,7 +180,7 @@ We cover each of these topics in detail later in this section.
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-<p class="question"><span class="complete"Should this be included at the end of each chapter?</span>Decision: Yes, actions at the end of the chapter.</p>
+<p class="question"><span class="complete">Should this be included at the end of each chapter?</span>Decision: Yes, actions at the end of the chapter.</p>
 
 ### Meeting Your Team
 <p class="outstanding">To be written</p>
