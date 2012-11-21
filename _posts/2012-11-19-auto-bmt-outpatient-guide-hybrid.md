@@ -156,6 +156,7 @@ In this phase you'll make preparations for your transplant; practically, physica
 
 These are the key things that will happen during this phase:
 
+* Financial Clearance - You will work with your insurance company to make sure your treatment and medications are covered
 * Meeting your Team - You will meet your primary physician and members of the Outpatient BMT team
 * Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver
 * Testing - You'll undergo a round of tests
@@ -169,6 +170,7 @@ We cover each of these activities in detail later in this section.
 #### Topics
 It's also important that you know about these topics during this phase:
 
+* Insurance issues. **Find resources**
 * How your *fertility* will be affected by your treatment
 * Acknowledging and managing your *emotions*
 * *Remaining active* during your transplant and recovery
@@ -180,44 +182,79 @@ We cover each of these topics in detail later in this section.
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-<p class="question"><span class="complete">Should this be included at the end of each chapter?</span>Decision: Yes, actions at the end of the chapter.</p>
+<p class="question"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
 
 ### Meeting Your Team
+When does it happen: Sometime around Day −30.
 <p class="outstanding">To be written</p>
 
-
 ### Choosing Your Caregiver
-One of the most important steps as you prepare for your outpatient transplant is choosing your caregiver. 
+One of the most important steps as you prepare for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. 
 
-Your caregiver will be an important part of your healthcare team. This person is usually a family member or a close friend. You may have just one caregiver during your entire transplant, or you may have different caregivers during different times. 
+Your caregiver will be responsible for a lot of the day to day medical, practical, emotional support you need during your outpatient transplant. 
 
-It is important to know that while in the role of your caregiver, this person will not be able to work. Your caregiver will be involved in your care throughout your transplant process.
+Your caregiver will be responsible for things such as:
 
-<p class="question">I would like to write this bullet-point list into more fluid text, is that acceptable?</p>
+#### Medical Support 
+* Gathering information from the healthcare team
+* Caring for your catheter **(what does this mean?)**
+* Making sure you take your medications and keeping a written record of when you take your medications
+* Taking your temperature every 4 hours while you are awake and keeping a written record of your temperature
+* Keeping a written record of down how much fluid you drink every day
+* Noticing any changes in your condition
+* Telling your healthcare team about any symptoms you may have
+* Calling for medical help in an emergency
 
-* Provide emotional support
-* Provide physical care during and after transplant.
-* Help with everyday tasks
-* Care for your central line
-* Make sure you take your medications
-* Write down when you take your medications
-* Take and record your temperature every 4 hours (while you are awake)
-* Write down how much fluid you drink every day
-* Notice changes in your condition
-* Get you medical help in an emergency
-* Tell your health care team about any symptoms you may have
-* Gather information from the healthcare team
-* Keep family members and friends up-to-date about your condition
-* Help manage the number of visitors you have, keeping you away from anyone who is sick
-* Prepare your meals according to a special diet
-* Maintaining a clean environment in your home or place of recovery
+#### Practical Support
+* Preparing your meals according to a special, low-microbial diet
 * Bring you to and from the hospital
+* Maintaining a clean environment in your hotel, apartment or home
+* Keeping family members and friends up to date about your condition
+* Managing the number of visitors you have and keeping you away from anyone who is sick
 
-There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team.
+#### Emotional Support
+* Paying attention to your moods and feelings
+* Communicating with you, listening to you
+* Understanding your needs and your decisions
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+<p class="question invisible"><span class="complete">I would like to write this bullet-point list into more fluid text, is that acceptable?</span> Decision: Yes, re-write.</p>
+
+While you're undergoing your transplant your caregiver will not be able to work. Your caregiver will need to remain with you for most of the day and night - though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend.
+
+#### Choosing the Right Caregiver
+Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and who can offer you the support you need. Choose somebody you're comfortable communicating with and who can offer you the emotional support you need. 
+
+#### Resources for Caregivers
+<p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
+
+### Pre-Transplant Medical Testing 
+Before you receive your chemotherapy or undergo your transplant you will have some tests that will tell us how your body is functioning. The results of the tests will be used to plan your treatment and adjust it to your specific needs. The tests will help us to identify any changes to your body that occur during or after your treatment. 
+
+It's likely that you'll receive these tests:
+
+* A chest x-ray 
+* Blood tests
+* Urine tests
+* Electrocardiogram (EKG), echocardiogram (ECHO) or other tests that give information about your heart
+* Pulmonary function tests (PFT’s) - breathing tests that measure lung function
+* Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone.  It also provides measurements of your chest and is used to plan your radiation treatments.
+* Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas
+* Bone marrow aspiration - provides a sample of your bone marrow
+* Skeletal survey - An x-ray of the major bones in your body.  This can take a few hours to do.
+
+Your doctor and nurse will explain any other tests that you may need.<p class="question">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</p>
+
+### Being Fitted with your Central Venous Catheter
+
+On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
+
+#### What is the CVC? Why Do I Need One?
+<div class="image-placeholder"><p>Image Placeholder: Drawing of Central Venous Catheter.</p></div>
 
 
+
+####  
+ <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 ## Phase 2 - Your Transplant
 
 

@@ -349,12 +349,22 @@ background:silver;
 
 .complete{
 text-decoration:line-through;
+opacity:0.6;
+filter:alpha(opacity=60);	
 }
 
 .outstanding{
 padding:0.25em;
 border:1px solid slategray;
 background:#FF9C5B;
+}
+
+.outstanding, .complete, .move, .dmz, .question{
+display:block;
+}
+
+.invisible{
+display:none;
 }
 
 /* ----- ------*/
