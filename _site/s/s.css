@@ -338,7 +338,7 @@ background: #98D6E2;
 p.dmz{
 padding:1em;
 border:1px solid slategray;
-background: #FF9C5B;;
+background: #F5634A;;
 }
 
 p.move{
@@ -349,6 +349,12 @@ background:silver;
 
 .complete{
 text-decoration:line-through;
+}
+
+.outstanding{
+padding:0.25em;
+border:1px solid slategray;
+background:#FF9C5B;
 }
 
 /* ----- ------*/

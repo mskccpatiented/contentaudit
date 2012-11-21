@@ -40,7 +40,7 @@ date: 19-11-2012
 * Topics - Exercise, Activity
 * Topics - Mouth Care
 
-<p class="question">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</p>
+<p class="question"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
 
 ## Welcome, Overview
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
@@ -144,20 +144,23 @@ A *Clinical Pharmacist* who specializes in the care of transplant patients will 
 
 While you are here, you will come to know all of the members of your team.
 
-<p class="question complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</p>
+<p class="question"><span class="complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</span> Decision: Yes, include social work and pharmacist - but not pt/ot.</p>
 
 ## Phase 1 - Before Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
 
+Phase 1 of your treatment begins when you meet your Outpatient BMT team on or around Day −30 and runs all the way up to Day −1, a rest day following your chemotherapy. 
+
 ### One Page Summary of This Phase
-In this phase you'll make preparations for your transplant; practically, physically and emotionally. 
+In this phase you'll make preparations for your transplant; practically, physically and emotionally. This will be a very busy time for you and your family. 
 
-#### Activities
-These are some of the things that will happen during this phase:
+These are the key things that will happen during this phase:
 
-* Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver.
+* Meeting your Team - You will meet your primary physician and members of the Outpatient BMT team
+* Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver
 * Testing - You'll undergo a round of tests
-* Admission - You'll be admitted to the hospital
+* Lodging - You'll move into a hotel or apartment near to MSKCC. 
+* Catheter - Your central venous catheter will be fitted
 * Harvesting - Your stem cells will be collected and stored
 * Chemotherapy - You will receive high dose chemotherapy
 
@@ -168,21 +171,22 @@ It's also important that you know about these topics during this phase:
 
 * How your *fertility* will be affected by your treatment
 * Acknowledging and managing your *emotions*
-* What you can and cannot eat during transplant and recovery
-* Remaining active during your transplant and recovery
+* *Remaining active* during your transplant and recovery
 
 We cover each of these topics in detail later in this section. 
 
+<p class="move">From the list of topics, move: What you can and cannot eat during transplant and recovery</p>
+
 #### Actions - Things You Need to Do 
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-<p class="question">Should this be included at the end of each chapter?</p>
+<p class="question"><span class="complete"Should this be included at the end of each chapter?</span>Decision: Yes, actions at the end of the chapter.</p>
 
-### Activities - Choosing Your Caregiver
+### Meeting Your Team
+<p class="outstanding">To be written</p>
+
+
+### Choosing Your Caregiver
 One of the most important steps as you prepare for your outpatient transplant is choosing your caregiver. 
 
 Your caregiver will be an important part of your healthcare team. This person is usually a family member or a close friend. You may have just one caregiver during your entire transplant, or you may have different caregivers during different times. 
