@@ -10,7 +10,7 @@ tags: []
 summary: Guide to outpatient BMT. Still in draft. 
 notes: A combination, re-write of materials related to Outpatient Auto BMT. 
 strategy: 
-status: unformatted 
+status: partial 
 date: 19-11-2012
 ---
 # Outpatient Autologous Stem Cell Transplant
@@ -272,20 +272,87 @@ Call your doctor before your procedure if you develop any illness. This includes
 
 If you have been told to be on a clear liquid diet you shouldn't eat any solid food after midnight the night before your procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure.
 
-#### The Procedure
+#### The Day of the Procedure
 You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
 If you wear contact lenses you should wear glasses on the day you are fitted for your catheter. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
-You and your caregiver should leave any valuables or jewelry at home. 
+You and your caregiver should leave any valuables or jewelry at home. Bring only your medications and the money you need for the day to the hospital. 
 
-Bring only your medications and the money you need for the day to the hospital. 
+Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital (SDH). Check in at the desk. Please arrive on time.
+In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
-<p class="outstanding">Continuing to write this based on the care for your CVC document.</p>
+#### The Procedure
+<div class="image-placeholder"><p>A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
+
+An **IV line will be started (reword this?)**. You will receive medication through the IV line to control pain and anxiety. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
+
+A second incision will be made on your chest, under your collarbone. The catheter will be inserted through this small incision and tunneled under your skin to the first incision. The catheter will then be threaded into the vein. You may feel a pulling sensation.
+
+A cuff surrounds part of the catheter that lies in the tunnel. This cuff will become anchored in the tunnel about 3 to 4 weeks after your procedure. It prevents bacteria from entering the tunnel and traveling up to your vein. This decreases your risk of infection and prevents your catheter from falling out.
+
+The incision near your collarbone will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
+
+<p class="question">How long does the procedure take, does the patient need to recuperate at the SDH afterwards or do they go straight home? Useful to put a sense of time around the procedure.</p>
+
+<div class="image-placeholder"><p>Would it be possible to show a photo or diagram of the catheter in place? The "after" picture?</p></div>
+
+<p class="question">Is the person given supplies to take care of their catheter?</p>
+
+### After Your Catheter Has Been Fitted
+<p class="question">I assume that once the catheter has finished the person goes back to their apartment/hotel? Our story needs to travel home with them.</p>
+
+After your catheter has been fitted you need to leave the dressings covering the incision near your collarbone in place  and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
+
+<p class="question">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
+
+The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
+
+If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
+Your catheter should not interfere with your day to day  activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
+
+Prepare the following emergency kit and keep it with you at all times: 
+
+<p class="question">Where do we introduce the caps, clamps - this is the first time they're mentioned. What do they do in the case of an emergency? (This is covered in the full guide)</p>
+
+* Two catheter caps
+* One toothless clamp
+* Alcohol swabs
+* One roll of 2-inch tape
+* Two 2x2 gauze pads
+* Your doctor’s office and emergency telephone numbers.
 
 #### Taking Care of Your Catheter
-<p class="outstanding">Summarize the "Caring for your CVC" resource, then ask the patient to read it completely.</p>
- <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+A nurse will teach you how to care for your catheter. You will learn how to use sterile technique to change your dressing. This will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
+
+<p class="question">When, who, where? Rewrite the above to be a little more specific.</p>
+
+Here is a summary of the things you'll do on to take care of your catheter:
+
+* Change the Tegaderm&trade; dressing once a week
+* Change the caps on the lumens and flush the catheter twice a week
+* Clamp the catheter when it's not in use	**(what does this mean?)**
+* Use a waterproof cover, known as an Aquaquard&trade;, over your catheter when showering or bathing
+* Avoid submerging the catheter in water (e.g. in a swimming pool)
+* Keep your catheter secure, avoid pulling it or the lumens.
+* Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
+
+You and your caregiver should be on the look-out for any problems with your catheter. 
+
+If the exit site has drainage or is red, raw, or swollen, call your doctor. These may be signs of infection.
+
+<p class="question">What does "has drainage" mean?</p>
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Call your doctor or nurse immediately. 
+
+<p class="question">Who specifically do they call? Call the BMT Outpatient clinic?</p>
+
+<p class="question">I edited "Cover the site with tape" rolling it into the sentence "Wipe the area that is leaking with an alcohol pad and then cover the leak with tape". The word "site" felt ambiguous and my assumption is that we're taking about putting tape over the leak.</p>
+
+Full instructions on how to care for your catheter are included in the *Caring for Your Central Venous Catheter* guide which is included in the appendices. You should read this guide in full and refer to it when you are changing your dressing or caring for your catheter.
+
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+
 ## Phase 2 - Your Transplant
 
 
