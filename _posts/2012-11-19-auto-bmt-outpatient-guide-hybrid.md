@@ -425,10 +425,24 @@ Tell your transplant team if something is bothering you or doesn't seem right, e
 ### Rest Day - Monitoring Fluid Intake
 <p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+### Other Things to Consider in Phase 1
+<p class="outstanding">Need to bring the insurance, housing, childcare, pets, fertility, exercise, emotional support in here. Insurance and Fertility warrant their own sections.</p>
 
-### Topics
+### Checklist
+Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It's also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.
 
+* Identify a caregiver
+* Arrange for transportation
+* Arrange for housing
+* Arrange for childcare
+* Make an appointment with a fertility specialist if your plans include having children
+* Arrange for pet care
+* Check your prescription drug coverage
+* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+* Visit a wig store if you decide to wear a wig
+* Attend the outpatient transplant orientation with the Nurse Practitioner
+
+<p class="outstanding">Validate this list</p>
 
 ## Phase 2 - Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
@@ -449,7 +463,7 @@ It's also important that you know about these topics during this phase:
 * Topic 1
 
 We cover each of these topics in detail later in this section. 
-
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
@@ -523,20 +537,7 @@ Many patients find they collect a lot of information as they prepare for their t
 
 
 
-### Checklist
-Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It's also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.
-Identify a caregiver
-Arrange for transportation
-Arrange for housing
-Arrange for childcare
- Make an appointment with a fertility specialist if your plans include having children
-Arrange for pet care
-Check your prescription drug coverage
-Purchase a tote bag or rolling bag to carry your supplies to clinic every day
-Visit a wig store if you decide to wear a wig Attend the outpatient transplant orientation
-with the Nurse Practitioner
-Add anything else you want to remember here
-Add anything else you want to remember here
+
 
 ## During Your Transplant
 Your transplant process begins with **unwritten**
