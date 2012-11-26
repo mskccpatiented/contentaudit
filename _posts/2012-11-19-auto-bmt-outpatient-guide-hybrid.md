@@ -40,7 +40,7 @@ date: 19-11-2012
 * Topics - Exercise, Activity
 * Topics - Mouth Care
 
-<p class="question"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
+<p class="question hidden"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
 
 ## Welcome, Overview
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
@@ -89,7 +89,7 @@ When you receive chemotherapy to kill the cancerous cells in your body your bone
 
 Because you can't make new blood cells, your immune system and your body's ability to renew itself are compromised. 
 
-This is why you need a transplant.  
+This is why you need a transplant. 
 
 ### What is an Autologous Transplant?
 Autologous means *from yourself* - an autologous bone marrow transplant, also called an autologous *stem cell* transplant, is one where stem cells are collected (also called "harvested") from your body before you receive your chemotherapy. These stem cells are stored safely while you receive your chemotherapy, then given back to you. You are literally receiving a transplant from yourself.
@@ -97,9 +97,9 @@ Autologous means *from yourself* - an autologous bone marrow transplant, also ca
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-**Before** - You prepare for your transplant. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+**Before** - You prepare for your transplant. You are fitted with a catheter. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
 
-<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection; apheresis. Maybe also chemotherapy being given through the catheter. </p></div>
+<div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
 **During** - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
 
@@ -150,9 +150,11 @@ A *Clinical Pharmacist* who specializes in the care of transplant patients will 
 
 *Social Workers* are members of the healthcare team who will help you and your family manage the stresses that come with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling and refer you or your family to other resources and services as needed. 
 
+<p class="question">What about the BMT Nurse Coordinator or the Transplant Coordinator?</p>
+
 While you are here, you will come to know all of the members of your team.
 
-<p class="question"><span class="complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</span> Decision: Yes, include social work and pharmacist - but not PT/OT</p>
+<p class="question hidden"><span class="complete">Would it be useful to mention other support services here, PT, OT, Social Work? If we mention them, do we refer to them as the healthcare team, or as support services?</span> Decision: Yes, include social work and pharmacist - but not PT/OT</p>
 
 ## Phase 1 - Before Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
@@ -190,7 +192,7 @@ We cover each of these topics in detail later in this section.
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-<p class="question"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
+<p class="question hidden"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
 
 ### Meeting Your Team
 When does it happen: Sometime around Day −30.
@@ -236,26 +238,28 @@ Take time now to think about who you would like to be your caregiver. It should 
 <p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
 
 ### Pre-Transplant Medical Testing 
-Before you receive your chemotherapy or undergo your transplant you will have some tests that will tell us how your body is functioning. The results of the tests will be used to plan your treatment and adjust it to your specific needs. The tests will help us to identify any changes to your body that occur during or after your treatment. 
+Before you receive your chemotherapy or undergo your transplant you will have some tests that will give us a good understanding of your baseline health and organ function. These tests will be done in the 30 days before your transplant (Day −30 onwards). The BMT Nurse Coordinator will work with you and your caregiver to schedule the tests. 
 
 It's likely that you'll receive these tests:
 
-* A chest x-ray 
-* Blood tests
+* A chest x-ray - done to ensure your lungs are clear and there is no evidence of a pneumonia or other problems
+* Blood tests - done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts
 * Urine tests
 * Electrocardiogram (EKG), echocardiogram (ECHO) or other tests that give information about your heart
 * Pulmonary function tests (PFT’s) - breathing tests that measure lung function
-* Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone.  It also provides measurements of your chest and is used to plan your radiation treatments.
+* Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone. It also provides measurements of your chest and is used to plan your radiation treatments.
 * Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas
 * Bone marrow aspiration - provides a sample of your bone marrow
-* Skeletal survey - An x-ray of the major bones in your body.  This can take a few hours to do.
+* Skeletal survey - An x-ray of the major bones in your body. This can take a few hours to do.
 
-Your doctor and nurse will explain any other tests that you may need.<p class="question">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</p>
+The results of the tests will be used to plan your treatment and adjust it to your specific needs. The tests will help us to identify any changes to your body that occur during or after your treatment. 
+
+Your doctor and nurse will explain any other tests that you may need.<p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
 
 ### Being Fitted with your Central Venous Catheter
 On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
 
-#### What is the CVC? Why Do I Need One?
+#### What is a Central Venous Catheter? Why Do I Need One?
 <div class="image-placeholder"><p>A clear diagram of the central venous catheter.</p></div>
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
@@ -303,14 +307,14 @@ The incision near your collarbone will be stitched closed. The stitches will be 
 ### After Your Catheter Has Been Fitted
 <p class="question">I assume that once the catheter has finished the person goes back to their apartment/hotel? Our story needs to travel home with them.</p>
 
-After your catheter has been fitted you need to leave the dressings covering the incision near your collarbone in place  and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
+After your catheter has been fitted you need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
 
 <p class="question">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
 
 The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
-Your catheter should not interfere with your day to day  activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
+Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
 Prepare the following emergency kit and keep it with you at all times: 
 
@@ -326,14 +330,14 @@ Prepare the following emergency kit and keep it with you at all times:
 #### Taking Care of Your Catheter
 A nurse will teach you how to care for your catheter. You will learn how to use sterile technique to change your dressing. This will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
 
-<p class="question">When, who, where? Rewrite the above to be a little more specific.</p>
+<p class="question">When will a nurse teach you? Which nurse? Where does this happen?</p>
 
 Here is a summary of the things you'll do on to take care of your catheter:
 
 * Change the Tegaderm&trade; dressing once a week
 * Change the caps on the lumens and flush the catheter twice a week
 * Clamp the catheter when it's not in use	**(what does this mean?)**
-* Use a waterproof cover, known as an Aquaquard&trade;, over your catheter when showering or bathing
+* Use a waterproof cover, called an Aquaquard&trade;, over your catheter when showering or bathing
 * Avoid submerging the catheter in water (e.g. in a swimming pool)
 * Keep your catheter secure, avoid pulling it or the lumens.
 * Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
@@ -350,6 +354,31 @@ If the exit site has drainage or is red, raw, or swollen, call your doctor. Thes
 <p class="question">I edited "Cover the site with tape" rolling it into the sentence "Wipe the area that is leaking with an alcohol pad and then cover the leak with tape". The word "site" felt ambiguous and my assumption is that we're taking about putting tape over the leak.</p>
 
 Full instructions on how to care for your catheter are included in the *Caring for Your Central Venous Catheter* guide which is included in the appendices. You should read this guide in full and refer to it when you are changing your dressing or caring for your catheter.
+
+### Mobilization and Harvesting
+In an autologous transplant your stem cells are collected ("harvested") from your body before you receive chemotherapy. They are re-introduced into your body after your chemotherapy; this is your stem cell transplant.
+
+On or around Day −4 you will be given an injection of a drug that "mobilizes" your stem cells, then those stem cells will be collected or "harvested" from your bloodstream. 
+
+#### Mobilization
+Normally your stem cells live in your bone marrow (though a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
+
+Because of this, you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen&reg;), pegfilgrastim (Neulasta&reg;) and plerixafor (Mozobil&reg;). 
+
+<p class="question">How many injections, when are the GCSF injections given, by whom, where etc.</p>
+
+#### Collection or Harvesting of your Stem Cells
+<div class="image-placeholder"><p>The harvesting/collection process.</p></div>
+
+<p class="question">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
+
+The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be collected or harvested from your body through a procedure called *apheresis*. 
+
+Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room for. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. 
+
+Most patients have no side effects after the harvesting, and can go back to their regular activities. After your stem cells are harvested, they are frozen and stored until your transplant day.
+
+<p class="question">Would this ever be the case for a BMT patient? "If the veins are not easy to find, an intravenous (IV) catheter (a small flexible tube) may be inserted in a large vein in your neck or chest after a local anesthetic is injected. The catheter can stay in place for many months" </p>
 
 <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 
@@ -430,24 +459,7 @@ Different people look for different amounts of information about their cancer tr
 is the best way to get information about your treatment options. Many people also go to the internet. While the internet is a great resource for information, it is important to go to reliable sources. You can find websites suggested by the MSKCC staff on the LIBGUIDES section on MSKCC’s website at www.mskcc.org. If you prefer, you can call the library reference staff at (212) 639-7439 for assistance finding reliable information.
 Many patients find they collect a lot of information as they prepare for their transplant. Use this binder to organize the information in one place and write down any questions for your healthcare team. Remember to bring this binder with you to all your MSKCC appointments.
 
-### Mobilization and Harvesting
-Before your stem cell transplant, your stem cells will be mobilized and harvested.
-Stem cells are mostly in the bone marrow, however they can be moved into the bloodstream where they can easily be collected. This movement is called mobilization. You will have injections of granulocyte colony stimulating factor (GCSF) such as filgrastim (Neupogen&reg;) or plerixafor (Mozobil&reg;) to increase the amount of stem cells
-in your bloodstream. The stem cells in your blood are harvested before you are treated with chemotherapy.
-Stem cell harvesting is done by a procedure called apheresis, which is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room for 3 to 4 hours for each collection. Usually between 1 and 5 sessions are required to get enough stem cells to support an autologous stem cell transplant.
-The stem cells are collected by a machine that separates them from your blood. Before the procedure, your doctor or nurse will check the veins in your arms. If the veins are not easy to find, an intravenous (IV) catheter (a small flexible tube) may be inserted in a large vein in your neck or chest after a local anesthetic is injected. The catheter can stay in place for many months. It will be used to draw blood or give you chemotherapy after the harvesting. You will also need it for fluids, IV medicines, and blood transfusions. Broviac&reg;, Hickman&reg;, and Quinton&reg; catheters are brands
-of long-term IV catheters. The catheter may have 2 or 3 branches called lumens. Wear shirts that button or zip in the front or tops with a low collar so that the catheter can be accessed easily throughout your care. If the veins on your arms are easy to find, you may not need a catheter for the harvest.
 
-Most patients have no side effects after the harvesting, and can go back to their regular activities. After your stem cells are harvested, they are frozen and stored until you need them.
-
-Mobilization
-A process that encourages stem cells to leave the bone marrow and enter the bloodstream
-
-Harvesting
-The process of collecting stem cells
-
-Apheresis
-The process in which peripheral blood stem cells are harvested.
 
 ### Checklist
 Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It’s also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.

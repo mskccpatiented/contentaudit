@@ -365,7 +365,7 @@ background:#FF9C5B;
 display:block;
 }
 
-.invisible{
+.hidden, .invisible{
 display:none;
 }
 
