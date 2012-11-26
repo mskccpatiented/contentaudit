@@ -138,7 +138,7 @@ Your *attending doctor* will be in charge of your care throughout your treatment
 
 A *fellow* is a doctor who has completed general training and is receiving additional training in cancer care. 
 
-A *nurse practitioner* is a nurse who has a master’s or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. 
+A *nurse practitioner* is a nurse who has a master's or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. 
 
 The *hospitalist* is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
 
@@ -195,7 +195,7 @@ At the end of this chapter you'll find a list of things we need you to do during
 <p class="question hidden"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
 
 ### Meeting Your Team
-When does it happen: Sometime around Day −30.
+When does it happen: Around Day −30.
 <p class="outstanding">To be written</p>
 
 ### Choosing Your Caregiver
@@ -246,7 +246,7 @@ It's likely that you'll receive these tests:
 * Blood tests - done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts
 * Urine tests
 * Electrocardiogram (EKG), echocardiogram (ECHO) or other tests that give information about your heart
-* Pulmonary function tests (PFT’s) - breathing tests that measure lung function
+* Pulmonary function tests (PFT's) - breathing tests that measure lung function
 * Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone. It also provides measurements of your chest and is used to plan your radiation treatments.
 * Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas
 * Bone marrow aspiration - provides a sample of your bone marrow
@@ -325,7 +325,7 @@ Prepare the following emergency kit and keep it with you at all times:
 * Alcohol swabs
 * One roll of 2-inch tape
 * Two 2x2 gauze pads
-* Your doctor’s office and emergency telephone numbers.
+* Your doctor's office and emergency telephone numbers.
 
 #### Taking Care of Your Catheter
 A nurse will teach you how to care for your catheter. You will learn how to use sterile technique to change your dressing. This will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
@@ -367,18 +367,61 @@ Because of this, you'll be given injections of a drug called granulocyte colony 
 
 <p class="question">How many injections, when are the GCSF injections given, by whom, where etc.</p>
 
-#### Collection or Harvesting of your Stem Cells
+#### Harvesting of your Stem Cells
 <div class="image-placeholder"><p>The harvesting/collection process.</p></div>
 
 <p class="question">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
 
-The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be collected or harvested from your body through a procedure called *apheresis*. 
+The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be harvested (also called "collected") from your body through a procedure called *apheresis*. 
 
-Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room for. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. 
+Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room for. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
 
-Most patients have no side effects after the harvesting, and can go back to their regular activities. After your stem cells are harvested, they are frozen and stored until your transplant day.
+After your stem cells are harvested, they are frozen and stored until your transplant day.
 
 <p class="question">Would this ever be the case for a BMT patient? "If the veins are not easy to find, an intravenous (IV) catheter (a small flexible tube) may be inserted in a large vein in your neck or chest after a local anesthetic is injected. The catheter can stay in place for many months" </p>
+
+### Receiving Your Chemotherapy
+* When does it happen: Day −2.
+
+Two days before your transplant you'll receive your chemotherapy. (This process is also called "conditioning" because it conditions your body before your transplant). You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included in the appendices.
+
+#### The Morning before Chemotherapy
+On the morning of Day −2 you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus. 
+
+<p class="question">Could you walk me through what happens here in detail? They arrive, who do they meet, where do they go etc.</p>
+
+#### Receiving Chemotherapy
+Once you have checked-in at the Outpatient BMT Clinic you'll be brought to a nearby chemotherapy suite. You are free to bring a laptop or tablet, books, magazines.
+
+<p class="question">Does the patient change into a gown, if so - where does this happen?</p>
+
+Before you receive your chemotherapy it goes through a number of safety checks to make sure everything is correct. 
+
+* Your chemotherapy is ordered by your doctor
+* A nurse checks your chemotherapy order
+* A pharmacist checks your chemotherapy order
+* A pharmacist checks your blood test results
+* Your chemotherapy is prepared in the Pharmacy
+* A pharmacist performs a comprehensive final check of your chemotherapy
+* Your chemotherapy is picked up by your chemotherapy nurse
+* 2 chemotherapy nurses check to make sure your chemotherapy order, blood test results, and chemotherapy are correct
+
+Once these safety checks have been complete your chemotherapy will given to you by your nurse. You will sit in a chair and your chemotherapy will be infused into your body through one of the lumens in your catheter.
+
+<p class="question">How long does this take? Can the caregiver remain with the patient?</p>
+
+#### After Chemotherapy
+When you finish chemotherapy you will return home to your apartment or hotel. You will rest for one day before your transplant. This rest day allows the chemotherapy drug to work and then leave your body; when you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+
+During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.
+
+#### Side Effects from Chemotherapy
+The side effects associated with your chemotherapy include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. 
+
+You should talk to your healthcare team about the side effects associated with your chemotherapy. They will help you understand and prepare for the side effects. Tell your transplant team if something is bothering you or doesn't seem right, even if it seems minor. There are usually things that can be done to help. More information about these and the other side effects is available later in this guide. 
+
+### Rest Day - Monitoring Fluid Intake
+<p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
 <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 
@@ -398,11 +441,11 @@ Most patients have no side effects after the harvesting, and can go back to thei
 ### Managing your Emotions
 Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
 Talk with your transplant team.
-Fear of the disease, treatment, and even the unknown are common and normal. You may want to talk with your social worker, doctor, or nurse about your feelings. If you’re feeling anxious or depressed, your doctor may prescribe a medication to help you deal with the stress. There are many resources available to you as a patient at MSKCC; you can find information about them in the Resources section of this guide.
+Fear of the disease, treatment, and even the unknown are common and normal. You may want to talk with your social worker, doctor, or nurse about your feelings. If you're feeling anxious or depressed, your doctor may prescribe a medication to help you deal with the stress. There are many resources available to you as a patient at MSKCC; you can find information about them in the Resources section of this guide.
 Ask Questions.
 Learning about your illness and transplant helps some people decrease fear of the unknown. The transplant process can be overwhelming because many things are happening. By making a list of your worries or questions, you can focus on just a couple of your concerns at a time. Your transplant team expects you to have questions and will answer them.
 Share your feelings and thoughts.
-Sharing how you feel with others and what you think about your transplant is another way that may decrease the burden. Some patients find this difficult because they don’t want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful.
+Sharing how you feel with others and what you think about your transplant is another way that may decrease the burden. Some patients find this difficult because they don't want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful.
 
 ### Fertility
 If your plans after transplant include having children, there are steps you will need to take now. Nearly all patients become infertile (unable to have children naturally) after a stem cell transplant. However, many patients can take steps before transplant to preserve their fertility.
@@ -414,35 +457,11 @@ If your plans after transplant include having children, there are steps you will
 
 Frozen sperm, embryos, and eggs can be stored for many years. They can be thawed and used in the future, once you are medically cleared and ready to start a family. Talk with your doctor or nurse if you would like more information about options to preserve your fertility.
 
-### Tests and Procedures
-Before you receive your transplant, you will need some medical tests. Some of these tests may have been done already; your your transplant team will tell you which tests are necessary and work with you to schedule them.
-
-* Chest x-ray
-* Blood tests
-These tests are done to see how well your kidney, liver, and bone marrow are working.
-* Urine tests
-These tests are used to see how your kidneys are working.
-* Electrocardiogram (EKG)
-This test shows the electrical activity of your heart.
-* Echocardiogram (ECHO)
-This test tells how well your heart is functioning.
-* Pulmonary function test (PFT)
-This test determines how well your lungs are working.
-* Computerized axial tomography (CT) Scan This test is done to look closely at the organs inside your body.
-* Positron emission tomography (PET) Scan This test is done to look for cancer.
-* Bone marrow aspiration
-A sample of bone marrow will be collected from your hip bone. This test looks at
-how well your bone marrow is working and will show if there is any disease present in the marrow.
-* Skeletal survey
-This test is done to see if there is any disease in your bones.
-* Dental Exam
-Any cavities, loose fillings, or gum disease should be taken care of before your transplant. You can have this done by your own dentist or you can see our dentists. If you see your own dentist, please ask him or her to provide a note that you have no dental problems.
-
 ### Exercise
-Being in the best physical health you can before your transplant will help you recover. Before your transplant, work with your doctor and/or physical therapist to develop an exercise plan that’s right for you. Walking or doing some form of exercise every day will help prepare your body for transplant.
+Being in the best physical health you can before your transplant will help you recover. Before your transplant, work with your doctor and/or physical therapist to develop an exercise plan that's right for you. Walking or doing some form of exercise every day will help prepare your body for transplant.
 
 ### Eating Well
-When preparing for your transplant, eat a well- balanced diet high in protein, vitamins, and minerals. It’s important to be in the best physical health you can be before your transplant because you will have difficulty eating during some periods of time during your transplant.
+When preparing for your transplant, eat a well- balanced diet high in protein, vitamins, and minerals. It's important to be in the best physical health you can be before your transplant because you will have difficulty eating during some periods of time during your transplant.
 
 
 
@@ -456,13 +475,13 @@ Unwritten.
 
 ### Getting More Information
 Different people look for different amounts of information about their cancer treatment. If you would like to know more than what is in this binder, there are a number of ways to get reliable information. Talking to your healthcare team
-is the best way to get information about your treatment options. Many people also go to the internet. While the internet is a great resource for information, it is important to go to reliable sources. You can find websites suggested by the MSKCC staff on the LIBGUIDES section on MSKCC’s website at www.mskcc.org. If you prefer, you can call the library reference staff at (212) 639-7439 for assistance finding reliable information.
+is the best way to get information about your treatment options. Many people also go to the internet. While the internet is a great resource for information, it is important to go to reliable sources. You can find websites suggested by the MSKCC staff on the LIBGUIDES section on MSKCC's website at www.mskcc.org. If you prefer, you can call the library reference staff at (212) 639-7439 for assistance finding reliable information.
 Many patients find they collect a lot of information as they prepare for their transplant. Use this binder to organize the information in one place and write down any questions for your healthcare team. Remember to bring this binder with you to all your MSKCC appointments.
 
 
 
 ### Checklist
-Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It’s also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.
+Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It's also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.
 Identify a caregiver
 Arrange for transportation
 Arrange for housing
@@ -479,9 +498,7 @@ Add anything else you want to remember here
 ## During Your Transplant
 Your transplant process begins with **unwritten**
 
-￼During the conditioning phase of your transplant, you will receive chemotherapy called melphalan. Using chemotherapy to destroy cancer cells conditions your body to receive the transplant. Information about melphalan, including its side effects, is included in the Medications section of this guide.
-Talking with your healthcare team is an important part of controlling and managing any side effects you have from melphalan. Your transplant team will prepare you for any common side effects, but only you can tell when something is bothering you. Tell your transplant team if something is bothering you or doesn’t seem right, even if it seems minor. There are usually things that can be done to help.
-When you finish chemotherapy, you will have 1 or 2 days of rest before your transplant. During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.
+
 
 #### Caring for your Skin
 Keeping yourself clean is very important. You
@@ -510,14 +527,14 @@ It is very important to take good care of your teeth and mouth during your trans
 ### Low Microbial Diet
 **Refer to full Low Micro Diet guide**
 This information will help you follow a low microbial diet. Eating a low microbial diet will reduce your risk of getting ill while you have a weakened immune system, such as after chemotherapy, radiation therapy, or a bone marrow transplant.
-The first section of this booklet has information on how to keep your food safe. The second section explains what foods and beverages are safe to eat while on a low microbial diet. Don’t make any changes to this
+The first section of this booklet has information on how to keep your food safe. The second section explains what foods and beverages are safe to eat while on a low microbial diet. Don't make any changes to this
 diet until you have talked to someone on your healthcare team. This includes your doctor, nurse, nurse practitioner, or dietitian.
 
 Food Safety Guidelines
 
 #### What are microbes?
 Microbes are tiny living organisms, such as bacteria, viruses, yeast, and molds. They can get into food by infecting the animal the food comes from. Microbes can also get into food when it is being processed or prepared. When microbes get into foods, they can cause infections, especially if you have a low white blood cell count (neutropenia).
-Microbes can attach to foods and grow, but you can’t always see, smell, or taste them. They are more likely to grow on
+Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on
 * Milk and other dairy food items that are not refrigerated
 * Undercooked and raw eggs and foods that have raw eggs (e.g., cookie dough and Caesar salad dressing)
 * Undercooked or raw meat, poultry (chicken and turkey), and seafood
@@ -526,8 +543,8 @@ Microbes can attach to foods and grow, but you can’t always see, smell, or tas
 * Vegetable sprouts (e.g., raw alfalfa, soy bean, and radish sprouts)
 
 #### Buying foods that are safe to eat
-* Don’t buy canned foods if the can has dents or is swollen.
-* Don’t buy food in jars if the jar is cracked or the lid is not tightly closed.
+* Don't buy canned foods if the can has dents or is swollen.
+* Don't buy food in jars if the jar is cracked or the lid is not tightly closed.
 * Only buy eggs that are refrigerated in the store. Check the eggs by opening the carton to see if any are broken or cracked.
 * Separate ready-to-eat and raw foods. Put
 raw meat, poultry, seafood, and other raw foods in plastic bags before they go into your shopping cart.
@@ -536,7 +553,7 @@ raw meat, poultry, seafood, and other raw foods in plastic bags before they go i
 
 ### Storing food safely
 * Store food immediately after shopping.
-* Put eggs and milk inside the refrigerator; don’t store them in the door. The temperature inside the refrigerator will stay cooler than in the door area.
+* Put eggs and milk inside the refrigerator; don't store them in the door. The temperature inside the refrigerator will stay cooler than in the door area.
 
 #### Keeping your kitchen clean
 * Keep an area of your kitchen clean for preparing and eating food. This will help prevent the spread of microbes.
@@ -545,7 +562,7 @@ raw meat, poultry, seafood, and other raw foods in plastic bags before they go i
 
 Using cutting boards and equipment
 * Use cutting boards that are made out of
-thick plastic, marble, glass, or ceramic. These materials are nonporous, meaning that food or liquid substances can’t absorb into them. Avoid using wood or other porous surfaces.
+thick plastic, marble, glass, or ceramic. These materials are nonporous, meaning that food or liquid substances can't absorb into them. Avoid using wood or other porous surfaces.
 * Wash cutting boards and knives with hot soapy water before using them to cut the next food. As an extra precaution, wash your cutting boards with a kitchen sanitizer. Throw out worn or hard-to-clean cutting boards.
 
 Handling food safely
@@ -565,7 +582,7 @@ Handling food safely
 * Keep your refrigerator at a temperature of 33° F to 40° F.
 * Keep your freezer at a temperature of 0° F or below.
 * Use a food thermometer to check the temperatures of cooked and reheated foods.
-* Don’t eat hamburgers and other meat products if the meat looks undercooked. Cook the meat until it is grey and the juices run clear.
+* Don't eat hamburgers and other meat products if the meat looks undercooked. Cook the meat until it is grey and the juices run clear.
 * Cook fish until it flakes.
 * Cook egg whites and yolks until they are firm.
 * Cook all meats to the minimum internal temperatures listed in the chart below.
@@ -581,16 +598,16 @@ You may have some side effects during the infusion. The most common ones are nau
 
 You may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. The Nutrition Department
 will provide lemons to reduce the odor. The preservative in the stem cells causes this garlic odor and it will gradually go away over 1 to 2 days.
-Almost immediately after they’re infused, your transplanted cells will travel through your bloodstream into your bone marrow. Here, they engraft and begin to make healthy blood cells. As the bone marrow grows, your blood counts will slowly return to normal. This is called bone marrow engraftment.
+Almost immediately after they're infused, your transplanted cells will travel through your bloodstream into your bone marrow. Here, they engraft and begin to make healthy blood cells. As the bone marrow grows, your blood counts will slowly return to normal. This is called bone marrow engraftment.
 
 *Term: Engraftment is the growth of transplanted stem cells reflected when the blood count return to normal.*
 
 ## After your Autologous stem Cell Transplant
-Now that you’ve had your transplant, you enter a period of watching and waiting for engraftment to occur. Engraftment occurs when the bone marrow begins to form the cells that give rise to mature blood cells. It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
+Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. Engraftment occurs when the bone marrow begins to form the cells that give rise to mature blood cells. It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
 During this time you will come into the clinic everyday. Your blood will
 
 be taken daily to assess and track your blood cell levels, and your vital signs will continue to be checked frequently. You and/or your caregiver will keep track of how much fluid you drink and your temperature while you are not in the clinic.
-After your transplant you’ll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
+After your transplant you'll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
 
 ### Checklist
 You must bring the following items to your clinic appointment everyday:
@@ -761,7 +778,7 @@ Recovery takes time. Sometimes people feel isolated and alone. You might wonder 
 • Discuss your experiences with your doctor or nurse. They can provide you with guidance about what to expect during recovery from transplant as well as what you can do to help.
 • Talk with your social worker for support and counseling.
 • Consider joining a support group. These
-are available in person or on the Internet. Cancer Care (www.cancercare.org) and the Leukemia and Lymphoma Society (www.lls. org) are great resources. MSKCC’s Resources for Life After Cancer program also has support groups, and they can be reached at (212) 888-4740.
+are available in person or on the Internet. Cancer Care (www.cancercare.org) and the Leukemia and Lymphoma Society (www.lls. org) are great resources. MSKCC's Resources for Life After Cancer program also has support groups, and they can be reached at (212) 888-4740.
 
 Consider talking with someone else who
 has been through transplant. The volunteer department here at MSKCC has patient volunteers. You can reach them at (212) 639- 5007. Cancer Care (www.cancercare.org) and the Leukemia and Lymphoma Society (www.lls.org) also offer these services.
@@ -828,7 +845,7 @@ Social workers help patients, family, and friends deal with issues that are comm
 Resources for Life After Cancer
 (RLAC) Program
 (646) 888-4740
-At MSKCC, care doesn’t end after active treatment. The RLAC Program is for patients and their families who have finished treatment. This program has many services, including seminars, workshops, support groups, counseling on life after treatment, and help with insurance and employment issues.
+At MSKCC, care doesn't end after active treatment. The RLAC Program is for patients and their families who have finished treatment. This program has many services, including seminars, workshops, support groups, counseling on life after treatment, and help with insurance and employment issues.
 
 Tobacco Cessation Program
 (212) 610-0507
@@ -861,7 +878,7 @@ Quick Bites
 • Dunkin Donuts 1st between 66th and 67th
 • Togo sandwiches 1st between 66th and 67th
 • McDonalds 1st at 69th
-• Wong’s Chinese Cuisine 1st between
+• Wong's Chinese Cuisine 1st between
 65th and 66th
 Recreation and Fitness
 • Lenox Hill Neighborhood House 331 70th between 1st and 2nd
@@ -905,7 +922,7 @@ St. Catherine
 411 E. 68th, East of 1st (212) 988-8300
 The Resurrection Coptic Catholic Brooklyn
 718-499-6946
-St. Mark’s Coptic Orthodox Jersey City
+St. Mark's Coptic Orthodox Jersey City
 (201) 333-0004
 Christian
 Park Ave. Christian 1010 Park Ave at 85th (212) 288-3246
@@ -964,12 +981,12 @@ This hotel is located in the same building as
 our Rockefeller Outpatient Pavilion at 160 East 53rd Street. There is a Memorial Sloan-Kettering shuttle service available in front of the Rockefeller Outpatient Pavilion that travels to our 1275 York Avenue facilities, Monday to Friday, from 8:00 am to 6:20 pm (every 20 minutes). The rooms feature complimentary Internet access and offer spacious rooms beginning at 420 sq feet. Special seasonal room rates range from $185 to $359. To make a reservation call (800) 321-2211.
 Affinia Gardens
 215 East 64th Street
-This Upper East Side suite-hotel is a ten-minute walk to Memorial Sloan-Kettering’s 67th Street facilities. All suites are equipped with full kitchens, pull-out sofa beds, complimentary Internet,
+This Upper East Side suite-hotel is a ten-minute walk to Memorial Sloan-Kettering's 67th Street facilities. All suites are equipped with full kitchens, pull-out sofa beds, complimentary Internet,
 cable TV, daily housekeeping, use of the 24-hour fitness center, and complimentary tea daily in the Serenity Lounge. Special seasonal room rates vary from $249 to $349. To make a reservation, please request the Memorial Sloan-Kettering Cancer Center rates by calling (800) 233-4642.
 Fitzpatrick Manhattan
 687 Lexington Avenue
 This hotel is located within a five-minute walk
-to Memorial Sloan-Kettering’s Rockefeller Outpatient Pavilion at 53rd Street and Third Avenue. Shuttle service provided by Memorial Sloan-Kettering is available from 8:00 am to 6:20 pm, Monday through Friday, to the Center’s main campus at 1275 York Avenue. The Fitzpatrick’s rooms feature complimentary Internet access and continental breakfast for two persons per room, per night. In addition, Memorial Sloan-Kettering patients and their caregivers receive 20 percent
+to Memorial Sloan-Kettering's Rockefeller Outpatient Pavilion at 53rd Street and Third Avenue. Shuttle service provided by Memorial Sloan-Kettering is available from 8:00 am to 6:20 pm, Monday through Friday, to the Center's main campus at 1275 York Avenue. The Fitzpatrick's rooms feature complimentary Internet access and continental breakfast for two persons per room, per night. In addition, Memorial Sloan-Kettering patients and their caregivers receive 20 percent
 off all food and beverages in the hotel restaurant. Special seasonal room rates vary from $199 to $339. To make a reservation call (800) 367-7701.
 Fitzpatrick Grand Central Hotel
 141 East 44th Street
@@ -978,11 +995,11 @@ to any part of Manhattan. The rooms feature complimentary Internet access and co
 The Carlyle A Rosewood Hotel
 35 East 76th Street
 The Carlyle is located on the Upper East Side
-of Manhattan on the corner of 76th Street and Madison Avenue, a 15-minute walk to Memorial Sloan-Kettering’s 67th Street facilities and a five- minute taxi ride away. Memorial Sloan-Kettering Cancer Center patients and caregivers are provided 24-hour room service, complimentary use of a 24-hour fitness studio, wireless Internet, and use of The Carlyle’s house car, based upon availability, for travel to Memorial Sloan-Kettering facilities. To make a room reservation, please request the Memorial Sloan-Kettering Cancer Center rates by calling (800) 227-5737 or (212) 744-1600. Seasonal rates for a classic or superior room start from $295 to $495.
+of Manhattan on the corner of 76th Street and Madison Avenue, a 15-minute walk to Memorial Sloan-Kettering's 67th Street facilities and a five- minute taxi ride away. Memorial Sloan-Kettering Cancer Center patients and caregivers are provided 24-hour room service, complimentary use of a 24-hour fitness studio, wireless Internet, and use of The Carlyle's house car, based upon availability, for travel to Memorial Sloan-Kettering facilities. To make a room reservation, please request the Memorial Sloan-Kettering Cancer Center rates by calling (800) 227-5737 or (212) 744-1600. Seasonal rates for a classic or superior room start from $295 to $495.
 The Kimberly Hotel
 145 east 50th Street
-This boutique hotel is conveniently located in midtown Manhattan’s East Side. It offers 29 guestrooms and 160 suites with a kitchenette and a sofa bed, and is ideal for families. The rooms feature complimentary Internet access, one roll- away bed per stay, and complimentary boarding in season on a private 75' yacht. Each guest will receive a $10 coupon daily plus a 25 percent discount on all food and beverage in Ferro’s,
-the hotel’s restaurant. There is Memorial Sloan- Kettering shuttle service available in front of the Rockefeller Outpatient Pavilion on 53rd Street to our 1275 York Avenue facilities. Special seasonal room rates vary from $299 to $329. To make a reservation call (800) 683-0400.
+This boutique hotel is conveniently located in midtown Manhattan's East Side. It offers 29 guestrooms and 160 suites with a kitchenette and a sofa bed, and is ideal for families. The rooms feature complimentary Internet access, one roll- away bed per stay, and complimentary boarding in season on a private 75' yacht. Each guest will receive a $10 coupon daily plus a 25 percent discount on all food and beverage in Ferro's,
+the hotel's restaurant. There is Memorial Sloan- Kettering shuttle service available in front of the Rockefeller Outpatient Pavilion on 53rd Street to our 1275 York Avenue facilities. Special seasonal room rates vary from $299 to $329. To make a reservation call (800) 683-0400.
 The New York Presbyterian Guest Facility
 1320 York Avenue
 This facility is just two short blocks north of
@@ -1003,7 +1020,7 @@ Alternative Business Accommodations
 Alternative Business Accommodations offers rooms for 30 days and over at many locations beginning at a rate of $130. Rates do not include tax. For reservations, contact Catherine DellaTorre at (212) 445-0494.
 
 Equity Corporate Housing
-Equity Corporate Housing offers furnished apartments throughout Manhattan for 30 days and over. Most apartments are located within walking distance of Memorial Sloan-Kettering’s Main Campus at 1275 York Avenue. Rates start at $160/day plus tax. For reservations contact Michelle Alder at (212) 367-7368.
+Equity Corporate Housing offers furnished apartments throughout Manhattan for 30 days and over. Most apartments are located within walking distance of Memorial Sloan-Kettering's Main Campus at 1275 York Avenue. Rates start at $160/day plus tax. For reservations contact Michelle Alder at (212) 367-7368.
 Furnished Quarters
 Furnished Quarters is a provider of furnished, fully equipped studio, one-bedroom, and two-bedroom apartments ranging from $130 to $250 per
 night for 30 days and longer. Apartments feature housekeeping, free local phone calls, cable TVs, DVDs, VCRs, stereos with CD players, internet access, and fully equipped kitchens. In order to receive the special rates noted above, when making a reservation, patients must indicate that they are Memorial Sloan-Kettering patients. For further information or to make a reservation, contact Selena Rogers at (212)367-9400, ext 4347 (direct line) or (212) 367-9400 (general information)
@@ -1028,7 +1045,7 @@ Part A covers:
 • Other medical supplies or services
 
 Part B covers:
-• Doctor’s services
+• Doctor's services
 • Outpatient care
 • Medical equipment
 To apply, call the Social Security Administration at (800) 772-1213.
