@@ -374,7 +374,7 @@ Because of this, you'll be given injections of a drug called granulocyte colony 
 
 The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be harvested (also called "collected") from your body through a procedure called *apheresis*. 
 
-Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room for. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
+Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
 
 After your stem cells are harvested, they are frozen and stored until your transplant day.
 
@@ -416,16 +416,59 @@ When you finish chemotherapy you will return home to your apartment or hotel. Yo
 During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.
 
 #### Side Effects from Chemotherapy
-The side effects associated with your chemotherapy include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. 
+Your healthcare will help you understand and prepare for the side effects. 
 
-You should talk to your healthcare team about the side effects associated with your chemotherapy. They will help you understand and prepare for the side effects. Tell your transplant team if something is bothering you or doesn't seem right, even if it seems minor. There are usually things that can be done to help. More information about these and the other side effects is available later in this guide. 
+The side effects associated with your chemotherapy include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. More information about these and the other side effects is available later in this guide. 
+
+Tell your transplant team if something is bothering you or doesn't seem right, even if it seems minor. There are usually things that can be done to help. 
 
 ### Rest Day - Monitoring Fluid Intake
 <p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
 <p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 
+### Topics
+
+
 ## Phase 2 - Your Transplant
+<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
+
+### One Page Summary of This Phase
+Phase 2 of your treatment last just one day. On Day 0, your transplant day, your stem cells will be taken from storage and infused into your body through your catheter. 
+
+These are the key things that will happen during this phase:
+
+* Stem Cells Retrieved - Your stem cells will be taken from storage and thawed.
+* Transplantation - Your stem cells will be infused into your body through your catheter.
+
+We cover each of these activities in detail later in this section.
+ 
+#### Topics
+It's also important that you know about these topics during this phase:
+
+* Topic 1
+
+We cover each of these topics in detail later in this section. 
+
+#### Actions - Things You Need to Do 
+At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
+
+
+
+
+### Transplant Day
+
+Once the diseased cells and bone marrow are destroyed by chemotherapy, it is time for your transplant, or “rescue”. This is often called “day zero”. Many survivors consider this day their second birthday.
+
+Before your transplant, your frozen stem cells will be removed from storage and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. Once the stem cells are thawed, the nurse practitioner or doctor will infuse them through your IV catheter.
+
+You may have some side effects during the infusion. The most common ones are nausea, vomiting, a tickle in your throat, and a cough. You will receive medicine about 30 minutes before your transplant to help reduce these side effects.
+
+You may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. The Nutrition Department
+will provide lemons to reduce the odor. The preservative in the stem cells causes this garlic odor and it will gradually go away over 1 to 2 days.
+Almost immediately after they're infused, your transplanted cells will travel through your bloodstream into your bone marrow. Here, they engraft and begin to make healthy blood cells. As the bone marrow grows, your blood counts will slowly return to normal. This is called bone marrow engraftment.
+
+*Term: Engraftment is the growth of transplanted stem cells reflected when the blood count return to normal.*
 
 
 
@@ -590,17 +633,6 @@ Handling food safely
 **Continues - Refer to full Low Micro Diet guide**
 
 ## Transplant Day
-Once the diseased cells and bone marrow are destroyed by chemotherapy, it is time for your transplant, or “rescue”. This is often called “day zero”. Many survivors consider this day their second birthday.
-
-Before your transplant, your frozen stem cells will be removed from storage and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. Once the stem cells are thawed, the nurse practitioner or doctor will infuse them through your IV catheter.
-
-You may have some side effects during the infusion. The most common ones are nausea, vomiting, a tickle in your throat, and a cough. You will receive medicine about 30 minutes before your transplant to help reduce these side effects.
-
-You may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. The Nutrition Department
-will provide lemons to reduce the odor. The preservative in the stem cells causes this garlic odor and it will gradually go away over 1 to 2 days.
-Almost immediately after they're infused, your transplanted cells will travel through your bloodstream into your bone marrow. Here, they engraft and begin to make healthy blood cells. As the bone marrow grows, your blood counts will slowly return to normal. This is called bone marrow engraftment.
-
-*Term: Engraftment is the growth of transplanted stem cells reflected when the blood count return to normal.*
 
 ## After your Autologous stem Cell Transplant
 Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. Engraftment occurs when the bone marrow begins to form the cells that give rise to mature blood cells. It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
