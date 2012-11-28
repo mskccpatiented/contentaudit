@@ -236,7 +236,7 @@ While you're undergoing your transplant your caregiver will not be able to work.
 Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and who can offer you the support you need. Choose somebody you're comfortable communicating with and who can offer you the emotional support you need. 
 
 ### BMT Orientation
-<p class="outstanding">To be written. I don't understand how the BMT Orientation works; research and write content. Does the face-to-face BMT orientation still happen?</p>
+<p class="question">To be written. I don't understand how the BMT Orientation works; research and write content. Does the face-to-face BMT orientation still happen?</p>
 
 #### Resources for Caregivers
 <p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
@@ -271,7 +271,7 @@ Your doctor and nurse will explain any other tests that you may need.
 <p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
 
 ### Moving into a Nearby Apartment or Hotel
-<p class="outstanding">To be written. Explain the process of getting a space at the Helmsley, how it works etc.</p>
+<p class="question">To be written. How does the patient actually go about getting a space at the Helmsley. Who organizes this?</p>
 
 ### Being Fitted with your Central Venous Catheter
 On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
