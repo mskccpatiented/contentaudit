@@ -473,23 +473,23 @@ If you are a man and wish to donate sperm you will travel to a sperm bank facili
 
 Sperm can be stored for as long as is necessary and a yearly storage fee will apply. 
 
-**Women** who want to have children after their chemotherapy can have their eggs collected and stored beforehand. In the future these eggs may be fertilized to create embryos which can then be implanted in the uterus. 
+**Women** who want to have children after their chemotherapy can have eggs or fertilized embryos collected and stored beforehand. 
 
-If you are a woman and wish to store your eggs for future fertilization, first the reproductive endocrinologist will examine you and review your medical history before discussing your options. 
+If you are a woman and wish to store your eggs or embryos for future fertilization, first the reproductive endocrinologist will examine you and review your medical history before discussing your options. 
 
-If banking your eggs is an option, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate your ovaries to make more eggs than usual. You will continue this for one to two weeks. 
+If banking your eggs or embryos is an option and you decide to proceed on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate your ovaries to make more eggs than usual. You will continue this for one to two weeks. 
 
-While you are taking the daily injections, you will see reproductive endocrinologist every day or every other day for blood tests and transvaginal ultrasounds. Day-to-day changes in the dose of your injection are made based on your response. 
+While you are taking the daily injections, you will see your reproductive endocrinologist every day or every other day for blood tests and transvaginal ultrasounds. 
 
-Once you have enough mature eggs, you will give yourself a different injection to stimulate ovulation. You will be scheduled to have your egg retrieval (collection) about 36 hours after this injection. The egg retrieval is an outpatient procedure. It is done using anesthesia so you will be asleep. No surgical incision is needed. The eggs are collected using a very thin needle that is passed through your vagina. 
+Once you have enough mature eggs, you will give yourself a different injection to stimulate ovulation. Within 36 hours you will have an egg retrieval. The egg retrieval is an outpatient procedure done using anesthesia - you will be asleep and no surgical incision is needed. The eggs are collected using a very thin needle that is passed through your vagina. 
 
-From this point it's possible to fertilize your eggs and freeze the resulting embryos. This is called embryo cryopreservation. When you are ready to use the embryos, one or two are thawed and transferred into your uterus.
+From this point it's possible to fertilize your eggs with sperm and freeze the resulting embryos. This is called embryo cryopreservation. 
 
 An alternative to embryo cryopreservation is egg (oocyte) cryopreservation. This involves freezing eggs that have not been fertilized. When you are ready to use them, the eggs are thawed and fertilized with sperm. This is a newer technology and is still considered experimental but may be preferred by women who do not have a male partner during this time.
 
-Whether you decide to freeze embryos or eggs, they will be stored until you are ready and you have been medically cleared  to start a family. A yearly storage fee will apply. 
+Whether you decide to freeze embryos or eggs, they will be stored at an egg bank until you are ready and you have been medically cleared to start a family. A yearly storage fee will apply. 
 
-For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included in the appendices. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor if you would like more information about options to preserve your fertility.
+For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included in the appendices. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
 
 #### Side Effects from Chemotherapy - Hair Loss
 <p class="outstanding">To be written</p>
@@ -513,7 +513,7 @@ Tell your healthcare team how you're feeling. Describe how your body feels. Desc
 ### Checklist
 Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. Use this checklist to keep track of things you need to do before your transplant.
 
-* Read this guide in full at least once
+* Read this guide in full at least once, along with the accompanying appendices and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
 * Talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage
 * Choose a caregiver and make sure they understand what the role entails. 
 * Give your caregiver a copy of this guide and ask them to read it in full at least once
@@ -524,13 +524,12 @@ Before your outpatient treatment starts, there are a number of arrangements to m
 * Arrange for pet care
 * Make a list of questions that you would like to ask about the your treatment.
 * Talk through your list of questions with your caregiver and your healthcare team
-* Make an appointment with a fertility specialist if you would like to have children in the future
+* Make an appointment with a fertility specialist if you would like to have children in the future 
 * Visit a wig store if you decide to wear a wig
 * Purchase a tote bag or rolling bag to carry your supplies to clinic every day
 
-
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
-
+<div class="phase divider">Divider</div>
 ## Phase 2 - Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 

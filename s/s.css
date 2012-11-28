@@ -369,6 +369,12 @@ display:block;
 display:none;
 }
 
+.phasedivider{
+padding:1em;
+background:#000;
+margin:0.5em 0 0.5em 0;
+}
+
 /* ----- ------*/
 article{
 margin:1em 0 2em 0;
