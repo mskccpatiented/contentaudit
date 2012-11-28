@@ -381,6 +381,9 @@ margin:0.5em 0 4em 0;
 
 .junk{
 color:#ccc;
+font-family:inherit;
+font-size:inherit;
+line-height:inherit;
 }
 
 /* ----- ------*/
