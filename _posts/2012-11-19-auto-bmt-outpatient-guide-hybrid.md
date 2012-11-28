@@ -529,7 +529,9 @@ Before your outpatient treatment starts, there are a number of arrangements to m
 * Purchase a tote bag or rolling bag to carry your supplies to clinic every day
 
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
-<div class="phase divider">Divider</div>
+
+<div class="phasedivider">End of Phase Divider</div>
+
 ## Phase 2 - Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 
@@ -551,7 +553,7 @@ It's also important that you know about these topics during this phase:
 
 We cover each of these topics in detail later in this section. 
 
-<p class="question">It probably makes more sense to speak about neutropenia, infection control in phase three, rather than here. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
+<p class="question">It probably makes more sense to speak about living with neutropenia, monitoring symptoms, infection control in phase three. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
 
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
@@ -589,12 +591,14 @@ Once the stem cells arrive in your bone marrow they begin to "engraft", forming 
 ### Other Things to Consider in Phase 2
 <p class="question">I don't believe there are any in-depth topics to add in here. </p>
 
-
+<div class="phasedivider">End of Phase Divider</div>
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+<div class="junk">
 ## Phase 3 - After Your Transplant
 * Neutropenia - Living with a low white blood cell count
 * Infection Control - How to avoid getting sick
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+
 ## Preparing For Your Transplant
 
 
@@ -1220,5 +1224,4 @@ Public assistance provides cash to people who have a limited or no income and no
 To apply, call the Human Resources Administration Infoline at (718) 291-1900.
 
 ## Glossary
-
-
+</div>

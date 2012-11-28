@@ -371,8 +371,16 @@ display:none;
 
 .phasedivider{
 padding:1em;
-background:#000;
-margin:0.5em 0 0.5em 0;
+background-color:#000;
+font-family:sans-serif;
+color:#ccc;
+text-align:center;
+font-weight:bold;
+margin:0.5em 0 4em 0;
+}
+
+.junk{
+color:#ccc;
 }
 
 /* ----- ------*/
