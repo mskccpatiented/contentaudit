@@ -217,6 +217,7 @@ Your caregiver will be responsible for things such as:
 * Calling for medical help in an emergency
 
 #### Practical Support
+* Dealing with financial and insurance issues 
 * Preparing your meals according to a special, low-microbial diet
 * Bring you to and from the hospital
 * Maintaining a clean environment in your hotel, apartment or home
@@ -236,10 +237,18 @@ While you're undergoing your transplant your caregiver will not be able to work.
 Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and who can offer you the support you need. Choose somebody you're comfortable communicating with and who can offer you the emotional support you need. 
 
 ### BMT Orientation
-<p class="outstanding">To be written. I don't understand how the BMT Orientation works; research and write content. </p>
+<p class="outstanding">To be written. I don't understand how the BMT Orientation works; research and write content. Does the face-to-face BMT orientation still happen?</p>
 
 #### Resources for Caregivers
 <p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
+
+### Financial Clearance
+
+#### Insurance
+<p class="outstanding">Summarize insurance issues, what the patient needs to do to get clearance. The role of Patient Financial Services. </p>
+
+#### Financial Support
+<p class="outstanding">Sources of financial assistance available to patients. What these grants cover, what they don't cover. How to apply. Social work team are going to offer relevant content. </p>
 
 ### Pre-Transplant Medical Testing 
 Before you receive your chemotherapy or undergo your transplant you will have some tests that will give us a good understanding of your baseline health and organ function. These tests will be done in the 30 days before your transplant (Day −30 onwards). The BMT Nurse Coordinator will work with you and your caregiver to schedule the tests. 
@@ -425,15 +434,22 @@ Once these safety checks have been complete your chemotherapy will given to you 
 
 <p class="question">How long does this take? Can the caregiver remain with the patient?</p>
 
-#### After Chemotherapy
+### After Chemotherapy
 When you finish chemotherapy you will return home to your apartment or hotel. You will rest for one day before your transplant. This rest day allows the chemotherapy drug to work and then leave your body; when you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
 
-During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.
+<p class="move">Move this or rewrite: During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.</p>
 
-#### Side Effects from Chemotherapy
-Your healthcare team will help you understand and prepare for the side effects associated with chemotherapy. The side effects associated with your chemotherapy could include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. 
+#### Side Effects of Chemotherapy
+Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores and mouth tenderness. 
 
-By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. More information about these and the other side effects is available later in this guide. 
+Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
+
+Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about these side effects. Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
+
+<p class="question">What about peripheral neuropathy?</p>
+
+#### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
+Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
 One debilitating side effect of chemotherapy is called "**neutropenia**". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
 
@@ -447,15 +463,21 @@ As your stem cells take hold and start to make new blood cells the number of neu
 
 More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
 
-<p class="question">What about peripheral neuropathy?</p>
+#### Side Effects from Chemotherapy - Infertility
+Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. It's highly likely that your chemotherapy will mean that you will not be able to conceive a child naturally - if you would like to have children in the future you can make arrangements to have your sperm or eggs frozen before your chemotherapy. 
 
-After your chemotherapy communication is key - it's important that you communicate with your healthcare team and your caregiver. Tell them how you're feeling. Describe how your body feels, tell them if anything is worrying you, if you notice changes. If anything bothers you, even if it seems minor, tell your healthcare team. There is usually something that they can do to make you feel more comfortable.
+#### Side Effects from Chemotherapy - Hair Loss
+<p class="outstanding">To be written</p>
+
+#### Side Effects from Chemotherapy - Nausea, Fatigue
+Other side effects from you chemotherapy could include fatigue, nausea, diarrhea and mouth sores or mouth tenderness. 
+<p class="outstanding">To be written</p>
 
 ### Rest Day - Monitoring Fluid Intake
 <p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
 ### Other Things to Consider in Phase 1
-<p class="outstanding">Need to bring the insurance, housing, childcare, pets, fertility, exercise, emotional support in here. Insurance and Fertility warrant their own sections. Really need input from the Social Work team; this is pending. They are aware that I need content.</p>
+<p class="outstanding">Need to bring the childcare, pets, exercise, emotional support in here. Need input from the Social Work team; this is pending. They are aware that I need content.</p>
 
 ### Checklist
 Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. Use this checklist to keep track of things you need to do before your transplant.
@@ -468,10 +490,13 @@ Before your outpatient treatment starts, there are a number of arrangements to m
 * Arrange lodging in a hotel or apartment near MSKCC
 * Arrange transportation to bring you from your home to your lodging
 * If you have children, arrange for childcare
-* Make an appointment with a fertility specialist if you would like to have children in the future
 * Arrange for pet care
-* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+* Make a list of questions that you would like to ask about the your treatment.
+* Talk through your list of questions with your caregiver and your healthcare team
+* Make an appointment with a fertility specialist if you would like to have children in the future
 * Visit a wig store if you decide to wear a wig
+* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+
 
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
@@ -530,7 +555,9 @@ Almost immediately after your stem cells are infused into your body they will tr
 
 Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
 
-Your blood counts will slowly return to normal. This is called bone marrow engraftment.
+
+### Other Things to Consider in Phase 2
+<p class="question">I don't believe there are any in-depth topics to add in here. </p>
 
 
 ## Phase 3 - After Your Transplant
