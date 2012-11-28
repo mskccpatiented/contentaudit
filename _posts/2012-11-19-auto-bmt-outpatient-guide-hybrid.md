@@ -169,6 +169,7 @@ These are the key things that will happen during this phase:
 * Financial Clearance - You will work with your insurance company to make sure your treatment and medications are covered
 * Meeting your Team - You will meet your primary physician and members of the Outpatient BMT team
 * Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver
+* Orientation - You and your caregiver will attend an orientation meeting 
 * Testing - You'll undergo a round of tests
 * Lodging - You'll move into a hotel or apartment near to MSKCC. 
 * Catheter - Your central venous catheter will be fitted
@@ -234,6 +235,9 @@ While you're undergoing your transplant your caregiver will not be able to work.
 #### Choosing the Right Caregiver
 Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and who can offer you the support you need. Choose somebody you're comfortable communicating with and who can offer you the emotional support you need. 
 
+### BMT Orientation
+<p class="outstanding">To be written. I don't understand how the BMT Orientation works; research and write content. </p>
+
 #### Resources for Caregivers
 <p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
 
@@ -254,7 +258,12 @@ It's likely that you'll receive these tests:
 
 The results of the tests will be used to plan your treatment and adjust it to your specific needs. The tests will help us to identify any changes to your body that occur during or after your treatment. 
 
-Your doctor and nurse will explain any other tests that you may need.<p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
+Your doctor and nurse will explain any other tests that you may need.
+
+<p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
+
+### Moving into a Nearby Apartment or Hotel
+<p class="outstanding">To be written. Explain the process of getting a space at the Helmsley, how it works etc.</p>
 
 ### Being Fitted with your Central Venous Catheter
 On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
@@ -284,13 +293,15 @@ If you wear contact lenses you should wear glasses on the day you are fitted for
 You and your caregiver should leave any valuables or jewelry at home. Bring only your medications and the money you need for the day to the hospital. 
 
 Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital (SDH). Check in at the desk. Please arrive on time.
-In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
+
+In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
 <div class="image-placeholder"><p>A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
-An **IV line will be started (reword this?)**. You will receive medication through the IV line to control pain and anxiety. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
-Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
+An **IV line will be started (reword this?)**. You will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+
+Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
 
 A second incision will be made on your chest, under your collarbone. The catheter will be inserted through this small incision and tunneled under your skin to the first incision. The catheter will then be threaded into the vein. You may feel a pulling sensation.
 
@@ -314,7 +325,8 @@ After your catheter has been fitted you need to leave the dressings covering the
 The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
-Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
+
+Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
 Prepare the following emergency kit and keep it with you at all times: 
 
@@ -336,18 +348,21 @@ Here is a summary of the things you'll do on to take care of your catheter:
 
 * Change the Tegaderm&trade; dressing once a week
 * Change the caps on the lumens and flush the catheter twice a week
-* Clamp the catheter when it's not in use	**(what does this mean?)**
+* Clamp the catheter when it's not in use	
 * Use a waterproof cover, called an Aquaquard&trade;, over your catheter when showering or bathing
 * Avoid submerging the catheter in water (e.g. in a swimming pool)
 * Keep your catheter secure, avoid pulling it or the lumens.
 * Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
+
+<p class="question">What does this mean: Clamp the catheter when it's not in use</p>
 
 You and your caregiver should be on the look-out for any problems with your catheter. 
 
 If the exit site has drainage or is red, raw, or swollen, call your doctor. These may be signs of infection.
 
 <p class="question">What does "has drainage" mean?</p>
-If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Call your doctor or nurse immediately. 
+
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Call your doctor or nurse immediately. 
 
 <p class="question">Who specifically do they call? Call the BMT Outpatient clinic?</p>
 
@@ -416,33 +431,49 @@ When you finish chemotherapy you will return home to your apartment or hotel. Yo
 During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.
 
 #### Side Effects from Chemotherapy
-Your healthcare will help you understand and prepare for the side effects. 
+Your healthcare team will help you understand and prepare for the side effects associated with chemotherapy. The side effects associated with your chemotherapy could include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. 
 
-The side effects associated with your chemotherapy include nausea, diarrhea and mouth sores or mouth tenderness. Over a longer period of time you'll also experience hair loss. By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. More information about these and the other side effects is available later in this guide. 
+By its nature, chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. More information about these and the other side effects is available later in this guide. 
 
-Tell your transplant team if something is bothering you or doesn't seem right, even if it seems minor. There are usually things that can be done to help. 
+One debilitating side effect of chemotherapy is called "**neutropenia**". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
+
+Because your chemotherapy will kill your stem cells, you lose the ability to make new neutrophils. Because your neutrophils are not being replaced in your body, in the days after your chemotherapy the number of neutrophils in your bloodstream will drop to a very low level, leaving you vulnerable to infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a regular record of your temperature and other vital signs, even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
+
+As well as losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will take special care to avoid cuts and strenuous activities that might cause bleeding. You'll take special care of your gums and mouth, because it's quite common for bleeding to start here.
+
+After your transplant your healthcare team will regularly take samples of your blood to count the number of neutrophils and platelets in your bloodstream. 
+
+As your stem cells take hold and start to make new blood cells the number of neutrophils in your bloodstream (sometimes referred to as your Absolute Neutrophil Count or ANC) will increase, as will your number of platelets (called your platelet count) - these are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term "counts" used frequently by your healthcare team. 
+
+More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
+
+<p class="question">What about peripheral neuropathy?</p>
+
+After your chemotherapy communication is key - it's important that you communicate with your healthcare team and your caregiver. Tell them how you're feeling. Describe how your body feels, tell them if anything is worrying you, if you notice changes. If anything bothers you, even if it seems minor, tell your healthcare team. There is usually something that they can do to make you feel more comfortable.
 
 ### Rest Day - Monitoring Fluid Intake
 <p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
 ### Other Things to Consider in Phase 1
-<p class="outstanding">Need to bring the insurance, housing, childcare, pets, fertility, exercise, emotional support in here. Insurance and Fertility warrant their own sections.</p>
+<p class="outstanding">Need to bring the insurance, housing, childcare, pets, fertility, exercise, emotional support in here. Insurance and Fertility warrant their own sections. Really need input from the Social Work team; this is pending. They are aware that I need content.</p>
 
 ### Checklist
-Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. It's also helpful to gather items you will need ahead of time. Use this checklist to keep track of things you need to do before your transplant.
+Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. Use this checklist to keep track of things you need to do before your transplant.
 
-* Identify a caregiver
-* Arrange for transportation
-* Arrange for housing
-* Arrange for childcare
-* Make an appointment with a fertility specialist if your plans include having children
+* Read this guide in full at least once
+* Talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage
+* Choose a caregiver and make sure they understand what the role entails. 
+* Give your caregiver a copy of this guide and ask them to read it in full at least once
+* Attend the outpatient transplant orientation with the Nurse Practitioner
+* Arrange lodging in a hotel or apartment near MSKCC
+* Arrange transportation to bring you from your home to your lodging
+* If you have children, arrange for childcare
+* Make an appointment with a fertility specialist if you would like to have children in the future
 * Arrange for pet care
-* Check your prescription drug coverage
 * Purchase a tote bag or rolling bag to carry your supplies to clinic every day
 * Visit a wig store if you decide to wear a wig
-* Attend the outpatient transplant orientation with the Nurse Practitioner
 
-<p class="outstanding">Validate this list</p>
+<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
 ## Phase 2 - Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
@@ -461,36 +492,52 @@ We cover each of these activities in detail later in this section.
 It's also important that you know about these topics during this phase:
 
 * Topic 1
+* Topic 2
 
 We cover each of these topics in detail later in this section. 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+
+<p class="question">It probably makes more sense to speak about neutropenia, infection control in phase three, rather than here. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
+
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-
-
-
 ### Transplant Day
+Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your transplant. The stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood and fight infections. 
 
-Once the diseased cells and bone marrow are destroyed by chemotherapy, it is time for your transplant, or “rescue”. This is often called “day zero”. Many survivors consider this day their second birthday.
+#### The Morning Before Transplant
+On the morning of your transplant you should arrive at the Outpatient BMT Clinic at MSKCC's main campus. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
 
-Before your transplant, your frozen stem cells will be removed from storage and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. Once the stem cells are thawed, the nurse practitioner or doctor will infuse them through your IV catheter.
+Once you arrive at the clinic…
+<p class="question">I'd like to get a clear picture of what exactly happens when the patient gets to the clinic. </p>
 
-You may have some side effects during the infusion. The most common ones are nausea, vomiting, a tickle in your throat, and a cough. You will receive medicine about 30 minutes before your transplant to help reduce these side effects.
+#### The Transplant
+Before your transplant, your frozen stem cells will be removed from storage at our blood bank and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
-You may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. The Nutrition Department
-will provide lemons to reduce the odor. The preservative in the stem cells causes this garlic odor and it will gradually go away over 1 to 2 days.
-Almost immediately after they're infused, your transplanted cells will travel through your bloodstream into your bone marrow. Here, they engraft and begin to make healthy blood cells. As the bone marrow grows, your blood counts will slowly return to normal. This is called bone marrow engraftment.
+Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter.
 
-*Term: Engraftment is the growth of transplanted stem cells reflected when the blood count return to normal.*
+<p class="question">How long does the transplant (the infusion of the stem cells) take from start to finish?</p>
 
+You may have experience some side effects as the stem cells are given to you through your catheter. The common ones are nausea, vomiting, a tickle in your throat, or a cough. You will be given some medicine about 30 minutes before your transplant to help reduce these side effects. It's important that you communicate with the healthcare team and with your caregiver during your transplant; let them know how you're feeling especially if something doesn't feel right.
 
+During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The small will gradually go away over 1 to 2 days. 
+
+<p class="question">I just want to validate that the small could be present during *and* after the transplant. Also, when it's mentioned that "The Nutrition Department will provide lemons" - how is it envisaged that the lemons are used. Cut them, leave them around? Why lemons, because they're natural, non-chemical, non-toxic?</p>
+
+#### After Your Transplant
+<p class="question">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
+
+Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
+
+Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
+
+Your blood counts will slowly return to normal. This is called bone marrow engraftment.
 
 
 ## Phase 3 - After Your Transplant
+* Neutropenia - Living with a low white blood cell count
+* Infection Control - How to avoid getting sick
 
-
-
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 ## Preparing For Your Transplant
 
 
