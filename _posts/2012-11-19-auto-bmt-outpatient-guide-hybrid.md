@@ -428,25 +428,21 @@ Two days before your transplant you'll receive your chemotherapy. (This process 
 
 You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included in the appendices.
 
-This will be a busy day. Not only will you receive your chemotherapy, but you'll also meet your Clinical Pharmacist who will review your medications with you and show you how to use your pill box. You'll also receive be given a lot of information about your treatment.
+This will be a busy day. Not only will you receive your chemotherapy, but you'll also meet your Clinical Pharmacist who will review your medications with you and show you how to use your pill box. You and your caregiver will also be given a lot of information about the rest of your treatment and what to expect - some of this information will be on paper and some of it will be verbal. Your caregiver might like to bring a notebook and pen to the clinic to note down key points and any questions.
 
 #### The Morning before Chemotherapy
 On the morning of Day −2 you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time.
 
-Once you arrive at the BMT Outpatient Clinic You will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions. Your vital signs will be checked and you will be weighed. 
+Once you arrive at the BMT Outpatient Clinic You will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
 
-Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will talk through the medications you will take throughout your treatment. The Pharmacist will give you a full list of these medications. 
+Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will talk through the medications you will take throughout your treatment and will give you a full list of these medications. 
 
-Some of your medications will be "self-administered" in that you and your caregiver will manage them; you'll take them on a regular schedule or as needed. The Pharmacist will give you a a medication box (also called a pill box) that you'll use to store and manage your self-administered medications. The pharmacist will explain how to use and refill the pill box.
+Some of your medications will be "self-administered" in that you and your caregiver will manage them. You'll take your self-administered medications on a regular schedule or as needed. The Pharmacist will give you a a medication box (also called a pill box) that you'll use to store and manage your self-administered medications. The pharmacist will explain how to use and refill the pill box.
 
 <p class="question hidden">Could you walk me through what happens here in detail? They arrive, who do they meet, where do they go etc.</p>
 
 #### Receiving Chemotherapy
-
-The nurse will administer IV fluid, anti nausea medication and chemotherapy through the central line.  The nurse and NP will orient the patient to the outpatient BMT experience.  Extensive patient education will be provided to the patient and caregiver (the "Patient Temperature and Oral Intake Diary", BMT Emergency Guide and written patient education materials will be provided and reviewed).  Dietary will provide meals. 
-Once you have checked-in at the Outpatient BMT Clinic you'll be brought to a nearby chemotherapy suite. You are free to bring a laptop or tablet, books, magazines.
-
-<p class="question">Does the patient change into a gown, if so - where does this happen?</p>
+Once you have been evaluated and the Pharmacist has talked through your medications, you'll be brought to a nearby chemotherapy suite where you'll receive your chemotherapy. You are free to bring newspapers, books, your tablet or computer with you.
 
 Before you receive your chemotherapy it goes through a number of safety checks to make sure everything is correct. 
 
@@ -459,11 +455,24 @@ Before you receive your chemotherapy it goes through a number of safety checks t
 * Your chemotherapy is picked up by your chemotherapy nurse
 * 2 chemotherapy nurses check to make sure your chemotherapy order, blood test results, and chemotherapy are correct
 
-Once these safety checks have been complete your chemotherapy will given to you by your nurse. You will sit in a chair and your chemotherapy will be infused into your body through one of the lumens in your catheter.
+Once all the safety checks have been complete the nurse will administer fluids (to keep you hydrated), anti-nausea medication and the chemotherapy drug through your catheter.
 
-<p class="question">How long does this take? Can the caregiver remain with the patient?</p>
+<p class="question invisible">How long does this take? Can the caregiver remain with the patient?</p>
 
-### After Chemotherapy
+#### During your Chemotherapy
+Your chemotherapy will take several hours to administer, so you will be provided with meals. 
+
+During your chemotherapy your healthcare team will use this time to talk to you about the rest of your transplant journey. 
+
+The healthcare team will make sure that the logistics of the next few days are clear - what happens on transplant day and what happens after your transplant. 
+
+They'll talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
+
+You'll be introduced to the "Patient Temperature and Oral Intake Diary" that you and your caregiver will use to record your temperature and hydration every four hours while you are awake. 
+
+You and your caregiver should use the day of chemotherapy to ask as many questions as possible; make sure you are absolutely satisfied that you have all the information you need. Your healthcare team will do everything they can to answer your questions.
+
+#### After Chemotherapy
 When you finish chemotherapy you will return home to your apartment or hotel. You will rest for one day before your transplant. This rest day allows the chemotherapy drug to work and then leave your body; when you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
 
 <p class="move">Move this or rewrite: During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.</p>
