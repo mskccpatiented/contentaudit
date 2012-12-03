@@ -140,8 +140,7 @@ A *fellow* is a doctor who has completed general training and is receiving addit
 
 A *nurse practitioner* is a nurse who has a master's or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. 
 
-Your *BMT Nurse Coordinator*
-Your BMT Nurse Coordinator will work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant.  This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process
+Your *BMT Nurse Coordinator* will work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant.  This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process
 
 The *hospitalist* is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
 
@@ -403,7 +402,7 @@ In most cases GCSF injections are self-administered, that is you will inject you
 
 A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is in the appendices. Your BMT Nurse Coordinator will talk you through this information as well. 
 
-Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different typr of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.    
+Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.    
 
 <p class="question invisible">How many injections, when are the GCSF injections given, by whom, where etc.</p>
 
@@ -414,23 +413,37 @@ Some patients will not give themselves injections of Neupogen or Neulasta (both 
 
 The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be harvested (also called "collected") from your body through a procedure called *apheresis*. 
 
-Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
+Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. 
 
-After your stem cells are harvested, they are frozen and stored until your transplant day.
+If your catheter has already been fitted then it might be used for harvesting instead of an IV line. In this case one of the lumens of your catheter will be connected to the machine that separates the stem cells from your blood. 
 
-<p class="question">Would this ever be the case for a BMT patient? "If the veins are not easy to find, an intravenous (IV) catheter (a small flexible tube) may be inserted in a large vein in your neck or chest after a local anesthetic is injected. The catheter can stay in place for many months" </p>
+Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
+
+After your stem cells are harvested, they are frozen and stored until your transplant day. 
 
 ### Receiving Your Chemotherapy
 * When does it happen: Day −2.
 
-Two days before your transplant you'll receive your chemotherapy. (This process is also called "conditioning" because it conditions, or prepares, your body for transplant). You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included in the appendices.
+Two days before your transplant you'll receive your chemotherapy. (This process is also called "conditioning" because it conditions, or prepares, your body for transplant). Your BMT Nurse Coordinator will work with you to schedule and explain your day of chemotherapy. 
+
+You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included in the appendices.
+
+This will be a busy day. Not only will you receive your chemotherapy, but you'll also meet your Clinical Pharmacist who will review your medications with you and show you how to use your pill box. You'll also receive be given a lot of information about your treatment.
 
 #### The Morning before Chemotherapy
-On the morning of Day −2 you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus. 
+On the morning of Day −2 you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time.
 
-<p class="question">Could you walk me through what happens here in detail? They arrive, who do they meet, where do they go etc.</p>
+Once you arrive at the BMT Outpatient Clinic You will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions. Your vital signs will be checked and you will be weighed. 
+
+Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will talk through the medications you will take throughout your treatment. The Pharmacist will give you a full list of these medications. 
+
+Some of your medications will be "self-administered" in that you and your caregiver will manage them; you'll take them on a regular schedule or as needed. The Pharmacist will give you a a medication box (also called a pill box) that you'll use to store and manage your self-administered medications. The pharmacist will explain how to use and refill the pill box.
+
+<p class="question hidden">Could you walk me through what happens here in detail? They arrive, who do they meet, where do they go etc.</p>
 
 #### Receiving Chemotherapy
+
+The nurse will administer IV fluid, anti nausea medication and chemotherapy through the central line.  The nurse and NP will orient the patient to the outpatient BMT experience.  Extensive patient education will be provided to the patient and caregiver (the "Patient Temperature and Oral Intake Diary", BMT Emergency Guide and written patient education materials will be provided and reviewed).  Dietary will provide meals. 
 Once you have checked-in at the Outpatient BMT Clinic you'll be brought to a nearby chemotherapy suite. You are free to bring a laptop or tablet, books, magazines.
 
 <p class="question">Does the patient change into a gown, if so - where does this happen?</p>
