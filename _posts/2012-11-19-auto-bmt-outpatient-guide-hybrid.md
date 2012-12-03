@@ -410,7 +410,7 @@ Some patients will not give themselves injections of Neupogen or Neulasta (both 
 #### Harvesting of your Stem Cells
 <div class="image-placeholder"><p>The harvesting/collection process.</p></div>
 
-<p class="question">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
+<p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
 
 The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be harvested (also called "collected") from your body through a procedure called *apheresis*. 
 
