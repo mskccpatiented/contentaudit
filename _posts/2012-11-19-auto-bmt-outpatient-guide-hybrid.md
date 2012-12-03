@@ -140,6 +140,9 @@ A *fellow* is a doctor who has completed general training and is receiving addit
 
 A *nurse practitioner* is a nurse who has a master's or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. 
 
+Your *BMT Nurse Coordinator*
+Your BMT Nurse Coordinator will work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant.  This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process
+
 The *hospitalist* is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
 
 *House staff* are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
@@ -150,7 +153,7 @@ A *Clinical Pharmacist* who specializes in the care of transplant patients will 
 
 *Social Workers* are members of the healthcare team who will help you and your family manage the stresses that come with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling and refer you or your family to other resources and services as needed. 
 
-<p class="question">What about the BMT Nurse Coordinator or the Transplant Coordinator?</p>
+<p class="question invisible">What about the BMT Nurse Coordinator or the Transplant Coordinator?</p>
 
 While you are here, you will come to know all of the members of your team.
 
@@ -294,20 +297,22 @@ Call your doctor before your procedure if you develop any illness. This includes
 If you have been told to be on a clear liquid diet you shouldn't eat any solid food after midnight the night before your procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure.
 
 #### The Day of the Catheter Fitting
+Your transplant coordinator will work with you to schedule the fitting of your catheter; it's likely that you'll be asked to report to the Surgical Day Hospital, where the catheter will be fitted, several hours before the procedure takes place. This will allow the medical team to evaluate you and make sure everything is in order before they fit the catheter. 
+
 You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
 If you wear contact lenses you should wear glasses on the day you are fitted for your catheter. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
 You and your caregiver should leave any valuables or jewelry at home. Bring only your medications and the money you need for the day to the hospital. 
 
-Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital (SDH). Check in at the desk. Please arrive on time.
+Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital. Check in at the desk. Please arrive on time.
 
 In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
 <div class="image-placeholder"><p>A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
-An **IV line will be started (reword this?)**. You will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+An IV line will be started, and you will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
 Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
 
@@ -317,16 +322,20 @@ A cuff surrounds part of the catheter that lies in the tunnel. This cuff will be
 
 The incision near your collarbone will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 
-<p class="question">How long does the procedure take, does the patient need to recuperate at the SDH afterwards or do they go straight home? Useful to put a sense of time around the procedure.</p>
+<p class="question invisible">How long does the procedure take, does the patient need to recuperate at the SDH afterwards or do they go straight home? Useful to put a sense of time around the procedure.</p>
+
+The placement of the catheter should take about 30 minutes.
 
 <div class="image-placeholder"><p>Would it be possible to show a photo or diagram of the catheter in place? The "after" picture?</p></div>
 
 <p class="question">Is the person given supplies to take care of their catheter?</p>
 
 ### After Your Catheter Has Been Fitted
-<p class="question">I assume that once the catheter has finished the person goes back to their apartment/hotel? Our story needs to travel home with them.</p>
+After your catheter has been fitted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
 
-After your catheter has been fitted you need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
+<p class="question hidden">I assume that once the catheter has finished the person goes back to their apartment/hotel? Our story needs to travel home with them.</p>
+
+You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
 
 <p class="question">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
 
