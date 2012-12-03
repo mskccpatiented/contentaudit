@@ -277,7 +277,7 @@ Your doctor and nurse will explain any other tests that you may need.
 <p class="question">To be written. How does the patient actually go about getting a space at the Helmsley. Who organizes this?</p>
 
 ### Being Fitted with your Central Venous Catheter
-On or around Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
+On or before Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
 <div class="image-placeholder"><p>A clear diagram of the central venous catheter.</p></div>
@@ -328,7 +328,7 @@ The placement of the catheter should take about 30 minutes.
 
 <div class="image-placeholder"><p>Would it be possible to show a photo or diagram of the catheter in place? The "after" picture?</p></div>
 
-<p class="question">Is the person given supplies to take care of their catheter?</p>
+<p class="question hidden">Is the person given supplies to take care of their catheter?</p>
 
 ### After Your Catheter Has Been Fitted
 After your catheter has been fitted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
@@ -344,7 +344,9 @@ The point where the catheter exits your skin will still need to be covered with 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
 
 #### Taking Care of Your Catheter
-A nurse will teach you how to care for your catheter. You will learn how to use sterile technique to change your dressing. This will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
+Taking good care of your catheter is important. A nurse will teach you how to care for your catheter. You will learn how to change your dressing while ensuring that it remains free from germs; this is known as "sterile technique". Using sterile technique will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
+
+To take care of your catheter one of your nurses will give you  supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
 
 <p class="question">When will a nurse teach you? Which nurse? Where does this happen?</p>
 
@@ -352,7 +354,7 @@ Your catheter should not interfere with your day to day activities as you get re
 
 Prepare the following emergency kit and keep it with you at all times: 
 
-<p class="question">Where do we introduce the caps, clamps - this is the first time they're mentioned. What do they do in the case of an emergency? (This is covered in the full guide)</p>
+<p class="question invisible">Where do we introduce the caps, clamps - this is the first time they're mentioned. What do they do in the case of an emergency? (This is covered in the full guide)</p>
 
 * Two catheter caps
 * One toothless clamp
@@ -373,17 +375,17 @@ Here is a summary of the things you'll do on to take care of your catheter:
 
 <p class="question">What does this mean: Clamp the catheter when it's not in use</p>
 
-You and your caregiver should be on the look-out for any problems with your catheter. 
+You and your caregiver should be on the look-out for any problems with your catheter. If you notice a discharge from your catheter (a liquid that can vary in color but which is likely to be clear, bloody or yellow/green) or if the exit site around the catheter is red, raw, or swollen, call your doctor. These may be signs of infection.
 
-If the exit site has drainage or is red, raw, or swollen, call your doctor. These may be signs of infection.
+<p class="question invisible">What does "has drainage" mean?</p>
 
-<p class="question">What does "has drainage" mean?</p>
+<div class="image-placeholder"><p>Image Placeholder: Clamping the catheter above a leak.</p></div>
 
-If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Call your doctor or nurse immediately. 
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide; if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the urgent care center.
 
-<p class="question">Who specifically do they call? Call the BMT Outpatient clinic?</p>
+<p class="question invisible">Who specifically do they call? Call the BMT Outpatient clinic?</p>
 
-<p class="question">I edited "Cover the site with tape" rolling it into the sentence "Wipe the area that is leaking with an alcohol pad and then cover the leak with tape". The word "site" felt ambiguous and my assumption is that we're taking about putting tape over the leak.</p>
+<p class="question invisible">I edited "Cover the site with tape" rolling it into the sentence "Wipe the area that is leaking with an alcohol pad and then cover the leak with tape". The word "site" felt ambiguous and my assumption is that we're taking about putting tape over the leak.</p>
 
 Full instructions on how to care for your catheter are included in the *Caring for Your Central Venous Catheter* guide which is included in the appendices. You should read this guide in full and refer to it when you are changing your dressing or caring for your catheter.
 
@@ -397,7 +399,13 @@ Normally your stem cells live in your bone marrow (though a few circulate in you
 
 Because of this, you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen&reg;), pegfilgrastim (Neulasta&reg;) and plerixafor (Mozobil&reg;). 
 
-<p class="question">How many injections, when are the GCSF injections given, by whom, where etc.</p>
+In most cases GCSF injections are self-administered, that is you will inject yourself with the drug while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your BMT Nurse Coordinator will create a personal <em>Mobilization Calendar</em> for you which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
+
+A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is in the appendices. Your BMT Nurse Coordinator will talk you through this information as well. 
+
+Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different typr of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.    
+
+<p class="question invisible">How many injections, when are the GCSF injections given, by whom, where etc.</p>
 
 #### Harvesting of your Stem Cells
 <div class="image-placeholder"><p>The harvesting/collection process.</p></div>
