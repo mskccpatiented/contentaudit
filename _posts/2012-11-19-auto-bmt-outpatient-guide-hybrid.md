@@ -278,6 +278,7 @@ Your doctor and nurse will explain any other tests that you may need.
 ### Being Fitted with your Central Venous Catheter
 On or before Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to be fitted with a central venous catheter. 
 
+
 #### What is a Central Venous Catheter? Why Do I Need One?
 <div class="image-placeholder"><p>A clear diagram of the central venous catheter.</p></div>
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
@@ -289,7 +290,7 @@ The catheter will stay in your body throughout your treatment and is usually rem
 #### Before Your Catheter is Fitted
 Before your catheter is fitted you shouldn't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
 
-<p class="question">Do we need to state this or is the BMT Outpatient Team monitoring/communicating this?</p> 
+<p class="question invisible">Do we need to state this or is the BMT Outpatient Team monitoring/communicating this?</p> 
 
 Call your doctor before your procedure if you develop any illness. This includes a fever, cold, flu, or sore throat.
 
@@ -336,7 +337,7 @@ After your catheter has been fitted you will be monitored in the Surgical Day Ho
 
 You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.
 
-<p class="question">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
+<p class="question invisible">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
 
 The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
@@ -347,7 +348,7 @@ Taking good care of your catheter is important. A nurse will teach you how to ca
 
 To take care of your catheter one of your nurses will give you  supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
 
-<p class="question">When will a nurse teach you? Which nurse? Where does this happen?</p>
+<p class="question invisible">When will a nurse teach you? Which nurse? Where does this happen?</p>
 
 Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
@@ -473,9 +474,9 @@ You'll be introduced to the "Patient Temperature and Oral Intake Diary" that you
 You and your caregiver should use the day of chemotherapy to ask as many questions as possible; make sure you are absolutely satisfied that you have all the information you need. Your healthcare team will do everything they can to answer your questions.
 
 #### After Chemotherapy
-When you finish chemotherapy you will return home to your apartment or hotel. You will rest for one day before your transplant. This rest day allows the chemotherapy drug to work and then leave your body; when you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+When you finish chemotherapy you will return home to your apartment or hotel. You will rest for one day before your transplant.
 
-<p class="move">Move this or rewrite: During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.</p>
+<p class="move invisible">Move this or rewrite: During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.</p>
 
 #### Side Effects of Chemotherapy
 Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores and mouth tenderness. 
@@ -537,14 +538,26 @@ For more detailed information about infertility associated with cancer treatment
 Other side effects from you chemotherapy could include fatigue, nausea, diarrhea and mouth sores or mouth tenderness. 
 <p class="outstanding">To be written</p>
 
-
 #### Side Effects from Chemotherapy - The Importance of Communication
 Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
 
 Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
 
-### Rest Day - Monitoring Fluid Intake
-<p class="question">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
+### Rest Day 
+The day after you receive your chemotherapy is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+
+#### Monitoring Temperature and Fluid Intake
+From now on your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
+
+<p class="question">Where does the caregiver get the thermometer from?</p>
+
+If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+
+It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+
+Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
+
+<p class="question invisible">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
 
 ### Other Things to Consider in Phase 1
 <p class="outstanding">Need to bring the childcare, pets, exercise, emotional support in here. Need input from the Social Work team; this is pending. They are aware that I need content.</p>
@@ -561,11 +574,12 @@ Before your outpatient treatment starts, there are a number of arrangements to m
 * Arrange transportation to bring you from your home to your lodging
 * If you have children, arrange for childcare
 * Arrange for pet care
-* Make a list of questions that you would like to ask about the your treatment.
-* Talk through your list of questions with your caregiver and your healthcare team
+* Purchase a thermometer and ensure your caregiver knows how to accurately take your temperature with it
 * Make an appointment with a fertility specialist if you would like to have children in the future 
 * Visit a wig store if you decide to wear a wig
 * Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+* Make a list of questions that you would like to ask about the your treatment.
+* Talk through your list of questions with your caregiver and your healthcare team
 
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
