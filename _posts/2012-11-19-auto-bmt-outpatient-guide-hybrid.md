@@ -312,7 +312,7 @@ In the SDH, you will change into a gown, robe, and slippers. When you are ready,
 #### The Procedure
 <div class="image-placeholder"><p>A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
-An IV line will be started, and you will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
 Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
 
@@ -323,8 +323,6 @@ A cuff surrounds part of the catheter that lies in the tunnel. This cuff will be
 The incision near your collarbone will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 
 <p class="question invisible">How long does the procedure take, does the patient need to recuperate at the SDH afterwards or do they go straight home? Useful to put a sense of time around the procedure.</p>
-
-The placement of the catheter should take about 30 minutes.
 
 <div class="image-placeholder"><p>Would it be possible to show a photo or diagram of the catheter in place? The "after" picture?</p></div>
 
@@ -532,7 +530,11 @@ Whether you decide to freeze embryos or eggs, they will be stored at an egg bank
 For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included in the appendices. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
 
 #### Side Effects from Chemotherapy - Hair Loss
-<p class="outstanding">To be written</p>
+The chemotherapy that kills your rapidly-dividing cancer cells also kills the rapidly-dividing cells that produce your hair. Most patients will lose their hair during their transplant. 
+
+Losing your hair can be an unpleasant, upsetting experience. Like many patients, you might choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends and family.
+
+Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided in the appendices. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
 
 #### Side Effects from Chemotherapy - Nausea, Fatigue
 Other side effects from you chemotherapy could include fatigue, nausea, diarrhea and mouth sores or mouth tenderness. 
@@ -576,6 +578,7 @@ Before your outpatient treatment starts, there are a number of arrangements to m
 * Arrange for pet care
 * Purchase a thermometer and ensure your caregiver knows how to accurately take your temperature with it
 * Make an appointment with a fertility specialist if you would like to have children in the future 
+* Think about whether you'd like to cut your hair 
 * Visit a wig store if you decide to wear a wig
 * Purchase a tote bag or rolling bag to carry your supplies to clinic every day
 * Make a list of questions that you would like to ask about the your treatment.
@@ -606,7 +609,7 @@ It's also important that you know about these topics during this phase:
 
 We cover each of these topics in detail later in this section. 
 
-<p class="question">It probably makes more sense to speak about living with neutropenia, monitoring symptoms, infection control in phase three. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
+<p class="question invisible">It probably makes more sense to speak about living with neutropenia, monitoring symptoms, infection control in phase three. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
 
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
@@ -615,10 +618,11 @@ At the end of this chapter you'll find a list of things we need you to do during
 Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your transplant. The stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood and fight infections. 
 
 #### The Morning Before Transplant
-On the morning of your transplant you should arrive at the Outpatient BMT Clinic at MSKCC's main campus. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
+On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. Bring newspapers, books, a laptop or tablet computer to pass the time.
 
-Once you arrive at the clinic…
-<p class="question">I'd like to get a clear picture of what exactly happens when the patient gets to the clinic. </p>
+Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review ask you a set of questions and review your  Patient Temperature and Oral Intake Diary. You will be brought to a private room for a physical exam and your vital signs will be checked.
+
+<p class="question invisible">I'd like to get a clear picture of what exactly happens when the patient gets to the clinic. </p>
 
 #### The Transplant
 Before your transplant, your frozen stem cells will be removed from storage at our blood bank and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
@@ -633,29 +637,34 @@ During and after your transplant you may notice a strong, garlic-like taste in y
 
 <p class="question">I just want to validate that the small could be present during *and* after the transplant. Also, when it's mentioned that "The Nutrition Department will provide lemons" - how is it envisaged that the lemons are used. Cut them, leave them around? Why lemons, because they're natural, non-chemical, non-toxic?</p>
 
-#### After Your Transplant
-<p class="question">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
-
 Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
 
 Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
 
+#### After Your Transplant
+<p class="question invisible">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
+After your stem cells are infused through your catheter you will remain in your hospital room for 2-3 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
 
 ### Other Things to Consider in Phase 2
 <p class="question">I don't believe there are any in-depth topics to add in here. </p>
 
-<div class="phasedivider">End of Phase Divider</div>
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
-<div class="junk">
-## Phase 3 - After Your Transplant
 * Neutropenia - Living with a low white blood cell count
 * Infection Control - How to avoid getting sick
 
+<div class="phasedivider">End of Phase Divider</div>
 
-## Preparing For Your Transplant
+## Phase 3 - After Your Transplant
+Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. You will return to the Outpatient BMT Clinic each day for
 
+It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
 
+During this time you will come into the clinic everyday. Your blood will
 
+be taken daily to assess and track your blood cell levels, and your vital signs will continue to be checked frequently. You and/or your caregiver will keep track of how much fluid you drink and your temperature while you are not in the clinic.
+After your transplant you'll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
+
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+<div class="junk">
 ### Managing your Emotions
 Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
 Talk with your transplant team.
@@ -665,7 +674,6 @@ Learning about your illness and transplant helps some people decrease fear of th
 Share your feelings and thoughts.
 Sharing how you feel with others and what you think about your transplant is another way that may decrease the burden. Some patients find this difficult because they don't want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful.
 
-### Fertility
 
 
 ### Exercise
@@ -677,9 +685,7 @@ When preparing for your transplant, eat a well- balanced diet high in protein, v
 
 
 ### Hair Care
-Most patients will lose their hair during transplant, which can be a traumatic experience. Some patients choose to cut their hair short before transplant to lessen the shock of losing their hair. Whether or not you choose to cut your hair, before your transplant is a good time to think about whether you might want a wig. If a wig is something your considering, you may wish to visit a wig store while you still have your hair, or with
-a clipping of your hair if you would like the wig
-to match your natural hair. There are wig stores in the New York area listed in the Resource section of this guide. Scarves and hats are other accessories that you might consider. Some patients choose not to wear anything at all, or to decide when the time comes.
+
 
 ### Financial and Insurance
 Unwritten.
@@ -690,11 +696,6 @@ is the best way to get information about your treatment options. Many people als
 Many patients find they collect a lot of information as they prepare for their transplant. Use this binder to organize the information in one place and write down any questions for your healthcare team. Remember to bring this binder with you to all your MSKCC appointments.
 
 
-
-
-
-## During Your Transplant
-Your transplant process begins with **unwritten**
 
 
 
@@ -789,12 +790,6 @@ Handling food safely
 
 ## Transplant Day
 
-## After your Autologous stem Cell Transplant
-Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. Engraftment occurs when the bone marrow begins to form the cells that give rise to mature blood cells. It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
-During this time you will come into the clinic everyday. Your blood will
-
-be taken daily to assess and track your blood cell levels, and your vital signs will continue to be checked frequently. You and/or your caregiver will keep track of how much fluid you drink and your temperature while you are not in the clinic.
-After your transplant you'll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
 
 ### Checklist
 You must bring the following items to your clinic appointment everyday:
