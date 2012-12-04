@@ -702,7 +702,7 @@ All of this will be explained to you. You'll remain in the clinic until any acti
 
 You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+
 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -763,7 +763,7 @@ Follow these guidelines to take good care of your mouth:
 * To avoid an infection in your mouth, the doctor will prescribe an oral anti-fungal antibiotic.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain.
-
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
 #### Eating a Low-Microbial Diet
 
 
