@@ -11,6 +11,12 @@ margin-right: 5cm;
 border:none;
 }
 
+@page {
+  @bottom-right {
+    content: counter(page) " of " counter(pages);
+  }
+}
+
 blockquote, blockquote p, p blockquote{ 
 margin-bottom: 1em; 
 font-weight: 400; 
@@ -255,8 +261,9 @@ list-style: square inside;
 }
 
 .image-placeholder{
+page-break-inside: avoid;
 border:1px solid slategray;
-background: #E1ECF5;
+color: #slategray;
 width:100%;
 min-height:200px;
 text-align:center;
@@ -271,6 +278,8 @@ p.question{
 padding:1em;
 border:1px solid slategray;
 background: #BDCFDE;
+color:#86A6C1;
+font-weight:bold;
 }
 
 p.dmz{
@@ -295,6 +304,7 @@ filter:alpha(opacity=60);
 padding:0.25em;
 border:1px solid slategray;
 background:#F7EFD7;
+color:#BDB3A4;
 }
 
 .outstanding, .complete, .move, .dmz, .question{

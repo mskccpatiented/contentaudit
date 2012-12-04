@@ -100,7 +100,7 @@ After *Day +12* your central venous catheter will be removed. If you live within
 
 You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
-<p class="move">Move: While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers.</p>
+<p class="move invisible">Move: While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers.</p>
 
 ## Your Transplant Team
 <div class="image-placeholder"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
