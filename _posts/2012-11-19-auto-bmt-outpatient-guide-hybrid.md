@@ -654,7 +654,9 @@ After your stem cells are infused through your catheter you will remain in your 
 <div class="phasedivider">End of Phase Divider</div>
 
 ## Phase 3 - After Your Transplant
-Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
+
+After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
 ### Maintaining the Temperature and Oral Intake Diary
 After your transplant your caregiver must continue to take your temperature every four hours and write it in the Temperature and Oral Intake Diary. 
@@ -664,36 +666,44 @@ If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs fol
 Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
 
 ### Your Daily Visit to the BMT Clinic
-Each morning you will return to the Outpatient BMT Clinic. 
+Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day.  Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
 
-<p class="move">Once you arrive you will check-in. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.</p>
+When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
 
-#### What to Wear to the Clinic
-You should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
-
-#### What to Bring to the Clinic
 You should bring these items to the clinic with you each day:
 
 * A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
 * Your temperature and oral intake record
 
+Once you arrive you will check-in. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.
+
+Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
+
+Some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells and platelets are recovering. Your blood will also be checked for any signs of infection such as the presence of harmful bacteria or viruses. 
+
+<p class="question">Any details we can add here would be great. What happens during clinic visits. If you can bullet I can write up.</p>
+
+Once you've been examined you will wait in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers take this time and use it to unwind. 
+
+After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care.  The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
+
+Here are some things that can happen based on the results of your tests:
+
+* You could be given fluids to hydrate you
+* You could be given an infusion of platelets
+* Your medication could be changed 
+* Your treatment could be left as-is
+
+All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel where your caregiver will continue to monitor your temperature and fluid intake. 
+
+You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
+
+### Living with Neutropenia
 
 
+### Diet
 
-
-Yo
-
-It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
-
-During this time you will come into the clinic everyday. Your blood will
-
-
-be taken daily to assess and track your blood cell levels, and your vital signs will continue to be checked frequently. You and/or your caregiver will keep track of how much fluid you drink and your temperature while you are not in the clinic.
-After your transplant you'll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
-
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
-<div class="junk">
 ### Managing your Emotions
 Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
 Talk with your transplant team.
