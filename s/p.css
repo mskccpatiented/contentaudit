@@ -256,7 +256,7 @@ list-style: square inside;
 
 .image-placeholder{
 border:1px solid slategray;
-background: whitesmoke;
+background: #E1ECF5;
 width:100%;
 min-height:200px;
 text-align:center;
@@ -270,7 +270,7 @@ margin-top:90px;
 p.question{
 padding:1em;
 border:1px solid slategray;
-background: #98D6E2;
+background: #BDCFDE;
 }
 
 p.dmz{
@@ -294,7 +294,7 @@ filter:alpha(opacity=60);
 .outstanding{
 padding:0.25em;
 border:1px solid slategray;
-background:#FF9C5B;
+background:#F7EFD7;
 }
 
 .outstanding, .complete, .move, .dmz, .question{
