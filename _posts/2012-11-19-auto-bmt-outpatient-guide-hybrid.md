@@ -14,32 +14,6 @@ status: partial
 date: 19-11-2012
 ---
 # Outpatient Autologous Stem Cell Transplant
-
-## Table of Contents/Structure
-### Overview
-* What's in this document
-* How to use the document ("read this once, all the way through, then again before each phase..etc")
-* Where else to find information
-* Crash course to Auto BMT
-* What is bone marrow
-* What is a stem cell
-* Treatment - Auto BMT. How it's carried out.
-* Outpatient BMT - overview. You'll have your treatment here, stay there, come back for daily visits.
-* The Team. Roles, what each person does. 
-* Nice diagram of whole process
-
-### Phase 1,2,3
-* One Page Summary - Name of the phase, when it happens, major activities, things you need to do (checklist), what's going on in your body, how you'll feel. 
-
-### Topics - These will live in whatever phase is most relevant, at least in summary.
-* Topics - Sexual Health, Sexuality
-* Topcis - Diet and Nutrition
-* Topics - Emotional Support
-* Topics - Financial Issues
-* Topics - Rest, Relaxation
-* Topics - Exercise, Activity
-* Topics - Mouth Care
-
 <p class="question hidden"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
 
 ## Welcome, Overview
