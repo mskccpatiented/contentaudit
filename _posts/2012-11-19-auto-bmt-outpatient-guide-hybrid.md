@@ -813,8 +813,6 @@ Call your doctor immediately if you:
 * Have a headache that do not get better, blurred vision, or dizziness
 * Cough up blood, vomit blood or get a nose bleeds
 
-<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
-
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
 
@@ -851,3 +849,5 @@ Resources for Wigs and Hairpieces
 http://patiented.herokuapp.com/articles/wig-and-hairpiece-resources
 
 Please feel free to suggest any other resources that should come along with the Outpatient BMT Guide. 
+
+<p class="dmz">Draft 1: This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
