@@ -1,5 +1,5 @@
 ---
-title: Outpatient Autologous Stem Cell Transplant (Hybrid)
+title: Guide to Outpatient Autologous Stem Cell Transplant - Draft 1
 url: outpatient-autologous-stem-cell-transplant-hybrid
 comments: true
 jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'non-steroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac']
@@ -13,7 +13,6 @@ strategy:
 status: partial 
 date: 19-11-2012
 ---
-# Outpatient Autologous Stem Cell Transplant
 <p class="question hidden"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
 
 ## Welcome, Overview
@@ -628,12 +627,34 @@ After your stem cells are infused through your catheter you will remain in your 
 ### Other Things to Consider in Phase 2
 <p class="question">I don't believe there are any in-depth topics to add in here. Probably best to talk about living with neutropenia, low platelet count, diet etc. in the next phase. Happy to add supplementary information to the transplant here though - suggestions welcome. </p>
 
-<div class="phasedivider">End of Phase Divider</div>
+### Checklist
+
+<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
 ## Phase 3 - After Your Transplant
+<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
+
+### One Page Summary of This Phase
 Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
 
 After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+
+These are the key things that will happen during this phase:
+
+<p class="outstanding">To be written</p>
+
+We cover each of these activities in detail later in this section.
+ 
+#### Topics
+It's also important that you know about these topics during this phase:
+
+* Topic 1
+* Topic 2
+
+We cover each of these topics in detail later in this section. 
+
+#### Actions - Things You Need to Do 
+At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
 ### Maintaining the Temperature and Oral Intake Diary
 After your transplant your caregiver must continue to take your temperature every four hours and write it in the Temperature and Oral Intake Diary. 
@@ -675,8 +696,6 @@ Here are some things that can happen based on the results of your tests:
 All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel where your caregiver will continue to monitor your temperature and fluid intake. 
 
 You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
-
-
 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -812,6 +831,13 @@ Call your doctor immediately if you:
 * Have blood in your urine
 * Have a headache that do not get better, blurred vision, or dizziness
 * Cough up blood, vomit blood or get a nose bleeds
+
+### Other Things to Consider in Phase 3
+<p class="outstanding">Probably a lot of things I am forgetting, or haven't had time to include. Please suggest content and I'll find/write it.</p>
+
+### Checklist
+<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items.</p>
+
 
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
