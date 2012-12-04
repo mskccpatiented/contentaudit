@@ -536,8 +536,14 @@ Losing your hair can be an unpleasant, upsetting experience. Like many patients,
 
 Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided in the appendices. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
 
-#### Side Effects from Chemotherapy - Nausea, Fatigue
-Other side effects from you chemotherapy could include fatigue, nausea, diarrhea and mouth sores or mouth tenderness. 
+#### Side Effects from Chemotherapy - Fatigue
+After your chemotherapy the number of red blood cells (RBCs) in your blood will be very low. 
+
+Red blood cells are the cells that transport oxygen around your body. Because the number of red blood cells in your blood will be low, oxygen will not travel around your body as easily as before. This will mean that you will feel tired. Your caregiver will need to help you carry out day to day activities until your red blood cell count returns to normal. Don't be afraid to ask for help, even with things you used to do with ease.
+
+Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active - we have recommended some exercises and activities that you can do in section three. 
+
+#### Side Effects from Chemotherapy - Nausea
 <p class="outstanding">To be written</p>
 
 #### Side Effects from Chemotherapy - The Importance of Communication
@@ -646,10 +652,7 @@ Once the stem cells arrive in your bone marrow they begin to "engraft", forming 
 After your stem cells are infused through your catheter you will remain in your hospital room for 2-3 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
 
 ### Other Things to Consider in Phase 2
-<p class="question">I don't believe there are any in-depth topics to add in here. </p>
-
-* Neutropenia - Living with a low white blood cell count
-* Infection Control - How to avoid getting sick
+<p class="question">I don't believe there are any in-depth topics to add in here. Probably best to talk about living with neutropenia, low platelet count, diet etc. in the next phase. Happy to add supplementary information to the transplant here though - suggestions welcome. </p>
 
 <div class="phasedivider">End of Phase Divider</div>
 
@@ -684,7 +687,7 @@ Some of your blood will be taken and sent for testing. Your blood will be checke
 
 <p class="question">Any details we can add here would be great. What happens during clinic visits. If you can bullet I can write up.</p>
 
-Once you've been examined you will wait in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers take this time and use it to unwind. 
+Once you've been examined you will wait in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
 
 After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care.  The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
 
@@ -699,70 +702,72 @@ All of this will be explained to you. You'll remain in the clinic until any acti
 
 You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
 
+<p class="dmz">This is where I am right now. Everything after this is content from the old draft - I am reading through it and using/re-writing relevant parts.</p>
+
 ### Living with Neutropenia
+As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
 
+Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you highly susceptible to infections. 
 
-### Diet
+You and your caregiver will take careful precautions to avoid infections while you are "neutropenic". These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions.   
 
-### Managing your Emotions
-Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
-Talk with your transplant team.
-Fear of the disease, treatment, and even the unknown are common and normal. You may want to talk with your social worker, doctor, or nurse about your feelings. If you're feeling anxious or depressed, your doctor may prescribe a medication to help you deal with the stress. There are many resources available to you as a patient at MSKCC; you can find information about them in the Resources section of this guide.
-Ask Questions.
-Learning about your illness and transplant helps some people decrease fear of the unknown. The transplant process can be overwhelming because many things are happening. By making a list of your worries or questions, you can focus on just a couple of your concerns at a time. Your transplant team expects you to have questions and will answer them.
-Share your feelings and thoughts.
-Sharing how you feel with others and what you think about your transplant is another way that may decrease the burden. Some patients find this difficult because they don't want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful.
+#### Avoiding Sources of Infection
+One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to avoid:
 
+* Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell&reg; afterwards.
+* Contact with young children. 
+* Contact with people who have had colds or recent illnesses. 
 
+Telling people who love you and want to make sure that you're okay that you can't see them can be difficult, but you and your caregiver need to be vigilant. You can explain to them that it's just for a short period of time, and that by taking these precautions you are making sure that you can see them as soon as possible. They will understand.
 
-### Exercise
-Being in the best physical health you can before your transplant will help you recover. Before your transplant, work with your doctor and/or physical therapist to develop an exercise plan that's right for you. Walking or doing some form of exercise every day will help prepare your body for transplant.
+We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to keep in touch with friends and family when you are neutropenic. 
 
-### Eating Well
-When preparing for your transplant, eat a well- balanced diet high in protein, vitamins, and minerals. It's important to be in the best physical health you can be before your transplant because you will have difficulty eating during some periods of time during your transplant.
+#### Connecting with Children
+Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
+We strongly recommend that you take time to talk to one of the social workers about being separated from your children. You or your caregiver should ask your doctor, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. 
 
+Here are some things that other patients have done to remain in contact with their children during their transplant.
 
-### Hair Care
+* Use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to talk to your children regularly. Set up a time that you talk to them each day - like when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them. 
+* Paint or create other crafts to send home. Craft supplies can be provided to you by the Patient Recreation Center. Ask one of your healthcare team to arrange for the Patient Recreation Center to bring supplies to you.
+* Use your phone to make an audio recording of yourself as you read your children's favorite stories. Upload these recordings to the web, give them to your caregiver, or e-mail them to your children. They can read along with these stories while listening to your voice.
+* Keep copies of your children's favorite stories with you in your apartment or hotel. At night you can use Skype to read along with them before they go to sleep. 
+* Ask your children to decorate your apartment or hotel with pictures; your caregiver can bring them to you and you can show them hanging on the wall to your children over Skype.
+* Give your child a special coloring book or journal for times when they miss you are feelings are difficult. Your caregiver can bring the colorings to you. You can talk to your child about them over Skype or the phone.
 
+We understand that nothing will replace physical contact between you and your children, but we strongly encourage you to use all available technology and means at your disposal to maintain a strong bond with them while you are unable to see them due to your neutropenia.
 
-### Financial and Insurance
-Unwritten.
+#### Showering and Bathing
+While you are neutropenic you keeping yourself clean is very important. 
 
-### Getting More Information
-Different people look for different amounts of information about their cancer treatment. If you would like to know more than what is in this binder, there are a number of ways to get reliable information. Talking to your healthcare team
-is the best way to get information about your treatment options. Many people also go to the internet. While the internet is a great resource for information, it is important to go to reliable sources. You can find websites suggested by the MSKCC staff on the LIBGUIDES section on MSKCC's website at www.mskcc.org. If you prefer, you can call the library reference staff at (212) 639-7439 for assistance finding reliable information.
-Many patients find they collect a lot of information as they prepare for their transplant. Use this binder to organize the information in one place and write down any questions for your healthcare team. Remember to bring this binder with you to all your MSKCC appointments.
+You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial". Dial&reg; is one example, but there are many others. 
 
+When you shower or bathe take extra care to make sure you wash yourself thoroughly. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Wash carefully under your arms, in your anal and genital areas, and in any skin folds. Germs tend to live in these moist areas. You may shampoo your scalp with soap once a day. 
 
-
-
-
-#### Caring for your Skin
-Keeping yourself clean is very important. You
-will have a routine to clean your skin each day with antibacterial soap. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Pay extra attention to washing your underarms, groin, and the area between your genitals and rectum. Germs tend to live in these moist areas. You may shampoo your scalp with ordinary soap once a day.
 After you urinate or move your bowels, wash your buttocks and genital area with antibacterial soap. You can also use moist wipes. Pat the area dry. Wash your hands well afterward.
-Keep the skin around your IV catheter very clean. The dressing that covers and protects it will be changed weekly, as long as it is dry and covered. To reduce the chance of infection, do not allow the IV tubing to touch the floor.
 
-### Eating Well
-During your transplant, your appetite may decrease. This is expected. You eat and drink
-as much as you can without forcing yourself. Nutritional shakes or supplements can be helpful as you go through this period.
-Your dietitian and nurse are here to help you when you are not able to eat as you usually do. By the time your treatment is complete, you will be able to drink enough liquids and eat small amounts
-of food.
+When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are in the appendices. 
 
-### Caring for your Teeth and Mouth
-It is very important to take good care of your teeth and mouth during your transplant. This will help prevent infections and sores in your mouth. Follow these guidelines:
+#### Mouth Care
+While you're neutropenic and have a low platelet count you will need to change the way you brush your teeth and care for your mouth. This will help to avoid infection and bleeding.
+
+Follow these guidelines to take good care of your mouth:
+
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every 2 hours, depending on how your mouth feels.
 * Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry the mucous membranes of the mouth and throat.
 * Use an ultra soft toothbrush. You may also use Toothettes&reg; disposable foam sticks.
 * Do not use dental floss.
 * Avoid licking your lips. It increases drying and chapping.
-* Apply a lubricant after mouth care and every 2 to 4 hours as needed. This will help keep your lips moist.
-* To avoid an infection in your mouth, the doctor will prescribe an oral antifungal antibiotic.
+* Apply a lubricant like Chapstick &reg; after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
+* To avoid an infection in your mouth, the doctor will prescribe an oral anti-fungal antibiotic.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain.
 
-### Low Microbial Diet
+#### Eating a Low-Microbial Diet
+
+
+Low Microbial Diet
 **Refer to full Low Micro Diet guide**
 This information will help you follow a low microbial diet. Eating a low microbial diet will reduce your risk of getting ill while you have a weakened immune system, such as after chemotherapy, radiation therapy, or a bone marrow transplant.
 The first section of this booklet has information on how to keep your food safe. The second section explains what foods and beverages are safe to eat while on a low microbial diet. Don't make any changes to this
@@ -796,7 +801,7 @@ raw meat, poultry, seafood, and other raw foods in plastic bags before they go i
 #### Keeping your kitchen clean
 * Keep an area of your kitchen clean for preparing and eating food. This will help prevent the spread of microbes.
 * Use paper towels or clean cloths instead of sponges to clean kitchen surfaces.
-* Use an antibacterial cleansing spray to clean surfaces. Look for products that have bleach or ammonia. Examples are Lysol® Food Surface Sanitizer and Clorox® Clean-Up® Cleaner.
+* Use an antibacterial cleansing spray to clean surfaces. Look for products that have bleach or ammonia. Examples are Lysol&reg; Food Surface Sanitizer and Clorox&reg; Clean-Up&reg; Cleaner.
 
 Using cutting boards and equipment
 * Use cutting boards that are made out of
@@ -827,6 +832,146 @@ Handling food safely
 
 **Continues - Refer to full Low Micro Diet guide**
 
+* Do not eat raw meats, raw fish, or raw eggs. Please ask your nurse or dietitian for the resource The Low Bacterial Diet if you have not already received that information.
+
+* Do not share eating or drinking utensils.
+* Do not get a manicure, pedicure, waxing, or tattoo without the approval of your doctor or nurse.
+* Do not shave your scalp or any other part of the body. Use caution when shaving your face. If possible, use an electric razor.
+* Do not touch any animal waste products (i.e., litter boxes, fish tanks, pet cages).
+* Do not garden or handle soil.
+
+When to Contact Your Doctor or Nurse
+Call your doctor or nurse if you have any of the following signs of infection:
+* A temperature of 100.4° F (38° C) or higher
+* Shaking chills
+* Nausea and vomiting that is not getting any better
+* Flushed face
+* Sweats
+* Cough
+* Diarrhea
+* Mouth sores
+* Headache
+* New onset of pain
+* Irritability
+* Pain or burning during urination
+* Feeling tired, especially if you also have flu-like symptoms
+You may have to come to the hospital.
+If you have any problems or questions, speak with your
+Doctor ______________________ (212) _____________________
+Nurse _______________________ (212) _____________________
+After 5 pm and on weekends, call (212) 639-2000 and ask to speak to the doctor covering your service.
+
+
+
+
+### Living with a Low Platelet Count
+As well as losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will take special care to avoid cuts and strenuous activities that might cause bleeding. You'll take special care of your gums and mouth, because it's quite common for bleeding to start here.
+
+Platelets are colorless cells that are a part of blood. They are produced in bone marrow, the soft, spongy center in most of our large bones. The main function of platelets is to control bleeding. A normal plate- let count is 150,000-400,000 platelets per microliter (mcl) of blood.
+
+If your doctor has told you that you have a low platelet count, it is very important that you take pre- cautions to prevent bleeding. You must also recognize any signs of bleeding so you can report them to your doctor or nurse. Precautions and signs of bleeding are listed below. Your platelet count may be low because of the cancer or its treatment.
+Protective measures to avoid bleeding:
+* Self-Care
+– Avoid sharp objects such as a straightedge razor, scissors, and nail clippers.
+– Use a soft toothbrush.
+– Blow your nose gently, if at all.
+* Perineal care
+– Do not use rectal suppositories, enemas, or tampons.
+– Do not take your temperature rectally.
+– Consider using stool softeners or laxatives if you are straining to have bowel movements.
+* Dressing
+– Avoid tight clothing such as a girdle and tight undergarments or pants.
+* Activities
+– Wear gloves when gardening, cooking, and doing home repairs.
+– Avoid any activity that may result in injury. This includes any
+* Contact sports.
+* Climbing ladders.
+* Strenuous exercise. * Bicycling.
+* Weight lifting.
+* Sexual activity
+– Use lubrication if needed.
+– Avoid anal or oral intercourse. – Avoid strong thrusting.
+* Medicines
+– Do not take
+* Aspirin.
+* Products that have aspirin.
+* Nonsteroidal anti-inflammatory drugs
+(NSAIDs), such as Advil&reg;. * Vitamin E.
+Ask for the card that lists common products with these medicines.
+* Dental care
+– Speak with your doctor before you have any routine or elective dental work.
+* Do not have – Manicures. – Pedicures. – Waxing.
+– Electrolysis. – Tattoos.
+
+Call your doctor if you develop any symptoms of bleeding:
+* Excessive bruising.
+* Afaintredrashonyourtrunk,arms,andlegs.
+* Vaginalspottingorheavymenstrualbleeding.
+* The appearance of broken blood vessels in the “white of the eye” (sclera).
+
+Steps to be taken if bleeding occurs at home:
+1. Apply direct pressure on the bleeding site.
+2. After applying pressure, call your MSKCC doctor. If you are unable to reach your doctor, and bleeding does not stop, go to a local emergency room.
+3. Apply ice over the bridge of your nose for nosebleeds.
+
+Call your doctor immediately if you have:
+* Black bowel movements, blood in the stool, or rectal bleeding.
+* Blood in your urine.
+* Headaches that do not get better, blurred vision, dizziness.
+* Any bleeding that does not get better (coughing up blood, vomiting blood, nose bleeds).
+
+
+
+
+
+<div class="junk">
+### Managing your Emotions
+Learning that you may have a stem cell transplant can be a very emotional time for you and your loved ones, but there are things you can do and ways we can help.
+Talk with your transplant team.
+Fear of the disease, treatment, and even the unknown are common and normal. You may want to talk with your social worker, doctor, or nurse about your feelings. If you're feeling anxious or depressed, your doctor may prescribe a medication to help you deal with the stress. There are many resources available to you as a patient at MSKCC; you can find information about them in the Resources section of this guide.
+Ask Questions.
+Learning about your illness and transplant helps some people decrease fear of the unknown. The transplant process can be overwhelming because many things are happening. By making a list of your worries or questions, you can focus on just a couple of your concerns at a time. Your transplant team expects you to have questions and will answer them.
+Share your feelings and thoughts.
+Sharing how you feel with others and what you think about your transplant is another way that may decrease the burden. Some patients find this difficult because they don't want to worry their family and friends. However, not knowing how you feel or how to help may worry them even more. Sharing feelings and thoughts can bring people together at a time of stress. You may also ask your social worker about a support group that may be helpful.
+
+
+
+### Exercise After Your Transplant
+Being in the best physical health you can before your transplant will help you recover. Before your transplant, work with your doctor and/or physical therapist to develop an exercise plan that's right for you. Walking or doing some form of exercise every day will help prepare your body for transplant.
+
+### Eating Well
+When preparing for your transplant, eat a well- balanced diet high in protein, vitamins, and minerals. It's important to be in the best physical health you can be before your transplant because you will have difficulty eating during some periods of time during your transplant.
+
+
+
+### Hair Care
+
+
+### Financial and Insurance
+Unwritten.
+
+### Getting More Information
+Different people look for different amounts of information about their cancer treatment. If you would like to know more than what is in this binder, there are a number of ways to get reliable information. Talking to your healthcare team
+is the best way to get information about your treatment options. Many people also go to the internet. While the internet is a great resource for information, it is important to go to reliable sources. You can find websites suggested by the MSKCC staff on the LIBGUIDES section on MSKCC's website at www.mskcc.org. If you prefer, you can call the library reference staff at (212) 639-7439 for assistance finding reliable information.
+Many patients find they collect a lot of information as they prepare for their transplant. Use this binder to organize the information in one place and write down any questions for your healthcare team. Remember to bring this binder with you to all your MSKCC appointments.
+
+
+
+
+
+
+
+### Eating Well
+During your transplant, your appetite may decrease. This is expected. You eat and drink
+as much as you can without forcing yourself. Nutritional shakes or supplements can be helpful as you go through this period.
+Your dietitian and nurse are here to help you when you are not able to eat as you usually do. By the time your treatment is complete, you will be able to drink enough liquids and eat small amounts
+of food.
+
+### Caring for your Teeth and Mouth
+
+
+### 
+
 ## Transplant Day
 
 
@@ -835,16 +980,7 @@ Handling food safely
 ### Emotional Support
 Being away from home for a long time, the slow recovery after transplant, and low energy may be frustrating. Dealing with your feelings can help you cope with treatment and feel better. You may want to talk with your social worker, doctor, or nurse about your feelings.
 
-### Connecting with Children
-Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation may be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. To help you, we have created the following tips for helping you and your child stay connected. In addition, your social worker is available to talk with you about your concerns.
 
- Record a song to send home. Ask your nurse for a referral for Music Therapy to help
-• Use a webcam to Skype using your computer
-• Paint or create other crafts to send home. Supplies are provided by the Patient Recreation Center.
-• Write letters, notes, or cards and mail them every few days.
-• Give your child a special coloring book or journal for times when they miss you are feelings are difficult. Pictures can be mailed or taken to you by your next visitor.
-• Record a video or story read by you that can be played for your child
-• Ask your child to help decorate your room by providing drawings every few days.
 
 ### Rest and Relaxation
 **Not written**
@@ -856,147 +992,32 @@ Children under 12 are not able to visit you during your transplant period becaus
 **Not written**
 
 ## Neutropenia (low White Blood Cell Count)
-This information will help you avoid infection while your white blood cell count is low. This is called neutropenia.
-Neutrophils are white blood cells (WBC). They help your body fight infections. You must follow the instructions described on this card to prevent infection until your neutrophil count returns to normal. You should also be aware of signs of infection and report them to your doctor or nurse. Be sure to take your temperature orally (by mouth), as directed by your doctor or nurse.
 
-### General Hygiene
-
-• Shower or bathe daily. Wash carefully under your arms, in the anal and genital areas, and in skin folds.
-• Use soap that can kill germs. Look for the words “antibacterial” or “antimicrobial.” Dial® is one example, but there are many others.
-
-• Perform mouth care after each meal. Use an ultra-soft toothbrush and brush and rinse as directed by your doctor or nurse.
-• Use antibacterial hand gels (such as Purell®) after shaking hands and after contact with young children.
-
-Steps to Prevent Infection
-
-• Avoid having visitors to your home who have colds or recent infections.
-• Hold off on having any dental work or procedure that is not urgent. Speak with your doctor or nurse first.
-
-• Ask your doctor or nurse if you can – Use tampons
-– Use suppositories
-– Have enemas
-
-• Do not eat raw meats, raw fish, or raw eggs. Please ask your nurse or dietitian for the resource The Low Bacterial Diet if you have not already received that information.
-
-• Do not share eating or drinking utensils.
-• Do not get a manicure, pedicure, waxing, or tattoo without the approval of your doctor or nurse.
-• Do not shave your scalp or any other part of the body. Use caution when shaving your face. If possible, use an electric razor.
-• Do not touch any animal waste products (i.e., litter boxes, fish tanks, pet cages).
-• Do not garden or handle soil.
-
-When to Contact Your Doctor or Nurse
-Call your doctor or nurse if you have any of the following signs of infection:
-• A temperature of 100.4° F (38° C) or higher
-• Shaking chills
-• Nausea and vomiting that is not getting any better
-• Flushed face
-• Sweats
-• Cough
-• Diarrhea
-• Mouth sores
-• Headache
-• New onset of pain
-• Irritability
-• Pain or burning during urination
-• Feeling tired, especially if you also have flu-like symptoms
-You may have to come to the hospital.
-If you have any problems or questions, speak with your
-Doctor ______________________ (212) _____________________
-Nurse _______________________ (212) _____________________
-After 5 pm and on weekends, call (212) 639-2000 and ask to speak to the doctor covering your service.
 
 ## Guidelines for Patients with a low Platelet Count
-Platelets are colorless cells that are a part of blood. They are produced in bone marrow, the soft, spongy center in most of our large bones. The main function of platelets is to control bleeding. A normal plate- let count is 150,000-400,000 platelets per microliter (mcl) of blood.
 
-If your doctor has told you that you have a low platelet count, it is very important that you take pre- cautions to prevent bleeding. You must also recognize any signs of bleeding so you can report them to your doctor or nurse. Precautions and signs of bleeding are listed below. Your platelet count may be low because of the cancer or its treatment.
-Protective measures to avoid bleeding:
-• Self-Care
-– Avoid sharp objects such as a straightedge razor, scissors, and nail clippers.
-– Use a soft toothbrush.
-– Blow your nose gently, if at all.
-• Perineal care
-– Do not use rectal suppositories, enemas, or tampons.
-– Do not take your temperature rectally.
-– Consider using stool softeners or laxatives if you are straining to have bowel movements.
-• Dressing
-– Avoid tight clothing such as a girdle and tight undergarments or pants.
-• Activities
-– Wear gloves when gardening, cooking, and doing home repairs.
-– Avoid any activity that may result in injury. This includes any
-• Contact sports.
-• Climbing ladders.
-• Strenuous exercise. • Bicycling.
-• Weight lifting.
-• Sexual activity
-– Use lubrication if needed.
-– Avoid anal or oral intercourse. – Avoid strong thrusting.
-• Medicines
-– Do not take
-• Aspirin.
-• Products that have aspirin.
-• Nonsteroidal anti-inflammatory drugs
-(NSAIDs), such as Advil®. • Vitamin E.
-Ask for the card that lists common products with these medicines.
-• Dental care
-– Speak with your doctor before you have any routine or elective dental work.
-• Do not have – Manicures. – Pedicures. – Waxing.
-– Electrolysis. – Tattoos.
-
-Call your doctor if you develop any symptoms of bleeding:
-• Excessive bruising.
-• Afaintredrashonyourtrunk,arms,andlegs.
-• Vaginalspottingorheavymenstrualbleeding.
-• The appearance of broken blood vessels in the “white of the eye” (sclera).
-
-Steps to be taken if bleeding occurs at home:
-1. Apply direct pressure on the bleeding site.
-2. After applying pressure, call your MSKCC doctor. If you are unable to reach your doctor, and bleeding does not stop, go to a local emergency room.
-3. Apply ice over the bridge of your nose for nosebleeds.
-
-Call your doctor immediately if you have:
-• Black bowel movements, blood in the stool, or rectal bleeding.
-• Blood in your urine.
-• Headaches that do not get better, blurred vision, dizziness.
-• Any bleeding that does not get better (coughing up blood, vomiting blood, nose bleeds).
 Doctor _________________________________ Phone__________________________________ Nurse __________________________________ Phone__________________________________
 On the evenings or the weekend, call the page operator at (212) 639-7900 and ask for the doctor covering your service.
 
-### Donating Blood and Platelets
-Patients often need red blood cells and platelets when their counts are too low. We ask family members and friends to donate blood and are grateful when they can do it. Any blood donation helps our patients. When you start treatment, ask a family member to call the Blood Donor program to find out about giving blood. The number is (212) 639-8177. It takes about two hours to donate platelets and about 45 minutes for red blood cells. Donors can call (212) 639-7648 to make an appointment.
-
-Blood donors must:
-• Be 17 to 75 years of age.
-• Weigh over 110 pounds (50 kg).
-• Not have signs of a cold or active allergy at the time of donation.
-• Not have or have had an illness such as hepatitis, jaundice, cancer, etc.
-• Call the donor room if they are taking any medicine.
-
-Not take aspirin, or any compound that has aspirin or aspirin-like drugs
-(ibuprofen, Motrin®, Naprosyn®, Anaprox®, Advil®, Aleve®) within three days before giving blood. It is okay to take Tylenol® or Anacin 3®.
-• Not drink alcohol 8 hours before donating.
-• Eat a light meal, but avoid fatty foods before donating.
-
-Platelets are a type of blood cell that helps the blood clot and stop bleeding
-Irradiated blood products have been exposed to radiation to prevent white blood cells from dividing.
-Neutropenia is a low white blood cell count, making a person at high risk for an infection
 
 ### Fatigue and Weakness
-When your red blood cell count (RBC) is low, you may feel tired. You may need extra help with your daily activities. Try to walk every day to maintain your muscle tone and strength. You may also receive red blood cell transfusions as needed. These and all other blood products will be irradiated to prevent adverse side effects.
+
 
 Emotional Recovery
 Recovery takes time. Sometimes people feel isolated and alone. You might wonder if what you are feeling is normal, and your caregivers might wonder how to reassure you. Here are some things you can do:
-• Discuss your experiences with your doctor or nurse. They can provide you with guidance about what to expect during recovery from transplant as well as what you can do to help.
-• Talk with your social worker for support and counseling.
-• Consider joining a support group. These
+* Discuss your experiences with your doctor or nurse. They can provide you with guidance about what to expect during recovery from transplant as well as what you can do to help.
+* Talk with your social worker for support and counseling.
+* Consider joining a support group. These
 are available in person or on the Internet. Cancer Care (www.cancercare.org) and the Leukemia and Lymphoma Society (www.lls. org) are great resources. MSKCC's Resources for Life After Cancer program also has support groups, and they can be reached at (212) 888-4740.
 
 Consider talking with someone else who
 has been through transplant. The volunteer department here at MSKCC has patient volunteers. You can reach them at (212) 639- 5007. Cancer Care (www.cancercare.org) and the Leukemia and Lymphoma Society (www.lls.org) also offer these services.
 
 Explore educational materials. The National Marrow Donor Program (www.marrow. org), The Bone Marrow Foundation (www. bonemarrow.org), Cancer Care (www. cancercare.org) and the Leukemia and Lymphoma Society (www.lls.org) also offer educational materials.
-• The Counseling Center at MSKCC has psychologists and psychiatrists available for consultations, therapy, and treatment of
+* The Counseling Center at MSKCC has psychologists and psychiatrists available for consultations, therapy, and treatment of
 the depression and anxiety that you may experience after your transplant. They also offer family and couples counseling. You can reach them at (646) 888-0100.
 Remember, you are not alone. Your transplant team has worked with many other patients and caregivers who have experienced similar feelings. It is normal to need guidance after transplant and communication is an important part of your recovery.
+
 
 ## MSKCC Resources
 Admitting Office
@@ -1063,62 +1084,62 @@ If you want to quit smoking, MSKCC has specialists who can help. Call for more i
 
 ## Neighborhood Guide
 Parking
-• Memorial Parking 433 East 66th Street between York and First Avenue
+* Memorial Parking 433 East 66th Street between York and First Avenue
 (212) 639-2338
-• Kinney 450 East 63rd between York and First (212) 838-5717
-• Edison Garages 403-422 East 65th Street between York and First (212) 472-7906
+* Kinney 450 East 63rd between York and First (212) 838-5717
+* Edison Garages 403-422 East 65th Street between York and First (212) 472-7906
 Banks and ATMs
-• ATM MSKCC, first floor near cashier
-• Citibank ATM 68th and 1st
-• Citibank ATM 69th and 1st
-• NY Check Express – 69th between York and 1st
+* ATM MSKCC, first floor near cashier
+* Citibank ATM 68th and 1st
+* Citibank ATM 69th and 1st
+* NY Check Express – 69th between York and 1st
 Laundromats
-• Excellent Laundry – 350 67th Wash, dry, fold, dry clean
-• Laundry 348 66th Wash, dry, fold
+* Excellent Laundry – 350 67th Wash, dry, fold, dry clean
+* Laundry 348 66th Wash, dry, fold
 Library
-• MSKCC Patient Library 15th floor • 67th Street Public Library 328 67th
+* MSKCC Patient Library 15th floor * 67th Street Public Library 328 67th
 Pharmacy
-• Duane Reade 1st between 70th and 71st • Goldbergers 1st at 65th
+* Duane Reade 1st between 70th and 71st * Goldbergers 1st at 65th
 
 Quick Bites
-• Bagel Works 1st between 66th and 67th
-• Pizza Park 1st between 66th and 67th
-• Deli/grocery 1st between 65th and 66th
-• Subway 1st at 69th
-• Dunkin Donuts 1st between 66th and 67th
-• Togo sandwiches 1st between 66th and 67th
-• McDonalds 1st at 69th
-• Wong's Chinese Cuisine 1st between
+* Bagel Works 1st between 66th and 67th
+* Pizza Park 1st between 66th and 67th
+* Deli/grocery 1st between 65th and 66th
+* Subway 1st at 69th
+* Dunkin Donuts 1st between 66th and 67th
+* Togo sandwiches 1st between 66th and 67th
+* McDonalds 1st at 69th
+* Wong's Chinese Cuisine 1st between
 65th and 66th
 Recreation and Fitness
-• Lenox Hill Neighborhood House 331 70th between 1st and 2nd
-• St. Catherines playground/park 1st between 67th and 68th
-• YWCA 610 Lexington at 53rd
+* Lenox Hill Neighborhood House 331 70th between 1st and 2nd
+* St. Catherines playground/park 1st between 67th and 68th
+* YWCA 610 Lexington at 53rd
 Restaurants
 Numerous restaurants of every ethnic variety along 1st and 2nd Avenues
 Shopping
-• MSKCC Gift shop – main lobby
-• Bed, Bath & Beyond 1st at 61st
-• Gristedes Supermarket 1st between 65th and 66th
-• Food Emporium 1st between 71st and 72nd
+* MSKCC Gift shop – main lobby
+* Bed, Bath & Beyond 1st at 61st
+* Gristedes Supermarket 1st between 65th and 66th
+* Food Emporium 1st between 71st and 72nd
 Movie Theater
 Clearview 1st at 62nd
 
 Transportation
-• Metro North 68th and Lexington
+* Metro North 68th and Lexington
 – #6 local
 – Purchase Metro Cards at MSKCC cashier or in station
-• BusLines
+* BusLines
 – M31 – York Ave at 57th to West side – M15 – Northbound on 1st
 – M15 – Southbound on 2nd
 – M101 – Northbound on 3rd – M102 – Northbound on 3rd – X66 – Crosstown at 66th
 – X77 – Crosstown at 72nd
 
 U.S. Post Office and Other Mail Centers
-• MSKCCstampmachinenearcashier
-• U.S.mailboxesoncornerat – York and 67th
+* MSKCCstampmachinenearcashier
+* U.S.mailboxesoncornerat – York and 67th
 – 1st at 68th
-• LenoxHillPostOffice217E.70th
+* LenoxHillPostOffice217E.70th
 
 ### Churches, synagogues, and Masjid in the Area
 Adventist
@@ -1249,51 +1270,51 @@ It is for people aged 65 and older. Younger people with certain disabilities may
 of covered services. You will have an annual deductable before coverage starts.
 
 Part A covers:
-• Inpatient care
-• Skilled nursing facility care
-• Hospice care.
-• Other medical supplies or services
+* Inpatient care
+* Skilled nursing facility care
+* Hospice care.
+* Other medical supplies or services
 
 Part B covers:
-• Doctor's services
-• Outpatient care
-• Medical equipment
+* Doctor's services
+* Outpatient care
+* Medical equipment
 To apply, call the Social Security Administration at (800) 772-1213.
 
 Veterans Benefits
 Low-income and disabled veterans may be eligible for pensions. All veterans are eligible for:
-• Health care in VA hospital • Rehabilitation
-• Disability compensation
-• Life insurance
-• Burial benefits
-• Home loans
+* Health care in VA hospital * Rehabilitation
+* Disability compensation
+* Life insurance
+* Burial benefits
+* Home loans
 To apply, call the U.S. Department of Veterans Affairs at (800) 827-1000
 
 ### Needs Based Programs
 
 Medicaid
 Medicaid is a joint local, state, and federal program. It provides comprehensive medical assistance. To be eligible, you must meet the income and resource requirements. Medicaid covers:
-• Hospital and nursing home care • Prescription drugs
-• Community-based care
-• Respite care
-• In-home care
+* Hospital and nursing home care * Prescription drugs
+* Community-based care
+* Respite care
+* In-home care
 The services provided and the amount of service vary by state.
 To apply, call Medicaid. In N.Y. – (718) 291-1900 In N.J. – (800) 356-1561
 
 Social Security Income (SSI)
 SSI provides monthly supplement payments for people who are:
-• Low income • Aged
-• Blind
-• Disabled
+* Low income * Aged
+* Blind
+* Disabled
 To apply, call the Social Security Administration at (800) 772-1213.
 
 Food Stamps
 Food stamps provide a monthly allotment of coupons for food and some restaurant meals. You may qualify if you:
-• Work for low wages
-• Work part-time
-• Are unemployed
-• Receive public assistance • Are elderly
-• Are disabled
+* Work for low wages
+* Work part-time
+* Are unemployed
+* Receive public assistance * Are elderly
+* Are disabled
 To apply, call the Human Resources Administration Infoline at (718) 291-1900.
 Public Assistance
 Public assistance provides cash to people who have a limited or no income and no resources. You do not have to be disabled to qualify.
