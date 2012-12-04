@@ -654,11 +654,40 @@ After your stem cells are infused through your catheter you will remain in your 
 <div class="phasedivider">End of Phase Divider</div>
 
 ## Phase 3 - After Your Transplant
-Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. You will return to the Outpatient BMT Clinic each day for
+Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+
+### Maintaining the Temperature and Oral Intake Diary
+After your transplant your caregiver must continue to take your temperature every four hours and write it in the Temperature and Oral Intake Diary. 
+
+If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide. Your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+
+Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
+
+### Your Daily Visit to the BMT Clinic
+Each morning you will return to the Outpatient BMT Clinic. 
+
+<p class="move">Once you arrive you will check-in. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.</p>
+
+#### What to Wear to the Clinic
+You should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
+
+#### What to Bring to the Clinic
+You should bring these items to the clinic with you each day:
+
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
+* All the prescription medications you were instructed to take during the bone marrow transplant period.
+* Your temperature and oral intake record
+
+
+
+
+
+Yo
 
 It will first be seen as your white cell count starts to rise. Recovery of the red blood cells occurs more slowly. Platelets tend to recover last.
 
 During this time you will come into the clinic everyday. Your blood will
+
 
 be taken daily to assess and track your blood cell levels, and your vital signs will continue to be checked frequently. You and/or your caregiver will keep track of how much fluid you drink and your temperature while you are not in the clinic.
 After your transplant you'll need to continue to follow the low microbial diet explained in the During your Stem Cell Transplant section of this guide.
@@ -791,18 +820,7 @@ Handling food safely
 ## Transplant Day
 
 
-### Checklist
-You must bring the following items to your clinic appointment everyday:
-All prescription medications you were instructed to take during the bone marrow transplant period.
-Comfortable day clothes – sweat pants, large t-shirts, shirts that open in the front, and shoes with traction like sneakers
-Notebook – keep a list of questions for your health care team
-Your temperature and oral intake record You may also find it helpful to have the
-following items with you in clinic:
-A list of all prescription and non- prescription medications you are taking with dosages and frequency. Include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
-Lip moisturizer, such as ChapStick® Distractions – books, magazines, music, or
-puzzles to help pass the time
-Cell phone
-Laptop, iPad®, iPod® or other electronic device
+
 
 ### Emotional Support
 Being away from home for a long time, the slow recovery after transplant, and low energy may be frustrating. Dealing with your feelings can help you cope with treatment and feel better. You may want to talk with your social worker, doctor, or nurse about your feelings.
