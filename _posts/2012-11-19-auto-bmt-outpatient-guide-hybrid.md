@@ -253,7 +253,7 @@ On or before Day −4 you and your caregiver come to MSKCC's Interventional Radi
 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
-<div class="image-placeholder"><p>A clear diagram of the central venous catheter.</p></div>
+<div class="image-placeholder"><p>Image Placeholder: A clear diagram of the central venous catheter.</p></div>
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
 A central venous catheter allows your healthcare team to give you medicine, fluids, electrolytes, blood transfusions and chemotherapy without the need to stick you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
@@ -283,7 +283,7 @@ Enter the hospital through the main entrance at 1275 York Avenue. Take the M ele
 In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
-<div class="image-placeholder"><p>A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
+<div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
 The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
@@ -297,7 +297,7 @@ The incision near your collarbone will be stitched closed. The stitches will be 
 
 <p class="question invisible">How long does the procedure take, does the patient need to recuperate at the SDH afterwards or do they go straight home? Useful to put a sense of time around the procedure.</p>
 
-<div class="image-placeholder"><p>Would it be possible to show a photo or diagram of the catheter in place? The "after" picture?</p></div>
+<div class="image-placeholder"><p>Image Placeholder: A diagram of the catheter in place. </p></div>
 
 <p class="question hidden">Is the person given supplies to take care of their catheter?</p>
 
@@ -379,7 +379,7 @@ Some patients will not give themselves injections of Neupogen or Neulasta (both 
 <p class="question invisible">How many injections, when are the GCSF injections given, by whom, where etc.</p>
 
 #### Harvesting of your Stem Cells
-<div class="image-placeholder"><p>The harvesting/collection process.</p></div>
+<div class="image-placeholder"><p>Image Placeholder: The harvesting/collection process. Patient connected to apheresis machine.</p></div>
 
 <p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
 

@@ -1,4 +1,4 @@
 <div id="header">
-<div id="masthead"><h1><a href="/">MSKCC Patient Education</a></h1></div>
+<div id="masthead"><a href="/">MSKCC Patient Education</a></div>
 <div id="primary">{% include primary_nav %}</div>
 </div>
