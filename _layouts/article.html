@@ -21,11 +21,12 @@
 {% if page.notes %}<p><strong>Notes: </strong> {{ page.notes }}</p> {% endif %}
 {% if page.strategy %}<p><strong>Strategy/Actions: </strong>{{ page.strategy }}</p> {% endif %}
 {% if page.jargonwords %}
-<p id="jargon_list">
-<strong>Jargon: </strong>
+<div id="jargon">
+<p class="strong">Obscure Words:</p>
+<p>These words appeared in this article, but don't appear frequently in standard written English. They may need to be explained to readers.</p>
   {% assign jargonwords = page.jargonwords %}
   {% include jargon_words %}
-</p>
+</div>
 {% endif %}
 </div>
 {{content}} 

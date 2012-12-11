@@ -109,10 +109,6 @@ margin: 0.8em 0 0.5em 0;
 color: rgba(51, 51, 51, 1.00); 
 }
 
-.content ul{
-
-}
-
 .content ul li, .content ol li{
 margin-bottom:1em;
 list-style:square inside;
@@ -148,12 +144,12 @@ margin-bottom: 0.8em;
 line-height: 1.8em;*/
 }
 
-p strong{
-font-weight: 600; 
+strong{
+font-weight: bold; 
 }
 
 .strong{
-font-weight:bold;
+font-weight: bold;
 }
 
 /*-- Article List Page, Status--*/
@@ -230,52 +226,24 @@ color:#555555;
 
 /*-- Article --*/
 
-
-.postmeta { 
-float: right;
-margin: 0.5em 0 0 0;
-}
-
-.postmeta p{
-text-indent:0;
-}
-
-p a:link{
+.content a:link{
 text-decoration: none;
 color:#1B75BB;
 }
 
-p a:active{
+.content a:active{
 text-decoration: none;
 color:#1B75BB;
 }
 
-p a:hover{
+.content a:hover{
 text-decoration: underline;
 color:#1B75BB;
 }
 
-p a:visited{
+.content a:visited{
 text-decoration: none;
 color:#1B75BB;
-}
-
-
-
-.postmeta .date{
-font-size: 1em; 
-line-height: 120%; 
-margin-bottom: 0.75em; 
-color: rgba(100, 100, 100, 1.00); 
-padding-left:1.5em;
-}
-
-.postmeta .permalink{
-color: rgba(100, 100, 100, 1.00);
-}
-
-.postmeta .permalink a{
-color: rgba(100, 100, 100, 1.00);
 }
 
 .arcdate{
@@ -320,15 +288,20 @@ margin-left:2em;
 font-style:italic;
 }
 
-
-text-indent: 0em;
-margin-left:2em;
-list-style: square inside; 
-
-
-#jargon_list{
-
+#jargon_list li{
+list-style:none;
+display:inline-block;
+margin:0 4px 6px 0;
 }
+
+#jargon_list li a{
+text-decoration:none;
+border-radius: 3px;
+display:inline-block;
+background:#eee;
+padding:2px 4px 2px 4px;
+}
+
 
 .image-placeholder{
 border:1px solid slategray;
@@ -464,6 +437,18 @@ width:70%;
 width:50%;
 }
 
+.tfive{
+width:25%;
+}
+
+.twenty{
+width:20%;
+}
+
+.forty{
+width:40%;
+}
+
 th{
 font-weight:bold;
 }
@@ -579,7 +564,6 @@ color: rgba(71, 71, 71, 1.00);
 .photo{
 width:100%;
 height:auto;
-border-radius: 10px;
 display:block;
 margin-top:1em;
 margin-bottom:1em;
@@ -588,14 +572,6 @@ margin-bottom:1em;
 .diagram{
 width:100%;
 border-radius: 10px;
-}
-
-.mini-avatar{
-position: absolute;
-left: 10px;
-top: 10px;
-width: 60px;
-height: 60px;
 }
 
 .caption{

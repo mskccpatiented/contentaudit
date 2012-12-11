@@ -1,4 +1,6 @@
+<ul id="jargon_list">
 {% for word in jargonwords %}
-<a href="http://wordnik.com/words/{{ word }}">{{ word }}</a>
+<li><a href="http://wordnik.com/words/{{ word }}">{{ word }}</a></li>
 {% endfor %}
 {% assign jargonwords = null %}
+</ul>
