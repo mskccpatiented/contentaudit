@@ -7,11 +7,11 @@ jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []
-summary: Guide to outpatient BMT. Still in draft. 
+summary: Guide to outpatient BMT. Still in draft. This second draft incorporates feedback from Patient Education and the Outpatient Auto BMT healthcare team. 
 notes: A combination, re-write of materials related to Outpatient Auto BMT. 
 strategy: 
-status: partial 
-date: 19-11-2012
+status: formatted 
+date: 11-12-2012
 ---
 <p class="question hidden"><span class="complete">Some of the topics align neatly to phases, some don't. Should we summarize the most important information about topic, then refer to a more complete version in the appendix? That would be my recommendation. Say for example we are in Phase 2, could we summarize issues related to fertility, then refer the person to a longer guide at the back of our guide?)</span> Decision: Yes, summarize and refer to complete guides.</p>
 
