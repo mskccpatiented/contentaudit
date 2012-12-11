@@ -7,7 +7,7 @@ jargonpercent:
 layout: article
 categories: ['Tests and Procedures']
 tags: []
-summary: Guide to outpatient BMT. Still in draft. This second draft incorporates feedback from Patient Education and the Outpatient Auto BMT healthcare team. 
+summary: Guide to outpatient BMT. Still in draft. 
 notes: A combination, re-write of materials related to Outpatient Auto BMT. 
 strategy: 
 status: formatted 
