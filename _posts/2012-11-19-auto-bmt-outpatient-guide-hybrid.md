@@ -392,13 +392,13 @@ If your catheter is leaking at any time, clamp it above the leak. Use the white 
 Full instructions on how to care for your catheter are included in the *Caring for Your Central Venous Catheter* guide which is included in the appendices. You should read this guide in full and refer to it when you are changing your dressing or caring for your catheter.
 
 ### Mobilization and Harvesting
-In an autologous transplant your stem cells are first mobilized and then collected (also called "harvested") from your body before you receive chemotherapy. They are re-introduced into your body after your chemotherapy; this is your stem cell transplant.
+In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. They are re-introduced into your body after your chemotherapy; this is your stem cell transplant.
 
 <p class="feedback remove invisible">On or around Day −4 you will be given an injection of a drug that "mobilizes" your stem cells, then those stem cells will be collected or "harvested" from your bloodstream.</p>
 
 Mobilization is the process of increasing the number of stem cells produced by your bone marrow and released into your bloodstream. 
 
-Stem cell collection is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, plasma and stem cells) then then removing just the stem cells.
+Stem cell harvesting is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, plasma and stem cells) then then removing just the stem cells.
 
 #### Mobilization
 Normally your stem cells live in your bone marrow (though a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
@@ -416,29 +416,31 @@ Some patients will not give themselves injections of Neupogen or Neulasta (both 
 #### Harvesting of your Stem Cells
 <div class="image-placeholder"><p>Image Placeholder: The harvesting/collection process. Patient connected to apheresis machine.</p></div>
 
-<p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
-<div class="feedback remove invisible">
-The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells. Now, they'll be harvested (also called "collected") from your body through a procedure called *apheresis*. 
+The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
-Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. 
+**Check: The harvesting procedure is done in the Blood Donor Room**. Your BMT Nurse Coordinator or your doctor will schedule between three and five harvesting sessions to collect enough cells. The process is painless and session will last three to four hours.
 
-If your catheter has already been fitted then it might be used for harvesting instead of an IV line. In this case one of the lumens of your catheter will be connected to the machine that separates the stem cells from your blood. 
+You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment. Wear comfortable clothes. 
 
-Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
+Harvesting will take place while you are lying in a bed or sitting in a reclining chair. A health care professional will examine your arms to see if your veins in your arm are in good condition. If they are If your catheter has already been fitted then it might be used for harvesting instead of an IV line. In this case one of the lumens of your catheter will be connected to the machine that separates the stem cells from your blood. 
 
-After your stem cells are harvested, they are frozen and stored until your transplant day. 
-</div>
-<div class="outstanding">
-Purpose
-Stem cells are also called pluripotent cells or progenitor cells. They are blood cells that have not matured to become a specific kind of blood cell. Any stem cell can become a specific kind of blood cell, such as a red blood cell or a platelet. Peripheral blood stem cell harvesting is the procedure used to collect some of the stem cells in your blood. The stem cells that are removed or “harvested” are frozen. After your chemotherapy they will be thawed and returned to you. The doses of chemotherapy that you will receive are very high and will destroy most of the blood cells in your bone marrow and bloodstream. The stem cells that are harvested and returned to you will grow, mature, and replace the destroyed cells.
 
-Preparation
-A health care professional will examine your arms to see if your veins are adequate. If they are not, a temporary catheter will be put into a vein in your neck. This will take place before you begin the harvesting. The catheter will remain in place for several weeks to several months. It will be used to collect your stem cells, to take samples of your blood, and to give you intravenous fluids and medicines while you are in the hospital. You will be given an appointment to have the catheter placed. You will also be given a booklet that describes the procedure and how to care for the catheter afterwards. Your nurse will review this with you. 
 
-Harvesting
-The harvesting procedure is done in the Blood Donor Room. Your doctor will schedule you for several appointments; most patients require three to five appointments to collect enough cells. You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment. Wear comfortable clothes. The harvesting is done while you are lying in a bed or sitting in a reclining chair. The process is painless and it will take three to four hours to collect your cells. 
+
+You will be given an appointment to have the catheter placed. You will also be given a booklet that describes the procedure and how to care for the catheter afterwards. Your nurse will review this with you. 
+
+
+
+
+
+
+
+
+
 
 A machine that separates the stem cells from your blood will be connected to your catheter or the veins in your arms. Blood is withdrawn and circulated through the machine to collect the stem cells. The rest of your blood is returned to you. If you wish, you will be able to watch TV or read. A family member or friend may sit with you after the procedure has started. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
+
+The stem cells that are removed or “harvested” are frozen. After your chemotherapy they will be thawed and returned to you. The doses of chemotherapy that you will receive are very high and will destroy most of the blood cells in your bone marrow and bloodstream. The stem cells that are harvested and returned to you will grow, mature, and replace the destroyed cells.
 
 After the Procedure
 After your harvesting procedure is done, your catheter will be flushed and recapped. If the veins in your arms were used for the harvesting, a dressing will be applied to prevent bleeding. It should remain in place for at least three hours, but not more than five hours. Most patients have no side effects after the procedure and can resume their regular activities.
@@ -446,7 +448,27 @@ After your harvesting procedure is done, your catheter will be flushed and recap
 Call Your Doctor If You:
 * Develop a fever (100.4° F or 38° C) or chills.
 * Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
-</div>
+
+<p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
+<div class="feedback remove invisible">
+
+
+Apheresis is very similar to giving blood. You will lie in a chair or bed in the Blood Donor Room. An IV line will be put into a vein in your arm and a machine will separate the stem cells from your blood. 
+
+
+
+Between 1 and 5 sessions will be needed to harvest enough stem cells, and each session will last 3 to 4 hours. Most patients experience no side effects from the harvesting process.
+
+After your stem cells are harvested, they are frozen and stored until your transplant day. 
+
+
+Preparation
+
+
+Harvesting
+
+
+
 
 ### Conditioning Regimen
 <div class="feedback remove invisible">
@@ -704,9 +726,7 @@ You may not notice the smell but those around you will. Your urine may appear bl
 #### Engraftment
 Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
 
-Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. 
-
-Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Once the stem cells arrive in your bone marrow they begin to "engraft". Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
 The Chemotherapy you received add all your blood cells. During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
 
