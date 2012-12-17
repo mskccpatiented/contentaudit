@@ -948,10 +948,14 @@ The blood used in your transfusion is donated at our Blood Bank. There is no sub
 
 Your friends and relatives may donate red blood cells and platelets - this is known as a directed donation. Your friends and relatives are eligible to donate if they:
 
-* Are at least 16 years old and have written parental consent. No parental consent is required for those who are at least 17 years old.
+* Are between 16 and 75 years old. No parental consent is required for those who are at least 17 years old.
 * Weigh at least 110 pounds
 * Are in good health
+* Have not had an illness such as hepatitis, jaundice, cancer, etc
+* Do not have signs of a cold or active allergy at the time of donation
+* Have not taken aspirin, or any compound that has aspirin or aspirin-like drugs (Ibuprofen, Motrin&reg;, Naprosyn&reg;, Anaprox&reg;, Advil&reg;, Aleve&reg;) within three days before giving blood.
 * Have identification showing their name and photograph or signature
+* Have not consumed alcohol eight hours before donating
 
 Blood donations can be given by appointment at our Blood Donor Room which is located at:
 
@@ -966,10 +970,6 @@ For more information about making a directed donation and to make an appointment
 If your friend of family member has a blood type that isn't compatible with yours then their blood will be released for use with other patients at MSKCC.
 
 Directed donations will be held for you for 30 days. After that, the blood will be released for use with other patients at MSKCC.
-
-<div class="outstanding">
-Patients often need red blood cells and platelets when their counts are too low.  We ask family members and friends to donate blood and are grateful when they can do it.  Any blood donation helps our patients.  When you start treatment, ask a family member to call the Blood Donor program to find out about giving blood. The number is (212) 639-8177. It takes about two hours to donate platelets and about 45 minutes for red blood cells.  Donors can call (212) 639-7648 to make an appointment.  Blood donors must:•	Be 17 - 75 years of age.  •	Weigh over 110 pounds (50 kg).  •	Not have signs of a cold or active allergy at the time of donation.  •	Not have or have had an illness such as hepatitis, jaundice, cancer, etc.  •	Call the donor room if they are taking any medicine.  •	Not take aspirin, or any compound that has aspirin or aspirin-like drugs (ibuprofen, Motrin®, Naprosyn®, Anaprox®, Advil®, Aleve®) within three days before giving blood.  It is okay to take Tylenol® or Anacin 3®. •	Not drink alcohol eight hours before donating.  •	Eat a light meal, but avoid fatty foods before donating.  
-</div>
 
 #### Making Sure Blood Is Safe
 After it is donated all blood is tested for:
