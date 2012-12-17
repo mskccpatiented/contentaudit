@@ -440,7 +440,6 @@ After harvesting most patients have no side effects and can resume their regular
 * Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
 
 <p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
-<div class="feedback remove invisible">
 
 ### Conditioning Regimen
 <div class="feedback remove invisible">
