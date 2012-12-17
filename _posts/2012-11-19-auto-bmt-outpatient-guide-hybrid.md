@@ -187,9 +187,7 @@ When does it happen: Around Day −30.
 <p class="outstanding">To be written</p>
 
 ### Choosing Your Caregiver
-One of the most important steps as you prepare for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. During your transplant you must have a caregiver who stays with you at all times.
-
-Your caregiver will be responsible for a lot of the day to day medical, practical, emotional support you need during your outpatient transplant. 
+One of the most important steps as you prepare for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. Your caregiver will be responsible for a lot of the day to day medical, practical, emotional support you need during your outpatient transplant. 
 
 Your caregiver will receive specific instructions from the healthcare team about their responsibilities. Some of these responsibilities include: 
 
@@ -218,18 +216,25 @@ Your caregiver will receive specific instructions from the healthcare team about
 
 <p class="question invisible"><span class="complete">I would like to write this bullet-point list into more fluid text, is that acceptable?</span> Decision: Yes, re-write.</p>
 
-While you're undergoing your transplant your caregiver will not be able to work. Your caregiver will need to remain with you for most of the day and night - though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend.
-
 #### Choosing the Right Caregiver
-Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and who can offer you the support you need. Choose somebody you're comfortable communicating with and who can offer you the emotional support you need. 
+Being a caregiver is a full-time, 24/7 responsibility and can be tiring, demanding and stressful - especially if your condition, schedule or treatment changes. While you're undergoing your transplant your caregiver will not be able to work. Your caregiver will need to remain with you for most of the day and night (though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend).
 
-**Fit: If there isn't one person who can be with you during your transplant you can have different caregivers scheduled during different times. Caregiving is a 24/7 job and can be tiring and demanding. During the hours you are in clinic your caregiver should take time for themselves. Being a caregiver is a full-time responsibility and requires someone who is dependable and reliable. This role can be stressful, especially if your condition, schedule or treatment changes. It is important for your caregiver to maintain a positive attitude, calm demeanor and flexible approach - and to provide you with encouragement. At the same time it is important to understand that the caregiver role is challenging and your caregiver might find themselves stressed by the responsibilities**
+It is important for your caregiver to maintain a positive attitude, calm demeanor and flexible approach - and to provide you with encouragement. It's important for you to understand that the caregiver role is challenging and that your caregiver might find themselves stressed by the responsibilities.
 
-### BMT Orientation
-<p class="question">To be written. I don't understand how the BMT Orientation works; research and write content. Does the face-to-face BMT orientation still happen?</p>
+Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you and. Your caregiver should be someone who can offer you the practical and emotional support you need. 
 
+#### Multiple Caregivers
+If there isn't one person who can act as your caregiver then it may be possible for you to have different caregivers scheduled during different times. 
+
+<p class="question">Is there anything more we need to say about this?</p>
+<div class="outstanding invisible">
 #### Resources for Caregivers
-<p class="move">Need to check what this means: "There are many resources available at MSKCC for patients and caregivers. You can learn about them in the Resources section of this guide or by talking with your team."</p>
+Find better wording for this; Talk to your healthcare team about choosing a caregiver, and encourage your caregiver to make use of the many resources provided by MSKCC. We have included useful resources for caregivers at the back of You can learn about them in the Resources section of this guide or by talking with your team.
+</div>
+
+<div class="outstanding invisible">
+### BMT Orientation
+To be written. I don't understand how the BMT Orientation works; research and write content. Does the face-to-face BMT orientation still happen?</div>
 
 ### Financial Clearance
 
