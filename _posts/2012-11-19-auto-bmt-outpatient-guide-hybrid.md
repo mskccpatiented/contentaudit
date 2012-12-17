@@ -9,8 +9,8 @@ categories: ['Tests and Procedures']
 tags: []
 summary: Guide to outpatient SCT. Still in draft. 
 notes: A combination, re-write of materials related to Outpatient Auto BMT. 
-strategy: 
-changes_tool:true
+strategy:
+changes_tool: true
 status: formatted 
 date: 11-12-2012
 ---
@@ -124,7 +124,7 @@ A **fellow** is a doctor who has completed general training and is receiving add
 
 A **nurse practitioner (NP)** is a nurse who has a master's or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. The NPs will be responsible for your daily care when you come to the Outpatient Clinic.
 
-Your **BMT Nurse Coordinator** will communicate and work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant.  This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process.
+Your **BMT Nurse Coordinator** will communicate and work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant. This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process.
 
 A team of **nurses** will provide your day-to-day nursing care. They are registered nurses specially trained in the care of transplant patients.
 
@@ -336,7 +336,7 @@ Taking good care of your catheter is important. You are responsible for caring f
 
 A nurse will teach you how to care for your catheter. You will learn how to change your dressing while ensuring that it remains free from germs; this is known as "sterile technique". Using sterile technique will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
 
-To take care of your catheter one of your nurses will give you  supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
+To take care of your catheter one of your nurses will give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
 
 <p class="question invisible">When will a nurse teach you? Which nurse? Where does this happen?</p>
 
@@ -409,7 +409,7 @@ In most cases GCSF injections are self-administered, that is you will inject you
 
 A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is in the appendices. Your BMT Nurse Coordinator will talk you through this information as well. 
 
-Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.    
+Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic. 
 
 <p class="question invisible">How many injections, when are the GCSF injections given, by whom, where etc.</p>
 
@@ -428,23 +428,25 @@ Between 1 and 5 sessions will be needed to harvest enough stem cells, and each s
 
 After your stem cells are harvested, they are frozen and stored until your transplant day. 
 </div>
+<div class="outstanding">
 Purpose
-Stem cells are also called pluripotent cells or progenitor cells. They are blood cells that have not matured to become a specific kind of blood cell. Any stem cell can become a specific kind of blood cell, such as a red blood cell or a platelet.  Peripheral blood stem cell harvesting is the procedure used to collect some of the stem cells in your blood.  The stem cells that are removed or “harvested” are frozen. After your chemotherapy they will be thawed and returned to you.  The doses of chemotherapy that you will receive are very high and will destroy most of the blood cells in your bone marrow and bloodstream.  The stem cells that are harvested and returned to you will grow, mature, and replace the destroyed cells.
+Stem cells are also called pluripotent cells or progenitor cells. They are blood cells that have not matured to become a specific kind of blood cell. Any stem cell can become a specific kind of blood cell, such as a red blood cell or a platelet. Peripheral blood stem cell harvesting is the procedure used to collect some of the stem cells in your blood. The stem cells that are removed or “harvested” are frozen. After your chemotherapy they will be thawed and returned to you. The doses of chemotherapy that you will receive are very high and will destroy most of the blood cells in your bone marrow and bloodstream. The stem cells that are harvested and returned to you will grow, mature, and replace the destroyed cells.
 
 Preparation
-A health care professional will examine your arms to see if your veins are adequate.  If they are not, a temporary catheter will be put into a vein in your neck.  This will take place before you begin the harvesting. The catheter will remain in place for several weeks to several months. It will be used to collect your stem cells, to take samples of your blood, and to give you intravenous fluids and medicines while you are in the hospital.   You will be given an appointment to have the catheter placed. You will also be given a booklet that describes the procedure and how to care for the catheter afterwards.  Your nurse will review this with you. 
+A health care professional will examine your arms to see if your veins are adequate. If they are not, a temporary catheter will be put into a vein in your neck. This will take place before you begin the harvesting. The catheter will remain in place for several weeks to several months. It will be used to collect your stem cells, to take samples of your blood, and to give you intravenous fluids and medicines while you are in the hospital. You will be given an appointment to have the catheter placed. You will also be given a booklet that describes the procedure and how to care for the catheter afterwards. Your nurse will review this with you. 
 
 Harvesting
-The harvesting procedure is done in the Blood Donor Room.  Your doctor will schedule you for several appointments; most patients require three to five appointments to collect enough cells.  You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment.  Wear comfortable clothes.  The harvesting is done while you are lying in a bed or sitting in a reclining chair.  The process is painless and it will take three to four hours to collect your cells.  
+The harvesting procedure is done in the Blood Donor Room. Your doctor will schedule you for several appointments; most patients require three to five appointments to collect enough cells. You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment. Wear comfortable clothes. The harvesting is done while you are lying in a bed or sitting in a reclining chair. The process is painless and it will take three to four hours to collect your cells. 
 
-A machine that separates the stem cells from your blood will be connected to your catheter or the veins in your arms.  Blood is withdrawn and circulated through the machine to collect the stem cells.  The rest of your blood is returned to you.  If you wish, you will be able to watch TV or read.  A family member or friend may sit with you after the procedure has started.  Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
+A machine that separates the stem cells from your blood will be connected to your catheter or the veins in your arms. Blood is withdrawn and circulated through the machine to collect the stem cells. The rest of your blood is returned to you. If you wish, you will be able to watch TV or read. A family member or friend may sit with you after the procedure has started. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
 
 After the Procedure
-After your harvesting procedure is done, your catheter will be flushed and recapped. If the veins in your arms were used for the harvesting, a dressing will be applied to prevent bleeding.  It should remain in place for at least three hours, but not more than five hours.  Most patients have no side effects after the procedure and can resume their regular activities.
+After your harvesting procedure is done, your catheter will be flushed and recapped. If the veins in your arms were used for the harvesting, a dressing will be applied to prevent bleeding. It should remain in place for at least three hours, but not more than five hours. Most patients have no side effects after the procedure and can resume their regular activities.
 
 Call Your Doctor If You:
 * Develop a fever (100.4° F or 38° C) or chills.
 * Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
+</div>
 
 ### Conditioning Regimen
 <div class="feedback remove invisible">
@@ -555,7 +557,7 @@ Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you 
 
 The first step is to schedule an appointment with a reproductive endocrinologist. Reproductive endocrinologists are doctors with special training in fertility and reproductive health. The reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
 
-It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other  programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included in the appendices.
+It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included in the appendices.
 
 Typically **men** who want to have children after their chemotherapy opt to have their sperm collected and frozen, this is called sperm banking. 
 
@@ -678,30 +680,39 @@ Now that you've received chemotherapy to kill the cancer cells in your body, it'
 #### The Morning Before Transplant
 On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. Bring newspapers, books, a laptop or tablet computer to pass the time.
 
-Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review ask you a set of questions and review your  Patient Temperature and Oral Intake Diary. You will be brought to a private room for a physical exam and your vital signs will be checked.
+Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review ask you a set of questions and review your Patient Temperature and Oral Intake Diary. You will be brought to a private room for a physical exam and your vital signs will be checked.
 
 <p class="question invisible">I'd like to get a clear picture of what exactly happens when the patient gets to the clinic. </p>
 
 #### The Transplant
 Before your transplant, your frozen stem cells will be removed from storage in the stem cell laboratory <span class="feedback remove invisible">at our blood bank</span> and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
-Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will e checked frequently during and after the infusion. 
+Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will be checked frequently during and after the infusion. 
 
 **Check meaning: The potential reactions that occur are caused by the preservative used to protect the stem cells during freezing.**
 
-<p class="question">How long does the transplant (the infusion of the stem cells) take from start to finish?</p>
+<p class="question invisible">How long does the transplant (the infusion of the stem cells) take from start to finish?</p>
 
-You will be given some medicine about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let them know how you're feeling and tell them if you have any side effects.
+You will be given some medicine about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you have any side effects.
 
-During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The smell will gradually go away over 1 to 2 days. 
+During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The smell will gradually go away over 1 to 2 days. The Nutrition Department can give you lemons to cut up and use as safe, natural air-fresheners. 
 
-You may not notice the smell but those around you will. Your urine may appear 
+You may not notice the smell but those around you will. Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
 
 <p class="question invisible">I just want to validate that the small could be present during *and* after the transplant. Also, when it's mentioned that "The Nutrition Department will provide lemons" - how is it envisaged that the lemons are used. Cut them, leave them around? Why lemons, because they're natural, non-chemical, non-toxic?</p>
 
+#### Engraftment
 Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
 
-Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
+Once the stem cells arrive in your bone marrow they begin to "engraft", forming bonds with surrounding tissues and becoming fixed in place. 
+
+Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+
+The Chemotherapy you received add all your blood cells. During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
+
+Remember, you are very vulnerable to infection at this time. You will be closely monitored for any signs of infections. Your best defense against infection is hand washing. When your cells start to engraft you mary experience bone pain or a rash on your body. These are common symptoms experienced during engraftment. 
+
+They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
 
 #### After Your Transplant
 <p class="question invisible">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
@@ -747,7 +758,7 @@ If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs fol
 Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
 
 ### Your Daily Visit to the BMT Clinic
-Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day.  Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
+Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
 
 When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
 
@@ -767,7 +778,7 @@ Some of your blood will be taken and sent for testing. Your blood will be checke
 
 Once you've been examined you will wait in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
 
-After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care.  The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
+After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
 
 Here are some things that can happen based on the results of your tests:
 
@@ -785,7 +796,7 @@ As you know, your chemotherapy will kill not only the cancerous cells in your bo
 
 Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you highly susceptible to infections. 
 
-You and your caregiver will take careful precautions to avoid infections while you are "neutropenic". These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions.   
+You and your caregiver will take careful precautions to avoid infections while you are "neutropenic". These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions. 
 
 #### Avoiding Sources of Infection
 One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to avoid:
@@ -861,7 +872,7 @@ You will need to take careful precautions with the food you eat, including:
 * Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
 * Cooking foods thoroughly
 
-A full guide to eating a low-microbial diet and these topics is included in the appendices of this document. 
+Refer to the booklet on "Low-microbial diet and safe food handling" in the appendices of this document. 
 
 ### Living with a Low Platelet Count
 Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you and your caregiver will take special precautions:
@@ -915,6 +926,96 @@ Call your doctor immediately if you:
 * Have a headache that do not get better, blurred vision, or dizziness
 * Cough up blood, vomit blood or get a nose bleeds
 
+### Living with a Low Red Blood Cell Count (Anemia)
+Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
+
+Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Some of the side effects of anemia are:
+
+* Increased tiredness
+* Generalized weakness
+* Rapid heartbeat
+* Shortness of breath
+* Headache
+* Pale skin
+
+If you have anemia, your doctor may prescribe one or more of the following:
+
+* A transfusion
+* Rest
+* A diet high in iron (e.g., green leafy vegetables, liver, chicken)
+* Iron supplements
+
+<p class="question">I assume that the diet/iron recommendations here don't apply to SCT patients?</p>
+
+### Receiving a Transfusion
+Your doctor may recommend a blood transfusion to boost the number of platelets or red blood cells in your body. 
+
+If your doctor recommends a transfusion for you it will be given to you through your catheter during one of your regular visits to the Outpatient BMT Clinic. 
+
+#### Sourcing Blood for Your Transfusion
+The blood used in your transfusion is donated at our Blood Bank. There is no substitute for real blood, so we are incredibly grateful to the people who donate blood. 
+
+Your friends and relatives may donate red blood cells and platelets - this is known as a directed donation. Your friends and relatives are eligible to donate if they:
+
+* Are at least 16 years old and have written parental consent. No parental consent is required for those who are at least 17 years old.
+* Weigh at least 110 pounds
+* Are in good health
+* Have identification showing their name and photograph or signature
+
+Blood donations can be given by appointment at our Blood Donor Room which is located at:
+
+Memorial Sloan-Kettering Cancer Center
+Schwartz Building Lobby
+1250 First Avenue
+(Between 67th and 68th Streets)
+New York, NY 10065
+
+For more information about making a directed donation and to make an appointment, your friends and family should call our Blood Donor Room at 212-639-7643.
+
+If your friend of family member has a blood type that isn't compatible with yours then their blood will be released for use with other patients at MSKCC.
+
+Directed donations will be held for you for 30 days. After that, the blood will be released for use with other patients at MSKCC.
+
+<div class="outstanding">
+Patients often need red blood cells and platelets when their counts are too low.  We ask family members and friends to donate blood and are grateful when they can do it.  Any blood donation helps our patients.  When you start treatment, ask a family member to call the Blood Donor program to find out about giving blood. The number is (212) 639-8177. It takes about two hours to donate platelets and about 45 minutes for red blood cells.  Donors can call (212) 639-7648 to make an appointment.  Blood donors must:•	Be 17 - 75 years of age.  •	Weigh over 110 pounds (50 kg).  •	Not have signs of a cold or active allergy at the time of donation.  •	Not have or have had an illness such as hepatitis, jaundice, cancer, etc.  •	Call the donor room if they are taking any medicine.  •	Not take aspirin, or any compound that has aspirin or aspirin-like drugs (ibuprofen, Motrin®, Naprosyn®, Anaprox®, Advil®, Aleve®) within three days before giving blood.  It is okay to take Tylenol® or Anacin 3®. •	Not drink alcohol eight hours before donating.  •	Eat a light meal, but avoid fatty foods before donating.  
+</div>
+
+#### Making Sure Blood Is Safe
+After it is donated all blood is tested for:
+
+* Syphilis
+* Hepatitis B and C
+* Exposure to the AIDS virus
+* The presence of a virus associated with a very rare form of leukemia. 
+* West Nile virus
+* Trypanosoma Cruzi
+
+The chance of getting any of these from donated blood is very small. Directed donations are tested in exactly the same way as other donations. 
+
+#### How long does the Transfusion take?
+A transfusion of red blood cells usually takes two to four hours. Transfusions of other blood components, like platelets, takes only 15-30 minutes. 
+
+#### Are there risks associated with blood transfusions?
+Yes, blood transfusions have some risks. These risks include the very slight chance of having an allergic reaction or acquiring an infection through tainted blood.
+
+<p class="question">Are these risks worth mentioning?</p>
+
+#### Can anything bad happen during or after the transfusion?
+Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medicines. Transfusion reactions are rarely life threatening. Nursing staff constantly check all patients while a blood transfusion is taking place.
+
+### Is there anything to worry about after a transfusion?
+Allergic reactions can sometimes occur. Symptoms are listed below. They can occur up to 48 hours after the transfusion. Call your doctor immediately if you have:
+
+* Fever (100.4 F or 38 C or higher) or chills.
+* Flushing of the face. 
+* Hives, rash, or itching.
+* Trouble breathing or shortness of breath.
+* Low back pain.
+* Nausea or vomiting.
+* Weakness or fainting.
+* Blood in the urine.
+* Chest pain (If you have chest pain, call your local emergency number immediately.).
+
 ### Other Things to Consider in Phase 3
 <p class="outstanding">Probably a lot of things I am forgetting, or haven't had time to include. Please suggest content and I'll find/write it.</p>
 
@@ -928,6 +1029,10 @@ Uncommon words will be identified automatically, but feel free to highlight any 
 ## Appendices
 
 Document to be included along with this guide, as appendices:
+
+**Transplant Resources - Included by Sheila in her feedback**
+
+**10 Tips for Caregivers - Included by Sheila in her feedback**
 
 Guide to Low Microbial Diet
 http://patiented.herokuapp.com/articles/low-microbial-diet
