@@ -55,13 +55,13 @@ Stem cells can create many copies of themselves - **dividing** again and again t
 Stem cells are constantly dividing and differentiating in our bone marrow creating new blood cells to replace older cells.
 
 ### Why You Need a Transplant
-<div class="outstanding">
 Cancer cells can be killed using chemotherapy. Giving you a high dose of chemotherapy increases the likelihood that all of the cancer cells in your body will be killed, but also means that other types of cells, including your stem cells, will be killed. 
 
 Harvesting your stem cells beforehand allows us give you a high dose of chemotherapy before returning your stem cells to you. Once your stem cells have been given back to you they will slowly start to make new immune and blood cells.
 
 An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
 
+<div class="outstanding">
 <p class="invisible remove">One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood.</p>
 
 **Find Best Place For: **
