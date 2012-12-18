@@ -26,16 +26,16 @@ The information in this guide will help you prepare for your transplant; you'll 
 
 We will also recommend further reading on useful topics like sexual activity, diet and exercise. 
 
-### How To Use This Booklet
-You should read this booklet completely at least once, then use refer to it as your treatment progresses. 
+### How To Use This Guide
+You should read this guide completely at least once including any additional resources included at the back of the guide -  then use refer to the guide as your treatment progresses. 
 
-As you read through the booklet make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
+As you read through the guide make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
 
-### Language Used In This Booklet
-We've done our best to keep the amount of medical terms in this booklet to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we're prepared a glossary of useful terms at the back of this booklet. 
+### Language Used In This Guide
+We've done our best to keep the amount of medical terms in this guide to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we're prepared a glossary of useful terms at the back of this guide. 
 
 ### We Need Your Help
-We are always improving the information we provide to patients and their families/friends. If you get to the end of this booklet and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
+We are always improving the information we provide to patients and their families/friends. If you get to the end of this guide and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
 
 ## Bone Marrow Basics
 
@@ -456,7 +456,7 @@ After harvesting most patients have no side effects and can resume their regular
 
 Two days before your transplant you'll receive your chemotherapy. (This process is also called "conditioning" because it conditions, or prepares, your body for transplant). Your BMT Nurse Coordinator will work with you to schedule and explain your day of chemotherapy. 
 
-You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included in the appendices.
+You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included at the back of this guide.
 
 This will be a busy day. Not only will you receive your chemotherapy, but you'll also meet your Clinical Pharmacist who will review your medications with you and show you how to use your pill box. You and your caregiver will also be given a lot of information about the rest of your treatment and what to expect - some of this information will be on paper and some of it will be verbal. Your caregiver might like to bring a notebook and pen to the clinic to note down key points and any questions.
 </div>
@@ -472,12 +472,11 @@ The conditioning regiment starts on a negative numbered day. For example, if you
 Your physician and BMT Nurse Coordinator will discuss your treatment plan with you.
 
 Your BMT Nurse Coordinator will work with you to plan your schedule and will provide you with a treatment calendar. The BMT Nurse Coordinator will tell you the date, time and location to report to for treatment.
-<div class="feedback remove invisible">
-#### The Morning before Chemotherapy
-</div>
-#### Outpatient BMT Clinic
-**Fit: You will receive all your care in the outpatient BMT clinic on a daily basis. If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.**
 
+#### The Morning before Chemotherapy
+<div class="feedback remove invisible">
+#### Outpatient BMT Clinic
+</div>
 On the first day of your treatment you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time.
 
 Once you arrive at the BMT Outpatient Clinic You will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
@@ -509,7 +508,6 @@ Once all the safety checks have been complete the nurse will administer fluids (
 <p class="question invisible">How long does this take? Can the caregiver remain with the patient?</p>
 <div class="feedback remove invisible">
 #### During your Chemotherapy
-
 Your chemotherapy will take several hours to administer, so you will be provided with meals.</div> 
 
 During your chemotherapy your healthcare team will use this time to talk to you about the rest of your transplant journey. 
@@ -526,7 +524,7 @@ You and your caregiver should use the day of chemotherapy to ask as many questio
 <div class="feedback remove invisible">
 #### After Chemotherapy
 </div>
-When you finish your treatment you will return home to your apartment or hotel. <span class="feedback invisible remove">You will rest for one day before your transplant.</span>
+When your treatment is finished you will return home to your apartment or hotel. <span class="feedback invisible remove">You will rest for one day before your transplant.</span>
 
 <p class="move invisible">Move this or rewrite: During this period your blood cell counts will be very low. You will be at high risk for infection until your bone marrow begins to make new blood cells. To reduce the risk, everyone who enters your room will follow special rules. Your doctor and nurse will explain these in detail.</p>
 
@@ -540,11 +538,11 @@ Your healthcare team will help you understand and prepare for these side effects
 #### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
 Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
-One debilitating side effect of chemotherapy is called "**neutropenia**". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
+One side effect of chemotherapy is called "neutropenia". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
 
-Because your chemotherapy will kill your stem cells, you lose the ability to make new neutrophils. Because your neutrophils are not being replaced in your body, in the days after your chemotherapy the number of neutrophils in your bloodstream will drop to a very low level, leaving you vulnerable to infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a regular record of your temperature <span class="feedback remove invisible">and other vital signs,</span> even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
+Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature <span class="feedback remove invisible">and other vital signs,</span> even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
 
-As well as losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will take special care to avoid cuts and strenuous activities that might cause bleeding. You'll take special care of your gums and mouth, because it's quite common for bleeding to start here.
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets <span class="feedback remove invisible">are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They </span>clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here.
 
 After your transplant your healthcare team will <span class="feedback remove invisible">regularly</span> take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
 
@@ -557,7 +555,7 @@ Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you 
 
 The first step is to schedule an appointment with a reproductive endocrinologist. Reproductive endocrinologists are doctors with special training in fertility and reproductive health. The reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
 
-It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included in the appendices.
+It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included at the back of this guide.
 
 Typically **men** who want to have children after their chemotherapy opt to have their sperm collected and frozen, this is called sperm banking. 
 
@@ -565,7 +563,7 @@ If you are a man and wish to donate sperm you will travel to a sperm bank facili
 
 Sperm can be stored for as long as is necessary and a yearly storage fee will apply. 
 
-**Women** who want to have children after their chemotherapy can have eggs or fertilized embryos collected and stored beforehand. 
+**Women** who want to have children after their chemotherapy can have their eggs or fertilized embryos collected and stored beforehand. 
 
 If you are a woman and wish to store your eggs or embryos for future fertilization, first the reproductive endocrinologist will examine you and review your medical history before discussing your options. 
 
@@ -581,14 +579,14 @@ An alternative to embryo cryopreservation is egg (oocyte) cryopreservation. This
 
 Whether you decide to freeze embryos or eggs, they will be stored at an egg bank until you are ready and you have been medically cleared to start a family. A yearly storage fee will apply. 
 
-For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included in the appendices. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
+For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included at the back of this guide. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
 
 #### Side Effects from Chemotherapy - Hair Loss
 The chemotherapy that kills your rapidly-dividing cancer cells also kills the rapidly-dividing cells that produce your hair. Most patients will lose their hair during their transplant. 
 
 Losing your hair can be an unpleasant, upsetting experience. Like many patients, you might choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends and family.
 
-Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided in the appendices. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
+Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
 
 #### Side Effects from Chemotherapy - Fatigue
 After your chemotherapy the number of red blood cells (RBCs) in your blood will be very low. 
@@ -627,7 +625,7 @@ Your caregiver should bring the Temperature and Oral Intake Diary to the Outpati
 ### Checklist
 Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. Use this checklist to keep track of things you need to do before your transplant.
 
-* Read this guide in full at least once, along with the accompanying appendices and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
+* Read this guide in full at least once, along with the accompanying information and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
 * Meet with the representative from Patient Financial Services (PFS) and talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage.
 * Choose a caregiver and make sure they understand what the role entails. 
 * Give your caregiver a copy of this guide and ask them to read it in full at least once
@@ -755,8 +753,8 @@ If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs fol
 
 Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
 
-### Your Daily Visit to the BMT Clinic
-Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
+### The Outpatient BMT Clinic
+You will receive all your care in the outpatient BMT clinic on a daily basis. Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
 
 When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
 
@@ -787,7 +785,9 @@ Here are some things that can happen based on the results of your tests:
 
 All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel where your caregiver will continue to monitor your temperature and fluid intake. 
 
-You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
+You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly.  
+
+If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.
 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -834,7 +834,7 @@ When you shower or bathe take extra care to make sure you wash yourself thorough
 
 After you urinate or move your bowels, wash your buttocks and genital area with antibacterial soap. You can also use moist wipes. Pat the area dry. Wash your hands well afterward.
 
-When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are in the appendices. 
+When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are included at the back of this guide. 
 
 <p class="question">Can the person use a razor or must they use an electric razor/shaver? Can the person use tampons - there's a general lack of information about what women do during their period. If you can bullet-point the key points I can write up.</p>
 
@@ -870,7 +870,7 @@ You will need to take careful precautions with the food you eat, including:
 * Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
 * Cooking foods thoroughly
 
-Refer to the booklet on "Low-microbial diet and safe food handling" in the appendices of this document. 
+Refer to the guide on "Low-microbial diet and safe food handling" at the back of this guide. 
 
 ### Living with a Low Platelet Count
 Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you and your caregiver will take special precautions:
@@ -1024,7 +1024,7 @@ Allergic reactions can sometimes occur. Symptoms are listed below. They can occu
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
 
-## Appendices
+## Additional Resources
 
 Document to be included along with this guide, as appendices:
 
