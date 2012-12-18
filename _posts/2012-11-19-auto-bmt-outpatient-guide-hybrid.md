@@ -61,10 +61,8 @@ Harvesting your stem cells beforehand allows us give you a high dose of chemothe
 
 An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
 
-<div class="outstanding">
-<p class="invisible remove">One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood.</p>
-
-**Find Best Place For: **
+<div class="outstanding invisible remove">
+One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood.
 
 <p class="invisible remove">Because you can't make new blood cells, your immune system and your body's ability to renew itself are compromised.</p>
 
