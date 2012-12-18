@@ -19,23 +19,23 @@ date: 11-12-2012
 ## Welcome, Overview
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
 
-### What's in This Guide?
+### What's in This Guide
 This guide will help you learn about autologous transplantation; what it is and why it's been recommended for you. The guide will become an important part of your transplant journey and will add to the verbal information you receive from doctors, nurses, social workers and other members of your healthcare team. 
 
-We hope that the general information in this guide will help you prepare for your transplant; you'll learn about the key phases of your treatment and the team who will care for you. We'll help you prepare for each phase, recommend things you should do and things you should avoid. 
+The information in this guide will help you prepare for your transplant; you'll learn about the key phases of your treatment and the team who will care for you. We will help you prepare for each phase. We will recommend things you should do and things you should avoid. 
 
-We'll also recommend further reading on useful topics like sexual activity, diet and exercise. 
+We will also recommend further reading on useful topics like sexual activity, diet and exercise. 
 
-### How To Use This Booklet?
+### How To Use This Booklet
 You should read this booklet completely at least once, then use refer to it as your treatment progresses. 
 
-As you read through the booklet make a note of any questions that come to mind. Your doctor, or a member of your healthcare team, can answer your questions when you see them next.
+As you read through the booklet make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
 
-### Language Used In This Booklet?
-We've done our best to keep the amount of medical jargon in this booklet to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we're prepared a glossary of useful terms at the back of this booklet. 
+### Language Used In This Booklet
+We've done our best to keep the amount of medical terms in this booklet to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we're prepared a glossary of useful terms at the back of this booklet. 
 
 ### We Need Your Help
-We are constantly trying to improve the information we offer to patients and their families/friends. If you get to the end of this booklet and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
+We are always improving the information we provide to patients and their families/friends. If you get to the end of this booklet and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
 
 ## Bone Marrow Basics
 
@@ -50,64 +50,62 @@ But, you might ask, how are these blood cells "made"?
 
 Stem cells are immature cells that produce the blood cells in the body. These cells are found in the bone marrow and some also circulate in your blood. 
 
-Stem cells can create many copies of themselves - *dividing* again and again to create more stem cells. 
-
-Your stem cells can also follow a path called *differentiation*, where they change into the different types of blood cells found in your body. 
+Stem cells can create many copies of themselves - **dividing** again and again to create more stem cells. They can also follow a path called **differentiation**, where they change into the different types of blood cells found in your body. 
 
 Stem cells are constantly dividing and differentiating in our bone marrow creating new blood cells to replace older cells.
 
 ### Why You Need a Transplant
 <div class="outstanding">
-You may need a transplant for various reasons. **Check: You are in relatively good health and your doctors feel that a stem cell transplant is the best treatment for your disease.** Your type of cancer responds to high doses of chemotherapy, a form of cancer treatment that uses chemicals to kill these rapidly dividing cells. 
+Cancer cells can be killed using chemotherapy. Giving you a high dose of chemotherapy increases the likelihood that all of the cancer cells in your body will be killed, but also means that other types of cells, including your stem cells, will be killed. 
+
+Harvesting your stem cells beforehand allows us give you a high dose of chemotherapy before returning your stem cells to you. Once your stem cells have been given back to you they will slowly start to make new immune and blood cells.
+
+An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
 
 <p class="invisible remove">One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood.</p>
 
-**Find Best Place For: Collecting your stem cells prior to high dose chemotherapy allows us to give larger doses of chemotherapy. We will return your stem cells to you to rescue your blood-forming cells and your immune system from the side effects of chemotherapy.**
-
-When you receive chemotherapy to kill the cancerous cells in your body your bone marrow will be wiped out and you will lose the ability to make new blood cells. 
+**Find Best Place For: **
 
 <p class="invisible remove">Because you can't make new blood cells, your immune system and your body's ability to renew itself are compromised.</p>
 
 This is why you need a transplant.
 </div>
 
-### What is an Autologous Transplant?
-Autologous means *from yourself* - an autologous stem cell transplant (sometimes called a bone marrow transplant, though stem cell transplant is a more accurate term) is a medical procedure where stem cells are collected (also called "harvested") from your body before you receive your chemotherapy. 
+### Autologous Stem Cell Transplant
+Autologous means "from yourself". When you have an autologous stem cell transplant (sometimes called an autologous bone marrow transplant, though stem cell transplant is a more accurate term) your stem cells are harvested from your body before you receive your high-dose chemotherapy. 
 
-<p class="note">This might be a good place to introduce the "we can give you higher doses of chemotherapy" paragraph.</p>
+<p class="note invisible">This might be a good place to introduce the "we can give you higher doses of chemotherapy" paragraph.</p>
 
 These stem cells are stored safely while you receive your chemotherapy, then given back to you. You are literally receiving a transplant from yourself.
 
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-**Before** - You prepare for your stem cell transplant. A catheter will be inserted into your upper chest wall. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+**Before** - You will prepare for your stem cell transplant. A central venous catheter will be inserted into your upper chest wall. You will receive drugs that stimulate your body to make more stem cells than normal. Your stem cells will be harvested from your body and stored. You will receive your chemotherapy, called the "conditioning regimen", to kill the cancer cells. Your stem cells will also be killed and you will lose your ability to make new blood cells.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
-**During** - You have lost your ability to make new blood, so your immune and healing systems are compromised. Your stem cells are taken from storage and re-infused back into your body. 
+**During** - You have lost your ability to make new blood cells so your immune system is severely compromised. Your stem cells are taken from storage and infused into your body through your catheter. This is your transplant.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
 
-**After** - The re-infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
+**After** - The infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
 
-Each patient's journey is a little different; your medical team will be able to explain your transplant in more detail.
+### Outpatient Autologous Stem Cell Transplant
+Until relatively recently stem cell transplants were always done in the hospital. Patients would live in the hospital while undergoing treatment, and for a period of recovery.
 
-### What is an Outpatient Stem Cell Transplant?
-Until relatively recently stem cell transplants were always done on an inpatient basis; you would live in the hospital during your chemotherapy, transplant and some of your recovery period.
+Now, stem cell transplants like yours can be done out of the hospital - called an "outpatient transplant". This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You will only be admitted to the hospital for an overnight stay if you develop complications. 
 
-Now, stem cell transplants like yours can be done on an outpatient basis. This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You will only be admitted to the hospital for an overnight stay if you develop complications. 
+Here is a typical timeline for someone having an outpatient transplant:
 
-Here is a typical timeline for an outpatient transplant:
+* *Day −4:* You and your caregiver will check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
+* *Day −3:* You and your caregiver will come to MSKCC's Interventional Radiology department at main campus where a central venous catheter is inserted in your upper chest wall. You return to your hotel or apartment in the evening.
+* *Day −2:* You will come to the Outpatient BMT Clinic where you receive your chemotherapy. You will return to your hotel or apartment in the evening.
+* *Day −1:* This is a rest day; you will remain in your hotel or apartment for the day.
+* *Day 0:* Transplant day. You will come to the Outpatient BMT Clinic where you receive your stem cell transplant. You will return to your hotel or apartment in the evening.
+* *Day +1 to +12:* You will visit the Outpatient BMT Clinic every day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. You return to your hotel or apartment every evening.
 
-* *Day −4:* You and your caregiver check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
-* *Day −3:* You and your caregiver come to MSKCC's Interventional Radiology department at main campus where a central venous catheter is inserted in your upper chest wall. You return to your hotel or apartment in the evening.
-* *Day −2:* You come to the Outpatient BMT Clinic where you receive your chemotherapy. You return to your hotel or apartment in the evening.
-* *Day −1:* This is a rest day; you remain in your hotel or apartment for the day.
-* *Day 0:* Transplant day. You come to the Outpatient BMT Clinic where you receive your stem cell transplant. You return to your hotel or apartment in the evening.
-* *Day +1 to +12:* You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. You return to your hotel or apartment every evening.
-
-After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for a few additional weeks. You will visit the Outpatient BMT Clinic twice a week, instead of every day. 
+After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly.  
 
 You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
@@ -136,7 +134,7 @@ The **hospitalist** is a doctor who only sees patients while they are in the hos
 
 A **Clinical Pharmacist** who specializes in the care of transplant patients will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review your medications frequently with the outpatient team.
 
-**Social Workers** are members of the healthcare team who will help you and your family manage the stresses that come with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling and refer you or your family to other resources and services as needed. 
+**Social Workers** are members will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
 
 **Financial Counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These financial counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
@@ -154,20 +152,18 @@ Phase 1 of your treatment begins when you meet your Outpatient BMT team on or ar
 ### One Page Summary of This Phase
 In this phase you'll make preparations for your transplant; practically, physically and emotionally. This will be a very busy time for you and your family. 
 
-These are the key things that will happen during this phase:
+We will describe each of the key things that will happen in this phase later in this section, but in summary: 
 
-* Financial Clearance - You will work with your insurance company to make sure your treatment and medications are covered
-* Meeting your Team - You will meet your primary physician and members of the Outpatient BMT team
+* Getting Financial Clearance - You will work with your Financial Counselor and your insurance company to make sure your treatment and medications are covered. 
+* Meeting your Team - You will meet your doctor and members of the Outpatient BMT team
 * Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver
-* Orientation - You and your caregiver will attend an orientation meeting 
-* Side Effects - You will make decisions about your fertility, about wearing a wig and other issues related to the side effects of chemotherapy
-* Testing - You'll undergo a round of tests
+<span class="check invisible">* Orientation - You and your caregiver will attend an orientation meeting</span>
+* Preparing for Side Effects - You will make decisions about your fertility, about wearing a wig and other issues related to the side effects of chemotherapy
+* Pre-Transplant Evaluation - You'll undergo a series of medical tests
 * Lodging - You'll move into a hotel or apartment near to MSKCC. 
 * Catheter - Your central venous catheter will be inserted
 * Harvesting - Your stem cells will be collected and stored
-* Chemotherapy - You will receive high dose chemotherapy
-
-We cover each of these activities in detail later in this section. 
+* Chemotherapy - You will receive high dose chemotherapy 
 
 #### Topics
 It's also important that you know about these topics during this phase:
@@ -180,7 +176,7 @@ We cover each of these topics in detail later in this section.
 <p class="move">From the list of topics, move: What you can and cannot eat during transplant and recovery</p>
 
 #### Actions - Things You Need to Do 
-At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
+At the end of this chapter you'll find a list of things you need to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
 <p class="question hidden"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
 
@@ -198,16 +194,16 @@ Your caregiver will receive specific instructions from the healthcare team about
 * Caring for your catheter 
 * Making sure you take your medications and keeping a written record of when you take your medications
 * Taking your temperature every 4 hours while you are awake and keeping a written record of your temperature
-* Keeping a written record of down how much fluid you drink every day
+* Keeping a written record of how much fluid you drink every day
 * Noticing any changes in your condition
 * Telling your healthcare team about any symptoms you may have
 * Calling for medical help in an emergency
 
 #### Practical Support
 * Dealing with financial and insurance issues 
-* Preparing your meals according to a special, low-microbial diet
+* Preparing your meals according to a low-microbial diet
 * Bring you to and from the hospital
-* Maintaining a clean environment in your hotel, apartment or home
+* Maintaining a clean environment in your hotel, apartment or house
 * Keeping family members and friends up to date about your condition
 * Managing the number of visitors you have and keeping you away from anyone who is sick
 
@@ -219,7 +215,9 @@ Your caregiver will receive specific instructions from the healthcare team about
 <p class="question invisible"><span class="complete">I would like to write this bullet-point list into more fluid text, is that acceptable?</span> Decision: Yes, re-write.</p>
 
 #### Choosing the Right Caregiver
-Being a caregiver is a full-time, 24/7 responsibility and can be tiring, demanding and stressful - especially if your condition, schedule or treatment changes. While you're undergoing your transplant your caregiver will not be able to work. Your caregiver will need to remain with you for most of the day and night (though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend).
+Being a caregiver is a full-time, 24/7 responsibility and can be tiring, demanding and stressful - especially if your condition, schedule or treatment changes. 
+
+While you're undergoing your transplant your caregiver will not be able to work and will need to stay with you for most of the day and night (though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend).
 
 It is important for your caregiver to maintain a positive attitude, calm demeanor and flexible approach - and to provide you with encouragement. It's important for you to understand that the caregiver role is challenging and that your caregiver might find themselves stressed by the responsibilities.
 
@@ -229,10 +227,9 @@ Take time now to think about who you would like to be your caregiver. It should 
 If there isn't one person who can act as your caregiver then it may be possible for you to have different caregivers scheduled during different times. 
 
 <p class="question">Is there anything more we need to say about this?</p>
-<div class="outstanding invisible">
+
 #### Resources for Caregivers
-Talk to your healthcare team about choosing a caregiver, and encourage your caregiver to make use of the many resources provided by MSKCC. We have included useful resources for caregivers at the back of You can learn about them in the Resources section of this guide or by talking with your team.
-</div>
+Talk to your healthcare team about choosing a caregiver. We have included useful resources for caregivers at the back of this guide.
 
 <div class="outstanding invisible">
 ### BMT Orientation
@@ -268,12 +265,18 @@ Your doctor and nurse will explain any other tests that you may need.
 
 <p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
 
+### Childcare
+<div class="outstanding">To be written</div>
+
+### Making Arrangements for Your Pets
+<div class="outstanding">To be written</div>
+
 ### Moving into a Nearby Apartment or Hotel
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
-### Being Fitted with your Central Venous Catheter
-On or before Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
+### Having Your Central Venous Catheter Inserted
+On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
 <div class="image-placeholder"><p>Image Placeholder: A clear diagram of the central venous catheter.</p></div>
@@ -292,23 +295,23 @@ Call your doctor before your procedure if you develop any illness. This includes
 
 If you have been told to be on a clear liquid diet you shouldn't eat any solid food after midnight the night before your procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure.
 
-#### The Day of the Procedure
+#### The Day Your Catheter is Inserted
 Your transplant coordinator will work with you to schedule the insertion of your catheter; it's likely that you'll be asked to report to the Surgical Day Hospital, where the catheter will be inserted, several hours before the procedure takes place. This will allow the medical team to evaluate you and make sure everything is in order before they insert the catheter. 
 
 You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
 If you wear contact lenses you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
-You and your caregiver should leave any valuables or jewelry at home. Bring only your medications and the money you need for the day to the hospital. 
+You and your caregiver should leave all valuables, including jewelry, at home. Bring only your medications and the money you need for the day to the hospital. 
 
-Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2nd floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital. Check in at the desk. Please arrive on time.
+Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2<span class="superscript">nd</span> floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital. Check in at the desk. Please arrive on time.
 
 In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
 <div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
-The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given some medication through the IV line to control pain and any anxiety; the medication will relax you. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given medication through your IV line to make you sleepy. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
 Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
 
@@ -338,7 +341,7 @@ The point where the catheter exits your skin will still need to be covered with 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
 
 #### Taking Care of Your Catheter
-Taking good care of your catheter is important. You are responsible for caring for your catheter when you are away from the hospital or clinic. **Check meaning: While you are undergoing your outpatient stem cell transplant a nurse will assist you with your catheter care.**
+Taking good care of your catheter is important. You are responsible for caring for your catheter when you are away from the hospital or clinic. **Check: While you are undergoing your outpatient stem cell transplant a nurse will assist you with your catheter care.**
 
 A nurse will teach you how to care for your catheter. You will learn how to change your dressing while ensuring that it remains free from germs; this is known as "sterile technique". Using sterile technique will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
 
@@ -361,10 +364,10 @@ Prepare the following emergency kit and keep it with you at all times:
 
 Here is a summary of the things you'll do on to take care of your catheter:
 
-* Change the Tegaderm&trade; dressing once a week
+* Change the Tegaderm<span class="superscript">&trade;</span> dressing once a week
 * Change the caps on the lumens and flush the catheter twice a week
 * Use the small white clamps on each lumen of the catheter to clamp the catheter closed when it is not in use.
-* Use a waterproof cover, called an Aquaquard&trade;, over your catheter when showering or bathing
+* Use a waterproof cover, called an Aquaquard<span class="superscript">&trade;</span>, over your catheter when showering or bathing
 * Avoid submerging the catheter in water (e.g. in a swimming pool)
 * Keep your catheter secure, avoid pulling it or the lumens.
 * Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
@@ -395,10 +398,10 @@ If your catheter is leaking at any time, clamp it above the leak. Use the white 
 
 <p class="question invisible">I edited "Cover the site with tape" rolling it into the sentence "Wipe the area that is leaking with an alcohol pad and then cover the leak with tape". The word "site" felt ambiguous and my assumption is that we're taking about putting tape over the leak.</p>
 
-Full instructions on how to care for your catheter are included in the *Caring for Your Central Venous Catheter* guide which is included in the appendices. You should read this guide in full and refer to it when you are changing your dressing or caring for your catheter.
+Full instructions on how to care for your catheter are included in **Caring for Your Central Venous Catheter** which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
 
 ### Mobilization and Harvesting
-In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. They are re-introduced into your body after your chemotherapy; this is your stem cell transplant.
+In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. They are infused into your body after your chemotherapy; this is your stem cell transplant.
 
 <p class="feedback remove invisible">On or around Day −4 you will be given an injection of a drug that "mobilizes" your stem cells, then those stem cells will be collected or "harvested" from your bloodstream.</p>
 
@@ -407,13 +410,13 @@ Mobilization is the process of increasing the number of stem cells produced by y
 Stem cell harvesting is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, plasma and stem cells) then then removing just the stem cells.
 
 #### Mobilization
-Normally your stem cells live in your bone marrow (though a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
+Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
 
-Because of this, you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen&reg;), pegfilgrastim (Neulasta&reg;) and plerixafor (Mozobil&reg;). 
+To increase the amount of stem cells in your bloodstream you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
 
 In most cases GCSF injections are self-administered, that is you will inject yourself with the drug while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your BMT Nurse Coordinator will create a personal <em>Mobilization Calendar</em> for you which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
 
-A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is in the appendices. Your BMT Nurse Coordinator will talk you through this information as well. 
+A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
 
 Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic. 
 
@@ -424,7 +427,7 @@ Some patients will not give themselves injections of Neupogen or Neulasta (both 
 
 The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
-**Check: The harvesting procedure is done in the Blood Donor Room**. Your BMT Nurse Coordinator or your doctor will schedule between three and five harvesting sessions to collect enough cells. The process is painless and each session will last three to four hours.
+<span class="invisible">**Check: The harvesting procedure is done in the Blood Donor Room**.</span> Your BMT Nurse Coordinator or your doctor will schedule 3-5 harvesting sessions to collect enough cells. The process is painless and each session will last three to four hours.
 
 You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment. Wear comfortable clothes. 
 
@@ -798,7 +801,7 @@ You and your caregiver will take careful precautions to avoid infections while y
 #### Avoiding Sources of Infection
 One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to avoid:
 
-* Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell&reg; afterwards
+* Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell<span class="superscript">&reg;</span> afterwards
 * Contact with young children, including your children if they are under 12
 * Contact with animals, including your pets - they cannot stay with you during your transplant
 * Contact with soil or dirt - you should not keep any plants in your hotel or apartment and should not accept gifts of flowers or plants
@@ -827,7 +830,7 @@ We understand that nothing will replace physical contact between you and your ch
 #### Showering and Bathing
 While you are neutropenic you keeping yourself clean is very important. 
 
-You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial". Dial&reg; is one example, but there are many others. 
+You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial". Dial<span class="superscript">&reg;</span> is one example, but there are many others. 
 
 When you shower or bathe take extra care to make sure you wash yourself thoroughly. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Wash carefully under your arms, in your anal and genital areas, and in any skin folds. Germs tend to live in these moist areas. You may shampoo your scalp with soap once a day. 
 
@@ -844,10 +847,10 @@ Follow these guidelines to take good care of your mouth:
 
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every 2 hours, depending on how your mouth feels.
 * Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry the mucous membranes of the mouth and throat.
-* Use an ultra soft toothbrush. You may also use Toothettes&reg; disposable foam sticks.
+* Use an ultra soft toothbrush. You may also use Toothettes<span class="superscript">&reg;</span> disposable foam sticks.
 * Do not use dental floss.
 * Avoid licking your lips. It increases drying and chapping.
-* Apply a lubricant like Chapstick &reg; after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
+* Apply a lubricant like Chapstick <span class="superscript">&reg;</span> after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
 * To avoid an infection in your mouth, the doctor will prescribe an oral anti-fungal antibiotic.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain.
@@ -898,7 +901,7 @@ You should take precautions when you are having sex. You should use lubrication 
 You should avoid medications that have not been explicitly prescribed to you by your medical team. Do not take:
 
 * Aspirin or products that contain aspirin
-* Non-steroidal anti-inflammatory drugs (NSAIDs) such as Advil&reg;
+* Non-steroidal anti-inflammatory drugs (NSAIDs) such as Advil<span class="superscript">&reg;</span>
 * Vitamin E
 
 All of these drugs make it more difficult for your blood to clot and so are very dangerous for somebody like you with a limited ability to heal and clot.
@@ -959,7 +962,7 @@ Your friends and relatives may donate red blood cells and platelets - this is kn
 * Are in good health
 * Have not had an illness such as hepatitis, jaundice, cancer, etc
 * Do not have signs of a cold or active allergy at the time of donation
-* Have not taken aspirin, or any compound that has aspirin or aspirin-like drugs (Ibuprofen, Motrin&reg;, Naprosyn&reg;, Anaprox&reg;, Advil&reg;, Aleve&reg;) within three days before giving blood.
+* Have not taken aspirin, or any compound that has aspirin or aspirin-like drugs (Ibuprofen, Motrin<span class="superscript">&reg;</span>, Naprosyn<span class="superscript">&reg;</span>, Anaprox<span class="superscript">&reg;</span>, Advil<span class="superscript">&reg;</span>, Aleve<span class="superscript">&reg;</span>) within three days before giving blood.
 * Have identification showing their name and photograph or signature
 * Have not consumed alcohol eight hours before donating
 
