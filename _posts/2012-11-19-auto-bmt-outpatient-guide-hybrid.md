@@ -57,6 +57,7 @@ Your stem cells can also follow a path called *differentiation*, where they chan
 Stem cells are constantly dividing and differentiating in our bone marrow creating new blood cells to replace older cells.
 
 ### Why You Need a Transplant
+<div class="outstanding">
 You may need a transplant for various reasons. **Check: You are in relatively good health and your doctors feel that a stem cell transplant is the best treatment for your disease.** Your type of cancer responds to high doses of chemotherapy, a form of cancer treatment that uses chemicals to kill these rapidly dividing cells. 
 
 <p class="invisible remove">One drawback of chemotherapy is that it also kills other types of rapidly dividing cells in your body - including the stem cells that produce your blood.</p>
@@ -67,7 +68,8 @@ When you receive chemotherapy to kill the cancerous cells in your body your bone
 
 <p class="invisible remove">Because you can't make new blood cells, your immune system and your body's ability to renew itself are compromised.</p>
 
-This is why you need a transplant. 
+This is why you need a transplant.
+</div>
 
 ### What is an Autologous Transplant?
 Autologous means *from yourself* - an autologous stem cell transplant (sometimes called a bone marrow transplant, though stem cell transplant is a more accurate term) is a medical procedure where stem cells are collected (also called "harvested") from your body before you receive your chemotherapy. 
@@ -79,7 +81,7 @@ These stem cells are stored safely while you receive your chemotherapy, then giv
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-**Before** - You prepare for your stem cell transplant. You are fitted with a catheter. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
+**Before** - You prepare for your stem cell transplant. A catheter will be inserted into your upper chest wall. You receive drugs that stimulate your body to make more stem cells than normal. Your stem cells are harvested from your body and stored. You receive your chemotherapy, called the "conditioning regimen", to kill cancer cells. Your stem cells are also killed and you lose your ability to make new blood cells.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
@@ -118,7 +120,7 @@ A team of healthcare professionals from the Adult Bone Marrow Transplant Service
 
 Your **attending doctor** will be in charge of your care throughout your treatment. Even though one specific doctor will be your primary doctor, you will be cared for by different doctors during your transplant.
 
-**Check if this still works:Fellows, nurse practitioners, hospitalists and house staff are also partners in your care.**
+<div class="remove invisible">**Check if this still works:Fellows, nurse practitioners, hospitalists and house staff are also partners in your care.**</div>
 
 A **fellow** is a doctor who has completed general training and is receiving additional training in cancer care. 
 
@@ -161,7 +163,7 @@ These are the key things that will happen during this phase:
 * Side Effects - You will make decisions about your fertility, about wearing a wig and other issues related to the side effects of chemotherapy
 * Testing - You'll undergo a round of tests
 * Lodging - You'll move into a hotel or apartment near to MSKCC. 
-* Catheter - Your central venous catheter will be fitted
+* Catheter - Your central venous catheter will be inserted
 * Harvesting - Your stem cells will be collected and stored
 * Chemotherapy - You will receive high dose chemotherapy
 
@@ -229,7 +231,7 @@ If there isn't one person who can act as your caregiver then it may be possible 
 <p class="question">Is there anything more we need to say about this?</p>
 <div class="outstanding invisible">
 #### Resources for Caregivers
-Find better wording for this; Talk to your healthcare team about choosing a caregiver, and encourage your caregiver to make use of the many resources provided by MSKCC. We have included useful resources for caregivers at the back of You can learn about them in the Resources section of this guide or by talking with your team.
+Talk to your healthcare team about choosing a caregiver, and encourage your caregiver to make use of the many resources provided by MSKCC. We have included useful resources for caregivers at the back of You can learn about them in the Resources section of this guide or by talking with your team.
 </div>
 
 <div class="outstanding invisible">
@@ -267,12 +269,11 @@ Your doctor and nurse will explain any other tests that you may need.
 <p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
 
 ### Moving into a Nearby Apartment or Hotel
-<p class="question invisible">To be written. How does the patient actually go about getting a space at the Helmsley. Who organizes this?</p>
-**Reword: The reservation for the Helmsley Hotel is secured by the patient financial services representative and then communicated to the patient by the BMT nurse coordinator.**
+For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
+The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
 ### Being Fitted with your Central Venous Catheter
 On or before Day −4 you and your caregiver come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
-
 
 #### What is a Central Venous Catheter? Why Do I Need One?
 <div class="image-placeholder"><p>Image Placeholder: A clear diagram of the central venous catheter.</p></div>
@@ -296,7 +297,7 @@ Your transplant coordinator will work with you to schedule the insertion of your
 
 You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
-If you wear contact lenses you should wear glasses on the day you are fitted for your catheter. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
+If you wear contact lenses you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
 You and your caregiver should leave any valuables or jewelry at home. Bring only your medications and the money you need for the day to the hospital. 
 
@@ -323,12 +324,12 @@ The incision near your collarbone will be stitched closed. The stitches will be 
 
 <p class="question hidden">Is the person given supplies to take care of their catheter?</p>
 
-### After Your Catheter Has Been Fitted
-After your catheter has been fitted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
+### After Your Catheter Has Been Inserted
+After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
 
 <p class="question hidden">I assume that once the catheter has finished the person goes back to their apartment/hotel? Our story needs to travel home with them.</p>
 
-**Check: You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is fitted.**
+**Check: You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.**
 
 <p class="question invisible">If the patient gets their catheter on Day-4 and it takes 3-5 days to heal, and weeks to completely anchor in place, doesn't this run into their chemotherapy and transplant (and beyond)? The text in the CVC guide doesn't address this (obviously, as it's a generic guide). Thoughts?</p>
 
@@ -429,7 +430,7 @@ You should eat dairy products or other foods that are rich in calcium the night 
 
 Harvesting will take place while you are lying in a bed or sitting in a reclining chair. A nurse will examine your arms to see if your veins in your arm are in good condition. If they are then the nurse will insert an IV line into your vein and a machine that separates the stem cells from your blood will be connected to your IV line.  
 
-If your catheter has already been fitted then it might be used for harvesting instead of an IV line. In this case one of the lumens of your catheter will be connected to the machine that separates the stem cells from your blood. 
+If your catheter has already been inserted then it might be used for harvesting instead of an IV line. In this case one of the lumens of your catheter will be connected to the machine that separates the stem cells from your blood. 
 
 Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood is returned to you. 
 
@@ -609,9 +610,9 @@ The day after you receive your chemotherapy is a rest day. This rest day allows 
 #### Monitoring Temperature and Fluid Intake
 From now on your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
 
-<p class="question">Where does the caregiver get the thermometer from?</p>
+<p class="question invisible">Where does the caregiver get the thermometer from?</p>
 
-If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
 It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
 
