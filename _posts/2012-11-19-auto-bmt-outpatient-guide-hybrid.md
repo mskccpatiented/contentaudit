@@ -357,7 +357,7 @@ Prepare the following emergency kit and keep it with you at all times:
 * One toothless clamp
 * Alcohol swabs
 * One roll of 2-inch tape
-* Two 2x2 gauze pads
+* Two 2 &times; 2 gauze pads
 * Your doctor's office and emergency telephone numbers.
 
 Here is a summary of the things you'll do on to take care of your catheter:
