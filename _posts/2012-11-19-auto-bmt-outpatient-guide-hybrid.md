@@ -569,7 +569,7 @@ For more information please read:
 * Cancer and Fertility: Information for Men (http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
 
 ##### Options For Women
-Women can freeze eggs or embryos before treatment <span class="outstanding">(This is a little sparse/terse). 
+Women can freeze eggs or embryos before treatment <span class="outstanding">(This is a little sparse/terse)</span> 
 
 The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
 
