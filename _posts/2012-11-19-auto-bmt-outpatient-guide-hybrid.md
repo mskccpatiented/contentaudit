@@ -27,7 +27,7 @@ The information in this guide will help you prepare for your transplant; you'll 
 We will also recommend further reading on useful topics like sexual activity, diet and exercise. 
 
 ### How To Use This Guide
-You should read this guide completely at least once including any additional resources included at the back of the guide -  then refer to the guide as your treatment progresses. 
+You should read this guide completely at least once including any additional resources included at the back of the guide - then refer to the guide as your treatment progresses. 
 
 As you read through the guide make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
 
@@ -107,7 +107,7 @@ Here is a typical timeline for someone having an outpatient transplant:
 * *Day 0:* Transplant day. You will come to the Outpatient BMT Clinic where you receive your stem cell transplant. You will return to your hotel or apartment in the evening.
 * *Day +1 to +12:* You will visit the Outpatient BMT Clinic every day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. You return to your hotel or apartment every evening.
 
-After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly.  
+After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
 
 You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
@@ -281,8 +281,8 @@ Your doctor and nurse will explain any other tests that you may need.
 ### Making Arrangements for Your Pets
 <p class="outstanding">Reconcile with "Contact with animals, including your pets - they cannot stay with you during your transplant" in living with Neutropenia.</p>Animals can carry diseases and may present risks to you while your immune system is compromised. Although most people consider their pets a part of the family, there are a few precautions that need to be observed:
 * During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals.
-* Do not allow your pets to sleep with you.  Don’t allow your pets to lick you in the face.
-* Protect yourself from bites or scratches.* Be sure that your pet is up-to-date with immunizations and any booster shots.* Have your veterinarian check your pet’s stool yearly for parasites.* Have your pet treated for fleas.  If your pet walks through wooded areas have it screened for ticks.* Do not clean cat litter boxes or clean up after your dog in the street.  Have someone else do these things for you. * Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover.  Contact with birds or reptiles waste may expose you to certain infectious agents.After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.### Moving into a Nearby Apartment or Hotel
+* Do not allow your pets to sleep with you. Don’t allow your pets to lick you in the face.
+* Protect yourself from bites or scratches.* Be sure that your pet is up-to-date with immunizations and any booster shots.* Have your veterinarian check your pet’s stool yearly for parasites.* Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.* Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. * Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.### Moving into a Nearby Apartment or Hotel
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
@@ -645,10 +645,10 @@ As your stem cells take hold and start to make new blood cells the number of neu
 
 More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
 
-#### Side Effects from Chemotherapy - DiarrheaDiarrhea is frequent, loose, watery bowel movements.  Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area.  Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions.  If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes.  If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner.  Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
-#### Side Effects from Chemotherapy - ConstipationConstipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine.  The normal length of time between bowel movements varies for each person.  If you are having fewer bowel movements than what is normal for you or if you haven’t moved your bowels for more than two days you are constipated. There are many causes of constipation  -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation.  Talk with your nurse practitioner or doctor if you haven’t had a bowel movement for 2 days.
-#### Side Effects from Chemotherapy - Mouth SoresSome chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract.  This is known as mucositis.  Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips.  You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
-#### Side Effects from Chemotherapy - Skin ChangesSkin changes are common after transplant due to the effects of cancer treatment.  Skin changes include increased dryness, flaking, discoloration and darkening.  Your skin will be very sensitive to sun exposure and may sunburn very easily. Avoid bright sunlight and when outdoors wear sun block (SPF 30), protective clothing such as long-sleeved shirts, long pants and a hat.
+#### Side Effects from Chemotherapy - DiarrheaDiarrhea is frequent, loose, watery bowel movements. Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner. Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
+#### Side Effects from Chemotherapy - ConstipationConstipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you or if you haven’t moved your bowels for more than two days you are constipated. There are many causes of constipation -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk with your nurse practitioner or doctor if you haven’t had a bowel movement for 2 days.
+#### Side Effects from Chemotherapy - Mouth SoresSome chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips. You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
+#### Side Effects from Chemotherapy - Skin ChangesSkin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration and darkening. Your skin will be very sensitive to sun exposure and may sunburn very easily. Avoid bright sunlight and when outdoors wear sun block (SPF 30), protective clothing such as long-sleeved shirts, long pants and a hat.
 
 #### Side Effects from Chemotherapy - Hair Loss
 The chemotherapy that kills your rapidly-dividing cancer cells also kills the rapidly-dividing cells that produce your hair. Most patients will lose their hair during their transplant. 
@@ -664,8 +664,8 @@ Red blood cells are the cells that transport oxygen around your body. Because th
 
 Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active - we have recommended some exercises and activities that you can do in section three. 
 
-#### Side Effects from Chemotherapy - Nausea
-<p class="outstanding">To be written</p>
+#### Side Effects from Chemotherapy - Nausea and Vomiting
+Nausea and vomiting is a common side effect of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes you may experience nausea during your chemotherapy treatment or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn’t helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
 
 #### Side Effects from Chemotherapy - The Importance of Communication
 Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
@@ -876,9 +876,16 @@ Here are some things that can happen based on the results of your tests:
 
 All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel where your caregiver will continue to monitor your temperature and fluid intake. 
 
-You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly.  
+You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
 
 If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.
+
+#### Visitor Information
+<p class="outstanding">Reword this.</p>
+This information should be reviewed by your caregiver and any other visitors who are planning to come and see you during your transplant.
+
+* No visitors are allowed who have any signs of a cold, flu or who have been exposed to any contagious illness. If you have any questions about who can visit please speak with a nurse, NP or physician.
+* Hand washing for 15-20 seconds is required before each visitor enters a patient’s room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient’s door with instructions.* Visitors and caregivers must use the visitor’s restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.* No fresh cut flowers or live plants are allowed in the patient’s room.* Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -1017,9 +1024,10 @@ Call your doctor immediately if you:
 * Cough up blood, vomit blood or get a nose bleeds
 
 ### Living with a Low Red Blood Cell Count (Anemia)
-Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
+Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
+Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. When your red blood cell count is low your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly lying to standing. 
 
-Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Some of the side effects of anemia are:
+Some of the side effects of anemia include:
 
 * Increased tiredness
 * Generalized weakness
@@ -1093,7 +1101,7 @@ Yes, blood transfusions have some risks. These risks include the very slight cha
 #### Can anything bad happen during or after the transfusion?
 Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medicines. Transfusion reactions are rarely life threatening. Nursing staff constantly check all patients while a blood transfusion is taking place.
 
-### Is there anything to worry about after a transfusion?
+#### Is there anything to worry about after a transfusion?
 Allergic reactions can sometimes occur. Symptoms are listed below. They can occur up to 48 hours after the transfusion. Call your doctor immediately if you have:
 
 * Fever (100.4 F or 38 C or higher) or chills.
@@ -1105,6 +1113,13 @@ Allergic reactions can sometimes occur. Symptoms are listed below. They can occu
 * Weakness or fainting.
 * Blood in the urine.
 * Chest pain (If you have chest pain, call your local emergency number immediately.).
+
+### Exercise
+Exercise is an important part of the recovery process during and following stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
+
+While in the outpatient transplant program you will be walking to and from the hospital daily which will help to maintain your conditioning. During the hours you are in clinic you are encouraged to walk in the hallways (wearing a mask and gloves) two to three times daily. While you are staying locally in the hotel you are encouraged to walk outside weather permitting. 
+
+If you have special needs you will be seen by a physical therapist for an evaluation. 
 
 ### Other Things to Consider in Phase 3
 <p class="outstanding">Probably a lot of things I am forgetting, or haven't had time to include. Please suggest content and I'll find/write it.</p>
