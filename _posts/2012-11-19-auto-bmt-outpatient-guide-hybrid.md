@@ -140,6 +140,9 @@ A **Clinical Pharmacist** who specializes in the care of transplant patients wil
 
 **Financial Counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These financial counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
+**Session Assistants**
+<p class="outstanding">To be written</p>
+
 <p class="question invisible">What about the BMT Nurse Coordinator or the Transplant Coordinator?</p>
 
 While you are here, you will come to know all of the members of your team.
@@ -276,9 +279,10 @@ Your doctor and nurse will explain any other tests that you may need.
 <div class="outstanding">To be written</div>
 
 ### Making Arrangements for Your Pets
-<div class="outstanding">To be written</div>
-
-### Moving into a Nearby Apartment or Hotel
+<p class="outstanding">Reconcile with "Contact with animals, including your pets - they cannot stay with you during your transplant" in living with Neutropenia.</p>Animals can carry diseases and may present risks to you while your immune system is compromised. Although most people consider their pets a part of the family, there are a few precautions that need to be observed:
+* During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals.
+* Do not allow your pets to sleep with you.  Don’t allow your pets to lick you in the face.
+* Protect yourself from bites or scratches.* Be sure that your pet is up-to-date with immunizations and any booster shots.* Have your veterinarian check your pet’s stool yearly for parasites.* Have your pet treated for fleas.  If your pet walks through wooded areas have it screened for ticks.* Do not clean cat litter boxes or clean up after your dog in the street.  Have someone else do these things for you. * Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover.  Contact with birds or reptiles waste may expose you to certain infectious agents.After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.### Moving into a Nearby Apartment or Hotel
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
@@ -497,7 +501,7 @@ Your BMT Nurse Coordinator will work with you to plan your schedule and will pro
 </div>
 On the first day of your treatment you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time.
 
-Once you arrive at the BMT Outpatient Clinic You will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
+Once you arrive at the BMT Outpatient Clinic you will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
 
 Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will explain the medications you will take throughout your treatment. You will be provided with all the medications needed. You will be given a medication list to follow.
 
@@ -587,21 +591,6 @@ For more information please read:
 * Cancer and Fertility: Information for Women (http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
 * Selecting a Reproductive Endocrinologist (http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
 
-#### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
-Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
-
-One side effect of chemotherapy is called "neutropenia". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
-
-Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature <span class="feedback remove invisible">and other vital signs,</span> even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
-
-In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets <span class="feedback remove invisible">are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They </span>clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here.
-
-After your transplant your healthcare team will <span class="feedback remove invisible">regularly</span> take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
-
-As your stem cells take hold and start to make new blood cells the number of neutrophils in your bloodstream (sometimes referred to as your Absolute Neutrophil Count or ANC) will increase, as will your number of platelets (called your platelet count) - these are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term "counts" used frequently by your healthcare team. 
-
-More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
-
 ##### Financial Issues
 Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information on this, ask you nurse for an application.
 
@@ -640,6 +629,26 @@ Whether you decide to freeze embryos or eggs, they will be stored at an egg bank
 
 For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included at the back of this guide. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
 </div>
+
+#### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
+Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
+
+One side effect of chemotherapy is called "neutropenia". Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
+
+Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature <span class="feedback remove invisible">and other vital signs,</span> even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
+
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets <span class="feedback remove invisible">are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream - living for just a few days before being replaced. They </span>clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here.
+
+After your transplant your healthcare team will <span class="feedback remove invisible">regularly</span> take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
+
+As your stem cells take hold and start to make new blood cells the number of neutrophils in your bloodstream (sometimes referred to as your Absolute Neutrophil Count or ANC) will increase, as will your number of platelets (called your platelet count) - these are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term "counts" used frequently by your healthcare team. 
+
+More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
+
+#### Side Effects from Chemotherapy - DiarrheaDiarrhea is frequent, loose, watery bowel movements.  Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area.  Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions.  If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes.  If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner.  Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
+#### Side Effects from Chemotherapy - ConstipationConstipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine.  The normal length of time between bowel movements varies for each person.  If you are having fewer bowel movements than what is normal for you or if you haven’t moved your bowels for more than two days you are constipated. There are many causes of constipation  -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation.  Talk with your nurse practitioner or doctor if you haven’t had a bowel movement for 2 days.
+#### Side Effects from Chemotherapy - Mouth SoresSome chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract.  This is known as mucositis.  Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips.  You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
+#### Side Effects from Chemotherapy - Skin ChangesSkin changes are common after transplant due to the effects of cancer treatment.  Skin changes include increased dryness, flaking, discoloration and darkening.  Your skin will be very sensitive to sun exposure and may sunburn very easily. Avoid bright sunlight and when outdoors wear sun block (SPF 30), protective clothing such as long-sleeved shirts, long pants and a hat.
 
 #### Side Effects from Chemotherapy - Hair Loss
 The chemotherapy that kills your rapidly-dividing cancer cells also kills the rapidly-dividing cells that produce your hair. Most patients will lose their hair during their transplant. 
@@ -766,19 +775,25 @@ Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review as
 #### Your Stem Cell Infusion
 Before the stem cell infusion, your "transplant", your frozen stem cells will be removed from storage in the stem cell laboratory <span class="feedback remove invisible">at our blood bank</span> and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
+You will be given medications about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. 
+
 Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will be checked frequently during and after the infusion. 
 
 **Check meaning: The potential reactions that occur are caused by the preservative used to protect the stem cells during freezing.**
 
 <p class="question invisible">How long does the transplant (the infusion of the stem cells) take from start to finish?</p>
 
-You will be given some medicine about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you have any side effects.
+The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other reactions that can occur include low blood pressure, chills and fever. It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you experience side effects you will be treated for the symptoms.
 
-During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The smell will gradually go away over 1 to 2 days. The Nutrition Department can give you lemons to cut up and use as safe, natural air-fresheners. 
+During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The smell will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
 
-You may not notice the smell but those around you will. Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
+You may not notice the smell of the preservatives but those around you will. Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
 
 <p class="question invisible">I just want to validate that the small could be present during *and* after the transplant. Also, when it's mentioned that "The Nutrition Department will provide lemons" - how is it envisaged that the lemons are used. Cut them, leave them around? Why lemons, because they're natural, non-chemical, non-toxic?</p>
+
+#### After Your Transplant
+<p class="question invisible">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
+After your stem cells are infused through your catheter you will remain in your hospital room for 4-6 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
 
 #### Engraftment
 Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
@@ -791,15 +806,10 @@ Remember, you are very vulnerable to infection at this time. You will be closely
 
 They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
 
-#### After Your Transplant
-<p class="question invisible">What happens directly after the transplant? I'd like to travel with the patient from the room where they receive their transplant to their hotel/apartment.</p>
-After your stem cells are infused through your catheter you will remain in your hospital room for 2-3 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
-
 ### Other Things to Consider in Phase 2
 <p class="question">I don't believe there are any in-depth topics to add in here. Probably best to talk about living with neutropenia, low platelet count, diet etc. in the next phase. Happy to add supplementary information to the transplant here though - suggestions welcome. </p>
 
 ### Checklist
-
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
 ## Phase 3 - After Your Transplant
@@ -845,7 +855,7 @@ You should bring these items to the clinic with you each day:
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
 * Your temperature and oral intake record
 
-Once you arrive you will check-in. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.
+Once you arrive you will check in with the session assistant. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.
 
 Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
 
@@ -878,7 +888,7 @@ Neutrophils, a type of white blood cell, play a crucial role in your immune syst
 You and your caregiver will take careful precautions to avoid infections while you are "neutropenic". These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions. 
 
 #### Avoiding Sources of Infection
-One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to avoid:
+One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to **avoid**:
 
 * Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell<span class="superscript">&reg;</span> afterwards
 * Contact with young children, including your children if they are under 12
@@ -890,10 +900,30 @@ Telling people who love you and want to make sure that you're okay that you can'
 
 We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to keep in touch with friends and family when you are neutropenic. 
 
+#### Eating a Low-Microbial Diet
+After your chemotherapy, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. This is a diet for people with weakened immune systems and low blood counts. A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in every-day foods. This diet helps to reduce the risk of food-borne illnesses caused by bacteria and other microbes found in some foods and drinks. Microbes are tiny living organisms, such as bacteria, viruses, yeast, and molds. 
+
+Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices and vegetable sprouts - but in reality they can grow on any food. 
+
+Eating a diet that contains fewer microbes will help prevent you from getting sick. 
+
+You will need to take careful precautions with the food you eat, including:
+
+* Buying foods that you know have been stored properly and are safe to eat
+* Storing food safely in your hotel or apartment
+* Keeping your kitchen very clean
+* Keeping your refrigerator clean
+* Handling food safely
+* Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
+* Cooking foods thoroughly
+
+Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide. 
+
 #### Connecting with Children
+<p class="outstanding">Move this, or discuss this topic early in the guide.</p>
 Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
-We strongly recommend that you take time to talk to one of the social workers about being separated from your children. You or your caregiver should ask your doctor, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. 
+We strongly recommend that you take time to talk to one of the social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. 
 
 Here are some things that other patients have done to remain in contact with their children during their transplant.
 
@@ -907,7 +937,7 @@ Here are some things that other patients have done to remain in contact with the
 We understand that nothing will replace physical contact between you and your children, but we strongly encourage you to use all available technology and means at your disposal to maintain a strong bond with them while you are unable to see them due to your neutropenia.
 
 #### Showering and Bathing
-While you are neutropenic you keeping yourself clean is very important. 
+While you are neutropenic keeping yourself clean is very important. 
 
 You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial". Dial<span class="superscript">&reg;</span> is one example, but there are many others. 
 
@@ -917,7 +947,7 @@ After you urinate or move your bowels, wash your buttocks and genital area with 
 
 When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are included at the back of this guide. 
 
-<p class="question">Can the person use a razor or must they use an electric razor/shaver? Can the person use tampons - there's a general lack of information about what women do during their period. If you can bullet-point the key points I can write up.</p>
+<p class="question invisible">Can the person use a razor or must they use an electric razor/shaver? Can the person use tampons - there's a general lack of information about what women do during their period. If you can bullet-point the key points I can write up.</p>
 
 #### Mouth Care
 While you're neutropenic and have a low platelet count you will need to change the way you brush your teeth and care for your mouth. This will help to avoid infection and bleeding.
@@ -933,25 +963,6 @@ Follow these guidelines to take good care of your mouth:
 * To avoid an infection in your mouth, the doctor will prescribe an oral anti-fungal antibiotic.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain.
-
-#### Eating a Low-Microbial Diet
-After your chemotherapy, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in every-day foods. Microbes are tiny living organisms, such as bacteria, viruses, yeast, and molds. 
-
-Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices and vegetable sprouts - but in reality they can grow on any food. 
-
-Eating a diet that contains fewer microbes will help you getting sick. 
-
-You will need to take careful precautions with the food you eat, including:
-
-* Buying foods that you know have been stored properly and are safe to eat
-* Storing food safely in your hotel or apartment
-* Keeping your kitchen very clean
-* Keeping your refrigerator clean
-* Handling food safely
-* Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
-* Cooking foods thoroughly
-
-Refer to the guide on "Low-microbial diet and safe food handling" at the back of this guide. 
 
 ### Living with a Low Platelet Count
 Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you and your caregiver will take special precautions:
