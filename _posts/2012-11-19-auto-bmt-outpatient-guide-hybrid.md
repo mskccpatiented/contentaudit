@@ -763,8 +763,8 @@ Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review as
 
 <p class="question invisible">I'd like to get a clear picture of what exactly happens when the patient gets to the clinic. </p>
 
-#### The Transplant
-Before your transplant, your frozen stem cells will be removed from storage in the stem cell laboratory <span class="feedback remove invisible">at our blood bank</span> and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
+#### Your Stem Cell Infusion
+Before the stem cell infusion, your "transplant", your frozen stem cells will be removed from storage in the stem cell laboratory <span class="feedback remove invisible">at our blood bank</span> and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
 Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will be checked frequently during and after the infusion. 
 
