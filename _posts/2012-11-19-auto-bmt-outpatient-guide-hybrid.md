@@ -555,8 +555,9 @@ Your healthcare team will help you understand and prepare for these side effects
 <p class="dmz">Draft 2 (Incorporating second round of feedback from SK and CW): This is where I am right now. Everything after this is content from an older draft. </p>
 
 #### Side Effects from Chemotherapy - Infertility
-<div class="outstanding">This section has to be edited and possibly moved.</div>
-Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect your fertility. It's likely that you will not be able to conceive a child naturally after your treatment. However, there are ways of preserving your fertility that may allow you to have a child in the future.
+<div class="feedback remove invisible">This section has to be edited and possibly moved.
+Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect your fertility. It's likely that you will not be able to conceive a child naturally after your treatment. However, there are ways of preserving your fertility that may allow you to have a child in the future.</div>
+Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing treatment for your transplant. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged. If you want to learn more about options or other ways to build a family after your transplant ask your doctor or nurse for a referral to a fertility expert.
 
 ##### Options For Men
 Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
@@ -569,7 +570,7 @@ For more information please read:
 * Cancer and Fertility: Information for Men (http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
 
 ##### Options For Women
-Women can freeze eggs or embryos before treatment <span class="outstanding">(This is a little sparse/terse)</span> 
+Women can freeze eggs or embryos before treatment <span class="outstanding">(This is a little sparse/terse)</span>	 
 
 The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
 
