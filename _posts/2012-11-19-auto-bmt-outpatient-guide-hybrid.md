@@ -134,9 +134,9 @@ The **hospitalist** is a doctor who only sees patients while they are in the hos
 
 **House staff** are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
 
-A **Clinical Pharmacist** who specializes in the care of transplant patients will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review your medications frequently with the outpatient team.
+A **Clinical Pharmacist** who specializes in the care of transplant patients will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review and monitor your medications frequently with the outpatient team.
 
-**Social Workers** are members will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
+**Social Workers** are members of the healthcare team who will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
 
 **Financial Counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These financial counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
@@ -173,22 +173,30 @@ We will describe each of the key things that will happen in this phase later in 
 * Social Work - You will meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team **Check: wording**
 * Catheter - Your central venous catheter will be inserted
 * Harvesting - Your stem cells will be collected and stored
-* Chemotherapy - You will receive high dose chemotherapy 
 
-#### Topics
-It's also important that you know about these topics during this phase:
+### Checklist (Merge with Summary above, repetition)
+<p class="outstanding">Merge</p>
 
-* Acknowledging and managing your *emotions*
-* *Remaining active* during your transplant and recovery
+<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
-We cover each of these topics in detail later in this section. 
+Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. You can use this as a checklist to keep track of your progress. 
 
-<p class="move">From the list of topics, move: What you can and cannot eat during transplant and recovery</p>
-
-#### Actions - Things You Need to Do 
-At the end of this chapter you'll find a list of things you need to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
-
-<p class="question hidden"><span class="complete">Should this be included at the end of each chapter?</span> Decision: Yes, actions at the end of the chapter.</p>
+* Read this guide in full at least once, along with the accompanying information and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
+* Meet with the representative from Patient Financial Services (PFS) and talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage.
+* Choose a caregiver and make sure they understand what the role entails. 
+* Give your caregiver a copy of this guide and ask them to read it in full at least once
+* Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
+<span class="feedback remove invisible">* Arrange lodging in a hotel or apartment near MSKCC</span>
+* Arrange transportation to bring you from your home to your lodging
+* If you have children, arrange for childcare
+* Arrange for pet care
+<span class="feedback invisible remove">* Purchase a thermometer and ensure your caregiver knows how to accurately take your temperature with it</span>
+* Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future.
+* Think about whether you'd like to cut your hair 
+* Visit a wig store if you decide to wear a wig
+* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
+* Make a list of questions that you would like to ask about the your treatment.
+* Talk through your list of questions with your caregiver and your healthcare team
 
 ### Meeting Your Team
 When does it happen: Around Day −30.
@@ -275,14 +283,96 @@ Your doctor and nurse will explain any other tests that you may need.
 
 <p class="question hidden"><span class="complete">When are these tests done, how are they scheduled? Also, is this list of tests accurate/complete? What about liver function test, biopsies etc.? Also, can we be any more specific about "blood tests" - what sort of blood tests? What is the purpose of the chest x-ray? I'd like to get more detailed, granular with this - this is our one shot to explain their testing.</span> Answer: These tests are part of the pre-transplant evaluation and are scheduled by the BMT Nurse Coordinator. They are done within 30 days prior to the transplant (to get a more complete picture of the patients baseline health and organ function prior to clearing to start high dose chemotherapy). The blood tests are done to evaluate baseline kidney, liver and hematological function (white blood cell, hemoglobin and platelet counts). A baseline chest X-ray is done to ensure the patient has "clear lungs" and no evidence of a pneumonia or other abnormalities.</p>
 
+### Making Decisions about your Fertility
+#### Side Effects from Chemotherapy - Infertility
+<div class="feedback remove invisible">This section has to be edited and possibly moved.
+Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect your fertility. It's likely that you will not be able to conceive a child naturally after your treatment. However, there are ways of preserving your fertility that may allow you to have a child in the future.</div>
+Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing treatment for your transplant. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged. If you want to learn more about options or other ways to build a family after your transplant ask your doctor or nurse for a referral to a fertility expert.
+
+##### Options For Men
+Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
+
+The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for two to five days before the first collection and between the other collections.
+
+For more information please read:
+
+* Sperm Banking (http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
+* Cancer and Fertility: Information for Men (http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
+
+##### Options For Women
+Women can freeze eggs or embryos before treatment. <span class="outstanding invisible">(This is a little sparse/terse)</span>The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
+
+The reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
+
+If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate some of the eggs in your ovaries to mature. You will need the injections for about 10 days, during which you will be closely monitored by the reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia so you will be asleep. The eggs are collected using a very thin needle passed through the wall of your vagina.
+
+If you are going to store embryos, your eggs are fertilized with sperm in the laboratory (in vitro fertilization, IVF) before freezing. If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
+
+Another possible option to preserve fertility is ovarian tissue freezing. This is experimental.
+
+For more information please read:
+
+* Cancer and Fertility: Information for Women (http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
+* Selecting a Reproductive Endocrinologist (http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
+
+##### Financial Issues
+Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information on this, ask you nurse for an application.
+
+##### Additional Considerations
+One thing to be aware of is that collecting sperm or eggs shortly after receiving chemotherapy may not be feasible. 
+
+Depending on the specific drugs you have received beforehand, and how much time has passed since your last treatment, there may be no sperm available to collect or eggs may not respond to stimulation. In addition, even if there are sperm or eggs to collect, if you had recent chemotherapy, they may have been damaged by recent treatment. There is a possibility that they will not fertilize or grow to form embryos. In addition, there is a risk of mutations and possible birth defects in a child conceived from these sperm or eggs. We have no data on outcomes of men and women who collect shortly after induction and/or consolidation and prior to transplant. Nevertheless, you may choose to attempt collection anyway.
+
+If you would like to speak with someone to learn more about your options for fertility preservation, ask your doctor or nurse to refer you to our fertility nurse specialist or directly to a sperm bank or reproductive endocrinologist.
+
+<div class="feedback remove invisible">Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. It's highly likely that your chemotherapy will mean that you will not be able to conceive a child naturally - if you would like to have children in the future you can make arrangements to have your sperm or eggs frozen before your chemotherapy. Collecting and freezing sperm before your chemotherapy will enable you and your partner to attempt pregnancy when you are ready.
+
+It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included at the back of this guide.
+
+Typically **men** who want to have children after their chemotherapy opt to have their sperm collected and frozen, this is called sperm banking. 
+
+If you are a man and wish to donate sperm you will travel to a sperm bank facility between one and three times. At the sperm bank you will ejaculate into a cup. The sperm bank will analyze the semen, counting the number of sperm. They will also study the shape of your sperm and their motility (ability to swim). If the sperm look healthy, the sperm bank will divide the specimen into small vials and freeze and store them. 
+
+Sperm can be stored for as long as is necessary and a yearly storage fee will apply. 
+
+**Women** who want to have children after their chemotherapy can have their eggs or fertilized embryos collected and stored beforehand. 
+
+If you are a woman and wish to store your eggs or embryos for future fertilization, first the reproductive endocrinologist will examine you and review your medical history before discussing your options. 
+
+If banking your eggs or embryos is an option and you decide to proceed on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate your ovaries to make more eggs than usual. 
+
+While you are taking the daily injections, you will see your reproductive endocrinologist every day or every other day for blood tests and transvaginal ultrasounds. 
+
+Once you have enough mature eggs, you will give yourself a different injection to stimulate ovulation. Within 36 hours you will have an egg retrieval. The egg retrieval is an outpatient procedure done using anesthesia - you will be asleep and no surgical incision is needed. The eggs are collected using a very thin needle that is passed through your vagina. 
+
+From this point it's possible to fertilize your eggs with sperm and freeze the resulting embryos. This is called embryo cryopreservation. 
+
+An alternative to embryo cryopreservation is egg (oocyte) cryopreservation. This involves freezing eggs that have not been fertilized. When you are ready to use them, the eggs are thawed and fertilized with sperm. This is a newer technology and is still considered experimental but may be preferred by women who do not have a male partner during this time.
+
+Whether you decide to freeze embryos or eggs, they will be stored at an egg bank until you are ready and you have been medically cleared to start a family. A yearly storage fee will apply. 
+
+For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included at the back of this guide. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
+</div>
+
 ### Childcare
 <div class="outstanding">To be written</div>
 
 ### Making Arrangements for Your Pets
-<p class="outstanding">Reconcile with "Contact with animals, including your pets - they cannot stay with you during your transplant" in living with Neutropenia.</p>Animals can carry diseases and may present risks to you while your immune system is compromised. Although most people consider their pets a part of the family, there are a few precautions that need to be observed:
-* During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals.
+<p class="outstanding">Reconcile with "Contact with animals, including your pets - they cannot stay with you during your transplant" in living with Neutropenia.</p>
+Animals can carry diseases and may present risks to you while your immune system is compromised. Although most people consider their pets a part of the family, there are a few precautions that need to be observed:
+
+* During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals.
 * Do not allow your pets to sleep with you. Don’t allow your pets to lick you in the face.
-* Protect yourself from bites or scratches.* Be sure that your pet is up-to-date with immunizations and any booster shots.* Have your veterinarian check your pet’s stool yearly for parasites.* Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.* Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. * Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.### Moving into a Nearby Apartment or Hotel
+* Protect yourself from bites or scratches.
+* Be sure that your pet is up-to-date with immunizations and any booster shots.
+* Have your veterinarian check your pet’s stool yearly for parasites.
+* Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.
+* Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
+* Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.
+
+After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.
+
+### Moving into a Nearby Apartment or Hotel
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
@@ -469,6 +559,71 @@ Call Your Doctor If You:
 
 <p class="question invisible">Where does mobilization/harvesting happen, when etc? I want to put this in the context of the Outpatient BMT process and give clear instructions.</p>
 
+### Rest Day 
+The day after you receive your chemotherapy is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+
+#### Monitoring Temperature and Fluid Intake
+From now on your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
+
+<p class="question invisible">Where does the caregiver get the thermometer from?</p>
+
+If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+
+It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+
+Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
+
+<p class="question invisible">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
+
+### Other Things to Consider in Phase 1
+<p class="outstanding">Need to bring the childcare, pets, exercise, emotional support in here. Need input from the Social Work team; this is pending. They are aware that I need content.</p>
+
+#### Sexual Activity
+<div class="outstanding">This section has to be edited and possibly moved.</div>
+Sexual activity provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant.
+
+Use Birth Control to Prevent Pregnancy
+If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects. Your or your partner should use contraception (birth control) throughout your cancer treatment. 
+It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
+Protect Yourself from Infection or Bleeding
+You will be at increased risk of infection for many months after your treatment. Until your doctor tells you that your immune system has recovered:
+•	Use latex condoms each time you have vaginal, oral, or anal sex.
+•	Use a barrier device (condoms or dental dams) any time your partner’s saliva, vaginal secretions, or semen could enter your mouth. 
+•	Abstain from any sexual activity that could expose your mouth to feces.
+In some situations, you may even be advised to avoid sex that involves penetration or contact with mucous membranes while your counts are low. This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or sex toys into your vagina or anus. Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time.
+Consider Steps to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
+There is little data about how much anticancer medication gets into a person’s body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don’t know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
+
+For additional information about being sexually active during and after treatment, as for “Sexual Activity During Cancer Treatment: Information for Women” or “Sexual Activity During Cancer Treatment: Information for Men.” (hyperlinks are not yet available)
+
+<div class="phasedivider">End of Phase Divider</div>
+
+## Phase 2 - Your Transplant
+<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
+
+### One Page Summary of This Phase
+Phase 2 of your treatment last just one day. On Day 0, your transplant day, your stem cells will be taken from storage and infused into your body through your catheter. 
+
+These are the key things that will happen during this phase:
+
+* Stem Cells Retrieved - Your stem cells will be taken from storage and thawed.
+* Transplantation - Your stem cells will be infused into your body through your catheter.
+
+We cover each of these activities in detail later in this section.
+ 
+#### Topics
+It's also important that you know about these topics during this phase:
+
+* Topic 1
+* Topic 2
+
+We cover each of these topics in detail later in this section. 
+
+<p class="question invisible">It probably makes more sense to speak about living with neutropenia, monitoring symptoms, infection control in phase three. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
+
+#### Actions - Things You Need to Do 
+At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
+
 <p class="outstanding">Move conditioning regimen to phase 2.</p>
 ### Conditioning Regimen
 <div class="feedback remove invisible">
@@ -558,76 +713,6 @@ Your healthcare team will help you understand and prepare for these side effects
 <p class="question invisible">What about peripheral neuropathy?</p>
 <p class="dmz">Draft 2 (Incorporating second round of feedback from SK and CW): This is where I am right now. Everything after this is content from an older draft. </p>
 
-#### Side Effects from Chemotherapy - Infertility
-<div class="feedback remove invisible">This section has to be edited and possibly moved.
-Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect your fertility. It's likely that you will not be able to conceive a child naturally after your treatment. However, there are ways of preserving your fertility that may allow you to have a child in the future.</div>
-Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing treatment for your transplant. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged. If you want to learn more about options or other ways to build a family after your transplant ask your doctor or nurse for a referral to a fertility expert.
-
-##### Options For Men
-Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
-
-The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for two to five days before the first collection and between the other collections.
-
-For more information please read:
-
-* Sperm Banking (http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
-* Cancer and Fertility: Information for Men (http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
-
-##### Options For Women
-Women can freeze eggs or embryos before treatment. <span class="outstanding invisible">(This is a little sparse/terse)</span>The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
-
-The reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
-
-If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate some of the eggs in your ovaries to mature. You will need the injections for about 10 days, during which you will be closely monitored by the reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia so you will be asleep. The eggs are collected using a very thin needle passed through the wall of your vagina.
-
-If you are going to store embryos, your eggs are fertilized with sperm in the laboratory (in vitro fertilization, IVF) before freezing. If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
-
-Another possible option to preserve fertility is ovarian tissue freezing. This is experimental.
-
-For more information please read:
-
-* Cancer and Fertility: Information for Women (http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
-* Selecting a Reproductive Endocrinologist (http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
-
-##### Financial Issues
-Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information on this, ask you nurse for an application.
-
-##### Additional Considerations
-One thing to be aware of is that collecting sperm or eggs shortly after receiving chemotherapy may not be feasible. 
-
-Depending on the specific drugs you have received beforehand, and how much time has passed since your last treatment, there may be no sperm available to collect or eggs may not respond to stimulation. In addition, even if there are sperm or eggs to collect, if you had recent chemotherapy, they may have been damaged by recent treatment. There is a possibility that they will not fertilize or grow to form embryos. In addition, there is a risk of mutations and possible birth defects in a child conceived from these sperm or eggs. We have no data on outcomes of men and women who collect shortly after induction and/or consolidation and prior to transplant. Nevertheless, you may choose to attempt collection anyway.
-
-If you would like to speak with someone to learn more about your options for fertility preservation, ask your doctor or nurse to refer you to our fertility nurse specialist or directly to a sperm bank or reproductive endocrinologist.
-
-<div class="feedback remove invisible">Chemotherapy drugs that kill rapidly-dividing cancer cells will also affect you fertility. It's highly likely that your chemotherapy will mean that you will not be able to conceive a child naturally - if you would like to have children in the future you can make arrangements to have your sperm or eggs frozen before your chemotherapy. Collecting and freezing sperm before your chemotherapy will enable you and your partner to attempt pregnancy when you are ready.
-
-It's also very important that you speak to your insurance company. They will tell you if the costs associated with infertility treatment are covered under your policy. Even if your insurance does not cover infertility there may be other programs or grants that can help you pay for your infertility treatment. These are described in the Fertility and Cancer Treatment guides which are included at the back of this guide.
-
-Typically **men** who want to have children after their chemotherapy opt to have their sperm collected and frozen, this is called sperm banking. 
-
-If you are a man and wish to donate sperm you will travel to a sperm bank facility between one and three times. At the sperm bank you will ejaculate into a cup. The sperm bank will analyze the semen, counting the number of sperm. They will also study the shape of your sperm and their motility (ability to swim). If the sperm look healthy, the sperm bank will divide the specimen into small vials and freeze and store them. 
-
-Sperm can be stored for as long as is necessary and a yearly storage fee will apply. 
-
-**Women** who want to have children after their chemotherapy can have their eggs or fertilized embryos collected and stored beforehand. 
-
-If you are a woman and wish to store your eggs or embryos for future fertilization, first the reproductive endocrinologist will examine you and review your medical history before discussing your options. 
-
-If banking your eggs or embryos is an option and you decide to proceed on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate your ovaries to make more eggs than usual. 
-
-While you are taking the daily injections, you will see your reproductive endocrinologist every day or every other day for blood tests and transvaginal ultrasounds. 
-
-Once you have enough mature eggs, you will give yourself a different injection to stimulate ovulation. Within 36 hours you will have an egg retrieval. The egg retrieval is an outpatient procedure done using anesthesia - you will be asleep and no surgical incision is needed. The eggs are collected using a very thin needle that is passed through your vagina. 
-
-From this point it's possible to fertilize your eggs with sperm and freeze the resulting embryos. This is called embryo cryopreservation. 
-
-An alternative to embryo cryopreservation is egg (oocyte) cryopreservation. This involves freezing eggs that have not been fertilized. When you are ready to use them, the eggs are thawed and fertilized with sperm. This is a newer technology and is still considered experimental but may be preferred by women who do not have a male partner during this time.
-
-Whether you decide to freeze embryos or eggs, they will be stored at an egg bank until you are ready and you have been medically cleared to start a family. A yearly storage fee will apply. 
-
-For more detailed information about infertility associated with cancer treatment and your options you should consult the Fertility and Cancer Treatment guides included at the back of this guide. These guides also list reproductive endocrinologists in the area. You should also talk with your bone marrow transplant doctor about options to preserve your fertility.
-</div>
-
 #### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
 Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
@@ -645,11 +730,14 @@ More in-depth guides to living with neutropenia and low platelet levels are incl
 
 #### Side Effects from Chemotherapy - Diarrhea
 Diarrhea is frequent, loose, watery bowel movements. Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner. Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
-#### Side Effects from Chemotherapy - Constipation
+
+#### Side Effects from Chemotherapy - Constipation
 Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you or if you haven’t moved your bowels for more than two days you are constipated. There are many causes of constipation -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk with your nurse practitioner or doctor if you haven’t had a bowel movement for 2 days.
-#### Side Effects from Chemotherapy - Mouth Sores
+
+#### Side Effects from Chemotherapy - Mouth Sores
 Some chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips. You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
-#### Side Effects from Chemotherapy - Skin Changes
+
+#### Side Effects from Chemotherapy - Skin Changes
 Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration and darkening. Your skin will be very sensitive to sun exposure and may sunburn very easily. Avoid bright sunlight and when outdoors wear sun block (SPF 30), protective clothing such as long-sleeved shirts, long pants and a hat.
 
 #### Side Effects from Chemotherapy - Hair Loss
@@ -667,102 +755,14 @@ Red blood cells are the cells that transport oxygen around your body. Because th
 Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active - we have recommended some exercises and activities that you can do in section three. 
 
 #### Side Effects from Chemotherapy - Nausea and Vomiting
-Nausea and vomiting is a common side effect of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes you may experience nausea during your chemotherapy treatment or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn’t helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
+Nausea and vomiting is a common side effect of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes you may experience nausea during your chemotherapy treatment or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
+
+You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn’t helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
 
 #### Side Effects from Chemotherapy - The Importance of Communication
 Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
 
 Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
-
-### Rest Day 
-The day after you receive your chemotherapy is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
-
-#### Monitoring Temperature and Fluid Intake
-From now on your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
-
-<p class="question invisible">Where does the caregiver get the thermometer from?</p>
-
-If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
-
-It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
-
-Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
-
-<p class="question invisible">Do we need to describe what should happen on the rest day? Has the caregiver already been monitoring the patient's vitals and fluid intake, or is this the first day?</p>
-
-### Other Things to Consider in Phase 1
-<p class="outstanding">Need to bring the childcare, pets, exercise, emotional support in here. Need input from the Social Work team; this is pending. They are aware that I need content.</p>
-
-#### Sexual Activity
-<div class="outstanding">This section has to be edited and possibly moved.</div>
-Sexual activity provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant.
-
-Use Birth Control to Prevent Pregnancy
-If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects. Your or your partner should use contraception (birth control) throughout your cancer treatment. 
-It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
-Protect Yourself from Infection or Bleeding
-You will be at increased risk of infection for many months after your treatment. Until your doctor tells you that your immune system has recovered:
-•	Use latex condoms each time you have vaginal, oral, or anal sex.
-•	Use a barrier device (condoms or dental dams) any time your partner’s saliva, vaginal secretions, or semen could enter your mouth. 
-•	Abstain from any sexual activity that could expose your mouth to feces.
-In some situations, you may even be advised to avoid sex that involves penetration or contact with mucous membranes while your counts are low. This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or sex toys into your vagina or anus. Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time.
-Consider Steps to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
-There is little data about how much anticancer medication gets into a person’s body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don’t know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
-
-For additional information about being sexually active during and after treatment, as for “Sexual Activity During Cancer Treatment: Information for Women” or “Sexual Activity During Cancer Treatment: Information for Men.” (hyperlinks are not yet available)
-
-
-
-
-### Checklist
-Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. Use this checklist to keep track of things you need to do before your transplant.
-
-* Read this guide in full at least once, along with the accompanying information and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
-* Meet with the representative from Patient Financial Services (PFS) and talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage.
-* Choose a caregiver and make sure they understand what the role entails. 
-* Give your caregiver a copy of this guide and ask them to read it in full at least once
-* Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
-<span class="feedback remove invisible">* Arrange lodging in a hotel or apartment near MSKCC</span>
-* Arrange transportation to bring you from your home to your lodging
-* If you have children, arrange for childcare
-* Arrange for pet care
-<span class="feedback invisible remove">* Purchase a thermometer and ensure your caregiver knows how to accurately take your temperature with it</span>
-* Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future.
-* Think about whether you'd like to cut your hair 
-* Visit a wig store if you decide to wear a wig
-* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
-* Make a list of questions that you would like to ask about the your treatment.
-* Talk through your list of questions with your caregiver and your healthcare team
-
-<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
-
-<div class="phasedivider">End of Phase Divider</div>
-
-## Phase 2 - Your Transplant
-<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
-
-### One Page Summary of This Phase
-Phase 2 of your treatment last just one day. On Day 0, your transplant day, your stem cells will be taken from storage and infused into your body through your catheter. 
-
-These are the key things that will happen during this phase:
-
-* Stem Cells Retrieved - Your stem cells will be taken from storage and thawed.
-* Transplantation - Your stem cells will be infused into your body through your catheter.
-
-We cover each of these activities in detail later in this section.
- 
-#### Topics
-It's also important that you know about these topics during this phase:
-
-* Topic 1
-* Topic 2
-
-We cover each of these topics in detail later in this section. 
-
-<p class="question invisible">It probably makes more sense to speak about living with neutropenia, monitoring symptoms, infection control in phase three. This is such a short phase that there may be no other topics worth adding into this section. TBD. </p>
-
-#### Actions - Things You Need to Do 
-At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
 ### Transplant Day
 Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your transplant. You will be given your infusion of stem cells, your transplant, on Day 0 of your specific treatment plan. The stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
@@ -853,7 +853,7 @@ When you come to the clinic you should wear every-day, comfortable clothing that
 
 You should bring these items to the clinic with you each day:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs.
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
 * Your temperature and oral intake record
 
@@ -887,7 +887,10 @@ If at any time you need more care than can be provided to you in the outpatient 
 This information should be reviewed by your caregiver and any other visitors who are planning to come and see you during your transplant.
 
 * No visitors are allowed who have any signs of a cold, flu or who have been exposed to any contagious illness. If you have any questions about who can visit please speak with a nurse, NP or physician.
-* Hand washing for 15-20 seconds is required before each visitor enters a patient’s room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient’s door with instructions.* Visitors and caregivers must use the visitor’s restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.* No fresh cut flowers or live plants are allowed in the patient’s room.* Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
+* Hand washing for 15-20 seconds is required before each visitor enters a patient’s room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient’s door with instructions.
+* Visitors and caregivers must use the visitor’s restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.
+* No fresh cut flowers or live plants are allowed in the patient’s room.
+* Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -1026,7 +1029,8 @@ Call your doctor immediately if you:
 * Cough up blood, vomit blood or get a nose bleeds
 
 ### Living with a Low Red Blood Cell Count (Anemia)
-Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
+Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
+
 Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. When your red blood cell count is low your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly lying to standing. 
 
 Some of the side effects of anemia include:
