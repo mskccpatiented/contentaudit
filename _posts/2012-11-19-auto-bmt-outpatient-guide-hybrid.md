@@ -224,8 +224,6 @@ Take time now to think about who you would like to be your caregiver. It should 
 #### Multiple Caregivers
 If there isn't one person who can act as your caregiver then it may be possible for you to have different caregivers scheduled during different times. It is best to limit the number of caregivers to 1 or 2 individuals. 
 
-<p class="question">Is there anything more we need to say about this?</p>
-
 #### Resources for Caregivers
 Talk to your healthcare team about choosing a caregiver. We have included useful resources for caregivers at the back of this guide.
 
