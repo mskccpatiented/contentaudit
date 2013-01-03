@@ -16,21 +16,17 @@ date: 11-12-2012
 ---
 ## Welcome, Overview
 Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
-<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
+
 ### What's in This Guide
-This guide will help you learn about autologous transplantation; what it is and why it's been recommended for you. The guide will become an important part of your transplant journey and will add to the verbal information you receive from doctors, nurses, social workers and other members of your healthcare team. 
-
-The information in this guide will help you prepare for your transplant; you'll learn about the key phases of your treatment and the team who will care for you. We will help you prepare for each phase. We will recommend things you should do and things you should avoid. 
-
-We will also recommend further reading on useful topics like sexual activity, diet and exercise. 
+This guide will help you learn about autologous stem cell transplantation; what it is, why it's been recommended for you and what happens in each phase of the transplant. The information in the guide will compliment the verbal information you receive from your healthcare team.
 
 ### How To Use This Guide
-You should read this guide completely at least once including any additional resources included at the back of the guide - then refer to the guide as your treatment progresses. 
+You should read this guide completely at least once including any additional materials included at the back of the guide - then refer to the guide as your treatment progresses.
 
 As you read through the guide make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
 
 ### Language Used In This Guide
-We've done our best to keep the amount of medical terms in this guide to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we've prepared a glossary of useful terms at the back of this guide. 
+We've done our best to keep the number of medical terms in this guide to a minimum, however there are some words that we need you to understand so that you can participate fully in your treatment. With this in mind, we've prepared a glossary of useful terms and included it at the back of this guide. 
 
 ### We Need Your Help
 We are always improving the information we provide to patients and their families/friends. If you get to the end of this guide and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
@@ -42,67 +38,52 @@ We are always improving the information we provide to patients and their familie
 
 Bone marrow is a substance found in the spaces in the center of the larger bones in your body; your hip, breastbone and pelvis.
 
-Your bone marrow is where the different types of blood cells are made - including the white blood cells that fight infection, red blood cells that carry oxygen and and platelets that clot to stop you from bleeding. 
+Your bone marrow contains a large number of stem cells. Stem cells are immature cells that produce all of the blood cells in your body; the white blood cells that fight infection, red blood cells that carry oxygen and and platelets that clot to stop you from bleeding. Your stem cells are constantly dividing and changing into the different types of blood cells in your body - replacing older blood cells. As well as being found in your bone marrow, some stem cells also circulate in your bloodstream.
 
-But, you might ask, how are these blood cells "made"? 
-
-Stem cells are immature cells that produce the blood cells in the body. These cells are found in the bone marrow and some also circulate in your blood. 
-
-Stem cells can create many copies of themselves - **dividing** again and again to create more stem cells. They can also follow a path called **differentiation**, where they change into the different types of blood cells found in your body. Any stem cell can become a specific kind of blood cell such as a red blood cell, white blood cell or platelet.
-
-Stem cells are constantly dividing and differentiating in our bone marrow creating new blood cells to replace older cells.
-
-<p class="outstanding">(Re-word) You will hear your transplant referred to as a "stem cell transplant" or "bone marrow transplant". The important thing to remember is that all transplants are technically stem cell transplants wince it is immature blood cells that are used. The stem cells may be tank from either the bone marrow or circulating blood.</p>
-
-### Why You Need a Transplant
-An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
-
-Cancer cells can be killed using chemotherapy. The dose of chemotherapy that you will receive are very high, and will destroy most of the blood cells in your bone marrow and bloodstream. 
-
-Your stem cells are colleges and frozen before you receive chemotherapy. Collecting your stem cells beforehand allows us give you a high dose of chemotherapy before returning your stem cells to you. Once your stem cells have been given back to you they will slowly start to make new immune and blood cells.
+You will hear your transplant referred to as a "bone marrow transplant" or a "stem cell transplant". Technically, stem cell transplant is more correct - as you'll receive an infusion of stem cells. 
 
 ### Autologous Stem Cell Transplant
-Autologous means "from yourself". When you have an autologous stem cell transplant (sometimes called an autologous bone marrow transplant, though stem cell transplant is a more accurate term) your stem cells are harvested from your body before you receive your high-dose chemotherapy. 
+An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
 
-These stem cells are stored safely while you receive your chemotherapy, then given back to you. You are literally receiving a transplant from yourself.
+Autologous means "from yourself". When you have an autologous stem cell transplant your stem cells are harvested from your body and then frozen before you receive chemotherapy. You will receive a very high-dose of chemotherapy to kill the cancer in your body. This very high dose of chemotherapy will also destroy most of the blood cells in your bone marrow and bloodstream. 
+
+Collecting your stem cells beforehand allows us to then return your stem cells to you. Once your stem cells have been given back to you they will slowly start to make new immune and blood cells. You are literally receiving a stem cell transplant "from yourself".
 
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-**Before** - You will prepare for your stem cell transplant. A central venous catheter will be inserted into your upper chest wall. You will receive drugs that stimulate your body to make more stem cells than normal. Your stem cells will be harvested from your body and stored. 
+**Before** - You will prepare for your stem cell transplant. A central venous catheter will be inserted into your upper chest wall. You will receive drugs that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. 
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
-**During** - You will receive your chemotherapy, called the "conditioning regimen", to kill the cancer cells. Your stem cells will also be killed and you will lose your ability to make new blood cells. You have lost your ability to make new blood cells so your immune system is severely compromised. Your stem cells are taken from storage and infused into your body through your catheter. This is your transplant.
+**During** - You will receive your chemotherapy, called the "conditioning regimen", to kill the cancer cells. Your stem cells and other blood cells will also be killed and you will lose your ability to make new blood cells. Your immune system will be severely compromised. Your stem cells will be taken from storage and infused into your body through your catheter. This is your stem cell transplant.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
 
-**After** - The infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return.
+**After** - The infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment". They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return to normal.
 
 ### Outpatient Autologous Stem Cell Transplant
-Until relatively recently stem cell transplants were always done in the hospital. Patients would live in the hospital while undergoing treatment, and would remain in the hospital for a period of their recovery.
+Until relatively recently stem cell transplant patients would live in the hospital while undergoing treatment and would remain in the hospital for a period of their recovery (an inpatient transplant). 
 
-<p class="outstanding">(Incorporate, ask about overlap with other text) Depending on your condition and treatment plan you may receive part of your care in the hospital or in the outpatient BMT clinic. During the phase of treatment while you are cared for in the outpatient setting you will stay in a local hotel or apartment)</p>
+Now it's possible for some patients to receive some of their care in the hospital at an outpatient clinic while living in a local hotel or apartment (an outpatient transplant). 
 
-Now, stem cell transplants like yours can be done out of the hospital - called an "outpatient transplant". This means that while you are receiving your treatment, you will stay in a local hotel or apartment. Every day you will come to the Outpatient BMT Clinic for blood work, vital signs, weight and physical examination. You will only be admitted to the hospital if you develop complications. 
+Your doctor has decided that you can undergo an outpatient transplant. You will receive your treatment (pre-transplant testing, high-dose chemotherapy, stem cell transplant, follow-up care) in our outpatient clinic each day before returning to a local hotel or apartment each night. You will only be admitted to the hospital if you develop complications. 
 
 Here is a typical timeline for someone having an outpatient transplant:
 
 * *Day −4:* You and your caregiver will check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
-* *Day −3:* You and your caregiver will come to MSKCC's Interventional Radiology department at main campus where a central venous catheter is inserted in your upper chest wall. You return to your hotel or apartment in the evening.
-* *Day −2:* You will come to the Outpatient BMT Clinic where you receive your chemotherapy. You will return to your hotel or apartment in the evening. (Note that, in some cases, patients can require multiple days of chemotherapy) that the number of days you will receive chemotherapy varies. Other patients will require multiple days.
+* *Day −3:* You and your caregiver will come to MSKCC's Interventional Radiology department at main campus where a central venous catheter will be inserted in your upper chest wall. You will return to your hotel or apartment in the evening.
+* *Day −2:* You will come to the Outpatient BMT Clinic where you receive your chemotherapy. You will return to your hotel or apartment in the evening. (Note that, in some cases, patients can require multiple days of chemotherapy. Your healthcare team will explain your specific treatment plan to you) 
 * *Day −1:* This is a rest day; you will remain in your hotel or apartment for the day.
 * *Day 0:* Transplant day. You will come to the Outpatient BMT Clinic where you receive your stem cell transplant. You will return to your hotel or apartment in the evening.
-* *Day +1 to +12:* You will visit the Outpatient BMT Clinic every day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. You return to your hotel or apartment every evening.
+* *Day +1 to +12:* You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked and a physical examination. You'll also receive hydration, electrolytes and transfusions if necessary. While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. You return to your hotel or apartment each evening. 
 
 After *Day +12* your central venous catheter will be removed. If you live within one hour of MSKCC's main campus you can return home. If you live further away you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
 
 You'll see that the days leading up to your transplant are given minus number; Day −3, Day −2 etc. The day of your transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
-<p class="outstanding">Move: While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers.</p>
-
 ## Your Transplant Team
-<div class="image-placeholder"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
+<div class="image-placeholder invisible"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
 
 A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you through all phases of your treatment. Below you'll find a list of the team members and their roles. You will meet each member of your healthcare team at different times during your treatment.
 
@@ -112,22 +93,22 @@ A **fellow** is a doctor who has completed general training and is receiving add
 
 A **nurse practitioner (NP)** is a nurse who has a master's or doctoral degree. The nurse practitioner is licensed to examine you, provide medical treatments and prescribe medications. The NPs will be responsible for your daily care when you come to the Outpatient Clinic.
 
-Your **BMT Nurse Coordinator** will communicate and work with you and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant. This nurse will also provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process.
+Your **BMT Nurse Coordinator** is a nurse who will communicate and work with you, your caregiver and your team of doctors to organize all the testing, procedures and consults with other professionals required prior to your transplant. The Nurse Coordinator will provide you with treatment calendars describing the timeline for your plan of care and education about the pre-transplant process.
 
-A team of **nurses** will provide your day-to-day nursing care. They are registered nurses specially trained in the care of transplant patients.
+A team of **nurses** will provide your day-to-day nursing care. They are registered nurses specially trained in the care of stem cell transplant patients.
 
 The **hospitalist** is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
-
-**House staff** are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
 
 A **Clinical Pharmacist** who specializes in the care of transplant patients will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review and monitor your medications frequently with the outpatient team.
 
 **Social Workers** are members of the healthcare team who will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
 
+**House staff** are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
+
 **Financial Counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These financial counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
 **Session Assistants**
-<p class="outstanding">To be written</p>
+<p class="outstanding">To be written.</p>
 
 While you are here, you will come to know all of the members of your team.
 
@@ -136,51 +117,36 @@ While you are here, you will come to know all of the members of your team.
 
 Phase 1 of your treatment begins when you meet your Outpatient BMT team on or around Day −30 and runs all the way up to the start of your chemotherapy.
 
-### One Page Summary of This Phase
+### Phase 1 - Summary and Checklist
 In this phase you'll make preparations for your transplant; practically, physically and emotionally. This will be a very busy time for you and your family. 
 
-We will describe each of the key things that will happen in this phase later in this section, but in summary: 
+Here is a list of things that will happen, and things that you need to do, in Phase 1. You can check off items as you go along:
 
-* Meeting your Team - You will meet your doctor and members of the Outpatient BMT team
-* Getting Financial Clearance - You will work with your Financial Counselor and your insurance company to make sure your treatment and medications are covered. 
-* Read the Outpatient Autologous Stem Cell Transplant Guide
-* Speak with your physician or your nurse practitioner about your fertility options
-* Choosing a Caregiver - You'll identify a family member or friend to act as your caregiver
-* Orientation - You and your caregiver will attend a group online orientation for Autologous Stem Cell Transplant patients. Your BMT Nurse Coordinator will provide more information about the orientation)
-* Preparing for Side Effects - You will make decisions about your fertility, about wearing a wig and other issues related to the side effects of chemotherapy
-* Pre-Transplant Evaluation - You'll undergo a series of medical tests
-* Lodging - You'll move into a hotel or apartment near to MSKCC. 
-* Nutrition - You will consult with a dietitian to review special diet requirements and safe food handling
-* Social Work - You will meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team 
-* Catheter - Your central venous catheter will be inserted
-* Harvesting - Your stem cells will be collected and stored
-
-### Checklist (Merge with Summary above, repetition)
-<p class="outstanding">Merge</p>
+* Learn about your Transplant - Read this guide in full at least once, along with the accompanying information at the back. 
+* Make a list of Questions - Make a note of anything that you don't understand about your transplant, anything in the guide that isn't clear, and any other questions you have.
+* Meet your Team - Meet your doctor and members of your healthcare team. Take this time to ask about your treatment and ask them to answer your questions.
+* Choose a Caregiver - Identify a family member or friend to act as your caregiver. Make sure they understand what the role entails and give them a copy of this guide. Ask them to read the guide in full at least once.
+* Get Financial Clearance - Meet your Financial Counselor and speak to your insurance company. Make sure your outpatient stem cell transplant and medications are covered.
+* Make Decisions about your Fertility - Speak with your healthcare team about your fertility options and take measures to preserve your fertility.
+* Arrange Childcare - Your children cannot stay with you at the hotel or apartment during your outpatient transplant. You should make arrangements for them to be cared for while you are receiving your treatment.
+* Arrange Pet Care - Your pets cannot stay with you during your transplant so make arrangements for them.
+* Attend Orientation - Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
+* Pre-Transplant Evaluation - You'll undergo a series of medical tests. Your BMT Nurse Coordinator will talk you through the schedule for these tests.
+* Arrange Housing - The BMT Nurse Coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
+* Arrange transportation - <span class="outstanding">Check</span>
+* Understand Nutrition - Meet with a dietitian to review special dietary requirements and safe food handling
+* Learn about the Temperature and Fluid Log - You and your caregiver will be learn how to take your temperature, record how much you drink and how to write this information down in a diary
+* Social Work Consultation - Meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team 
+* Have your Catheter Inserted - You will visit our interventional radiology department and a central venous catheter will be inserted into your chest wall
+* Mobilization - You will give yourself injections of a medication to increase the number of stem cells in your bloodstream
+* Harvesting - You will visit our blood donor and your stem cells will be harvested from your bloodstream
 
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
-Before your outpatient treatment starts, there are a number of arrangements to make and options to consider. You can use this as a checklist to keep track of your progress. 
-
-* Read this guide in full at least once, along with the accompanying information and guides. Make note of anything that isn't clear, isn't answered, and any other questions you have.
-* Meet with the representative from Patient Financial Services (PFS) and talk to your health insurance company. Check your coverage for an outpatient bone marrow transplant and your prescription drug coverage.
-* Choose a caregiver and make sure they understand what the role entails. 
-* Give your caregiver a copy of this guide and ask them to read it in full at least once
-* Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
-* Arrange transportation to bring you from your home to your lodging
-* If you have children, arrange for childcare
-* Arrange for pet care
-* Receive a thermometer from your healthcare team. Your caregiver will learn how to  to accurately take your temperature with it
-* Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future.
-* Think about whether you'd like to cut your hair 
-* Visit a wig store if you decide to wear a wig
-* Purchase a tote bag or rolling bag to carry your supplies to clinic every day
-* Make a list of questions that you would like to ask about the your treatment.
-* Talk through your list of questions with your caregiver and your healthcare team
-
 ### Meeting Your Team
-When does it happen: Around Day −30.
-<p class="outstanding">To be written</p>
+On or around Day −30 you'll meet with your attending physician and other members of your healthcare team. Your attending physician will explain the type of treatment you'll undergo and will talk through the likely treatment plan. The treatment plan is the specific plan for your treatment that takes into account your disease, overall health and other factors. The treatment plan will be refined as you undergo pre-transplant tests.
+
+<p class="question">I don't have a great understanding of this. I know that there is an initial meet and greet and then a more detailed follow up - but that sometimes they are the same meeting. A little insight would be greatly appreciated.</p>
 
 ### Choosing Your Caregiver
 One of the most important steps as you prepare for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. Your caregiver will be responsible for a lot of the day to day medical, practical, emotional support you need during your outpatient transplant. 
@@ -228,12 +194,9 @@ If there isn't one person who can act as your caregiver then it may be possible 
 Talk to your healthcare team about choosing a caregiver. We have included useful resources for caregivers at the back of this guide.
 
 ### Financial Clearance
+Stem cell transplants are complex and costly. You will need to check that your pre-transplant tests, high-dose chemotherapy, stem cell infusion, post-transplant care, housing, medications and other expenses are covered by your insurance coverage. If they are then you will be "financially cleared" to begin treatment. 
 
-#### Insurance
-<p class="outstanding">Summarize insurance issues, what the patient needs to do to get clearance. The role of Patient Financial Services. </p>
-
-#### Financial Support
-<p class="outstanding">Sources of financial assistance available to patients. What these grants cover, what they don't cover. How to apply. Social work team are going to offer relevant content. </p>
+Early in your journey with us you will meet with a representative from MSKCC's Patient Financial Services department - your Financial Counselor. Your financial counselor will gather information about your treatment plan and your health insurance coverage. The financial counselor will liaise with your insurance company and will check what aspects of your care are and are not covered. They will be available to answer questions about your medical expenses and bills throughout your treatment.
 
 ### Pre-Transplant Medical Evaluation 
 <p class="outstanding">Before you receive your chemotherapy or undergo your transplant you will have some tests that will give us a good understanding of your baseline health and organ function.</p> To prepare for transplant you will need to make several trips to MSKCC. Before you become a transplant candidate your overall physical condition needs to be evaluated. We often refer to this as the "work-up" or "restaging" period. During the work-up you will need to have some or all of the following tests done to give us a good understanding of your baseline health and organ function:
@@ -256,17 +219,19 @@ The results of the tests will be used to plan your treatment and adjust it to yo
 Your doctor and nurse will explain any other tests that you may need.
 
 ### Making Decisions about your Fertility
-Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing treatment for your transplant. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged. If you want to learn more about options or other ways to build a family after your transplant ask your doctor or nurse for a referral to a fertility expert.
+Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing your conditioning regimen - the high-dose chemotherapy that precedes your stem cell infusion. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
+
+If you want to learn more about fertility preservation options and other ways you might build a family after your transplant then you should ask your doctor or nurse for a referral to a fertility expert.
 
 ##### Options For Men
 Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
 
 The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for two to five days before the first collection and between the other collections.
 
-For more information please read:
+For more information please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
 
-* Sperm Banking (http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
-* Cancer and Fertility: Information for Men (http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
+* Sperm Banking - http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf
+* Cancer and Fertility: Information for Men - http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf
 
 ##### Options For Women
 Women can freeze eggs or embryos before treatment. The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
@@ -279,42 +244,36 @@ If you are going to store embryos, your eggs are fertilized with sperm in the la
 
 Another possible option to preserve fertility is ovarian tissue freezing. This is experimental.
 
-For more information please read:
+For more information please read the guides * Cancer and Fertility: Information for Women* and *Selecting a Reproductive Endocrinologist* included at the back of this guide. These guides are also available online:
 
-* Cancer and Fertility: Information for Women (http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
-* Selecting a Reproductive Endocrinologist (http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
+* Cancer and Fertility: Information for Women - http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf
+* Selecting a Reproductive Endocrinologist - http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf
 
-##### Financial Issues
-Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information on this, ask you nurse for an application.
-
-##### Additional Considerations
-One thing to be aware of is that collecting sperm or eggs shortly after receiving chemotherapy may not be feasible. 
-
-Depending on the specific drugs you have received beforehand, and how much time has passed since your last treatment, there may be no sperm available to collect or eggs may not respond to stimulation. In addition, even if there are sperm or eggs to collect, if you had recent chemotherapy, they may have been damaged by recent treatment. There is a possibility that they will not fertilize or grow to form embryos. In addition, there is a risk of mutations and possible birth defects in a child conceived from these sperm or eggs. We have no data on outcomes of men and women who collect shortly after induction and/or consolidation and prior to transplant. Nevertheless, you may choose to attempt collection anyway.
-
-If you would like to speak with someone to learn more about your options for fertility preservation, ask your doctor or nurse to refer you to our fertility nurse specialist or directly to a sperm bank or reproductive endocrinologist.
+##### Financial Issues Related to Fertility Preservation
+Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information about this, ask your nurse or a member of your healthcare for an application.
 
 ### Childcare
-<div class="outstanding">To be written</div>
+<div class="outstanding">To be written. Social work team should provide input.</div>
 
 ### Making Arrangements for Your Pets
-<p class="outstanding">Reconcile with "Contact with animals, including your pets - they cannot stay with you during your transplant" in living with Neutropenia.</p>
-Animals can carry diseases and may present risks to you while your immune system is compromised. Although most people consider their pets a part of the family, there are a few precautions that need to be observed:
+Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
 
-* During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals.
-* Do not allow your pets to sleep with you. Don’t allow your pets to lick you in the face.
-* Protect yourself from bites or scratches.
-* Be sure that your pet is up-to-date with immunizations and any booster shots.
-* Have your veterinarian check your pet’s stool yearly for parasites.
+You should also take these precautions:
+
+* Be sure that your pet is up-to-date with immunizations and any booster shots. Have your veterinarian check your pet’s stool for parasites.
 * Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.
+* If you do come into contact with your pets do not allow your pets to sleep with you. Don’t allow your pets to lick you in the face.
+* Protect yourself from bites or scratches.
 * Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
-* Avoid contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.
+* Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.
 
-After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide.
+After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide included at the back of this guide.
 
 ### Moving into a Nearby Apartment or Hotel
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
+
+<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
 
 ### Having Your Central Venous Catheter Inserted
 On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
