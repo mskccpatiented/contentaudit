@@ -52,7 +52,7 @@ Collecting your stem cells beforehand allows us to then return your stem cells t
 An autologous transplant has three key phases:
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
-**Before** - You will prepare for your stem cell transplant. A central venous catheter will be inserted into your upper chest wall. You will receive drugs that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. 
+**Before** - You will prepare for your stem cell transplant. You will receive drugs that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. A central venous catheter will be inserted into your upper chest wall. 
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
@@ -137,9 +137,10 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * Understand Nutrition - Meet with a dietitian to review special dietary requirements and safe food handling
 * Learn about the Temperature and Fluid Log - You and your caregiver will be learn how to take your temperature, record how much you drink and how to write this information down in a diary
 * Social Work Consultation - Meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team 
-* Have your Catheter Inserted - You will visit our interventional radiology department and a central venous catheter will be inserted into your chest wall
 * Mobilization - You will give yourself injections of a medication to increase the number of stem cells in your bloodstream
 * Harvesting - You will visit our blood donor and your stem cells will be harvested from your bloodstream
+* Have your Catheter Inserted - You will visit our interventional radiology department and a central venous catheter will be inserted into your chest wall
+* Learn Catheter Care - A nurse will show you and your caregiver how to look after your catheter, change dressings etc.
 
 <p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
 
@@ -228,8 +229,8 @@ The sperm bank will analyze the specimen to be sure there are healthy sperm to f
 
 For more information please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
 
-* Sperm Banking - http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf
-* Cancer and Fertility: Information for Men - http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf
+* [Sperm Banking](http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
+* [Cancer and Fertility: Information for Men](http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
 
 ##### Options For Women
 Women can freeze eggs or embryos before treatment. The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
@@ -244,11 +245,15 @@ Another possible option to preserve fertility is ovarian tissue freezing. This i
 
 For more information please read the guides * Cancer and Fertility: Information for Women* and *Selecting a Reproductive Endocrinologist* included at the back of this guide. These guides are also available online:
 
-* Cancer and Fertility: Information for Women - http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf
-* Selecting a Reproductive Endocrinologist - http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf
+* [Cancer and Fertility: Information for Women](http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
+* [Selecting a Reproductive Endocrinologist](http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
 
 ##### Financial Issues Related to Fertility Preservation
-Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information about this, ask your nurse or a member of your healthcare for an application.
+Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. 
+
+The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. 
+
+There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed through [LIVESTRONG](http://www.livestrong.org). For more information about this, ask your nurse or a member of your healthcare team for an application.
 
 ### Making Arrangements for Childcare
 <div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
@@ -258,9 +263,9 @@ Animals can carry diseases and may present risks to you while your immune system
 
 You should also take these precautions:
 
-* Be sure that your pet is up-to-date with immunizations and any booster shots. Have your veterinarian check your pet’s stool for parasites.
+* Be sure that your pet is up-to-date with immunizations and any booster shots. Have your veterinarian check your pet's stool for parasites.
 * Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.
-* If you do come into contact with your pets do not allow your pets to sleep with you. Don’t allow your pets to lick you in the face.
+* If you do come into contact with your pets do not allow your pets to sleep with you. Don't allow your pets to lick you in the face.
 * Protect yourself from bites or scratches.
 * Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
 * Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.
@@ -271,7 +276,53 @@ After you have recovered from your transplant you will be provided additional in
 For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
 The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
 
-<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
+### Mobilization and Harvesting
+In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. 
+
+Mobilization is the process of increasing the number of stem cells produced by your bone marrow and released into your bloodstream. 
+
+Stem cell harvesting, or collecting, is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets and plasma) then removing stem cells from the white blood cell component.
+
+Once your stem cells have been harvested they are frozen and stored, then infused into your body after your chemotherapy; this is your stem cell transplant.
+
+#### Mobilization
+Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
+
+To increase the amount of stem cells in your bloodstream you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
+
+In most cases GCSF injections are self-administered, that is you will inject yourself with the drug while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your BMT Nurse Coordinator will create a personal Mobilization Calendar for you which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
+
+A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
+
+Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.
+
+#### Harvesting of your Stem Cells
+<div class="image-placeholder"><p>Image Placeholder: The harvesting/collection process. Patient connected to apheresis machine.</p></div>
+
+The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
+
+Before you are scheduled for stem cell harvesting a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough arrangements will be made to have your catheter fitted, which will then be used during harvesting. 
+
+The harvesting procedure is done in the Blood Donor Room. Your BMT Nurse Coordinator or your doctor will schedule 3-5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last three to four hours.
+
+You should eat dairy products or other foods that are rich in calcium the night before and the morning of your harvesting session. Wear comfortable clothes. 
+
+You will lie in a bed or sit in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood is returned to you. 
+
+If you wish, you will be able to watch TV or read. A family member or friend may sit with you during the procedure started. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
+
+After your harvesting procedure is done a dressing will be applied to your arm to prevent bleeding. It should remain in place for at least three hours, but not more than five hours. , If your catheter was used then it will be flushed and recapped. 
+
+Your stem cells will be brought to our stem cell laboratory where they'll be frozen and and stored safely until your transplant day.
+
+After harvesting most patients have minimal side effects and can resume their regular activities. The most common side effects are numbness or tingling in the lips, hands or feet. This is caused by a temporary decrease in the calcium levels in your blood during the harvesting. 
+
+Call Your Doctor If You:
+
+* Develop a fever (100.4° F or 38° C) or chills.
+* Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
+* Notice any bleeding or bruising
+* Notice numbness or tingling of your lips, hands or feed. 
 
 ### Having Your Central Venous Catheter Inserted
 On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
@@ -306,7 +357,7 @@ You and your caregiver should leave all valuables, including jewelry, at home. B
 
 Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2<span class="superscript">nd</span> floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital. Check in at the desk. Please arrive on time.
 
-In the SDH, you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
+In the Surgical Day Hospital you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
 <div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
@@ -331,11 +382,11 @@ The point where the catheter exits your skin will still need to be covered with 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
 
 #### Taking Care of Your Catheter
-Taking good care of your catheter is important. You are responsible for caring for your catheter when you are away from the hospital or clinic. While you are undergoing your outpatient stem cell transplant the nurse will change your catheter dressing, change the caps on the lumens and flush your catheter during your daily clinic visits.
+Taking good care of your catheter is important. When you visit the Outpatient BMT Clinic each day the nurse will change your catheter dressing, change the caps on the lumens and flush your catheter. When you are in your hotel, apartment or home (and anywhere else away from the Outpatient BMT Clinic) you are responsible for caring for your catheter.
 
 A nurse will teach you how to care for your catheter. You will learn how to change your dressing while ensuring that it remains free from germs; this is known as "sterile technique". Using sterile technique will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
 
-To take care of your catheter one of your nurses will give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
+The nurse will also give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
 
 Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
@@ -361,12 +412,12 @@ Here is a summary of the things you'll do on to take care of your catheter:
 #### Problems with your Catheter
 You and your caregiver should be on the look-out for any problems with your catheter. Infection is the most serious complication to watch out for. Look at the catheter site daily. Notify your doctor, NP or nurse if you experience any of the following:
 
-* Redness, swelling and/or drainage (a liquid that can vary in color but may be clear, bloody or green/yellowish) at the exit site.
-* Pain or tenderness at the exit site
+* Redness, swelling and/or drainage (a liquid that can vary in color but may be clear, bloody or green/yellowish) at the exit site
+* Pain or tenderness at the site where the catheter is inserted into your chest
 * Temperature greater than 100.4&deg;F or 38&deg;C.
 * Flu-like symptoms or chills
 
-Other complications may be related to the catheter itself. Notify your doctor, NP or nurse if you experience any of the following:
+Other complications may be related to the catheter itself. Notify your doctor, nurse practitioner or nurse if you experience any of the following:
 
 * You see a hole or break in the catheter
 * Swelling in your face, neck or arm on the same side of your body as the catheter
@@ -376,150 +427,54 @@ Other complications may be related to the catheter itself. Notify your doctor, N
 If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the urgent care center.
 
 Full instructions on how to care for your catheter are included in **Caring for Your Central Venous Catheter** which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
-
-### Mobilization and Harvesting
-In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. They are infused into your body after your chemotherapy; this is your stem cell transplant.
-
-Mobilization is the process of increasing the number of stem cells produced by your bone marrow and released into your bloodstream. 
-
-Stem cell harvesting, or collecting, is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets and plasma) then removing stem cells from the white blood cell component.
-
-#### Mobilization
-Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
-
-To increase the amount of stem cells in your bloodstream you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
-
-In most cases GCSF injections are self-administered, that is you will inject yourself with the drug while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your BMT Nurse Coordinator will create a personal <em>Mobilization Calendar</em> for you which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
-
-A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
-
-Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.
-
-#### Harvesting of your Stem Cells
-<div class="image-placeholder"><p>Image Placeholder: The harvesting/collection process. Patient connected to apheresis machine.</p></div>
-
-The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
-
-<p class="outstanding">(Location) Prior to being scheduled for stem cell harvesting a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough a temporary catheter will be inserted into a vein in your chest. The catheter will remain in place for several weeks or months. You will be given an appointment to have the catheter inserted. Your nurse will give you a booklet that describes the procedure and how to care for the catheter afterwards.</p>
-
-<p class="question">Is this the same procedure as the fitting of your catheter? Does having unhealthy/inadequate veins in your arm prompt the fitting of your catheter? (Define "temporary")</p>
-
-<span class="outstanding">The harvesting procedure is done in the Blood Donor Room.</span> Your BMT Nurse Coordinator or your doctor will schedule 3-5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last three to four hours.
-
-You should eat dairy products or other foods that are rich in calcium the night before and the morning of your appointment. Wear comfortable clothes. 
-
-Harvesting will take place at our Blood Donor Room. You will lie in a bed or sit in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood is returned to you. 
-
-If you wish, you will be able to watch TV or read. A family member or friend may sit with you during the procedure started. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
-
-After your harvesting procedure is done, your catheter will be flushed and recapped. If the veins in your arms were used for the harvesting, a dressing will be applied to prevent bleeding. It should remain in place for at least three hours, but not more than five hours. 
-
-Your stem cells will be brought to our stem cell laboratory where they'll be frozen and and stored safely until your transplant day.
-
-After harvesting most patients have minimal side effects and can resume their regular activities. The most common side effects are numbness or tingling in the lips, hands or feet. This is caused by a temporary decrease in the calcium levels in your blood during the harvesting. 
-
-Call Your Doctor If You:
-
-* Develop a fever (100.4° F or 38° C) or chills.
-* Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
-* Notice any bleeding or bruising
-* Notice numbness or tingling of your lips, hands or feed. 
-
-### Rest Day 
-The day after you receive your chemotherapy is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
-
-#### Monitoring Temperature and Fluid Intake
-From now on your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
-
-If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
-
-It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
-
-Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
-
-### Other Things to Consider in Phase 1
-<p class="outstanding">Need to bring the childcare, pets, exercise, emotional support in here. Need input from the Social Work team; this is pending. They are aware that I need content.</p>
-
-#### Sexual Activity
-<div class="outstanding">This section has to be edited and possibly moved.</div>
-Sexual activity provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant.
-
-Use Birth Control to Prevent Pregnancy
-If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects. Your or your partner should use contraception (birth control) throughout your cancer treatment. 
-It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
-Protect Yourself from Infection or Bleeding
-You will be at increased risk of infection for many months after your treatment. Until your doctor tells you that your immune system has recovered:
-•	Use latex condoms each time you have vaginal, oral, or anal sex.
-•	Use a barrier device (condoms or dental dams) any time your partner’s saliva, vaginal secretions, or semen could enter your mouth. 
-•	Abstain from any sexual activity that could expose your mouth to feces.
-In some situations, you may even be advised to avoid sex that involves penetration or contact with mucous membranes while your counts are low. This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or sex toys into your vagina or anus. Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time.
-Consider Steps to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
-There is little data about how much anticancer medication gets into a person’s body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don’t know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
-
-For additional information about being sexually active during and after treatment, as for “Sexual Activity During Cancer Treatment: Information for Women” or “Sexual Activity During Cancer Treatment: Information for Men.” (hyperlinks are not yet available)
-
 <div class="phasedivider">End of Phase Divider</div>
 
-## Phase 2 - Your Transplant
+<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
+
+## Phase 2 - Your Chemotherapy and Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 
 ### One Page Summary of This Phase
-Phase 2 of your treatment last just one day. On Day 0, your transplant day, your stem cells will be taken from storage and infused into your body through your catheter. 
+There are two main activities in this second phase of your journey. You'll receive your high-dose chemotherapy and on Day 0 your stem cells will be taken from storage and infused back into your body through your catheter. 
 
 These are the key things that will happen during this phase:
 
-* Stem Cells Retrieved - Your stem cells will be taken from storage and thawed.
-* Transplantation - Your stem cells will be infused into your body through your catheter.
+* Conditioning Regimen - You'll receive high dose chemotherapy to kill your cancer. The chemotherapy will also kill the cells in your blood and damage your immune system. 
+* Learn about Side Effects - The side effects of chemotherapy are significant. Take time to learn about the side effects you'll experience by reading this guide in full along with accompanying information.
+* Monitoring Temperature and Fluid Intake - Your caregiver will take your temperature every four hours and will monitor how much you drink. Your caregiver will record this information in a diary. Your healthcare team will check this information when you and your caregiver come to the clinic.
+* Learn About Sexuality and Transplant - Learn about the impact that treatment and transplantation can have on your sexuality.
+* Rest Day (Day −1) - You will rest on the day before your transplant
+* Transplantation (Day 0) - Your stem cells will be taken from storage and thawed. They will then be infused into your body through your catheter. This is your transplant.
 
 We cover each of these activities in detail later in this section.
- 
-#### Topics
-It's also important that you know about these topics during this phase:
 
-* Topic 1
-* Topic 2
-
-We cover each of these topics in detail later in this section. 
-
-#### Actions - Things You Need to Do 
-At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
-
-<p class="outstanding">Move conditioning regimen to phase 2.</p>
-### Conditioning Regimen
-<div class="feedback remove outstanding">
-### Receiving Your Chemotherapy
-
-* When does it happen: Day −2.
-
-Two days before your transplant you'll receive your chemotherapy. (This process is also called "conditioning" because it conditions, or prepares, your body for transplant). Your BMT Nurse Coordinator will work with you to schedule and explain your day of chemotherapy. 
-
-You'll be treated with a chemotherapy drug called Melphalan. Information about Melphalan, including its side effects, is included at the back of this guide.
-
-This will be a busy day. Not only will you receive your chemotherapy, but you'll also meet your Clinical Pharmacist who will review your medications with you and show you how to use your pill box. You and your caregiver will also be given a lot of information about the rest of your treatment and what to expect - some of this information will be on paper and some of it will be verbal. Your caregiver might like to bring a notebook and pen to the clinic to note down key points and any questions.
-</div>
+### The Conditioning Regimen - Receiving Your Chemotherapy
 Conditioning regimen is another name for the high dose chemotherapy that you will receive prior to the transplant. The specific regimen you receive will depend upon your disease, previous treatments and your specific transplant protocol or treatment plan.
 
-The conditioning regimen starts on a "negative numbered" day. If you are receiving one single dose of chemotherapy your chemotherapy will start on day -2. Depending on your treatment plan you may have one or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g. +1, +2 etc). 
+The conditioning regimen starts on a negative numbered day. If you are receiving one single dose of chemotherapy your chemotherapy will start on day -2. Depending on your treatment plan you may have one or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g. +1, +2 etc). 
 
 <table>
 <tr><th class="tfive">Day -2</th><th class="tfive">Day -1</th><th class="tfive">Day 0</th><th class="tfive">Day +1</th></tr>
 <tr><td>Conditioning Regimen (chemotherapy)</td><td>Rest Day</td><td>Stem Cell Infusion</td><td>Start of Supportive Care</td></tr>
 </table>
 
-Your physician and BMT Nurse Coordinator will discuss your treatment plan with you.
-
 Your BMT Nurse Coordinator will work with you to plan your schedule and will provide you with a treatment calendar. The BMT Nurse Coordinator will tell you the date, time and location of your treatment.
 
-#### The Morning before Chemotherapy
-On the first day of your treatment you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time.
+#### The Morning before Chemotherapy - The Outpatient BMT Clinic
+On the morning of your treatment you and your caregiver will make your first of your regular visits to the Outpatient BMT Clinic. (You'll return to the clinic each day until your healthcare team tell you otherwise.)
+
+You should bring these items to the clinic with you:
+
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
+* A notebook to write down key pieces of information and any questions you or your caregiver might have.
+
+You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time. While you're at the clinic you'll be provided with meals and there is a lounge with coffee and tea for caregivers.
+
+You and your caregiver should arrive at the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). 
 
 Once you arrive at the BMT Outpatient Clinic you will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
 
-Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will explain the medications you will take throughout your treatment. You will be provided with all the medications needed. You will be given a medication list to follow.
-
-Some of your medications will be "self-administered" in that you and your caregiver will manage them. You'll take your self-administered medications on a regular schedule or as needed. The Pharmacist will give you a a medication box (also called a pill box) that you'll use to store and manage your self-administered medications. The pharmacist will explain how to use and refill the pill box.
-
-Since you will be at the outpatient BMT clinic for several hours daily you will be provided with meals.
+Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will explain the medications you will take throughout your treatment and will show you how to use your pill box. The Pharmacist will give you all the medications that you need to take. The Pharmacist will give you a medication list that tells you when to take each different medication. 
 
 #### Receiving Chemotherapy
 Once you have been evaluated and the Pharmacist has talked through your medications you'll receive your chemotherapy. Before you receive your chemotherapy it goes through a number of safety checks to make sure everything is correct. 
@@ -540,14 +495,6 @@ During your chemotherapy your healthcare team will use this time to talk to you 
 The healthcare team will make sure that the logistics of the next few days are clear - what happens on transplant day and what happens after your transplant. 
 
 They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
-
-You will be introduced to the "Patient Temperature and Oral Intake Diary" that you and your caregiver will use to record your temperature and hydration every four hours while you are awake. The diary is included at the back of this guide.
-
-You will be given a digital thermometer and instructed on how to take your temperature.
-
-You and your caregiver should use the day of chemotherapy to ask as many questions as possible; make sure you are absolutely satisfied that you have all the information you need. Your healthcare team will do everything they can to answer your questions.
-
-When your treatment is finished you will return home to your apartment or hotel to rest.
 
 #### Side Effects of Chemotherapy
 Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores and mouth tenderness. 
@@ -573,7 +520,7 @@ More in-depth guides to living with neutropenia and low platelet levels are incl
 Diarrhea is frequent, loose, watery bowel movements. Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner. Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
 
 #### Side Effects from Chemotherapy - Constipation
-Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you or if you haven’t moved your bowels for more than two days you are constipated. There are many causes of constipation -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk with your nurse practitioner or doctor if you haven’t had a bowel movement for 2 days.
+Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you or if you haven't moved your bowels for more than two days you are constipated. There are many causes of constipation -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk with your nurse practitioner or doctor if you haven't had a bowel movement for 2 days.
 
 #### Side Effects from Chemotherapy - Mouth Sores
 Some chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips. You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
@@ -598,20 +545,58 @@ Even though you will feel tired after your chemotherapy and your transplant, you
 #### Side Effects from Chemotherapy - Nausea and Vomiting
 Nausea and vomiting is a common side effect of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes you may experience nausea during your chemotherapy treatment or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
 
-You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn’t helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
+You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
 
 #### Side Effects from Chemotherapy - The Importance of Communication
 Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
 
 Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
 
+#### Side Effects from Chemotherapy - Changes to Sexual Activity
+Sexual intimacy provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP or nurse.##### Birth ControlAlthough infertility is likely you or your partner should use contraception (birth control) throughout and after your cancer treatment. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy or other anticancer medications there is a risk of miscarriage or birth defects.
+It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
+##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
+There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
+##### Protecting Yourself from Infection or BleedingYou will be at increased risk of infection during your transplant period and for many months after your treatment. Until your doctor tells you that your blood counts and immune system have recovered:
+
+* Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be greater than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators or sex toys into your vagina or anus.
+* Use latex condoms each time you have vaginal, oral or anal sex.
+* Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions or semen could enter your mouth.
+* Abstain from any sexual activity that could expose your mouth to feces.
+* Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. For additional information about being sexually active during and after treatment see the additional resources at the back of this guide:
+* Sexual Activity During Cancer Treatment: Information for Women* Sexual Activity During Cancer Treatment: Information for Men
+* Sexual Health and IntimacyThe American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
+* Sexuality for the Man with Cancer and His Partner
+* Sexuality for the Woman with Cancer and Her Partner
+
+### Rest Day 
+After your first day at the Outpatient Clinic and your chemotherapy you will return to your local hotel or apartment. 
+
+The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+
+### Monitoring Temperature and Fluid Intake
+From the time you receive your chemotherapy your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary". 
+
+If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+
+It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+
+Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
+
 ### Transplant Day
-Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your transplant. You will be given your infusion of stem cells, your transplant, on Day 0 of your specific treatment plan. The stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
+Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion - your transplant. On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
 
 #### The Morning Before Transplant
-On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. Bring newspapers, books, a laptop or tablet computer to pass the time.
+On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
 
-Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review ask you a set of questions and review your Patient Temperature and Oral Intake Diary. You will be brought to a private room for a physical exam and your vital signs will be checked.
+You should bring these items to the clinic with you:
+
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
+* A notebook to write down key pieces of information and any questions you or your caregiver might have.
+* The Temperature and Oral Intake diary you and your caregiver have been using to record your temperature and fluid intake.
+* Newspapers, books, a laptop or tablet computer to pass the time.
+
+Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review your Temperature and Oral Intake diary and will ask you a set of questions. You will be brought to a private room for a physical exam and your vital signs will be checked.
 
 #### Your Stem Cell Infusion
 Before the stem cell infusion, your "transplant", your frozen stem cells will be removed from storage in the stem cell laboratory and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
@@ -620,33 +605,29 @@ You will be given medications about 30 minutes before your transplant to help re
 
 Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will be checked frequently during and after the infusion. 
 
-<p class="outstanding">The potential reactions that occur are caused by the preservative used to protect the stem cells during freezing.</p>
+You may experience some side-effects during and after the infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other side-effects that can occur include low blood pressure, chills and fever. 
 
-The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other reactions that can occur include low blood pressure, chills and fever. It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you experience side effects you will be treated for the symptoms.
+It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you do experience side-effects then your healthcare team will treat your symptoms. 
 
-During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. This is caused by the preservative used to store your stem cells. The smell will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
-
-You may not notice the smell of the preservatives but those around you will. Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
+During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. You may not notice the smell but those around you will. This smell is caused by the preservative used to store your stem cells and will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
 
 #### After Your Transplant
 After your stem cells are infused through your catheter you will remain in your hospital room for 4-6 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
 
-#### Engraftment
+Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
+
+### Engraftment
 Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
 
-Once the stem cells arrive in your bone marrow they begin to "engraft". Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Once the stem cells arrive in your bone marrow they begin to engraft. Engraftment is when your body accepts the transplant and your white blood cell count returns.White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
-The Chemotherapy you received add all your blood cells. During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
+Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
 
-Remember, you are very vulnerable to infection at this time. You will be closely monitored for any signs of infections. Your best defense against infection is hand washing. When your cells start to engraft you mary experience bone pain or a rash on your body. These are common symptoms experienced during engraftment. 
+During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
 
-They'll begin to divide and differentiate, creating more stem cells and making the different components of your blood including red blood cells, white blood cells and platelets. 
+Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low-microbial diet. You will be closely monitored for any signs of infections. 
 
-### Other Things to Consider in Phase 2
-<p class="question">I don't believe there are any in-depth topics to add in here. Probably best to talk about living with neutropenia, low platelet count, diet etc. in the next phase. Happy to add supplementary information to the transplant here though - suggestions welcome. </p>
-
-### Checklist
-<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items. We need to validate this list and add anything else we think is relevant.</p>
+As your cells start to engraft you mary experience bone pain or a rash on your body. 
 
 ## Phase 3 - After Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
@@ -673,12 +654,7 @@ We cover each of these topics in detail later in this section.
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
 
-### Maintaining the Temperature and Oral Intake Diary
-After your transplant your caregiver must continue to take your temperature every four hours and write it in the Temperature and Oral Intake Diary. 
 
-If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide. Your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
-
-Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
 
 ### The Outpatient BMT Clinic
 You will receive all your care in the outpatient BMT clinic on a daily basis. Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
@@ -721,9 +697,9 @@ If at any time you need more care than can be provided to you in the outpatient 
 This information should be reviewed by your caregiver and any other visitors who are planning to come and see you during your transplant.
 
 * No visitors are allowed who have any signs of a cold, flu or who have been exposed to any contagious illness. If you have any questions about who can visit please speak with a nurse, NP or physician.
-* Hand washing for 15-20 seconds is required before each visitor enters a patient’s room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient’s door with instructions.
-* Visitors and caregivers must use the visitor’s restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.
-* No fresh cut flowers or live plants are allowed in the patient’s room.
+* Hand washing for 15-20 seconds is required before each visitor enters a patient's room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient's door with instructions.
+* Visitors and caregivers must use the visitor's restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.
+* No fresh cut flowers or live plants are allowed in the patient's room.
 * Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
 
 ### Living with Neutropenia
@@ -976,6 +952,11 @@ Document to be included along with this guide, as appendices:
 **Transplant Resources - Included by Sheila in her feedback**
 
 **10 Tips for Caregivers - Included by Sheila in her feedback**
+
+Sexual Activity During Cancer Treatment: Information for Women
+Sexual Activity During Cancer Treatment: Information for Men
+
+Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
 
 Guide to Low Microbial Diet
 http://patiented.herokuapp.com/articles/low-microbial-diet
