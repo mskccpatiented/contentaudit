@@ -176,8 +176,6 @@ Your caregiver will receive specific instructions from the healthcare team about
 * Communicating with you, listening to you
 * Understanding your needs and your decisions
 
-<p class="outstanding">I would like to write this bullet-point list into more fluid text, is that acceptable?</p>
-
 #### Choosing the Right Caregiver
 Being a caregiver is a full-time, 24/7 responsibility and can be tiring, demanding and stressful - especially if your condition, schedule or treatment changes. 
 
