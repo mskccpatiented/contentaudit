@@ -133,7 +133,7 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * Attend Orientation - Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
 * Pre-Transplant Evaluation - You'll undergo a series of medical tests. Your BMT Nurse Coordinator will talk you through the schedule for these tests.
 * Arrange Housing - The BMT Nurse Coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
-* Arrange transportation - <span class="outstanding">Check</span>
+* Arrange transportation - <span class="outstanding notblock">Check</span>
 * Understand Nutrition - Meet with a dietitian to review special dietary requirements and safe food handling
 * Learn about the Temperature and Fluid Log - You and your caregiver will be learn how to take your temperature, record how much you drink and how to write this information down in a diary
 * Social Work Consultation - Meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team 
@@ -218,9 +218,11 @@ The results of the tests will be used to plan your treatment and adjust it to yo
 Your doctor and nurse will explain any other tests that you may need.
 
 ### Making Decisions about your Fertility
-Cancer treatments for your transplant will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing your conditioning regimen - the high-dose chemotherapy that precedes your stem cell infusion. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
+Your cancer treatment will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing your conditioning regimen - the high-dose chemotherapy that precedes your stem cell infusion. 
 
-If you want to learn more about fertility preservation options and other ways you might build a family after your transplant then you should ask your doctor or nurse for a referral to a fertility expert.
+In come cases it's possible to take  steps to preserve your fertility before you undergo treatment - women can bank eggs or embryos and men can bank sperm. These steps may allow you to conceive in the future. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
+
+We have summarized the most common steps that people take to preserve their fertility before undergoing a stem cell transplant. If you want to learn more about fertility preservation options and other ways you might build a family after your transplant then you should ask your doctor or nurse for a referral to a fertility expert.
 
 ##### Options For Men
 Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
@@ -372,10 +374,10 @@ Once the catheter has been inserted into your chest the incisions near will be s
 
 <div class="image-placeholder"><p>Image Placeholder: A diagram or photograph of the catheter in place. </p></div>
 
-### After Your Catheter Has Been Inserted
+#### After Your Catheter Has Been Inserted
 After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
 
-You will need to leave the dressings covering the incision near your collarbone in place and dry for <span class="outstanding">48 hours</span>. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
+You will need to leave the dressings covering the incision near your collarbone in place and dry for <span class="outstanding notblock">48 hours</span>. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
 
 The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
@@ -551,9 +553,14 @@ Throughout your treatment it's very important that you communicate clearly with 
 Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
 
 #### Side Effects from Chemotherapy - Changes to Sexual Activity
-Sexual intimacy provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP or nurse.##### Birth ControlAlthough infertility is likely you or your partner should use contraception (birth control) throughout and after your cancer treatment. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy or other anticancer medications there is a risk of miscarriage or birth defects.
-It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
-##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
+Sexual intimacy provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP or nurse.
+
+##### Birth Control
+Although infertility is likely you or your partner should use contraception (birth control) throughout and after your cancer treatment. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy or other anticancer medications there is a risk of miscarriage or birth defects.
+
+It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
+
+##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
 There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
 ##### Protecting Yourself from Infection or BleedingYou will be at increased risk of infection during your transplant period and for many months after your treatment. Until your doctor tells you that your blood counts and immune system have recovered:
 

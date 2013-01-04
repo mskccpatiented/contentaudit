@@ -365,6 +365,10 @@ background:#FF9C5B;
 display:block;
 }
 
+.notblock{
+display:inline;
+}
+
 .hidden, .invisible{
 display:none;
 }
