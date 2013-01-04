@@ -641,13 +641,24 @@ After your transplant you will remain in a nearby apartment or hotel and will re
 These are the key things that will happen during this phase:
 
 * Learn About Engraftment - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
-* Return to the Outpatient BMT Clinic - You will make daily visits to the Outpatient BMT Clinic until your healthcare team advise otherwise.
-* Side Effects - You will experience a range of side effects associated with your chemotherapy and transplant. 
+* Return to the Outpatient BMT Clinic - You will make daily visits to the Outpatient BMT Clinic until your healthcare team tell your that you can attend less often.
+* Testing - You will undergo blood tests and other tests to monitor your progress. You will have blood drawn each time you return to the outpatient clinic.
+* Neutropenia - The low number of white blood cells in your blood will leave you vulnerable to infection so you will need to take precautions to avoid sources of infection.
+* Low Microbial Diet - Because you are neutropenic you will eat a diet that contains a low number of potentially harmful microbes.
+* Low Platelet count - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
+* Personal Care - Because you are neutropenic and have a low platelet count you will need to take special care when you bathe, shower and brush your teeth.
+* Low Red Blood Cell Count - You will experience fatigue
+* Nausea and other side effects - You will experience nausea and other side effects associated with your treatment and transplant.
+* Transfusions - You may need to receive a blood transfusion
+* Recovery of your counts - Over time as your stem cells engraft and begin to produce new blood cells your "counts" will improve.
+* Exercise - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day
 
 We cover each of these topics in detail later in this section.
 
 ### Engraftment
-Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to engraft. Engraftment is when your body accepts the transplant and your white blood cell count returns.White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to engraft. 
+
+Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
 Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
 
@@ -657,8 +668,10 @@ Remember, you will be very vulnerable to infection at this time. You will need t
 
 As your cells start to engraft you mary experience bone pain or a rash on your body.
 
-### The Outpatient BMT Clinic
-You will receive all your care in the outpatient BMT clinic on a daily basis. Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
+### Regular Visits to The Outpatient BMT Clinic
+After your transplant you will receive all your care in the outpatient BMT clinic - the same place where you had your chemotherapy and your transplant. Each morning you will return to the Outpatient BMT Clinic.
+
+You should arrive at the clinic at 8am. You will remain at the clinic for most of the day. 
 
 When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
 
@@ -667,16 +680,15 @@ You should bring these items to the clinic with you each day:
 * A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
 * Your temperature and oral intake record
+* Books, newspapers, an audio player, a laptop or tablet computer - whatever you need to pass the time. 
 
 Once you arrive you will check in with the session assistant. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.
 
 Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
 
-Some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells and platelets are recovering. Your blood will also be checked for any signs of infection such as the presence of harmful bacteria or viruses. 
+Some of your blood will be taken daily and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells and platelets are recovering. Your blood will also be used to test the health of your kidneys, your electrolyte levels and for any signs of infection such as the presence of harmful bacteria or viruses. 
 
-<p class="question">Any details we can add here would be great. What happens during clinic visits. If you can bullet I can write up.</p>
-
-Once you've been examined you will wait in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
+Once you've been examined you will wait in your room in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
 
 After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
 
@@ -693,16 +705,6 @@ You'll continue to make daily visits to the clinic until your healthcare team de
 
 If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.
 
-#### Visitor Information
-<p class="outstanding">Reword this.</p>
-This information should be reviewed by your caregiver and any other visitors who are planning to come and see you during your transplant.
-
-* No visitors are allowed who have any signs of a cold, flu or who have been exposed to any contagious illness. If you have any questions about who can visit please speak with a nurse, NP or physician.
-* Hand washing for 15-20 seconds is required before each visitor enters a patient's room. Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the room is entered. There may be a need for additional precautions at other times – if needed there will be a sign on the patient's door with instructions.
-* Visitors and caregivers must use the visitor's restroom in the hallway. This is for the protection of the patient and to minimize bacterial spread in the room.
-* No fresh cut flowers or live plants are allowed in the patient's room.
-* Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
-
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
 
@@ -714,10 +716,17 @@ You and your caregiver will take careful precautions to avoid infections while y
 One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to **avoid**:
 
 * Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell<span class="superscript">&reg;</span> afterwards
-* Contact with young children, including your children if they are under 12
 * Contact with animals, including your pets - they cannot stay with you during your transplant
 * Contact with soil or dirt - you should not keep any plants in your hotel or apartment and should not accept gifts of flowers or plants
-* Contact with people who have had colds or recent illnesses
+
+Your caregiver will need to carefully manage who comes to see you while you are neutropenic. Your caregiver needs to make sure that friends, family and other visitors understand these precautions:
+
+* Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
+* No visitors are allowed to visit you, either in the clinic or in your hotel/apartment who have any signs of a cold, flu or who have been exposed to any contagious illness. 
+* Your caregiver and any visitors must wash their hands for 15-20 seconds before each visitor enters your room at the clinic or your hotel/apartment. 
+* Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the visitor enters your room. <p class="outstanding noblock">There may be a need for additional precautions at other times – if needed there will be a sign on the patient's door with instructions.</p>
+* Visitors and caregivers must use the visitor's restroom in the hallway and not the restroom in your room at the Outpatient Clinic. This is to minimize the spread of bacteria in the room.
+* No fresh cut flowers or live plants are allowed in your hotel/apartment or in you room.
 
 Telling people who love you and want to make sure that you're okay that you can't see them can be difficult, but you and your caregiver need to be vigilant. You can explain to them that it's just for a short period of time, and that by taking these precautions you are making sure that you can see them as soon as possible. They will understand.
 
@@ -743,7 +752,6 @@ You will need to take careful precautions with the food you eat, including:
 Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide. 
 
 #### Connecting with Children
-<p class="outstanding">Move this, or discuss this topic early in the guide.</p>
 Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
 We strongly recommend that you take time to talk to one of the social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. 
@@ -806,8 +814,6 @@ You should avoid any activity that may result in injury. This includes any:
 * Weight lifting
 
 You should take precautions when you are having sex. You should use lubrication if needed and avoid anal or oral intercourse. Avoid strong thrusting as this can cause bleeding. 
-
-<p class="question">Are these guidelines correct? I had thought that barrier method contraception had to be used as well for BMT patients. These are the generic low platelet guidelines and as such might not cover auto BMT.</p>
 
 You should avoid medications that have not been explicitly prescribed to you by your medical team. Do not take:
 
@@ -937,6 +943,14 @@ While in the outpatient transplant program you will be walking to and from the h
 If you have special needs you will be seen by a physical therapist for an evaluation. 
 
 <div class="phasedivider">End of Phase 3 Divider</div>
+
+## Life After Your Transplant
+
+### Visits to the Outpatient Clinic
+
+### Returning Home
+
+### Follow-Up Care
 
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
