@@ -427,9 +427,7 @@ Other complications may be related to the catheter itself. Notify your doctor, n
 If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the urgent care center.
 
 Full instructions on how to care for your catheter are included in **Caring for Your Central Venous Catheter** which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
-<div class="phasedivider">End of Phase Divider</div>
-
-<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
+<div class="phasedivider">End of Phase 1 Divider</div>
 
 ## Phase 2 - Your Chemotherapy and Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
@@ -629,6 +627,10 @@ Remember, you will be very vulnerable to infection at this time. You will need t
 
 As your cells start to engraft you mary experience bone pain or a rash on your body. 
 
+<div class="phasedivider">End of Phase 2 Divider</div>
+
+<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
+
 ## Phase 3 - After Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
 
@@ -653,8 +655,6 @@ We cover each of these topics in detail later in this section.
 
 #### Actions - Things You Need to Do 
 At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
-
-
 
 ### The Outpatient BMT Clinic
 You will receive all your care in the outpatient BMT clinic on a daily basis. Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
@@ -935,12 +935,7 @@ While in the outpatient transplant program you will be walking to and from the h
 
 If you have special needs you will be seen by a physical therapist for an evaluation. 
 
-### Other Things to Consider in Phase 3
-<p class="outstanding">Probably a lot of things I am forgetting, or haven't had time to include. Please suggest content and I'll find/write it.</p>
-
-### Checklist
-<p class="outstanding">This will be a checkable list - circles where the patient and the caregiver can check-off items.</p>
-
+<div class="phasedivider">End of Phase 3 Divider</div>
 
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
