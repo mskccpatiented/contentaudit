@@ -612,20 +612,7 @@ During and after your transplant you may notice a strong, garlic-like taste in y
 #### After Your Transplant
 After your stem cells are infused through your catheter you will remain in your hospital room for 4-6 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
 
-Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed. 
-
-### Engraftment
-Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. 
-
-Once the stem cells arrive in your bone marrow they begin to engraft. Engraftment is when your body accepts the transplant and your white blood cell count returns.White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
-
-Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
-
-During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
-
-Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low-microbial diet. You will be closely monitored for any signs of infections. 
-
-As your cells start to engraft you mary experience bone pain or a rash on your body. 
+Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed.  
 
 <div class="phasedivider">End of Phase 2 Divider</div>
 
@@ -635,26 +622,30 @@ As your cells start to engraft you mary experience bone pain or a rash on your b
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
 
 ### One Page Summary of This Phase
-Now that you've had your transplant, you enter a period of watching and waiting for engraftment to occur. As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
+Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
+
+As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
 
 After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
 These are the key things that will happen during this phase:
 
-<p class="outstanding">To be written</p>
+* Learn About Engraftment - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
+* Return to the Outpatient BMT Clinic - You will make daily visits to the Outpatient BMT Clinic until your healthcare team advise otherwise.
+* Side Effects - You will experience a range of side effects associated with your chemotherapy and transplant. 
 
-We cover each of these activities in detail later in this section.
- 
-#### Topics
-It's also important that you know about these topics during this phase:
+We cover each of these topics in detail later in this section.
 
-* Topic 1
-* Topic 2
+### Engraftment
+Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to engraft. Engraftment is when your body accepts the transplant and your white blood cell count returns.White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
-We cover each of these topics in detail later in this section. 
+Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
 
-#### Actions - Things You Need to Do 
-At the end of this chapter you'll find a list of things we need you to do during this phase of your treatment. Read this section in full then start to work your way through this list of actions. 
+During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
+
+Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low-microbial diet. You will be closely monitored for any signs of infections. 
+
+As your cells start to engraft you mary experience bone pain or a rash on your body.
 
 ### The Outpatient BMT Clinic
 You will receive all your care in the outpatient BMT clinic on a daily basis. Each morning you will return to the Outpatient BMT Clinic. You should arrive at 8am. You will remain at the clinic for most of the day. Bring newspapers, books, a laptop or tablet computer or other things to pass the time. 
