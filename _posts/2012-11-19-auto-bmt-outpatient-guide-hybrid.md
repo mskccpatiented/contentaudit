@@ -562,7 +562,10 @@ It is important to pick a method of birth control that fits your lifestyle but w
 
 ##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
 There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
-##### Protecting Yourself from Infection or BleedingYou will be at increased risk of infection during your transplant period and for many months after your treatment. Until your doctor tells you that your blood counts and immune system have recovered:
+##### Protecting Yourself from Infection or Bleeding
+You will be at increased risk of infection during your transplant period and for many months after your treatment.
+
+Until your doctor tells you that your blood counts and immune system have recovered follow these precautions:
 
 * Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be greater than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators or sex toys into your vagina or anus.
 * Use latex condoms each time you have vaginal, oral or anal sex.
