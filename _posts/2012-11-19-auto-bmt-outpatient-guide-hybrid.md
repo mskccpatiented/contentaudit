@@ -252,11 +252,11 @@ For more information please read the guides * Cancer and Fertility: Information 
 ##### Financial Issues Related to Fertility Preservation
 Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. There are financial resources available, including Fertile Hope, a discount programs for eligible patients managed through LIVESTRONG. For more information about this, ask your nurse or a member of your healthcare for an application.
 
-### Childcare
-<div class="outstanding">To be written. Social work team should provide input.</div>
+### Making Arrangements for Childcare
+<div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
 
 ### Making Arrangements for Your Pets
-Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through count recovery) you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
+Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery) you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
 
 You should also take these precautions:
 
@@ -287,16 +287,20 @@ A central venous catheter allows your healthcare team to give you medicine, flui
 The catheter will stay in your body throughout your treatment and is usually removed around twelve days after you receive your stem cell transplant.
 
 #### Before Your Catheter is Inserted
-Before your catheter is inserted you shouldn't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
+Your BMT Nurse Coordinator will work with you to schedule the insertion of your catheter. 
 
-Call your doctor before your procedure if you develop any illness. This includes a fever, cold, flu, or sore throat.
+In the days leading up to the insertion of your catheter you shouldn't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
 
-If you have been told to be on a clear liquid diet you shouldn't eat any solid food after midnight the night before your procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure.
+In the days leading up to the insertion of your catheter you should call your doctor if you develop any illness. This includes a fever, cold, flu, or sore throat.
+
+If you have been told to be on a clear liquid diet before your catheter is inserted you shouldn't eat any solid food after midnight the night before the procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
 
 #### The Day Your Catheter is Inserted
-Your transplant coordinator will work with you to schedule the insertion of your catheter; it's likely that you'll be asked to report to the Surgical Day Hospital, where the catheter will be inserted, several hours before the procedure takes place. This will allow the medical team to evaluate you and make sure everything is in order before they insert the catheter. 
+The catheter will be inserted at our Surgical Day Hospital. You will probably already be staying in a nearby hotel or apartment, so you should arrange transportation between your lodging and the surgical day hospital. 
 
-You will probably already be staying in a nearby hotel or apartment. On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
+You should report to the Surgical Day Hospital several hours before the procedure is scheduled to take place. This will allow the medical team to evaluate you and make sure everything is in order before they insert the catheter. 
+
+On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
 If you wear contact lenses you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
@@ -309,22 +313,20 @@ In the SDH, you will change into a gown, robe, and slippers. When you are ready,
 #### The Procedure
 <div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
+<p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
+
 The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given medication through your IV line to make you sleepy. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
-Two areas of your body will be numbed with a local anesthetic. A small incision (surgical cut) will be made near your collarbone, usually at the base of your neck. This incision will be used to gain access to the vein where the catheter will be placed. 
+A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you either one or two small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
 
-A second incision will be made on your chest, under your collarbone. The catheter will be inserted through this small incision and tunneled under your skin to the first incision. The catheter will then be threaded into the vein. You may feel a pulling sensation.
-
-A cuff surrounds part of the catheter that lies in the tunnel. This cuff will become anchored in the tunnel about 3 to 4 weeks after your procedure. It prevents bacteria from entering the tunnel and traveling up to your vein. This decreases your risk of infection and prevents your catheter from falling out.
-
-The incision near your collarbone will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
+Once the catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 
 <div class="image-placeholder"><p>Image Placeholder: A diagram or photograph of the catheter in place. </p></div>
 
 ### After Your Catheter Has Been Inserted
 After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
 
-<p class="outstanding">Check: You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.</p>
+You will need to leave the dressings covering the incision near your collarbone in place and dry for <span class="outstanding">48 hours</span>. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
 
 The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
