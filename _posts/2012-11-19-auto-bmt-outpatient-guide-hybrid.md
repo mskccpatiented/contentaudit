@@ -198,20 +198,20 @@ Stem cell transplants are complex and costly. You will need to check that your p
 Early in your journey with us you will meet with a representative from MSKCC's Patient Financial Services department - your Financial Counselor. Your financial counselor will gather information about your treatment plan and your health insurance coverage. The financial counselor will liaise with your insurance company and will check what aspects of your care are and are not covered. They will be available to answer questions about your medical expenses and bills throughout your treatment.
 
 ### Pre-Transplant Medical Evaluation 
-<p class="outstanding">Before you receive your chemotherapy or undergo your transplant you will have some tests that will give us a good understanding of your baseline health and organ function.</p> To prepare for transplant you will need to make several trips to MSKCC. Before you become a transplant candidate your overall physical condition needs to be evaluated. We often refer to this as the "work-up" or "restaging" period. During the work-up you will need to have some or all of the following tests done to give us a good understanding of your baseline health and organ function:
+Before you become a transplant candidate your overall physical condition needs to be evaluated. You will need to make several trips to MSKCC where you will undergo tests. We often refer to this as the "work-up" or "restaging" period. During the work-up you will need to have some or all of the following tests done:
 
 * A chest x-ray - done to ensure your lungs are clear and there is no evidence of a pneumonia or other problems
-* Blood tests - done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts. Your past exposure to certain viruses is also checked. 
+* Blood tests - done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts. Your past exposure to certain viruses is also checked
 * Urine tests
 * Electrocardiogram (EKG), echocardiogram (ECHO) or other tests that give information about your heart
 * Pulmonary function tests (PFT's) - breathing tests that measure lung function
 * Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone. Some scans use contrast dye that you drink or have injected into your body. Please alert your doctor if you have a known allergy to contrast dye, or seafood or iodine. If you have an allergy you may need to be given steroids to prevent a reaction the dye before your scan.
-* Dental Exam - You must have a full dental exam. Any cavities, loose fillings or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist please ask them to provide a note saying that you have no dental problems. If there are issues please ask the dentist to contact MSKCC dentist. 
-* Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas
+* Dental Exam - You must have a full dental exam. Any cavities, loose fillings or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist please ask them to provide a note saying that you have no dental problems. If there are issues please ask the dentist to contact MSKCC dentist.
+* Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas.
 * Bone marrow Aspiration and Biopsy - A bone marrow aspirate is a small sample of bone marrow usually taken from the back of your hip. Your hip will be numbed and a needle will be inserted into the bone marrow and a small amount of bone marrow liquid will be withdrawn. A bone marrow biopsy will be performed at the same time as your bone marrow aspiration. The biopsy involves collecting a tiny piece of bone for examination. This procedure is done to evaluate how well your bone marrow is producing cells and to check for any sign of cancer in the marrow.
 * Skeletal survey - An x-ray of the major bones in your body done to check for any signs of disease. This can take a few hours to complete.
 
-These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pre-transplant evaluation can take longer. The BMT Nurse Coordinator will work with you and your caregiver to schedule the tests. 
+These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pre-transplant evaluation can take longer. The BMT Nurse Coordinator will work with you and your caregiver to schedule the tests.
 
 The results of the tests will be used to plan your treatment and adjust it to your specific needs and to make sure that it is safe to start your treatment.
 
