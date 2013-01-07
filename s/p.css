@@ -294,6 +294,10 @@ border:1px solid slategray;
 background:silver;
 }
 
+.notblock{
+display:inline;
+}
+
 .complete{
 text-decoration:line-through;
 opacity:0.6;
@@ -514,24 +518,20 @@ width:100%;
 border-radius: 10px;
 }
 
-.mini-avatar{
-position: absolute;
-left: 10px;
-top: 10px;
-width: 60px;
-height: 60px;
+.fig{
+width:100%;
+border:5px solid whitesmoke;
+margin-bottom:0.25em;
 }
 
 .caption{
-width:100%;
-margin-top:-1.2em;
-margin-bottom:1em;
-text-align:right;
 font-weight: 400; 
 font-family: serif; 
-font-size: 0.6em; 
-line-height: 0.9em;
+font-size: 0.7em; 
+margin-bottom:0.5em;
+line-height: 1em;
 color: rgba(71, 71, 71, 1.00);
+font-style:italic;
 }
 
 p.smaller{
