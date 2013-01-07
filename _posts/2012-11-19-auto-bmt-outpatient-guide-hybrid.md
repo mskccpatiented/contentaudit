@@ -562,7 +562,8 @@ It is important to pick a method of birth control that fits your lifestyle but w
 
 ##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
 There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
-##### Protecting Yourself from Infection or Bleeding
+
+##### Protecting Yourself from Infection or Bleeding
 You will be at increased risk of infection during your transplant period and for many months after your treatment.
 
 Until your doctor tells you that your blood counts and immune system have recovered follow these precautions:
@@ -571,10 +572,18 @@ Until your doctor tells you that your blood counts and immune system have recove
 * Use latex condoms each time you have vaginal, oral or anal sex.
 * Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions or semen could enter your mouth.
 * Abstain from any sexual activity that could expose your mouth to feces.
-* Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. For additional information about being sexually active during and after treatment see the additional resources at the back of this guide:
-* Sexual Activity During Cancer Treatment: Information for Women* Sexual Activity During Cancer Treatment: Information for Men
-* Sexual Health and IntimacyThe American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
-* Sexuality for the Man with Cancer and His Partner
+* Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.
+
+Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. 
+For additional information about being sexually active during and after treatment see the additional resources at the back of this guide:
+
+* Sexual Activity During Cancer Treatment: Information for Women
+* Sexual Activity During Cancer Treatment: Information for Men
+* Sexual Health and Intimacy
+
+The American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
+
+* Sexuality for the Man with Cancer and His Partner
 * Sexuality for the Woman with Cancer and Her Partner
 
 ### Rest Day 
@@ -751,14 +760,14 @@ You will need to take careful precautions with the food you eat, including:
 
 Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide. 
 
-#### Connecting with Children
+#### Coping with Separation from Children
 Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
-We strongly recommend that you take time to talk to one of the social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. 
+We strongly recommend that you take time to talk to one of our social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. They will be able to listen to your concerns and help you develop a strategy for maintaining strong ties to your children while you are undergoing treatment.
 
 Here are some things that other patients have done to remain in contact with their children during their transplant.
 
-* Use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to talk to your children regularly. Set up a time that you talk to them each day - like when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them. 
+* Use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to talk to your children regularly. Set up a time that you talk to them each day - like when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them.
 * Paint or create other crafts to send home. Craft supplies can be provided to you by the Patient Recreation Center. Ask one of your healthcare team to arrange for the Patient Recreation Center to bring supplies to you.
 * Use your phone to make an audio recording of yourself as you read your children's favorite stories. Upload these recordings to the web, give them to your caregiver, or e-mail them to your children. They can read along with these stories while listening to your voice.
 * Keep copies of your children's favorite stories with you in your apartment or hotel. At night you can use Skype to read along with them before they go to sleep. 
@@ -844,9 +853,7 @@ Call your doctor immediately if you:
 * Cough up blood, vomit blood or get a nose bleeds
 
 ### Living with a Low Red Blood Cell Count (Anemia)
-Red blood cells carry oxygen to the tissues. We breathe in oxygen from the air and breathe out carbon dioxide. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. It then carries carbon dioxide from the tissues back to the lungs. 
-
-Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. When your red blood cell count is low your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly lying to standing. 
+Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. When your red blood cell count is low your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly lying to standing. 
 
 Some of the side effects of anemia include:
 
@@ -861,7 +868,7 @@ If you have anemia, your doctor may prescribe one or more of the following:
 
 * A transfusion
 * Rest
-* A diet high in iron (e.g., green leafy vegetables, liver, chicken)
+* Changes to your diet
 * Iron supplements
 
 <p class="question">I assume that the diet/iron recommendations here don't apply to SCT patients?</p>
@@ -955,6 +962,122 @@ If you have special needs you will be seen by a physical therapist for an evalua
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
 
+advil
+aleve
+alfalfa
+allogeneic
+anal
+anaprox
+anemia
+anesthetic
+anti-inflammatory
+antibacterial
+antifungal
+antimicrobial
+apheresis
+aspirin
+autologous
+axial
+biopsy
+bone marrow
+bone marrow biopsy
+bowels
+breastbone
+broviac catheter
+bruising
+catheter
+cavities
+central venous catheter
+clot
+detergent
+dietitian
+dizziness
+dosage
+echocardiogram
+ekg
+electrocardiogram
+electrolysis
+enemas
+engraftment
+fertilized
+filgrastim
+fillings
+floss
+gcsf
+genitals
+granulocyte
+hemoglobin
+hickman catheter
+hospitalist
+ibuprofen
+immune system
+infecting
+infertile
+infusion
+inpatient
+irradiated
+irritability
+jaundice
+laxative
+lubricant
+lubrication
+lumen
+lymphoma
+lysol
+manicure
+melphalan
+microliter
+microorganism
+mobilization
+mobilized
+moisturizer
+motrin
+mouthwash
+mozobil
+mucous
+myeloma
+naprosyn
+neupogen
+neutropenia
+neutrophil
+non-steroidal
+nonporous
+nosebleed
+nsaids
+orally
+outpatients
+pedicure
+pedicures
+perineal
+perioperative
+platelet
+platelets
+platelets
+plerixafor
+plt
+positron
+preservative
+purell
+quinton catheter
+rectal
+rectally
+rectum
+red blood cells/rbc
+sanitizer
+sores
+stem cell
+sternum
+suppository
+thrombocytopenic
+tomography
+toothettes
+transfusion
+transplanted
+tylenol
+unpasteurized
+waxing
+white blood cell/wbc
+
 ## Additional Resources
 
 Document to be included along with this guide, as appendices:
@@ -964,7 +1087,8 @@ Document to be included along with this guide, as appendices:
 **10 Tips for Caregivers - Included by Sheila in her feedback**
 
 Sexual Activity During Cancer Treatment: Information for Women
-Sexual Activity During Cancer Treatment: Information for Men
+
+Sexual Activity During Cancer Treatment: Information for Men
 
 Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
 
