@@ -231,8 +231,8 @@ The sperm bank will analyze the specimen to be sure there are healthy sperm to f
 
 For more information please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
 
-* [Sperm Banking](http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
-* [Cancer and Fertility: Information for Men](http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
+* [Sperm Banking http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
+* [Cancer and Fertility: Information for Men http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
 
 ##### Options For Women
 Women can freeze eggs or embryos before treatment. The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
@@ -247,15 +247,15 @@ Another possible option to preserve fertility is ovarian tissue freezing. This i
 
 For more information please read the guides * Cancer and Fertility: Information for Women* and *Selecting a Reproductive Endocrinologist* included at the back of this guide. These guides are also available online:
 
-* [Cancer and Fertility: Information for Women](http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
-* [Selecting a Reproductive Endocrinologist](http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
+* [Cancer and Fertility: Information for Women http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
+* [Selecting a Reproductive Endocrinologist http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
 
 ##### Financial Issues Related to Fertility Preservation
 Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. 
 
 The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. 
 
-There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed through [LIVESTRONG](http://www.livestrong.org). For more information about this, ask your nurse or a member of your healthcare team for an application.
+There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed by Livestrong [http://www.fertilehope.org/](http://www.fertilehope.org/). For more information about this, ask your nurse or a member of your healthcare team for an application.
 
 ### Making Arrangements for Childcare
 <div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
