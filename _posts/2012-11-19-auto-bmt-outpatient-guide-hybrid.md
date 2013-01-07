@@ -363,7 +363,7 @@ Enter the hospital through the main entrance at 1275 York Avenue. Take the M ele
 In the Surgical Day Hospital you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
-<img src="/figs/opbmt_fig_cvc.jpg" class="fig"/>
+<img src="/g/figs/opbmt_fig_cvc.jpg" class="fig"/>
 <p class="caption">Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
