@@ -962,121 +962,121 @@ If you have special needs you will be seen by a physical therapist for an evalua
 ## Glossary
 Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
 
-advil
-aleve
-alfalfa
-allogeneic
-anal
-anaprox
-anemia
-anesthetic
-anti-inflammatory
-antibacterial
-antifungal
-antimicrobial
-apheresis
-aspirin
-autologous
-axial
-biopsy
-bone marrow
-bone marrow biopsy
-bowels
-breastbone
-broviac catheter
-bruising
-catheter
-cavities
-central venous catheter
-clot
-detergent
-dietitian
-dizziness
-dosage
-echocardiogram
-ekg
-electrocardiogram
-electrolysis
-enemas
-engraftment
-fertilized
-filgrastim
-fillings
-floss
-gcsf
-genitals
-granulocyte
-hemoglobin
-hickman catheter
-hospitalist
-ibuprofen
-immune system
-infecting
-infertile
-infusion
-inpatient
-irradiated
-irritability
-jaundice
-laxative
-lubricant
-lubrication
-lumen
-lymphoma
-lysol
-manicure
-melphalan
-microliter
-microorganism
-mobilization
-mobilized
-moisturizer
-motrin
-mouthwash
-mozobil
-mucous
-myeloma
-naprosyn
-neupogen
-neutropenia
-neutrophil
-non-steroidal
-nonporous
-nosebleed
-nsaids
-orally
-outpatients
-pedicure
-pedicures
-perineal
-perioperative
-platelet
-platelets
-platelets
-plerixafor
-plt
-positron
-preservative
-purell
-quinton catheter
-rectal
-rectally
-rectum
-red blood cells/rbc
-sanitizer
-sores
-stem cell
-sternum
-suppository
-thrombocytopenic
-tomography
-toothettes
-transfusion
-transplanted
-tylenol
-unpasteurized
-waxing
-white blood cell/wbc
+* advil
+* aleve
+* alfalfa
+* allogeneic
+* anal
+* anaprox
+* anemia
+* anesthetic
+* anti-inflammatory
+* antibacterial
+* antifungal
+* antimicrobial
+* apheresis
+* aspirin
+* autologous
+* axial
+* biopsy
+* bone marrow
+* bone marrow biopsy
+* bowels
+* breastbone
+* broviac catheter
+* bruising
+* catheter
+* cavities
+* central venous catheter
+* clot
+* detergent
+* dietitian
+* dizziness
+* dosage
+* echocardiogram
+* ekg
+* electrocardiogram
+* electrolysis
+* enemas
+* engraftment
+* fertilized
+* filgrastim
+* fillings
+* floss
+* gcsf
+* genitals
+* granulocyte
+* hemoglobin
+* hickman catheter
+* hospitalist
+* ibuprofen
+* immune system
+* infecting
+* infertile
+* infusion
+* inpatient
+* irradiated
+* irritability
+* jaundice
+* laxative
+* lubricant
+* lubrication
+* lumen
+* lymphoma
+* lysol
+* manicure
+* melphalan
+* microliter
+* microorganism
+* mobilization
+* mobilized
+* moisturizer
+* motrin
+* mouthwash
+* mozobil
+* mucous
+* myeloma
+* naprosyn
+* neupogen
+* neutropenia
+* neutrophil
+* non-steroidal
+* nonporous
+* nosebleed
+* nsaids
+* orally
+* outpatients
+* pedicure
+* pedicures
+* perineal
+* perioperative
+* platelet
+* platelets
+* platelets
+* plerixafor
+* plt
+* positron
+* preservative
+* purell
+* quinton catheter
+* rectal
+* rectally
+* rectum
+* red blood cells/rbc
+* sanitizer
+* sores
+* stem cell
+* sternum
+* suppository
+* thrombocytopenic
+* tomography
+* toothettes
+* transfusion
+* transplanted
+* tylenol
+* unpasteurized
+* waxing
+* white blood cell/wbc
 
 ## Additional Resources
 
