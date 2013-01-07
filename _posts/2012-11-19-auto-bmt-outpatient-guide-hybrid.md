@@ -633,8 +633,6 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 
 <div class="phasedivider">End of Phase 2 Divider</div>
 
-<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
-
 ## Phase 3 - After Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
 
@@ -957,17 +955,17 @@ Before you return home it's important that you and your caregiver prepare. We ha
 ## Glossary
 We have identified some words in this guide that may require further explanation:
 
-**advil&reg;**
-Advil&reg; is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+**advil<span class="superscript">&reg;</span>**
+Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
-**aleve&reg;**
-Aleve&reg; is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+**aleve<span class="superscript">&reg;</span>**
+Aleve<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **anal**
 Related to the anus.
 
 **anaprox**
-Anaprox&reg; is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Anaprox<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **anemia**
 A condition in which the number of red blood cells is below normal.
@@ -1114,10 +1112,10 @@ An organism that can be seen only through a microscope. Microorganisms include b
 Taking medicine to stimulate the growth of stem cells and move them into the bloodstream.
 
 **motrin**
-Advil&reg; is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **mozobil**
-Mozobil&reg; is a brand of plerixafor. Plerixafor is a drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+Mozobil<span class="superscript">&reg;</span> is a brand of plerixafor. Plerixafor is a drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
 
 **myeloma**
 Cancer that arises in plasma cells, a type of white blood cell.
@@ -1126,7 +1124,7 @@ Cancer that arises in plasma cells, a type of white blood cell.
 A drug used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti-inflammatory drug (NSAID) and a type of cyclooxygenase inhibitor. Also called naproxen.
 
 **neupogen**
-Neupogen&reg; is a brand of GCSF - a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+Neupogen<span class="superscript">&reg;</span> is a brand of GCSF - a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
 **neutropenia**
 A condition in which there is a lower-than-normal number of neutrophils (a type of white blood cell). While you are neutropenic you will take precautions to prevent infection.
@@ -1167,7 +1165,7 @@ The last several inches of the large intestine closest to the anus.
 **red blood cell/rbc**
 A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
 
-**Stem Cell**
+**stem cell**
 A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
 
 **sternum**
@@ -1183,10 +1181,11 @@ A condition in which there is a lower-than-normal number of platelets in the blo
 A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
 
 **unpasteurized**
-Relating to perishible food which has not been pasteurised. i.e. heat treatment to destroy heat sensitive vegetative cells followed by immediate cooling to limit growth of the surviving cells and germination of spores.
+Relating to perishible food which has not been pasteurised. i.e. heat treated to kill potentially harmful microbes.
 
-* white blood cell/wbc
+**white blood cell/wbc**
 A type of immune cell. Most WBCs are made in the bone marrow and are found in the blood and lymph tissue. WBCs help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are WBCs. Also called leukocyte and white blood cell.
+<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
 
 ## Additional Resources
 
