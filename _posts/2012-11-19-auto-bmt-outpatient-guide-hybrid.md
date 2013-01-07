@@ -361,7 +361,7 @@ In the Surgical Day Hospital you will change into a gown, robe, and slippers. Wh
 
 #### The Procedure
 <img src="/g/figs/opbmt_fig_cvc.jpg" class="fig"/>
-<span class="caption">A diagram or image showing the incision and placement of the catheter in reasonable detail to allay fears.</span>
+<span class="caption">A small area of your chest will be numbed. One or two small incisions are made and your catheter will be inserted.</span>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
 
