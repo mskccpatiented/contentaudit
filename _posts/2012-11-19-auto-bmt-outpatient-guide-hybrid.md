@@ -361,7 +361,7 @@ In the Surgical Day Hospital you will change into a gown, robe, and slippers. Wh
 
 #### The Procedure
 <img src="/g/figs/opbmt_fig_cvc.jpg" class="fig"/>
-<p class="caption">A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p>
+<span class="caption">A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</span>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
 
@@ -370,9 +370,8 @@ The placement of the catheter should take about 30 minutes. First, an IV line wi
 A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you either one or two small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
 
 Once the catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
-
 <img src="/g/figs/opbmt_fig_cvcinplace.jpg" class="fig"/>
-<p class="caption">Image Placeholder: A clear diagram of the central venous catheter.</p>
+<span class="caption">Image Placeholder: A clear diagram of the central venous catheter.</span>
 
 #### After Your Catheter Has Been Inserted
 After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
