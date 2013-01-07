@@ -423,7 +423,7 @@ Other complications may be related to the catheter itself. Notify your doctor, n
 * You see a hole or break in the catheter
 * Swelling in your face, neck or arm on the same side of your body as the catheter
 
-<div class="image-placeholder"><p>Image Placeholder: Clamping the catheter above a leak.</p></div>
+<img src="/g/figs/opbmt_fig_clampedcvc.jpg" class="fig" /><span class="caption">Clamping the catheter above a leak.</span>
 
 If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the urgent care center.
 
