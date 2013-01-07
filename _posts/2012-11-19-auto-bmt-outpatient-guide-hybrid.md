@@ -133,7 +133,6 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * Attend Orientation - Attend the online orientation for Outpatient Autologous Stem Cell Transplant patients. Ask your BMT Nurse Coordinator for details.
 * Pre-Transplant Evaluation - You'll undergo a series of medical tests. Your BMT Nurse Coordinator will talk you through the schedule for these tests.
 * Arrange Housing - The BMT Nurse Coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
-* Arrange transportation - <span class="outstanding notblock">Check</span>
 * Understand Nutrition - Meet with a dietitian to review special dietary requirements and safe food handling
 * Learn about the Temperature and Fluid Log - You and your caregiver will be learn how to take your temperature, record how much you drink and how to write this information down in a diary
 * Social Work Consultation - Meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team 
@@ -330,6 +329,7 @@ Call Your Doctor If You:
 On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
+<img src="/g/figs/opbmt_fig_cvcinplace.jpg" />
 <div class="image-placeholder"><p>Image Placeholder: A clear diagram of the central venous catheter.</p></div>
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
@@ -347,7 +347,7 @@ In the days leading up to the insertion of your catheter you should call your do
 If you have been told to be on a clear liquid diet before your catheter is inserted you shouldn't eat any solid food after midnight the night before the procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
 
 #### The Day Your Catheter is Inserted
-The catheter will be inserted at our Surgical Day Hospital. You will probably already be staying in a nearby hotel or apartment, so you should arrange transportation between your lodging and the surgical day hospital. 
+The catheter will be inserted at our Surgical Day Hospital. You will probably already be staying in a hotel or apartment within walking distance of MSKCC's main hospital. If you are not already living locally then you you should arrange transportation between your lodging and the surgical day hospital. 
 
 You should report to the Surgical Day Hospital several hours before the procedure is scheduled to take place. This will allow the medical team to evaluate you and make sure everything is in order before they insert the catheter. 
 
@@ -362,6 +362,7 @@ Enter the hospital through the main entrance at 1275 York Avenue. Take the M ele
 In the Surgical Day Hospital you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
+<img src="/figs/opbmt_fig_cvc.jpg" />
 <div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
@@ -434,7 +435,7 @@ Full instructions on how to care for your catheter are included in **Caring for 
 ## Phase 2 - Your Chemotherapy and Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 
-### Phase 2- - Summary and Checklist
+### Phase 2 - Summary and Checklist
 There are two main activities in this second phase of your journey. You'll receive your high-dose chemotherapy and on Day 0 your stem cells will be taken from storage and infused back into your body through your catheter. 
 
 These are the key things that will happen during this phase:
@@ -508,7 +509,7 @@ One side effect of chemotherapy is called "neutropenia". Neutropenia is a condit
 
 Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
 
-In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here.
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here. 
 
 After your transplant your healthcare team will take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
 
@@ -643,9 +644,7 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 ### Phase 3 - Summary and Checklist
 Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
 
-As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
-
-After your transplant you will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. You will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
 These are the key things that will happen during this phase:
 
@@ -658,16 +657,14 @@ These are the key things that will happen during this phase:
 * Personal Care - Because you are neutropenic and have a low platelet count you will need to take special care when you bathe, shower and brush your teeth.
 * Low Red Blood Cell Count - You will experience fatigue
 * Nausea and other side effects - You will experience nausea and other side effects associated with your treatment and transplant.
-* Transfusions - You may need to receive a blood transfusion
+* Transfusions - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream .
 * Recovery of your counts - Over time as your stem cells engraft and begin to produce new blood cells your "counts" will improve.
-* Exercise - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day
+* Exercise - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
 
 We cover each of these topics in detail later in this section.
 
 ### Engraftment
-Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to engraft. 
-
-Engraftment is when your body accepts the transplant and your white blood cell count returns. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
 Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
 
@@ -677,8 +674,8 @@ Remember, you will be very vulnerable to infection at this time. You will need t
 
 As your cells start to engraft you mary experience bone pain or a rash on your body.
 
-### Regular Visits to The Outpatient BMT Clinic
-After your transplant you will receive all your care in the outpatient BMT clinic - the same place where you had your chemotherapy and your transplant. Each morning you will return to the Outpatient BMT Clinic.
+### The Outpatient BMT Clinic
+After your transplant you will receive all your care in the outpatient BMT clinic - the same place where you had your chemotherapy and your transplant. Each morning you will return to the Outpatient BMT Clinic, just like you did on the mornings before chemotherapy and your transplant.
 
 You should arrive at the clinic at 8am. You will remain at the clinic for most of the day. 
 
@@ -717,7 +714,7 @@ If at any time you need more care than can be provided to you in the outpatient 
 ### Living with Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
 
-Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you highly susceptible to infections. 
+Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you highly susceptible to infections in this period following your chemotherapy and transplant. 
 
 You and your caregiver will take careful precautions to avoid infections while you are "neutropenic". These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions. 
 
@@ -742,11 +739,11 @@ Telling people who love you and want to make sure that you're okay that you can'
 We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to keep in touch with friends and family when you are neutropenic. 
 
 #### Eating a Low-Microbial Diet
-After your chemotherapy, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. This is a diet for people with weakened immune systems and low blood counts. A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in every-day foods. This diet helps to reduce the risk of food-borne illnesses caused by bacteria and other microbes found in some foods and drinks. Microbes are tiny living organisms, such as bacteria, viruses, yeast, and molds. 
+While your counts are returning to normal, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. 
+
+A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in every-day foods. This diet helps people with weakened immune systems and low blood counts to reduce the risk of food-borne illnesses caused by bacteria and other microbes (tiny living organisms, such as bacteria, viruses, yeast, and molds) found in some foods and drinks. Eating a diet that contains fewer microbes will help prevent you from getting sick. 
 
 Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices and vegetable sprouts - but in reality they can grow on any food. 
-
-Eating a diet that contains fewer microbes will help prevent you from getting sick. 
 
 You will need to take careful precautions with the food you eat, including:
 
@@ -758,10 +755,10 @@ You will need to take careful precautions with the food you eat, including:
 * Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
 * Cooking foods thoroughly
 
-Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide. 
+Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide and follow its guidance very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
 
 #### Coping with Separation from Children
-Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
+Children under 12 are not able to visit you during <span class="outstanding no block">your transplant period</span> because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
 We strongly recommend that you take time to talk to one of our social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. They will be able to listen to your concerns and help you develop a strategy for maintaining strong ties to your children while you are undergoing treatment.
 
@@ -803,16 +800,16 @@ Follow these guidelines to take good care of your mouth:
 * If your mouth feels very painful, your doctor will prescribe medicine for the pain.
 
 ### Living with a Low Platelet Count
-Platelets are little fragments of larger cells made in your bone marrow; they break off from these larger cells and flow through your bloodstream. They clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you and your caregiver will take special precautions:
+Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here. You and your caregiver will take these special precautions:
 
-* Avoid sharp objects such as a razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade
+* Avoid sharp objects such as a razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
 * Do not have manicures, pedicures, waxes, electrolysis or tattoos
-* Do not have any dental work done
-* Follow the guidelines on mouth care (above)
-* Do not use rectal suppositories, enemas, or tampons
-* Do not take your temperature rectally
-* Consider using stool softeners or laxatives if you are straining to have bowel movements
-* Avoid tight clothing or any clothing that you have to strain to put on or take off
+* Do not have any dental work done.
+* Follow the guidelines on mouth care (above).
+* Do not use rectal suppositories, enemas, or tampons.
+* Do not take your temperature rectally.
+* Consider using stool softeners or laxatives if you are straining to have bowel movements.
+* Avoid tight clothing or any clothing that you have to strain to put on or take off.
 
 You should avoid any activity that may result in injury. This includes any:
 
@@ -834,7 +831,7 @@ All of these drugs make it more difficult for your blood to clot and so are very
 
 Call your doctor if you develop any symptoms of bleeding. Be on the lookout for:
 
-* Excessive bruising
+* Bruising
 * A faint red rash on your trunk, arms or legs
 * Vaginal spotting or heavy menstrual bleeding
 * The appearance of broken blood vessels in the white of your eye
@@ -870,8 +867,6 @@ If you have anemia, your doctor may prescribe one or more of the following:
 * Rest
 * Changes to your diet
 * Iron supplements
-
-<p class="question">I assume that the diet/iron recommendations here don't apply to SCT patients?</p>
 
 ### Receiving a Transfusion
 Your doctor may recommend a blood transfusion to boost the number of platelets or red blood cells in your body. 
@@ -945,22 +940,25 @@ Allergic reactions can sometimes occur. Symptoms are listed below. They can occu
 ### Exercise
 Exercise is an important part of the recovery process during and following stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
 
-While in the outpatient transplant program you will be walking to and from the hospital daily which will help to maintain your conditioning. During the hours you are in clinic you are encouraged to walk in the hallways (wearing a mask and gloves) two to three times daily. While you are staying locally in the hotel you are encouraged to walk outside weather permitting. 
+While in the outpatient transplant program you are encouraged to and from the hospital daily which will help to maintain your conditioning. During the hours you are in clinic you are encouraged to walk in the hallways (wearing a mask and gloves) two to three times daily. While you are staying locally in the hotel you are encouraged to walk outside weather permitting. 
 
 If you have special needs you will be seen by a physical therapist for an evaluation. 
 
 <div class="phasedivider">End of Phase 3 Divider</div>
 
 ## Life After Your Transplant
+You will remain in the nearby apartment or hotel for several weeks following your stem cell infusion, returning to the Outpatient Clinic each day. 
+
+When your healthcare team see that you are ready they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the outpatient clinic, but less frequently - every other day, then twice a week etc.
 
 ### Visits to the Outpatient Clinic
+<p class="question">Once patients return home, how often do they return to the clinic?</p>
 
 ### Returning Home
-
-### Follow-Up Care
+Before you return home it's important that you and your caregiver prepare. We have prepared a guide called [Returning Home after your Autologous Transplant](returning-home-after-your-autologous-transplant). It is included at the end of this guide. 
 
 ## Glossary
-Uncommon words will be identified automatically, but feel free to highlight any words that you think might need to be explained.
+We have identified some words in this guide that may require further explanation:
 
 * advil
 * aleve
@@ -1120,5 +1118,7 @@ http://patiented.herokuapp.com/articles/sperm-bank
 Resources for Wigs and Hairpieces
 http://patiented.herokuapp.com/articles/wig-and-hairpiece-resources
 
-Please feel free to suggest any other resources that should come along with the Outpatient BMT Guide. 
+Returning Home After Your Autologous Transplant
+
+<p class="outstanding">Please feel free to suggest any other resources that should come along with the Outpatient BMT Guide. </p>
 
