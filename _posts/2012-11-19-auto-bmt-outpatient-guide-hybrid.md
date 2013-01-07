@@ -434,7 +434,7 @@ Full instructions on how to care for your catheter are included in **Caring for 
 ## Phase 2 - Your Chemotherapy and Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 
-### One Page Summary of This Phase
+### Phase 2- - Summary and Checklist
 There are two main activities in this second phase of your journey. You'll receive your high-dose chemotherapy and on Day 0 your stem cells will be taken from storage and infused back into your body through your catheter. 
 
 These are the key things that will happen during this phase:
