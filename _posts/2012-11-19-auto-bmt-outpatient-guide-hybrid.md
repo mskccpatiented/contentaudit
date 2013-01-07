@@ -51,7 +51,6 @@ Collecting your stem cells beforehand allows us to then return your stem cells t
 
 An autologous transplant has three key phases:
 
-<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of harvesting/collection. Apheresis. </p></div>
 **Before** - You will prepare for your stem cell transplant. You will receive drugs that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. A central venous catheter will be inserted into your upper chest wall. 
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
@@ -298,7 +297,7 @@ A full guide to giving yourself GCSF injections is covered in the document "Dire
 Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.
 
 #### Harvesting of your Stem Cells
-<div class="image-placeholder"><p>Image Placeholder: The harvesting/collection process. Patient connected to apheresis machine.</p></div>
+<img src="/g/figs/opbmt_fig_apheresis.jpg" /><span class="caption">A patient undergoing apheresis. Blood is being taken from through his catheter into the machine where stem cells are collected. The rest of the blood is return through the catheter</span>
 
 The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
@@ -982,111 +981,212 @@ Having to do with reducing inflammation. For example an anti-inflammatory drug i
 **antibacterial**
 A substance that kills bacteria or stops them from growing and causing disease.
 
-* antifungal
-* antimicrobial
-* apheresis
-* aspirin
-* autologous
-* axial
-* biopsy
-* bone marrow
-* bone marrow biopsy
-* bowels
-* breastbone
-* broviac catheter
-* bruising
-* catheter
-* cavities
-* central venous catheter
-* clot
-* detergent
-* dietitian
-* dizziness
-* dosage
-* echocardiogram
-* ekg
-* electrocardiogram
-* electrolysis
-* enemas
-* engraftment
-* fertilized
-* filgrastim
-* fillings
-* floss
-* gcsf
-* genitals
-* granulocyte
-* hemoglobin
-* hickman catheter
-* hospitalist
-* ibuprofen
-* immune system
-* infecting
-* infertile
-* infusion
-* inpatient
-* irradiated
-* irritability
-* jaundice
-* laxative
-* lubricant
-* lubrication
-* lumen
-* lymphoma
-* lysol
-* manicure
-* melphalan
-* microliter
-* microorganism
-* mobilization
-* mobilized
-* moisturizer
-* motrin
-* mouthwash
-* mozobil
-* mucous
-* myeloma
-* naprosyn
-* neupogen
-* neutropenia
-* neutrophil
-* non-steroidal
-* nonporous
-* nosebleed
-* nsaids
-* orally
-* outpatients
-* pedicure
-* pedicures
-* perineal
-* perioperative
-* platelet
-* platelets
-* platelets
-* plerixafor
-* plt
-* positron
-* preservative
-* purell
-* quinton catheter
-* rectal
-* rectally
-* rectum
-* red blood cells/rbc
-* sanitizer
-* sores
-* stem cell
-* sternum
-* suppository
-* thrombocytopenic
-* tomography
-* toothettes
-* transfusion
-* transplanted
-* tylenol
-* unpasteurized
-* waxing
+**antifungal**
+A drug that treats infections caused by fungi.
+
+**antimicrobial**
+A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
+
+**apheresis**
+A procedure in which blood is collected, part of the blood such as platelets or white blood cells is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
+
+**aspirin**
+A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called non-steroidal anti-inflammatory agents (NSAIDs). 
+
+**autologous**
+Taken from an individual’s own tissues, cells, or DNA.
+
+**biopsy**
+The removal of cells or tissues for examination by a doctor. 
+
+**bone marrow**
+The soft, sponge-like tissue in the center of most bones. It produces white blood cells, red blood cells, and platelets.
+
+**bowel**
+The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has two parts, the small bowel and the large bowel. Also called intestine.
+
+**bowel movement**
+Movement of feces through the bowel and out the anus. Also called defecation.
+
+**breastbone**
+The long flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first seven ribs. Also called sternum.
+
+**CAT Scan or Computed Axial Tomography**
+A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
+
+**catheter**
+A flexible tube used to deliver fluids into or withdraw fluids from the body.
+
+**central venous catheter**
+A thin, flexible tube that is inserted into a vein in the upper arm, thigh, or neck or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used to give intravenous fluids, blood transfusions, and chemotherapy and other drugs, and for taking blood samples. It avoids the need for repeated needle sticks
+
+**clot**
+To change from a liquid form into a solid or semi-solid; for example when blood clots it changes from a liquid to a semi-solid, helping to stop bleeding.
+
+**dietitian**
+A health professional with special training in nutrition who can help with dietary choices. Also called nutritionist.
+
+**dizziness**
+A sensation of instability and sometimes a feeling that you are about to fall.	
+
+**dose**
+The amount of medicine taken, or radiation given, at one time.
+
+**echocardiograph**
+A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heard. Also called an EKG.
+
+**electrolysis**
+A beauty treatment where an electric current is used to kill the roots of hairs.
+
+**enema**
+The injection of a liquid through the anus into the large bowel.
+
+**engraftment**
+Engraftment is when the stem cells infused into your body (your transplant) start to fix in place, grow and make new blood cells.
+
+**fertility preservation**
+A type of procedure used to help keep a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
+
+**filgrastim**
+A drug used to increase numbers of white blood cells in patients who are receiving chemotherapy. It is a type of colony-stimulating factor. Also called Neulasta and pegfilgrastim.
+
+**gcsf (granulocyte colony-stimulating factor)**
+A drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+
+**genital**
+Refers to the genitalia (external and internal sex organs and glands).
+
+**granulocyte**
+A granulocyte is a type of white blood cell. Neutrophils, eosinophils, and basophils are granulocytes. 
+
+**hemoglobin**
+A protein inside red blood cells that carries oxygen from the lungs to tissues and organs in the body and carries carbon dioxide back to the lungs. Testing for the amount of hemoglobin in the blood is usually part of a complete blood cell (CBC) test. It is used to check for conditions such as anemia, dehydration, and malnutrition.
+
+**hospitalist**
+A doctor who specializes in the care of hospitalized patients.
+
+**ibuprofen**
+A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of non-steroidal anti-inflammatory drug (NSAID). Also called Advil and Motrin.
+
+**immune system**
+The complex group of organs and cells that defends the body against infections and other diseases.
+
+**infection**
+Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight the germs and prevent infection. Some cancer treatments can weaken the natural defense system.
+
+**infertility**
+The inability to produce children.
+
+**infusion**
+A method of putting fluids, including drugs and blood products, into the bloodstream. Also called intravenous infusion.
+
+**inpatient**
+A patient who is admitted to the hospital for treatment requiring an overnight stay.
+
+**irradiated**
+Treated with radiation.
+
+**jaundice**
+A condition in which the skin and the whites of the eyes become yellow, urine darkens, and the color of stool becomes lighter than normal. Jaundice occurs when the liver is not working properly or when a bile duct is blocked.
+
+**laxative**
+A substance that encourages bowel movements.
+
+**lubricant**
+An oily or slippery substance.
+
+**lumen**
+A tube that forms part of a catheter. Many catheters exit the body and separate into several lumens.
+
+**lymphoma**
+Cancer that begins in cells of the immune system. 
+
+**manicure**
+A beauty treatment where fingernails are trimmed/shaped and sometimes polished or painted. 
+
+**microliter**
+One millionth of a liter.
+
+**microorganism**
+An organism that can be seen only through a microscope. Microorganisms include bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
+
+**mobilization**
+Taking medicine to stimulate the growth of stem cells and move them into the bloodstream.
+
+**motrin**
+Advil&reg; is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+
+**mozobil**
+Mozobil&reg; is a brand of plerixafor. Plerixafor is a drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+
+**myeloma**
+Cancer that arises in plasma cells, a type of white blood cell.
+
+**naprosyn**
+A drug used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti-inflammatory drug (NSAID) and a type of cyclooxygenase inhibitor. Also called naproxen.
+
+**neupogen**
+Neupogen&reg; is a brand of GCSF - a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+
+**neutropenia**
+A condition in which there is a lower-than-normal number of neutrophils (a type of white blood cell). While you are neutropenic you will take precautions to prevent infection.
+
+**neutrophil**
+A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
+
+**non-steroidal**
+A drug that does not contain a steroid.
+
+**NSAID**
+A drug that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti-inflammatory drug.
+
+**orally**
+Via mouth; e.g. a drug to be taken orally is one that is eaten and swallowed.
+
+**outpatients**
+A patient who visits a health care facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
+
+**pedicure**
+A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
+
+**platelet**
+A tiny piece of cell that is made by breaking off of a large cell in the bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding, and to help wounds heal. Also called thrombocyte.
+
+**plerixafor**
+A drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+
+**PET Scan**
+A procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called positron emission tomography scan.
+
+**rectal**
+By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
+
+**rectum**
+The last several inches of the large intestine closest to the anus.
+
+**red blood cell/rbc**
+A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
+
+**Stem Cell**
+A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
+
+**sternum**
+The long flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first seven ribs. Also called breastbone.
+
+**suppository**
+A form of medicine contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medicine is absorbed into the bloodstream.
+
+**thrombocytopenia**
+A condition in which there is a lower-than-normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
+
+**transfusion**
+A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
+
+**unpasteurized**
+Relating to perishible food which has not been pasteurised. i.e. heat treatment to destroy heat sensitive vegetative cells followed by immediate cooling to limit growth of the surviving cells and germination of spores.
+
 * white blood cell/wbc
+A type of immune cell. Most WBCs are made in the bone marrow and are found in the blood and lymph tissue. WBCs help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are WBCs. Also called leukocyte and white blood cell.
 
 ## Additional Resources
 
