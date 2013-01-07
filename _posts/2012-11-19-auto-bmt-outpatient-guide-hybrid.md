@@ -640,7 +640,7 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 ## Phase 3 - After Your Transplant
 <div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
 
-### One Page Summary of This Phase
+### Phase 3 - Summary and Checklist
 Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
 
 As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. 
