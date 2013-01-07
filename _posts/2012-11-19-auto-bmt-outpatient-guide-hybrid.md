@@ -329,8 +329,9 @@ Call Your Doctor If You:
 On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
-<img src="/g/figs/opbmt_fig_cvcinplace.jpg" />
-<div class="image-placeholder"><p>Image Placeholder: A clear diagram of the central venous catheter.</p></div>
+<img src="/g/figs/opbmt_fig_cvcinplace.jpg" class="fig"/>
+<p class="caption">Image Placeholder: A clear diagram of the central venous catheter.</p>
+
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
 A central venous catheter allows your healthcare team to give you medicine, fluids, electrolytes, blood transfusions and chemotherapy without the need to stick you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
@@ -362,8 +363,8 @@ Enter the hospital through the main entrance at 1275 York Avenue. Take the M ele
 In the Surgical Day Hospital you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
 
 #### The Procedure
-<img src="/figs/opbmt_fig_cvc.jpg" />
-<div class="image-placeholder"><p>Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p></div>
+<img src="/figs/opbmt_fig_cvc.jpg" class="fig"/>
+<p class="caption">Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
 

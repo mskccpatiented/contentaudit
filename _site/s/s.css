@@ -317,6 +317,20 @@ background:#eee;
 padding:2px 4px 2px 4px;
 }
 
+.fig{
+width:100%;
+border:5px solid whitesmoke;
+}
+
+.caption{
+font-weight: 400; 
+font-family: serif; 
+font-size: 0.75em; 
+margin-top:0.25em;
+line-height: 1em;
+color: rgba(100, 100, 100, 1.00); 
+font-style:italic;
+}
 
 .image-placeholder{
 border:1px solid slategray;
