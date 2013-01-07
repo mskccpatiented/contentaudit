@@ -329,9 +329,6 @@ Call Your Doctor If You:
 On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
-<img src="/g/figs/opbmt_fig_cvcinplace.jpg" class="fig"/>
-<p class="caption">Image Placeholder: A clear diagram of the central venous catheter.</p>
-
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens". 
 
 A central venous catheter allows your healthcare team to give you medicine, fluids, electrolytes, blood transfusions and chemotherapy without the need to stick you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
@@ -364,7 +361,7 @@ In the Surgical Day Hospital you will change into a gown, robe, and slippers. Wh
 
 #### The Procedure
 <img src="/g/figs/opbmt_fig_cvc.jpg" class="fig"/>
-<p class="caption">Image Placeholder: A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p>
+<p class="caption">A diagram or image showing the incision and placement of the catheter. The text is quite intimidating, so it'd be good to show the procedure in reasonable detail to allay fears.</p>
 
 <p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
 
@@ -374,7 +371,8 @@ A small area near your collarbone will be numbed with a local anesthetic. Depend
 
 Once the catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 
-<div class="image-placeholder"><p>Image Placeholder: A diagram or photograph of the catheter in place. </p></div>
+<img src="/g/figs/opbmt_fig_cvcinplace.jpg" class="fig"/>
+<p class="caption">Image Placeholder: A clear diagram of the central venous catheter.</p>
 
 #### After Your Catheter Has Been Inserted
 After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
