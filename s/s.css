@@ -119,18 +119,6 @@ margin: 0.8em 0 0.5em 0;
 color: rgba(51, 51, 51, 1.00); 
 }
 
-.content ul li, .content ol li{
-margin-bottom:1em;
-list-style:square inside;
-font-style: normal; 
-font-weight: 400; 
-font-family: serif; 
-font-size: 1.4em; 
-margin-bottom: 0.8em; 
-line-height: 1.25em;
-color: rgba(51, 51, 51, 1.00); 
-}
-
 p { 
 text-indent: 0.0em; 
 font-style: normal; 
@@ -166,6 +154,25 @@ font-weight: bold;
 .strong{
 font-weight: bold;
 }
+
+/* Lists */
+
+.content ul li, .content ol li{
+margin-bottom:1em;
+list-style:square inside;
+font-style: normal; 
+font-weight: 400; 
+font-family: serif; 
+font-size: 1.4em; 
+margin-bottom: 0.8em; 
+line-height: 1.25em;
+color: rgba(51, 51, 51, 1.00); 
+}
+
+.checklist ul li{
+list-style:none;
+}
+
 
 /*-- Article List Page, Status--*/
 
