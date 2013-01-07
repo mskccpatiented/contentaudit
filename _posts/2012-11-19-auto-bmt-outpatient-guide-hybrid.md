@@ -958,16 +958,30 @@ Before you return home it's important that you and your caregiver prepare. We ha
 ## Glossary
 We have identified some words in this guide that may require further explanation:
 
-* advil
-* aleve
-* alfalfa
-* allogeneic
-* anal
-* anaprox
-* anemia
-* anesthetic
-* anti-inflammatory
-* antibacterial
+**advil&reg;**
+Advil&reg; is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+
+**aleve&reg;**
+Aleve&reg; is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+
+**anal**
+Related to the anus.
+
+**anaprox**
+Anaprox&reg; is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+
+**anemia**
+A condition in which the number of red blood cells is below normal.
+
+**anesthetic**
+A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in one small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
+
+**anti-inflammatory**
+Having to do with reducing inflammation. For example an anti-inflammatory drug is taken to reduce inflammation.
+
+**antibacterial**
+A substance that kills bacteria or stops them from growing and causing disease.
+
 * antifungal
 * antimicrobial
 * apheresis
