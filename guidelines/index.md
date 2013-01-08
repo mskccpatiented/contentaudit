@@ -23,23 +23,24 @@ We want to apply our resources sensibly to meet our goal. Whenever we need to co
 
 Writing intricate sets of instructions that help patients carry out a task is probably going to take far longer than shooting and narrating a video of the task being carried out using an iPhone, and writing some supporting text. 
 
-Actively considering what medium to use saves money and improves the experience for our audience. 
+Actively considering what medium to use saves time, money and improves the learning experience for our audience. 
 
 ## Text
 Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will produce content that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
 
 ### The Benefits of Using Text
-**Just the Facts**: Unlike speech, we can communicate using text in a way that is highly structured. If we understand what we want to say and why, we can pare down what we write to just that. This allows our text to appear simple while still being deep and useful.
+**Just the Facts**: Unlike speech, we can communicate using text in a way that is highly structured. If we understand what we want to say and why, we can pare our text down to the bare essentials. This allows our text to appear simple while still communicating meaning.
 
-**We Have the Tools**: Producing text requires few special tools and well understood. We are taught how to write at an early age, are surrounded by text-production tools - from the BIC ballpoint pen to the word processing package on our computer. Most people, if asked to write text, could do so. This is not the case for other media like audio or video.
+**We Have the Tools**: Producing text requires few special tools and is a well understood process. We are taught how to write at an early age, are surrounded by text-production tools - from the ballpoint pen to the word processing package on our computer. Most people, if asked to produce a piece of text, could do so. This is not the case for other media like audio or video.
 
-**Simple Formats**: Publishing text is straightforward; we can hard write text, print it onto paper, or upload it to the web where it can be read from a computer screen. We have a good understanding of the technologies that make text available to anybody who wants to read it.
+**Simple Formats**: Publishing text is straightforward. We can hard write text and hand it to people, print it onto paper many times, or upload it to the web where it can be read from a computer screen. We have a good understanding of the technologies that make text available to anybody who wants to read it.
 
-**Low Barrier**: Once we have published text most of the work is already done. The person coming to the text needs to understand how to read in a particular language, but needs little other technology. 
+**Low Barrier**: Once we have published text most of the work is already done. The person coming to the text needs to understand how to read in a particular language, but needs little other technology (eyeglasses being the exception).
 
-**Skimmability**: Because there's such a low barrier to consumption, and because text is traditionally laid out in sections/pages we can **skim** to the most interesting passages, and restart reading quickly if we are interrupted. These tasks are less straightforward when you think about video or audio - or indeed most other media.
+**Skimmability**: Because there's such a low barrier to consumption, and because text is traditionally laid out in sections/pages we can **skim** to the most interesting passages, and restart reading quickly if we are interrupted. These seemingly trivial tasks are less straightforward in all other media.
 
-**Flexibility, Interoperability**: Text is flexible and we can refer one piece of text to another piece of text. Half way through a document, we can refer to another source (literally or by using a hyperlink). This is less straightforward with practically all other media.
+<div id="interoperability">**Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#interoperability">hyperlink</a>.
+</div>
 
 ### The Downside to Text
 **If I Had More Time I'd Write You a Shorter Letter**: To say that writing text is easy, so writing well is also easy is not true. Writing succinctly takes considerable practice.
@@ -99,3 +100,6 @@ List of resources that describe the value of audio (this american life how the s
 ## Decision Matrix
 We can boil some of our guidelines down to a 
 </div>
+
+###Footnotes
+1. Additional information or a useful reference to another document. 
