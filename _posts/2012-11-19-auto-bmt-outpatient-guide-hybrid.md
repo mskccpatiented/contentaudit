@@ -1115,7 +1115,7 @@ Taking medicine to stimulate the growth of stem cells and move them into the blo
 Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **mozobil**
-Mozobil<span class="superscript">&reg;</span> is a brand of plerixafor. Plerixafor is a drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+Mozobil<span class="superscript">&reg;</span> is a brand of plerixafor. Plerixafor is a drug used together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
 
 **myeloma**
 Cancer that arises in plasma cells, a type of white blood cell.
