@@ -17,10 +17,16 @@ Let's also decide that our explicit goal is to improve these patients' ability t
 
 Tangentially, let's quietly decide that while we are not setting out to explicitly to enhance the reputation of the hospital this might happen as a byproduct of making good content (i.e. we are not marketing to our primary audience, though they may feel a stronger affinity to us because we inform them in a competent manner).
 
-Our purpose in life is to meet this our explicit goal for our primary audience by facilitating learning experiences, supported by relevant content. We want to apply our resources sensibly to meet our goal.
+Our purpose in life is to meet this our explicit goal for our primary audience by facilitating learning experiences, supported by relevant content. 
+
+We want to apply our resources sensibly to meet our goal. Whenever we need to communicate something it helps us to know what medium will serve us best. Producing a comprehensive booklet about the causes of a particular disease is probably not going to represent good value for money if a lot of good information has already been published elsewhere - and patients may not want to read it anyway. 
+
+Writing intricate sets of instructions that help patients carry out a task is probably going to take far longer than shooting and narrating a video of the task being carried out using an iPhone, and writing some supporting text. 
+
+Actively considering what medium to use saves money and improves the experience for our audience. 
 
 ## Text
-Text is our default, our go-to, our bread and butter medium. In practically all cases we will write, creating text, when we want to help patients learn by producing content that they will read and learn from, or by producing content that reflects an experience they have elsewhere and serves as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
+Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will produce content that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
 
 ### The Benefits of Using Text
 **Just the Facts**: Unlike speech, we can communicate using text in a way that is highly structured. If we understand what we want to say and why, we can pare down what we write to just that. This allows our text to appear simple while still being deep and useful.
@@ -44,6 +50,9 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 
 **Ubuiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
+<div class="dmz">This is the end of my current draft - Paul May. 1/8/13.</div>
+
+<div class="outstanding invisible">
 ## Audio
 Recorded audio is the closest thing we have to speech. 
 
@@ -86,4 +95,8 @@ Supporting practice
 
 List of resources that describe the value of audio (this american life how the sausage is made, personal connection, audio, video - showing	 ,youtube tutorials, open education, etc. data representation. photography - http://www.theatlantic.com/infocus/2012/12/typhoon-bopha/100421/
 
+</div>
+
+## Decision Matrix
+We can boil some of our guidelines down to a 
 </div>
