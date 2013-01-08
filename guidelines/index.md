@@ -50,7 +50,7 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 
 **Ubuiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
-<div class="dmz">This is the end of my current draft - Paul May. 1/8/13.</div>
+<p class="dmz">This is the end of my current draft - Paul May. 1/8/13.</p>
 
 <div class="outstanding invisible">
 ## Audio
@@ -95,7 +95,6 @@ Supporting practice
 
 List of resources that describe the value of audio (this american life how the sausage is made, personal connection, audio, video - showing	 ,youtube tutorials, open education, etc. data representation. photography - http://www.theatlantic.com/infocus/2012/12/typhoon-bopha/100421/
 
-</div>
 
 ## Decision Matrix
 We can boil some of our guidelines down to a 
