@@ -3,7 +3,7 @@ title: Media Guidelines
 layout: default
 ---
 
-## When to Use Audio, Video, Photography, Text
+## When to Use Text, Audio, Video, Photography
 In the past the production of high quality audio, video and photography was expensive and required specialized skills and equipment.  
 
 The broad availability of powerful computers, digital cameras, recording devices, internet access and user-friendly software means that audio, video and photography can be produced, published and consumed at relatively low cost. It's now possible for content producers to consider using these types of media when trying to inform, educate, coach and inspire people to action. 
