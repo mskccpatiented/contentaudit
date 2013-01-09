@@ -38,9 +38,9 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 **Low Barrier**: Once we have published text most of the work is already done. The person coming to the text needs to understand how to read in a particular language, but needs little other technology (eyeglasses being the exception).
 
 **Skimmability**: Because there's such a low barrier to consumption, and because text is traditionally laid out in sections/pages we can **skim** to the most interesting passages, and restart reading quickly if we are interrupted. These seemingly trivial tasks are less straightforward in all other media.
+<div id="interoperability"></div>
+**Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#interoperability">hyperlink</a>.
 
-<div id="interoperability">**Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#interoperability">hyperlink</a>.
-</div>
 
 ### The Downside to Text
 **If I Had More Time I'd Write You a Shorter Letter**: To say that writing text is easy, so writing well is also easy is not true. Writing succinctly takes considerable practice.
@@ -49,43 +49,45 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 
 **Cognitive Load**: While the evidence related to the amount of work that reading imposes on our minds is patchy, anecdotally is seems as though reading imposes a relatively high cognitive load. Reading requires concentration, and it is difficult to do when we are tired, stressed or surrounded by distractions (particularly if we are surrounded by other people talking).
 
+**Hands-On**: Reading text usually requires for the reader to have one or both hands free so that they can hold a book, a page or an e-reader. If it's likely that the person we're communicating with won't have their hands free then text may not be the best medium to use.
+
 **Ubuiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
-<p class="dmz">This is the end of my current draft - Paul May. 1/8/13.</p>
+### Useful References
+* [The Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) (Strunk ,White. 1999) 
+* [A List Apart - Writing for the Web](http://www.alistapart.com/topics/content/writing/)
 
-<div class="outstanding invisible">
 ## Audio
-Recorded audio is the closest thing we have to speech. 
+Audio, or more specifically recorded speech, is an effective medium to use when we need to communicate information with personality and emphasis. 
 
 ### The Benefits of Using Audio
+**Personal**: When we hear a recording of a person speaking, we are not actually hearing a person speaking. We just can't help but ascribe the things we associate with people to recorded audio - personality, emotion, warmth. We can take advantage of the personality of recorded speech when we need to communicate information. 
 
+**The Stand-In**: Using audio allows us to record conversations between people with one or more of the participants in that conversation standing in for the listener.
+
+For example, we could record a knowledgeable doctor speaking to an interested, but less well-informed person. The less well-informed person is a stand-in for the listener. He asks the types of questions that the listener wants to ask and clarifies points if they don't make sense or need to be emphasized. 
+
+**Easy to Produce**: Recording and producing good quality audio can be relatively straightforward and need not be expensive. You can record on a laptop, a cell phone, an audio recorder, or in a recording studio - depending on your needs. 
+
+When recording a conversation, staring with a well-prepared script or structure, then recording in a quiet room using the right microphone will mitigate a lot of problems that would otherwise need to be fixed in post-production.
+
+**Hands Free**: Listening to audio doesn't require the listener to have free hands. This means that a person can carry out tasks (driving, following instructions) while listening to audio. 
 
 ### The Downsides to Audio
+**Subjects**: Producing audio means finding people who are willing to speak while being recorded and who can communicate with clarity and personality. 
 
+**Imagination Required**: One of the key strengths of audio is that it encourages the listener to imagine people and places without pictures. This is good in that it focuses the listener's attention on information, rather than the color of the subject's shirt. But, this also means that the interview subject or guide/presenter has to do a good job of describing people, objects and places. In some cases it may be a good idea to support audio with physical objects of visual aids.
 
-We have written a few simple guidelines
+**Logistics**: Recording good quality audio requires planning and preparation - identifying topics, scheduling time with subjects, developing scripts, finding a recording location, making technical arrangements etc.
 
-production Many hospitals now publish short clips of audio on their websites or through the iTunes store as podcasts. 
+### Useful References
+* [Dissecting the Dead Animal Man](www.prx.org/pieces/49574-11-dissecting-dead-animal-man) - An examination of the techniques used in This American Life.
+* [Mayo Clinic Podcasts](http://podcasts.mayoclinic.org/)
 
-<a href="http://podcasts.mayoclinic.org/">Mayo Clinic Podcasts</a>
-<a href="http://www.mdanderson.org/publications/itunes-u/index.html">MD Anderson Podcasts</a>
-<a href="http://www.mskcc.org/multimedia/podcast/cancer-care-podcast">MSKCC's Cancer Care Podcast</a>
+<p class="dmz">This is the end of my current draft - Paul May. 1/9/13.</p>
 
-
-to demonstrate the hospital's expertise in a particular specialty (a marketing/public-affairs function) or to inform patients, their families and members of the public about diseases and available treatment options (a blend of marketing and education).
-
-Isolating
-Internalize, reflect inward
-Informing or explaining
-Imagining
-Listening, perceiving, imagining
-
-Not good at:
-
-Equipment, devices, objects that are unfamiliar
-The person is needs to 
-
-#### Video
+<div class="outstanding invisible">
+## Video
 Grammar of 
 
 	
@@ -100,6 +102,11 @@ List of resources that describe the value of audio (this american life how the s
 ## Decision Matrix
 We can boil some of our guidelines down to a 
 </div>
+
+Stress the importance of something
+Demonstrate a task
+
+
 
 ###Footnotes
 1. Additional information or a useful reference to another document. 
