@@ -38,12 +38,12 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 **Low Barrier**: Once we have published text most of the work is already done. The person coming to the text needs to understand how to read in a particular language, but needs little other technology (eyeglasses being the exception).
 
 **Skimmability**: Because there's such a low barrier to consumption, and because text is traditionally laid out in sections/pages we can **skim** to the most interesting passages, and restart reading quickly if we are interrupted. These seemingly trivial tasks are less straightforward in all other media.
-<div id="interoperability"></div>
-**Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#interoperability">hyperlink</a>.
+
+**Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#">hyperlink</a>.
 
 
 ### The Downside to Text
-**If I Had More Time I'd Write You a Shorter Letter**: To say that writing text is easy, so writing well is also easy is not true. Writing succinctly takes considerable practice.
+**If I Had More Time I'd Write You a Shorter Letter**: Writing succinctly takes considerable practice.
 
 **Imagination Required**: When we describe things in text we are prompting the reader to imagine those things. This can be wonderful if we're writing poetry, but isn't a great way to communicate with precision. Describing a medical device completely in text and then and asking the patient to imagine themselves using that device is unlikely to be precise enough for our purposes (in the same way that maps exist because having written directions to every place, from every place, would be annoying).
 
@@ -51,7 +51,7 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 
 **Hands-On**: Reading text usually requires for the reader to have one or both hands free so that they can hold a book, a page or an e-reader. If it's likely that the person we're communicating with won't have their hands free then text may not be the best medium to use.
 
-**Ubuiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
+**Ubiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
 ### Useful References
 * [The Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) (Strunk ,White. 1999) 
