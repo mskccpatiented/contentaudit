@@ -51,17 +51,17 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 
 **Hands-On**: Reading text usually requires for the reader to have one or both hands free so that they can hold a book, a page or an e-reader. If it's likely that the person we're communicating with won't have their hands free then text may not be the best medium to use.
 
-**Ubiquity/Lack of Novelty**: It is probably worth noting that because written text is seemingly ubiquitous its perceived value might be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents on related subjects it may be perceived as just another document about just another drug. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
+**Ubiquity/Lack of Novelty**: Because written text is ubiquitous its perceived value can be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents I might not read it. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
 ### Useful References
 * [The Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) (Strunk ,White. 1999) 
 * [A List Apart - Writing for the Web](http://www.alistapart.com/topics/content/writing/)
 
 ## Audio
-Audio, or more specifically recorded speech, is an effective medium to use when we need to communicate information with personality and emphasis. 
+Audio, or more specifically recorded speech, is an effective medium to use when we need to communicate information with personality and emphasis.
 
 ### The Benefits of Using Audio
-**Personal**: When we hear a recording of a person speaking, we are not actually hearing a person speaking. We just can't help but ascribe the things we associate with people to recorded audio - personality, emotion, warmth. We can take advantage of the personality of recorded speech when we need to communicate information. 
+**Personal**: When we hear a recording of a person speaking, we are not actually hearing a person speaking, but it *feels* as though we are.
 
 **The Stand-In**: Using audio allows us to record conversations between people with one or more of the participants in that conversation standing in for the listener.
 
