@@ -110,8 +110,6 @@ A **clinical pharmacist** specializes in the care of transplant patients. The ph
 While you are here, you will come to know all of the members of your team.
 
 ## Phase 1 - Before Your Transplant
-<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase one, or highlighting of some kind.</p></div>
-
 Phase 1 of your treatment begins when you meet your healthcare team on or around Day −30 and continues until the start of your chemotherapy.
 
 ### Phase 1 - Summary and Checklist
@@ -325,53 +323,51 @@ Call your doctor if you:
 ### Having Your Central Venous Catheter Inserted
 On or before Day −4, you and your caregiver will come to MSKCC's Interventional Radiology department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
 
-#### What is a Central Venous Catheter? Why Do I Need One?
-A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens." 
+#### What Is a Central Venous Catheter? Why Do I Need One?
+A central venous catheter is a tube that is inserted into a large vein near your collarbone. On the outside of your body, the catheter divides into 2 or 3 smaller tubes called lumens. 
 
-A central venous catheter allows your healthcare team to give you medicine, fluids, electrolytes, blood transfusions and chemotherapy without the need to stick you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
+A central venous catheter allows your healthcare team to give you medication, fluids, electrolytes, blood transfusions, and chemotherapy without having to keep sticking you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
 
-The catheter will stay in your body throughout your treatment and is usually removed around twelve days after you receive your stem cell transplant.
+The catheter will stay in your body throughout your treatment and is usually removed around 12 days after you receive your stem cell transplant.
 
 #### Before Your Catheter is Inserted
-Your BMT Nurse Coordinator will work with you to schedule the insertion of your catheter. 
+Your nurse coordinator will work with you to schedule the insertion of your catheter. 
 
-In the days leading up to the insertion of your catheter you shouldn't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
+In the days leading up to the insertion of your catheter, don't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
 
-In the days leading up to the insertion of your catheter you should call your doctor if you develop any illness. This includes a fever, cold, flu, or sore throat.
+In the days leading up to the insertion of your catheter, you should call your doctor if you develop any illness. This includes a fever, cold, flu, or sore throat.
 
-If you have been told to be on a clear liquid diet before your catheter is inserted you shouldn't eat any solid food after midnight the night before the procedure and you should continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
+If you have been told to be on a clear liquid diet before your catheter is inserted don't eat any solid food after midnight the night before the procedure. Continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
 
 #### The Day Your Catheter is Inserted
-The catheter will be inserted at our Surgical Day Hospital. You will probably already be staying in a hotel or apartment within walking distance of MSKCC's main hospital. If you are not already living locally then you you should arrange transportation between your lodging and the surgical day hospital. 
-
-You should report to the Surgical Day Hospital several hours before the procedure is scheduled to take place. This will allow the medical team to evaluate you and make sure everything is in order before they insert the catheter. 
+Your catheter will be inserted at our Surgical Day Hospital (SDH). You will probably already be staying in a hotel or apartment within walking distance of MSKCC's main hospital. If you are not already living locally, then you you should arrange transportation between your lodging and the SDH.  
 
 On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
-If you wear contact lenses you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
+If you wear contact lenses, you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
 
 You and your caregiver should leave all valuables, including jewelry, at home. Bring only your medications and the money you need for the day to the hospital. 
 
-Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2<span class="superscript">nd</span> floor. As you step off the elevator, enter the double doors to the Surgical Day Hospital. Check in at the desk. Please arrive on time.
+You should report to the SDH several hours before your procedure is scheduled to take place. This will allow your medical team to evaluate you and make sure everything is in order before they insert your catheter.
 
-In the Surgical Day Hospital you will change into a gown, robe, and slippers. When you are ready, you will be taken to Interventional Radiology.
+Enter the hospital through the main entrance at 1275 York Avenue. Take the M elevators at the top of the escalator to the 2<span class="superscript">nd</span> floor. As you step off the elevator, enter the double doors to the SDH. Check in at the desk. Please arrive on time.
+
+You will change into a gown, robe, and slippers. When you are ready, you will be taken to the Interventional Radiology Department.
 
 #### The Procedure
 <img src="/g/figs/opbmt_fig_cvc.jpg" class="fig"/>
-<span class="caption">Fig N: A small area of your chest will be numbed. One or two small incisions are made and your catheter will be inserted.</span>
+<span class="caption">Fig N: A small area of your chest will be numbed. 1 or 2 small incisions will be made and your catheter will be inserted.</span>
 
-<p class="outstanding">Some patients receive tunneled catheters, others are non-tunneled. We want to come up with a description of the catheter fitting that is general, then refer the patient to more detailed information in an accompanying guide.</p>
+The placement of your catheter should take about 30 minutes. First, an IV line will be started and you will be given medication through the line to make you sleepy. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
-The placement of the catheter should take about 30 minutes. First, an IV line will be started and you will be given medication through your IV line to make you sleepy. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
+A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you, either one or two small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
 
-A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you either one or two small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
-
-Once the catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
+Once your catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed into your body and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 <img src="/g/figs/opbmt_fig_cvcinplace.jpg" class="fig"/>
-<span class="caption">Fig N: Once the catheter has been inserted it will exit your chest wall and split into a number of "lumens" - tubes that allow your medical team to access your blood, give you fluids, infusions etc.</span>
+<span class="caption">Fig N: Once the catheter has been inserted, it will exit your chest wall and split into a number of lumens - tubes that allow your medical team to access your blood, give you fluids, infusions, etc.</span>
 
 #### After Your Catheter Has Been Inserted
-After your catheter has been inserted you will be monitored in the Surgical Day Hospital for 2-3 hours before being allowed to return to your hotel or apartment. 
+After your catheter has been inserted you will be monitored in the SDH for 2 to 3 hours before being allowed to return to your hotel or apartment. 
 
 You will need to leave the dressings covering the incision near your collarbone in place and dry for <span class="outstanding notblock">48 hours</span>. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
 
@@ -380,11 +376,11 @@ The point where the catheter exits your skin will still need to be covered with 
 If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
 
 #### Taking Care of Your Catheter
-Taking good care of your catheter is important. When you visit the Outpatient BMT Clinic each day the nurse will change your catheter dressing, change the caps on the lumens and flush your catheter. When you are in your hotel, apartment or home (and anywhere else away from the Outpatient BMT Clinic) you are responsible for caring for your catheter.
+Taking good care of your catheter is important. When you visit the Outpatient BMT Clinic each day your nurse will change your catheter dressing, change the caps on the lumens, and flush your catheter. When you are in your hotel, apartment, or home (and anywhere else away from the BMT clinic) you are responsible for caring for your catheter.
 
-A nurse will teach you how to care for your catheter. You will learn how to change your dressing while ensuring that it remains free from germs; this is known as "sterile technique." Using sterile technique will minimize your risk for infection. Your caregiver will learn how to change your dressing with you.
+A nurse will teach you how to care for your catheter. You will learn how to change the dressing while ensuring that it remains free from germs; this is known as "sterile technique." Using sterile technique will decrease your risk of infection. Your caregiver will learn how to change your dressing with you.
 
-The nurse will also give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps and other essentials. 
+Your nurse will also give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps, and other essentials. 
 
 Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
@@ -397,214 +393,213 @@ Prepare the following emergency kit and keep it with you at all times:
 * Two 2 &times; 2 gauze pads
 * Your doctor's office and emergency telephone numbers.
 
-Here is a summary of the things you'll do on to take care of your catheter:
+Here is a summary of the things you'll do to take care of your catheter:
 
-* Change the Tegaderm<span class="superscript">&trade;</span> dressing once a week
-* Change the caps on the lumens and flush the catheter twice a week
+* Change the Tegaderm<span class="superscript">&trade;</span> dressing once a week.
+* Change the caps on the lumens and flush your catheter twice a week.
 * Use the small white clamps on each lumen of the catheter to clamp the catheter closed when it is not in use.
-* Use a waterproof cover, called an Aquaquard<span class="superscript">&trade;</span>, over your catheter when showering or bathing
-* Avoid submerging the catheter in water (e.g. in a swimming pool)
-* Keep your catheter secure, avoid pulling it or the lumens.
+* Use a waterproof cover, called an Aquaquard<span class="superscript">&trade;</span>, over your catheter when showering or bathing.
+* Avoid submerging your catheter in water (e.g. in a swimming pool or hot tub).
+* Keep your catheter secure. Avoid pulling on it or the lumens.
 * Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
 
-#### Problems with your Catheter
-You and your caregiver should be on the look-out for any problems with your catheter. Infection is the most serious complication to watch out for. Look at the catheter site daily. Notify your doctor, NP or nurse if you experience any of the following:
+#### Problems With Your Catheter
+You and your caregiver should be on the look-out for any problems with your catheter. Infection is the most serious complication to watch out for. Look at your catheter site daily. Notify your doctor, NP, or nurse if you experience any of the following:
 
-* Redness, swelling and/or drainage (a liquid that can vary in color but may be clear, bloody or green/yellowish) at the exit site
-* Pain or tenderness at the site where the catheter is inserted into your chest
-* Temperature greater than 100.4&deg;F or 38&deg;C.
-* Flu-like symptoms or chills
+* Redness, swelling, and/or drainage (a liquid that can vary in color but may be clear, bloody or green/yellowish) at the exit site.
+* Pain or tenderness at the site where your catheter is inserted into your chest.
+* Temperature higher than 100.4&deg;F or 38&deg;C.
+* Flu-like symptoms or chills.
 
-Other complications may be related to the catheter itself. Notify your doctor, nurse practitioner or nurse if you experience any of the following:
+Other complications may be related to the catheter itself. Notify your doctor, NP, or nurse if you experience any of the following:
 
-* You see a hole or break in the catheter
-* Swelling in your face, neck or arm on the same side of your body as the catheter
+* A hole or break in the catheter.
+* Swelling in your face, neck or arm, on the same side of your body as your catheter
 
 <img src="/g/figs/opbmt_fig_clampedcvc.jpg" class="fig" /><span class="caption">Fig N: Clamping the catheter above a leak.</span>
 
-If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the urgent care center.
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the Urgent Care Center.
 
-Full instructions on how to care for your catheter are included in **Caring for Your Central Venous Catheter** which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
-<div class="phasedivider">End of Phase 1 Divider</div>
+Full instructions on how to care for your catheter are included in Caring for Your Central Venous Catheter which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
+<div class="phasedivider invisible">End of Phase 1 Divider</div>
 
 ## Phase 2 - Your Chemotherapy and Transplant
-<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Two, or highlighting of some kind.</p></div>
 
 ### Phase 2 - Summary and Checklist
-There are two main activities in this second phase of your journey. You'll receive your high-dose chemotherapy and on Day 0 your stem cells will be taken from storage and infused back into your body through your catheter. 
+There are 2 main activities in this second phase of your journey. You'll receive your high-dose chemotherapy, and on Day 0 your stem cells will be taken from storage and infused back into your body through your catheter. 
 
 These are the key things that will happen during this phase:
 
-* Conditioning Regimen - You'll receive high dose chemotherapy to kill your cancer. The chemotherapy will also kill the cells in your blood and damage your immune system. 
-* Learn about Side Effects - The side effects of chemotherapy are significant. Take time to learn about the side effects you'll experience by reading this guide in full along with accompanying information.
-* Monitoring Temperature and Fluid Intake - Your caregiver will take your temperature every four hours and will monitor how much you drink. Your caregiver will record this information in a diary. Your healthcare team will check this information when you and your caregiver come to the clinic.
-* Learn About Sexuality and Transplant - Learn about the impact that treatment and transplantation can have on your sexuality.
-* Rest Day (Day −1) - You will rest on the day before your transplant
-* Transplantation (Day 0) - Your stem cells will be taken from storage and thawed. They will then be infused into your body through your catheter. This is your transplant.
+* **Conditioning Regimen** - You'll receive high-dose chemotherapy to kill your cancer. The chemotherapy will also kill the cells in your blood and damage your immune system. 
+* **Learn about side effects** - The side effects of chemotherapy are significant. Take time to learn about the side effects you'll experience by reading this guide in full along with accompanying information.
+* **Monitoring temperature and fluid intake** - Your caregiver will take your temperature every 4 hours and will monitor how much you drink. Your caregiver will record this information in a diary. Your healthcare team will check this information when you and your caregiver come to the clinic.
+* **Learn about sexuality and transplantation** - Learn about the impact that treatment and transplantation can have on your sexuality.
+* **Rest day (Day −1)** - You will rest on the day before your transplant.
+* **Transplantation (Day 0)** - Your stem cells will be taken from storage and thawed. They will then be infused into your body through your catheter. This is your transplant.
 
 We cover each of these activities in detail later in this section.
 
 ### The Conditioning Regimen - Receiving Your Chemotherapy
-Conditioning regimen is another name for the high dose chemotherapy that you will receive prior to the transplant. The specific regimen you receive will depend upon your disease, previous treatments and your specific transplant protocol or treatment plan.
+The conditioning regimen is another name for the high-dose chemotherapy that you will receive prior to the transplant. The regimen you receive will depend upon your disease, previous treatments, and specific transplant protocol or treatment plan.
 
-The conditioning regimen starts on a negative numbered day. If you are receiving one single dose of chemotherapy your chemotherapy will start on day -2. Depending on your treatment plan you may have one or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g. +1, +2 etc). 
+The conditioning regimen starts on a negative numbered day. If you are receiving 1 single dose of chemotherapy your chemotherapy will start on Day -2. Depending on your treatment plan, you may have 1 or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g. Day +1, Day +2, etc). 
 
 <table>
 <tr><th class="tfive">Day -2</th><th class="tfive">Day -1</th><th class="tfive">Day 0</th><th class="tfive">Day +1</th></tr>
-<tr><td>Conditioning Regimen (chemotherapy)</td><td>Rest Day</td><td>Stem Cell Infusion</td><td>Start of Supportive Care</td></tr>
+<tr><td>Conditioning regimen (chemotherapy)</td><td>Rest day</td><td>Stem cell infusion</td><td>Start of supportive care</td></tr>
 </table>
 
-Your BMT Nurse Coordinator will work with you to plan your schedule and will provide you with a treatment calendar. The BMT Nurse Coordinator will tell you the date, time and location of your treatment.
+Your BMT nurse coordinator will work with you to plan your schedule and will provide you with a treatment calendar. The nurse coordinator will tell you the date, time and location of your treatment.
 
 #### The Morning before Chemotherapy - The Outpatient BMT Clinic
-On the morning of your treatment you and your caregiver will make your first of your regular visits to the Outpatient BMT Clinic. (You'll return to the clinic each day until your healthcare team tell you otherwise.)
+On the morning of your treatment you and your caregiver will make the first of your regular visits to the Outpatient BMT Clinic. You'll return to the clinic each day until your healthcare team tells you otherwise.
 
 You should bring these items to the clinic with you:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
-* A notebook to write down key pieces of information and any questions you or your caregiver might have.
+* A list of all prescription and non-prescription medications you are taking, along with dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products, and over-the-counter medications. 
+* A notebook to write down key pieces of information and any questions you or your caregiver may have.
 
-You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer - things to pass the time. While you're at the clinic you'll be provided with meals and there is a lounge with coffee and tea for caregivers.
+You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer&emdash;things to pass the time. While you're at the clinic, you'll be provided with meals and there is a lounge with coffee and tea for caregivers.
 
-You and your caregiver should arrive at the Outpatient BMT Clinic at MSKCC's main campus at 8am. You should wear comfortable, loose everyday clothes - loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). 
+You and your caregiver should arrive at the clinic at the main hospital at 8:00am. You should wear comfortable, loose everyday clothes; loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). 
 
-Once you arrive at the BMT Outpatient Clinic you will be brought to your own private room. A nurse practitioner will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
+Once you arrive at the clinic you will be brought to your own private room. An NP will review your medical history and ask you a set of questions about how you're feeling. Your vital signs will be checked and you will be weighed. 
 
-Once you have been fully evaluated you will meet with the Clinical Pharmacist. The Pharmacist will explain the medications you will take throughout your treatment and will show you how to use your pill box. The Pharmacist will give you all the medications that you need to take. The Pharmacist will give you a medication list that tells you when to take each different medication. 
+Once you have been fully evaluated, you will meet with your clinical pharmacist. Your pharmacist will explain the medications you will take throughout your treatment and will show you how to use your pill box. Your pharmacist will give you all the medications that you need to take, along with a list that tells you when to take each different medication. 
 
 #### Receiving Chemotherapy
-Once you have been evaluated and the Pharmacist has talked through your medications you'll receive your chemotherapy. Before you receive your chemotherapy it goes through a number of safety checks to make sure everything is correct. 
+Once you have been evaluated and your pharmacist has spoken to you about your medications, you'll receive your chemotherapy. Before you receive your chemotherapy, a number of safety checks are done to make sure everything is correct. 
 
-* Your chemotherapy is ordered by your doctor
-* A nurse checks your chemotherapy order
-* A pharmacist checks your chemotherapy order
-* A pharmacist checks your blood test results
-* Your chemotherapy is prepared in the Pharmacy
-* A pharmacist performs a comprehensive final check of your chemotherapy
-* Your chemotherapy is picked up by your chemotherapy nurse
-* 2 chemotherapy nurses check to make sure your chemotherapy order, blood test results, and chemotherapy are correct
+* Your chemotherapy is ordered by your doctor.
+* A nurse checks your chemotherapy order.
+* A pharmacist checks your chemotherapy order.
+* A pharmacist checks your blood test results.
+* Your chemotherapy is prepared in the pharmacy.
+* A pharmacist performs a final check of your chemotherapy.
+* Your chemotherapy is picked up by your chemotherapy nurse.
+* Two chemotherapy nurses check to make sure your chemotherapy order, blood test results, and chemotherapy are correct.
 
-Once all the safety checks have been complete the nurse will administer fluids (to keep you hydrated), anti-nausea medication and the chemotherapy drug through your catheter.
+Once all the safety checks have been completed, your nurse will give you fluids (to keep you hydrated), anti-nausea medication, and the chemotherapy medication through your catheter.
 
-During your chemotherapy your healthcare team will use this time to talk to you about the rest of your transplant journey. 
+During your chemotherapy, your healthcare team will use this time to talk to you about the rest of your transplant journey. 
 
-The healthcare team will make sure that the logistics of the next few days are clear - what happens on transplant day and what happens after your transplant. 
+Your healthcare team will make sure that the logistics of the next few days are clear, including what happens on transplant day and what happens after your transplant. 
 
 They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
 
 #### Side Effects of Chemotherapy
-Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores and mouth tenderness. 
+Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores, and mouth tenderness. 
 
-Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
+Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy, make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
 
-#### Side Effects from Chemotherapy - Neutropenia and Low Platelet Level
-Your chemotherapy will severely damage your ability to fight infections and heal - it's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
+#### Side Effects of Chemotherapy: Neutropenia and Low Platelet Level
+Your chemotherapy will severely damage your ability to fight infections and heal. It's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
-One side effect of chemotherapy is called "neutropenia." Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system - they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection they ingest and fight potentially harmful microorganisms. 
+One side effect of chemotherapy is called neutropenia. Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&emdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
 
 Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
 
-In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make **platelets**. Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here. 
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make platelets. Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy, you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start there. 
 
 After your transplant your healthcare team will take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
 
-As your stem cells take hold and start to make new blood cells the number of neutrophils in your bloodstream (sometimes referred to as your Absolute Neutrophil Count or ANC) will increase, as will your number of platelets (called your platelet count) - these are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term "counts" used frequently by your healthcare team. 
+As your stem cells take hold and start to make new blood cells, the number of neutrophils in your bloodstream (sometimes referred to as your absolute neutrophil count or ANC) will increase, as will your number of platelets (called your platelet count). These are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term counts used frequently by your healthcare team. 
 
 More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
 
-#### Side Effects from Chemotherapy - Diarrhea
-Diarrhea is frequent, loose, watery bowel movements. Diarrhea can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours call your doctor or nurse practitioner. Medications are available to treat diarrhea – do not take any over the counter medication until evaluated by your nurse practitioner or doctor.
+#### Side Effects Of Chemotherapy: Diarrhea
+Diarrhea is frequent, loose, watery bowel movements. It can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress, or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours, call your doctor or NP. Medications are available to treat diarrhea but do not take any over-the-counter medication until you have been evaluated by your nurse practitioner or doctor.
 
-#### Side Effects from Chemotherapy - Constipation
-Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you or if you haven't moved your bowels for more than two days you are constipated. There are many causes of constipation -- some causes include not drinking enough fluids or eating enough fiber, a decrease in your activity – not moving around or walking enough and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk with your nurse practitioner or doctor if you haven't had a bowel movement for 2 days.
+#### Side Effects Of Chemotherapy: Constipation
+Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you, or if you haven't had a bowel movement for more than 2 days you are probably constipated. There are many causes of constipation including not drinking enough fluids or eating enough fiber, a decrease in your activity, not moving around or walking enough, and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk to your NP or doctor if you haven't had a bowel movement for 2 days.
 
-#### Side Effects from Chemotherapy - Mouth Sores
-Some chemotherapy drugs affect the rapidly dividing cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue and lips. You also may experience some mouth and throat discomfort that may make it difficult to eat or swallow.
+#### Side Effects Of Chemotherapy: Mouth Sores
+Some chemotherapy drugs affect the cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue, and lips. You may experience some mouth and throat discomfort that can make it difficult to eat or swallow.
 
-#### Side Effects from Chemotherapy - Skin Changes
-Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration and darkening. Your skin will be very sensitive to sun exposure and may sunburn very easily. Avoid bright sunlight and when outdoors wear sun block (SPF 30), protective clothing such as long-sleeved shirts, long pants and a hat.
+#### Side Effects Of Chemotherapy: Skin Changes
+Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration, and darkening. Your skin will be very sensitive to the sun and may sunburn very easily. Avoid bright sunlight and when outdoors, wear sun block (SPF 30) and protective clothing such as long-sleeved shirts, long pants, and a hat.
 
-#### Side Effects from Chemotherapy - Hair Loss
-The chemotherapy that kills your rapidly-dividing cancer cells also kills the rapidly-dividing cells that produce your hair. Most patients will lose their hair during their transplant. 
+#### Side Effects Of Chemotherapy: Hair Loss
+The chemotherapy that cancer cells also kills the cells that produce your hair. Most patients will lose their hair during their transplant. 
 
-Losing your hair can be an unpleasant, upsetting experience. Like many patients, you might choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends and family.
+Losing your hair can be an unpleasant and upsetting experience. Like many patients, you may choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends and family.
 
 Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
 
-#### Side Effects from Chemotherapy - Fatigue
-After your chemotherapy the number of red blood cells (RBCs) in your blood will be very low. 
+#### Side Effects Of Chemotherapy: Fatigue
+After your chemotherapy, the number of red blood cells in your blood will be very low. 
 
-Red blood cells are the cells that transport oxygen around your body. Because the number of red blood cells in your blood will be low, oxygen will not travel around your body as easily as before. This will mean that you will feel tired. Your caregiver will need to help you carry out day to day activities until your red blood cell count returns to normal. Don't be afraid to ask for help, even with things you used to do with ease.
+Red blood cells are the cells that transport oxygen around your body. Because the number of red blood cells in your blood will be low, oxygen will not travel around your body as easily as before. This will mean that you will feel tired. Your caregiver will need to help you carry out day-to-day activities until your red blood cell count returns to normal. Don't be afraid to ask for help, even with things you used to do with ease.
 
-Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active - we have recommended some exercises and activities that you can do in section three. 
+Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active. 
 
-#### Side Effects from Chemotherapy - Nausea and Vomiting
-Nausea and vomiting is a common side effect of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes you may experience nausea during your chemotherapy treatment or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
+#### Side Effects Of Chemotherapy: Nausea and Vomiting
+Nausea and vomiting are common side effects of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes, you may experience nausea during your chemotherapy treatment, or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
 
-You will be given medication to prevent and control nausea prior to receiving chemotherapy. In addition you will be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping tell your nurse practitioner or doctor. You may need to try a different medication or take more than one kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
+You will be given medication to prevent and control nausea prior to receiving chemotherapy. You will also be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping, tell your NP or doctor. You may need to try a different medication or take more than 1 kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
 
-#### Side Effects from Chemotherapy - The Importance of Communication
-Throughout your treatment it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
+#### Side Effects Of Chemotherapy: Changes to Sexual Activity
+Sexual intimacy provides pleasure and comfort for many people after their treatment. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP, or nurse.
 
-Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
+##### Birth control
+Although infertility is likely you or your partner should use contraception (birth control) during and after your chemotherapy. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects.
 
-#### Side Effects from Chemotherapy - Changes to Sexual Activity
-Sexual intimacy provides pleasure and intimacy for many people. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP or nurse.
+It's important to pick a method of birth control that fits your lifestyle and will be effective. When used correctly, condoms are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
 
-##### Birth Control
-Although infertility is likely you or your partner should use contraception (birth control) throughout and after your cancer treatment. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy or other anticancer medications there is a risk of miscarriage or birth defects.
+##### Precautions to observe to avoid exposing your partner to chemotherapy and other anticancer medications
+There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern for you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you should use barrier devices each day you have chemotherapy and for 1 week afterward.
 
-It is important to pick a method of birth control that fits your lifestyle but will also be effective. Condoms used correctly are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
-
-##### Precautions to Observe to Avoid Exposing Your Partner to Chemotherapy and Other Anticancer Medications
-There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern to you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you could use barrier devices each day you have chemotherapy and for 1 week afterward.
-
-##### Protecting Yourself from Infection or Bleeding
+##### Protecting yourself from infection or bleeding during sex
 You will be at increased risk of infection during your transplant period and for many months after your treatment.
 
-Until your doctor tells you that your blood counts and immune system have recovered follow these precautions:
+Until your doctor tells you that your blood counts and immune system have recovered, follow these precautions:
 
 * Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be greater than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators or sex toys into your vagina or anus.
 * Use latex condoms each time you have vaginal, oral or anal sex.
-* Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions or semen could enter your mouth.
+* Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions, or semen could enter your mouth.
 * Abstain from any sexual activity that could expose your mouth to feces.
 * Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.
 
 Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. 
-For additional information about being sexually active during and after treatment see the additional resources at the back of this guide:
+For additional information about being sexually active during and after treatment, see the additional resources at the back of this guide:
 
-* Sexual Activity During Cancer Treatment: Information for Women
-* Sexual Activity During Cancer Treatment: Information for Men
-* Sexual Health and Intimacy
+* *Sexual Activity During Cancer Treatment: Information for Women*
+* *Sexual Activity During Cancer Treatment: Information for Men*
+* *Sexual Health and Intimacy*
 
 The American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
 
-* Sexuality for the Man with Cancer and His Partner
-* Sexuality for the Woman with Cancer and Her Partner
+* *Sexuality for the Man with Cancer and His Partner*
+* *Sexuality for the Woman with Cancer and Her Partner*
+
+#### Side Effects Of Chemotherapy: The Importance of Communication
+Throughout your treatment, it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
+
+Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel, describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
 
 ### Rest Day 
-After your first day at the Outpatient Clinic and your chemotherapy you will return to your local hotel or apartment. 
+After your first day at the clinic, and your chemotherapy, you will return to your local hotel or apartment. 
 
 The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
 
 ### Monitoring Temperature and Fluid Intake
-From the time you receive your chemotherapy your caregiver must take your temperature every four hours and write it in the "Temperature and Oral Intake Diary." 
+From the time you receive your chemotherapy, your caregiver must take your temperature every 4 hours and write it in the "Temperature and Oral Intake Diary." 
 
-If your temperature is 100.4&deg;F (38&deg;C) or higher your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
-It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink and record the volume you drink in the Intake Diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+It's really important that you drink a lot of fluids from now on. As well as taking your temperature your caregiver will also monitor all of the fluids you drink, and record the volume you drink in your intake diary. You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
 
-Your caregiver should bring the Temperature and Oral Intake Diary to the Outpatient BMT Clinic each day. A nurse practitioner will review the diary with you. 
+Your caregiver should bring the Temperature and Oral Intake Diary to the clinic each day. Your NP will review the diary with you. 
 
 ### Transplant Day
-Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion - your transplant. On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
+Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion&emdash;your transplant. On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
 
 #### The Morning Before Transplant
 On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
 
 You should bring these items to the clinic with you:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter medications. 
 * A notebook to write down key pieces of information and any questions you or your caregiver might have.
 * The Temperature and Oral Intake diary you and your caregiver have been using to record your temperature and fluid intake.
 * Newspapers, books, a laptop or tablet computer to pass the time.
@@ -629,16 +624,14 @@ After your stem cells are infused through your catheter you will remain in your 
 
 Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed.  
 
-<div class="phasedivider">End of Phase 2 Divider</div>
+<div class="phasedivider invisible">End of Phase 2 Divider</div>
 
 ## Phase 3 - After Your Transplant
-<div class="image-placeholder"><p>Image Placeholder: Diagram of the transplant process/timeline with a "you are here" marker on Phase Three, or highlighting of some kind.</p></div>
-
-### Phase 3 - Summary and Checklist
 Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
 
 As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. You will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
+### Phase 3 - Summary and Checklist
 These are the key things that will happen during this phase:
 
 * Learn About Engraftment - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
@@ -676,7 +669,7 @@ When you come to the clinic you should wear every-day, comfortable clothing that
 
 You should bring these items to the clinic with you each day:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter drugs. 
+* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter medications. 
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
 * Your temperature and oral intake record
 * Books, newspapers, an audio player, a laptop or tablet computer - whatever you need to pass the time. 
@@ -937,7 +930,7 @@ While in the outpatient transplant program you are encouraged to and from the ho
 
 If you have special needs you will be seen by a physical therapist for an evaluation. 
 
-<div class="phasedivider">End of Phase 3 Divider</div>
+<div class="phasedivider invisible">End of Phase 3 Divider</div>
 
 ## Life After Your Transplant
 You will remain in the nearby apartment or hotel for several weeks following your stem cell infusion, returning to the Outpatient Clinic each day. 
