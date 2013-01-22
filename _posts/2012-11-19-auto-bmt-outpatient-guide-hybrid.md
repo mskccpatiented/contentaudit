@@ -199,54 +199,54 @@ Before you become a transplant candidate your overall physical condition needs t
 * **A chest x-ray** - This is done to ensure your lungs are clear and there is no evidence of a pneumonia or other problems
 * **Blood tests** - These are done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts. Your past exposure to certain viruses is also checked.
 * **Urine tests**
-* **Electrocardiogram (EKG)** , echocardiogram (ECHO) or other tests that give information about your heart
-* Pulmonary function tests (PFT's) - breathing tests that measure lung function
-* Computerized axial tomography (CT) Scan - an x-ray that provides cross-sectional views and images of soft tissue as well as bone. Some scans use contrast dye that you drink or have injected into your body. Please alert your doctor if you have a known allergy to contrast dye, or seafood or iodine. If you have an allergy you may need to be given steroids to prevent a reaction the dye before your scan.
-* Dental Exam - You must have a full dental exam. Any cavities, loose fillings or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist please ask them to provide a note saying that you have no dental problems. If there are issues please ask the dentist to contact MSKCC dentist.
-* Positron emission tomography (PET) Scan – a scan used to visualize physiologic function in body areas.
-* Bone marrow Aspiration and Biopsy - A bone marrow aspirate is a small sample of bone marrow usually taken from the back of your hip. Your hip will be numbed and a needle will be inserted into the bone marrow and a small amount of bone marrow liquid will be withdrawn. A bone marrow biopsy will be performed at the same time as your bone marrow aspiration. The biopsy involves collecting a tiny piece of bone for examination. This procedure is done to evaluate how well your bone marrow is producing cells and to check for any sign of cancer in the marrow.
-* Skeletal survey - An x-ray of the major bones in your body done to check for any signs of disease. This can take a few hours to complete.
+* **Electrocardiogram (EKG)** or **echocardiogram** - These are done to give your healthcare team information about your heart.
+* **Pulmonary function tests** (PFT's) - These are breathing tests that measure lung function
+* **Computerized axial tomography (CT) Scan** - This is an x-ray that provides images of soft tissue and bone. Some scans use contrast dye that you drink or have injected into your body. Tell your doctor if you have a known allergy to contrast dye, or seafood or iodine. If you have an allergy you may need to be given steroids to prevent a reaction to the dye before your scan.
+* **Dental Exam** - You must have a full dental exam. Any cavities, loose fillings or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist please ask them to provide a note saying that you have no dental problems. If there are issues please ask the dentist to contact MSKCC dentist.
+* Positron emission tomography (PET) Scan – a scan used to look at organs and they way they function in your body.
+* Bone marrow aspiration and biopsy - A bone marrow aspirate is a small sample of bone marrow, usually taken from the back of your hip. Your hip will be numbed and a needle will be inserted into the bone marrow and a small amount of bone marrow liquid will be withdrawn. A bone marrow biopsy will be performed at the same time as your bone marrow aspiration. The biopsy involves collecting a tiny piece of bone for examination. This procedure is done to evaluate how well your bone marrow is producing cells and to check for any sign of cancer in the marrow.
+* Skeletal survey - This is an x-ray of the major bones in your body that is done to check for any signs of disease. This can take a few hours to complete.
 
-These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pre-transplant evaluation can take longer. The BMT nurse coordinator will work with you and your caregiver to schedule the tests.
+These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pre-transplant evaluation can take longer. Your BMT nurse coordinator will work with you and your caregiver to schedule the tests.
 
 The results of the tests will be used to plan your treatment and adjust it to your specific needs and to make sure that it is safe to start your treatment.
 
 Your doctor and nurse will explain any other tests that you may need.
 
-### Making Decisions about your Fertility
-Your cancer treatment will effect your fertility. It is likely that you will not be able to conceive a child naturally after undergoing your conditioning regimen - the high-dose chemotherapy that precedes your stem cell infusion. 
+### Making Decisions About Your Fertility
+Your cancer treatment will affect your fertility. It is likely that you will not be able to conceive a child naturally after high-dose chemotherapy. 
 
-In come cases it's possible to take  steps to preserve your fertility before you undergo treatment - women can bank eggs or embryos and men can bank sperm. These steps may allow you to conceive in the future. If you have received chemotherapy in the past there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
+In some cases it's possible to take  steps to preserve your fertility before you undergo treatment. Women can bank eggs or embryos and men can bank sperm. These steps may allow you to conceive in the future. If you have received chemotherapy in the past, there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
 
-We have summarized the most common steps that people take to preserve their fertility before undergoing a stem cell transplant. If you want to learn more about fertility preservation options and other ways you might build a family after your transplant then you should ask your doctor or nurse for a referral to a fertility expert.
+We have summarized the most common steps that people take to preserve their fertility before undergoing a stem cell transplant. If you want to learn more about fertility preservation options and other ways you might build a family after your transplant, ask your doctor or nurse for a referral to a fertility expert.
 
-##### Options For Men
+##### Options for men
 Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
 
-The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for two to five days before the first collection and between the other collections.
+The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for 2 to 5 days before the first collection and between the other collections.
 
 For more information please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
 
 * [Sperm Banking http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
 * [Cancer and Fertility: Information for Men http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
 
-##### Options For Women
-Women can freeze eggs or embryos before treatment. The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to the reproductive endocrinologist. 
+##### Options for women
+Women can freeze eggs or embryos before treatment. The first step is to schedule an appointment with a reproductive endocrinologist (a doctor with special training in fertility). Ask your doctor or a member of your healthcare team to refer you to a reproductive endocrinologist. 
 
-The reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
+Your reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
 
-If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate some of the eggs in your ovaries to mature. You will need the injections for about 10 days, during which you will be closely monitored by the reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia so you will be asleep. The eggs are collected using a very thin needle passed through the wall of your vagina.
+If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate some of the eggs in your ovaries to mature. You will need to take the injections for about 10 days, during which you will be closely monitored by your reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia so you will be asleep. Your eggs will be collected using a very thin needle passed through the wall of your vagina.
 
-If you are going to store embryos, your eggs are fertilized with sperm in the laboratory (in vitro fertilization, IVF) before freezing. If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
+If you are going to store embryos, your eggs will be fertilized with sperm in the laboratory (in vitro fertilization, IVF) before freezing. If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
 
-Another possible option to preserve fertility is ovarian tissue freezing. This is experimental.
+Another possible option to preserve fertility is ovarian tissue freezing. However, this is experimental.
 
-For more information please read the guides * Cancer and Fertility: Information for Women* and *Selecting a Reproductive Endocrinologist* included at the back of this guide. These guides are also available online:
+For more information please read the guides *Cancer and Fertility: Information for Women* and *Selecting a Reproductive Endocrinologist* included at the back of this guide. These guides are also available online:
 
 * [Cancer and Fertility: Information for Women http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/725.pdf)
 * [Selecting a Reproductive Endocrinologist http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
 
-##### Financial Issues Related to Fertility Preservation
+##### Financial issues related to fertility preservation
 Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. 
 
 The financial staff at the sperm bank and reproductive endocrinologist will contact your insurance company to determine if you have coverage. 
@@ -257,73 +257,73 @@ There are financial assistance programs available, including Fertile Hope, a dis
 <div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
 
 ### Making Arrangements for Your Pets
-Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery) you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
+Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery), you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
 
-You should also take these precautions:
+You should also take the following precautions:
 
-* Be sure that your pet is up-to-date with immunizations and any booster shots. Have your veterinarian check your pet's stool for parasites.
+* Be sure that your pet is up to date with immunizations and any booster shots. Have your veterinarian check your pet's stool for parasites.
 * Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.
-* If you do come into contact with your pets do not allow your pets to sleep with you. Don't allow your pets to lick you in the face.
+* If you do come into contact with your pets do not allow them to sleep with you. Do not allow your pets to lick you in the face.
 * Protect yourself from bites or scratches.
 * Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
-* Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious agents.
+* Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters, or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious germs.
 
 After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide included at the back of this guide.
 
 ### Moving into a Nearby Apartment or Hotel
-For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at MSKCC's main hospital. You and your caregiver will make regular visits to the Outpatient BMT Clinic. 
-The arrangements for your lodgings will be made and communicated to you by your BMT nurse coordinator. 
+For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the outpatient BMT clinic at the main hospital. You and your caregiver will make regular visits to the clinic. 
+Your lodging arrangements will be made and communicated to you by your nurse coordinator. 
 
 ### Mobilization and Harvesting
-In an autologous transplant your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. 
+In an autologous transplant, your stem cells are first mobilized and then harvested (also called "collected") from your body before you receive chemotherapy. 
 
 Mobilization is the process of increasing the number of stem cells produced by your bone marrow and released into your bloodstream. 
 
-Stem cell harvesting, or collecting, is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets and plasma) then removing stem cells from the white blood cell component.
+Stem cell harvesting, or collecting, is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, and plasma) then removing stem cells from the white blood cell component.
 
 Once your stem cells have been harvested they are frozen and stored, then infused into your body after your chemotherapy; this is your stem cell transplant.
 
 #### Mobilization
 Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
 
-To increase the amount of stem cells in your bloodstream you'll be given injections of a drug called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream where they can be collected much more easily. This process is called *mobilization*. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
+To increase the amount of stem cells in your bloodstream, you'll be given injections of a medication called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream, where they can be collected much more easily. This process is called mobilization. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
 
-In most cases GCSF injections are self-administered, that is you will inject yourself with the drug while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your BMT Nurse Coordinator will create a personal Mobilization Calendar for you which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
+In most cases GCSF injections are self-administered, meaning that you will inject yourself with the medication while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your nurse coordinator will create a personal mobilization calendar for you, which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
 
 A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
 
-Some patients will not give themselves injections of Neupogen or Neulasta (both types of GCSF), and will instead be given a different type of GCSF called Mozobil. If Mozobil is recommended for you then the injections will be given by a nurse in the BMT clinic.
+Some patients will not give themselves injections of filgrastim or pegfilgrastim, and will instead be given a different type of GCSF called plerixafor. If plerixafor is recommended for you then the injections will be given by a nurse in the BMT clinic.
 
-#### Harvesting of your Stem Cells
-<img src="/g/figs/opbmt_fig_apheresis.jpg" /><span class="caption">A patient undergoing apheresis. Blood is being taken from through his catheter into the machine where stem cells are collected. The rest of the blood is return through the catheter</span>
+#### Harvesting of Your Stem Cells
+<img src="/g/figs/opbmt_fig_apheresis.jpg" /><span class="caption">A patient undergoing apheresis. Blood is being taken from through his catheter into the machine where stem cells are collected. The rest of the blood is return through the catheter.</span>
 
-The injections of GCSF into your body will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
+The injections of GCSF will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
-Before you are scheduled for stem cell harvesting a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough arrangements will be made to have your catheter fitted, which will then be used during harvesting. 
+Before you are scheduled for stem cell harvesting, a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough, arrangements will be made to have your catheter fitted, which will then be used during harvesting. 
 
-The harvesting procedure is done in the Blood Donor Room. Your BMT Nurse Coordinator or your doctor will schedule 3-5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last three to four hours.
+The harvesting procedure is done in the blood donor room. Your nurse coordinator or your doctor will schedule 3 to 5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last 3 to 4 hours.
 
 You should eat dairy products or other foods that are rich in calcium the night before and the morning of your harvesting session. Wear comfortable clothes. 
 
-You will lie in a bed or sit in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood is returned to you. 
+You will lie in a bed or sit in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood will be returned to you. 
 
-If you wish, you will be able to watch TV or read. A family member or friend may sit with you during the procedure started. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
+If you wish, you will be able to watch TV or read during the procedure. A family member or friend may sit with you. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
 
-After your harvesting procedure is done a dressing will be applied to your arm to prevent bleeding. It should remain in place for at least three hours, but not more than five hours. , If your catheter was used then it will be flushed and recapped. 
+After your harvesting procedure is done, a dressing will be applied to your arm to prevent bleeding. It should remain in place for at least 3 hours, but not more than 5 hours. If your catheter was used then it will be flushed and recapped. 
 
-Your stem cells will be brought to our stem cell laboratory where they'll be frozen and and stored safely until your transplant day.
+Your stem cells will be brought to our stem cell laboratory where they'll be frozen and stored safely until your transplant day.
 
-After harvesting most patients have minimal side effects and can resume their regular activities. The most common side effects are numbness or tingling in the lips, hands or feet. This is caused by a temporary decrease in the calcium levels in your blood during the harvesting. 
+After harvesting most patients have minimal side effects and can resume their regular activities. The most common side effects are numbness or tingling in the lips, hands, or feet. This is caused by a temporary decrease in the calcium levels in your blood during the harvesting. 
 
-Call Your Doctor If You:
+Call your doctor if you:
 
-* Develop a fever (100.4° F or 38° C) or chills.
-* Notice any redness, bleeding, drainage, or pain at the catheter or needle insertion site.
+* Develop a temperature (100.4° F or 38° C) or chills
+* Notice any redness, bleeding, drainage, or pain at your catheter or needle insertion site
 * Notice any bleeding or bruising
-* Notice numbness or tingling of your lips, hands or feed. 
+* Notice numbness or tingling of your lips, hands, or feet
 
 ### Having Your Central Venous Catheter Inserted
-On or before Day −4 you and your caregiver will come to MSKCC's Interventional Radiology department at main campus to have a central venous catheter inserted into the wall of your chest. 
+On or before Day −4, you and your caregiver will come to MSKCC's Interventional Radiology department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
 
 #### What is a Central Venous Catheter? Why Do I Need One?
 A central venous catheter is a tube inserted into a large vein near your collarbone. On the outside of your body the catheter divides into 2 or 3 smaller tubes called "lumens." 
