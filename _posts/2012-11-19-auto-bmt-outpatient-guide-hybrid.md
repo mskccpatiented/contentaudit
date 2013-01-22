@@ -678,22 +678,22 @@ Once you arrive, you will check in with the session assistant. Your NP will sit 
 
 Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
 
-Some of your blood will be taken daily and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells and platelets are recovering. Your blood will also be used to test the health of your kidneys, your electrolyte levels and for any signs of infection such as the presence of harmful bacteria or viruses. 
-<p class="dmz">Typos and copy editing - progress marker.</p>
-Once you've been examined you will wait in your room in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
+Some of your blood will be taken daily and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
 
-After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
+Once you've been examined, you will wait in your room in the clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of your healthcare team. We highly recommend that caregivers leave the hospital and take this time to unwind.
+<p class="dmz">Typos and copy editing - progress marker.</p>
+After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the clinic that day will depend on your test results.
 
 Here are some things that can happen based on the results of your tests:
 
-* You could be given fluids to hydrate you
-* You could be given an infusion of platelets, red blood cells or other blood components
-* Your medication could be changed 
-* Your treatment could be left as-is
+* You could be given fluids to hydrate you.
+* You could be given an infusion of platelets, red blood cells or other blood components.
+* Your medication could be changed.
+* Your treatment could be left as is.
 
-All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel where your caregiver will continue to monitor your temperature and fluid intake. 
+All of this will be explained to you. You'll remain in the clinic until any actions the healthcare team have recommended have been completed. Once your healthcare team is happy, you'll be free to leave. You'll return to your apartment or hotel, where your caregiver will continue to monitor your temperature and fluid intake. 
 
-You'll continue to make daily visits to the clinic until your healthcare team decide that you can come less regularly. 
+You'll continue to make daily visits to the clinic until your healthcare team decides that you can come less regularly. 
 
 If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.
 
