@@ -459,7 +459,7 @@ You should bring these items to the clinic with you:
 * A list of all prescription and non-prescription medications you are taking, along with dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products, and over-the-counter medications. 
 * A notebook to write down key pieces of information and any questions you or your caregiver may have.
 
-You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer&emdash;things to pass the time. While you're at the clinic, you'll be provided with meals and there is a lounge with coffee and tea for caregivers.
+You can expect to be in the BMT Clinic for 6 to 10 hours, so you might want to bring newspapers, books, a laptop or tablet computer&mdash;things to pass the time. While you're at the clinic, you'll be provided with meals and there is a lounge with coffee and tea for caregivers.
 
 You and your caregiver should arrive at the clinic at the main hospital at 8:00am. You should wear comfortable, loose everyday clothes; loose fitting tops or shirts that open to the front (so that we can access your catheter), comfortable pants (sweat pants or track suit). 
 
@@ -495,7 +495,7 @@ Your healthcare team will help you understand and prepare for these side effects
 #### Side Effects of Chemotherapy: Neutropenia and Low Platelet Level
 Your chemotherapy will severely damage your ability to fight infections and heal. It's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
-One side effect of chemotherapy is called neutropenia. Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&emdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
+One side effect of chemotherapy is called neutropenia. Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&mdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
 
 Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
 
@@ -592,35 +592,35 @@ It's really important that you drink a lot of fluids from now on. As well as tak
 Your caregiver should bring the Temperature and Oral Intake Diary to the clinic each day. Your NP will review the diary with you. 
 
 ### Transplant Day
-Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion&emdash;your transplant. On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
+Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion&mdash;your transplant. On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
 
 #### The Morning Before Transplant
-On the morning of Day 0, your transplant day, you and your caregiver should come to the Outpatient BMT Clinic at MSKCC's main campus at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
+On the morning of Day 0, your transplant day, you and your caregiver should come to the outpatient clinic at 8am. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
 
-You should bring these items to the clinic with you:
+You should bring the following items to the clinic with you:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter medications. 
-* A notebook to write down key pieces of information and any questions you or your caregiver might have.
+* A list of all prescription and non-prescription medications you are taking, along with the dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products, and over-the-counter medications. 
+* A notebook to write down key pieces of information and any questions you or your caregiver may have.
 * The Temperature and Oral Intake diary you and your caregiver have been using to record your temperature and fluid intake.
-* Newspapers, books, a laptop or tablet computer to pass the time.
+* Newspapers, books, a laptop, or tablet computer to pass the time.
 
-Once you arrive at the BMT Outpatient Clinic a nurse practitioner will review your Temperature and Oral Intake diary and will ask you a set of questions. You will be brought to a private room for a physical exam and your vital signs will be checked.
+Once you arrive at the clinic an NP will review your Temperature and Oral Intake Diary and will ask you a set of questions. You will be brought to a private room for a physical exam and your vital signs will be checked.
 
 #### Your Stem Cell Infusion
-Before the stem cell infusion, your "transplant", your frozen stem cells will be removed from storage in the stem cell laboratory and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
+Before the stem cell infusion, your transplant, your frozen stem cells will be removed from storage in the stem cell laboratory and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
 You will be given medications about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. 
 
-Once the stem cells are thawed, the nurse practitioner or doctor will infuse the stem cells into your body through your catheter. You will be closely observed and your vital signs will be checked frequently during and after the infusion. 
+Once the stem cells are thawed, your NP or doctor will infuse the stem cells into your body through your catheter. You will be closely monitored and your vital signs will be checked frequently during and after the infusion. 
 
-You may experience some side-effects during and after the infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other side-effects that can occur include low blood pressure, chills and fever. 
+You may experience some side effects during and after your infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other side effects that can occur include low blood pressure, chills, and fever. 
 
-It's important that you communicate with the healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you do experience side-effects then your healthcare team will treat your symptoms. 
+It's important that you communicate with your healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you do experience side effects then your healthcare team will treat your symptoms. 
 
 During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. You may not notice the smell but those around you will. This smell is caused by the preservative used to store your stem cells and will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
 
 #### After Your Transplant
-After your stem cells are infused through your catheter you will remain in your hospital room for 4-6 hours for observation. After that you will be allowed to return home to your hotel or apartment to rest. 
+After your stem cells are infused through your catheter you will remain in your hospital room for 4 to 6 hours for observation. After that, you will be allowed to return home to your hotel or apartment to rest. 
 
 Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed.  
 
@@ -629,30 +629,30 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 ## Phase 3 - After Your Transplant
 Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
 
-As engraftment occurs the number of white blood cells, red blood cells and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. You will remain in a nearby apartment or hotel and will return to the BMT Clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+As engraftment occurs, the number of white blood cells, red blood cells, and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. You will remain in a nearby apartment or hotel and will return to the outpatient clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
 ### Phase 3 - Summary and Checklist
 These are the key things that will happen during this phase:
 
-* Learn About Engraftment - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
-* Return to the Outpatient BMT Clinic - You will make daily visits to the Outpatient BMT Clinic until your healthcare team tell your that you can attend less often.
-* Testing - You will undergo blood tests and other tests to monitor your progress. You will have blood drawn each time you return to the outpatient clinic.
-* Neutropenia - The low number of white blood cells in your blood will leave you vulnerable to infection so you will need to take precautions to avoid sources of infection.
-* Low Microbial Diet - Because you are neutropenic you will eat a diet that contains a low number of potentially harmful microbes.
-* Low Platelet count - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
-* Personal Care - Because you are neutropenic and have a low platelet count you will need to take special care when you bathe, shower and brush your teeth.
-* Low Red Blood Cell Count - You will experience fatigue
-* Nausea and other side effects - You will experience nausea and other side effects associated with your treatment and transplant.
-* Transfusions - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream .
-* Recovery of your counts - Over time as your stem cells engraft and begin to produce new blood cells your "counts" will improve.
-* Exercise - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
+* **Learn about engraftment** - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place, and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
+* **Return to the Outpatient BMT Clinic** - You will make daily visits to the clinic until your healthcare team tell your that you can attend less often.
+* **Testing** - You will undergo blood tests and other tests to monitor your progress. You will have blood drawn each time you return to the clinic.
+* **Neutropenia** - The low number of white blood cells in your blood will leave you vulnerable to infection, so you will need to take precautions to avoid any sources of infection.
+* **Low microbial diet** - Because you are neutropenic you will eat a diet that contains a low number of potentially harmful microbes.
+* **Low platelet count** - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
+* **Personal care** - Because you are neutropenic and have a low platelet count you will need to take special care when you bathe, shower, and brush your teeth.
+* **Low red blood cell count** - You will experience fatigue.
+* **Nausea and other side effects** - You will experience nausea and other side effects associated with your treatment and transplant.
+* **Transfusions** - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream.
+* **Recovery of your counts** - Over time as your stem cells engraft and begin to produce new blood cells, your counts will improve.
+* **Exercise** - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
 
 We cover each of these topics in detail later in this section.
 
 ### Engraftment
-Almost immediately after your stem cells are infused into your body they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10-14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Almost immediately after your stem cells are infused into your body, they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow, they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10 to 14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
-Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red and platelet cells will increase. 
+Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed, and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red, and platelet cells will increase. 
 
 During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
 
@@ -661,20 +661,20 @@ Remember, you will be very vulnerable to infection at this time. You will need t
 As your cells start to engraft you mary experience bone pain or a rash on your body.
 
 ### The Outpatient BMT Clinic
-After your transplant you will receive all your care in the outpatient BMT clinic - the same place where you had your chemotherapy and your transplant. Each morning you will return to the Outpatient BMT Clinic, just like you did on the mornings before chemotherapy and your transplant.
+After your transplant you will receive all your care in the Outpatient BMT Clinic&mdash;the same place where you had your chemotherapy and your transplant. Each morning you will return to the clinic, just like you did on the mornings before chemotherapy and your transplant.
 
-You should arrive at the clinic at 8am. You will remain at the clinic for most of the day. 
+You should arrive at the clinic at 8:00am. You will remain at the clinic for most of the day. 
 
-When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, large t-shirts. Nothing that is too difficult to take off or put back on again. 
+When you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, and large t-shirts. Avoid wearing clothing that is too difficult to take off or put back on again. 
 
 You should bring these items to the clinic with you each day:
 
-* A list of all prescription and non-prescription medications you are taking with dosages and frequency. This should include vitamins, nutritional supplements, herbal products and over-the-counter medications. 
+* A list of all prescription and non-prescription medications you are taking, along with with dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products and over-the-counter medications. 
 * All the prescription medications you were instructed to take during the bone marrow transplant period.
-* Your temperature and oral intake record
-* Books, newspapers, an audio player, a laptop or tablet computer - whatever you need to pass the time. 
+* Your temperature and oral intake diary.
+* Books, newspapers, an audio player, a laptop or tablet computer&mdash;whatever you need to pass the time. 
 
-Once you arrive you will check in with the session assistant. A nurse practitioner will sit with you and your caregiver and you'll be asked a series of questions about how you feel. The nurse practitioner will check the Temperature and Oral Intake Diary.
+Once you arrive, you will check in with the session assistant. Your NP will sit with you and your caregiver and you'll be asked a series of questions about how you feel. Your NP will check the Temperature and Oral Intake Diary.
 
 Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
 
