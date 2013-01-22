@@ -679,7 +679,7 @@ Once you arrive, you will check in with the session assistant. Your NP will sit 
 Once you've checked in, you'll be brought to an examination room where you'll be examined physically and your vital signs will be checked.
 
 Some of your blood will be taken daily and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells and platelets are recovering. Your blood will also be used to test the health of your kidneys, your electrolyte levels and for any signs of infection such as the presence of harmful bacteria or viruses. 
-
+<p class="dmz">Typos and copy editing - progress marker.</p>
 Once you've been examined you will wait in your room in the Outpatient BMT Clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of the Outpatient BMT team. We highly recommend that caregivers leave the hospital and take this time to unwind.
 
 After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the Outpatient BMT Clinic that day will depend on the results of your tests. 
@@ -1176,7 +1176,6 @@ Relating to perishible food which has not been pasteurised. i.e. heat treated to
 
 **white blood cell/wbc**
 A type of immune cell. Most WBCs are made in the bone marrow and are found in the blood and lymph tissue. WBCs help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are WBCs. Also called leukocyte and white blood cell.
-<p class="dmz">Final Draft - This is where I am right now. Everything after this is content from an older draft. </p>
 
 ## Additional Resources
 
