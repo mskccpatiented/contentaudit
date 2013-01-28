@@ -16,6 +16,10 @@ navigation:
   url: /strategy/index.html
   cleanurl: /strategy/
   layout: default
+- text: Guidelines
+  cleanurl: /guidelines/
+  url: /guidelines/index.html
+  layout: default
 secondary:
 - text: RSS
   url: /feed.xml
