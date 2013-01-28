@@ -2,7 +2,7 @@
 title: Guide to Outpatient Autologous Stem Cell Transplant - Final Draft
 url: outpatient-autologous-stem-cell-transplant-hybrid
 comments: true
-jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbonebone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'non-steroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'anemia', 'apheresis', 'autologous transplant', 'bone marrow', 'bone marrow biopsy', 'biopsy', 'central venous catheter', 'hemoglobin', 'immune system', 'microorganisms', 'mobilization', 'neutropenia', 'platelets', 'red blood cells', 'rbc', 'stem cell', 'thrombocytopenic', 'transfusion', 'white blood cell', 'wbc']
+jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbonebone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'non steroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'anemia', 'apheresis', 'autologous transplant', 'bone marrow', 'bone marrow biopsy', 'biopsy', 'central venous catheter', 'hemoglobin', 'immune system', 'microorganisms', 'mobilization', 'neutropenia', 'platelets', 'red blood cells', 'rbc', 'stem cell', 'thrombocytopenic', 'transfusion', 'white blood cell', 'wbc']
 jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
@@ -160,7 +160,7 @@ Your caregiver will receive specific instructions from your healthcare team abou
 
 #### Practical Support
 * Dealing with financial and insurance issues 
-* Preparing your meals according to a low-microbial diet
+* Preparing your meals according to a low microbial diet
 * Bringing you to and from the hospital
 * Maintaining a clean environment in your hotel, apartment, or house
 * Keeping family members and friends up to date about your condition
@@ -284,7 +284,7 @@ Once your stem cells have been harvested they are frozen and stored, then infuse
 #### Mobilization
 Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
 
-To increase the amount of stem cells in your bloodstream, you'll be given injections of a medication called granulocyte colony stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream, where they can be collected much more easily. This process is called mobilization. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
+To increase the amount of stem cells in your bloodstream, you'll be given injections of a medication called granulocyte colony-stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream, where they can be collected much more easily. This process is called mobilization. GCSF drugs include filgrastim (Neupogen<span class="superscript">&reg;</span>), pegfilgrastim (Neulasta<span class="superscript">&reg;</span>) and plerixafor (Mozobil<span class="superscript">&reg;</span>). 
 
 In most cases GCSF injections are self-administered, meaning that you will inject yourself with the medication while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your nurse coordinator will create a personal mobilization calendar for you, which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
 
@@ -656,7 +656,7 @@ Each day when you return to the Outpatient BMT Clinic you will have blood drawn.
 
 During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
 
-Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low-microbial diet. You will be closely monitored for any signs of infections. 
+Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low microbial diet. You will be closely monitored for any signs of infections. 
 
 As your cells start to engraft you mary experience bone pain or a rash on your body.
 
@@ -681,7 +681,7 @@ Once you've checked in, you'll be brought to an examination room where you'll be
 Some of your blood will be taken daily and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
 
 Once you've been examined, you will wait in your room in the clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of your healthcare team. We highly recommend that caregivers leave the hospital and take this time to unwind.
-<p class="dmz">Typos and copy editing - progress marker.</p>
+
 After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the clinic that day will depend on your test results.
 
 Here are some things that can happen based on the results of your tests:
@@ -697,99 +697,99 @@ You'll continue to make daily visits to the clinic until your healthcare team de
 
 If at any time you need more care than can be provided to you in the outpatient clinic you will be admitted to the inpatient BMT unit.
 
-### Living with Neutropenia
+### Living With Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
 
-Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you highly susceptible to infections in this period following your chemotherapy and transplant. 
+Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you at high risk for infection.
 
-You and your caregiver will take careful precautions to avoid infections while you are "neutropenic." These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth and other precautions. 
+You and your caregiver will need to take careful precautions to avoid infections while you are neutropenic. These precautions will include eating a special, low microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth, and other precautions. 
 
 #### Avoiding Sources of Infection
-One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done - you and your caregiver will need to be careful about seeing visitors, what you touch, where you go. While you are neutropenic you should try to **avoid**:
+One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done&mdash;you and your caregiver will need to be careful about seeing visitors, what you touch, and where you go. While you are neutropenic you should try to **avoid**:
 
-* Shaking hands with people. When you do shake hands with people use an antibacterial gel, such as Purell<span class="superscript">&reg;</span> afterwards
-* Contact with animals, including your pets - they cannot stay with you during your transplant
-* Contact with soil or dirt - you should not keep any plants in your hotel or apartment and should not accept gifts of flowers or plants
+* Shaking hands with people. When you do shake hands with people, use hand sanitizer, such as Purell<span class="superscript">&reg;</span> afterward.
+* Contact with animals, including your pets&mdash;they cannot stay with you during your transplant
+* Contact with soil or dirt. You should not keep any plants in your hotel or apartment and should not accept gifts of flowers or plants
 
-Your caregiver will need to carefully manage who comes to see you while you are neutropenic. Your caregiver needs to make sure that friends, family and other visitors understand these precautions:
+Your caregiver will need to carefully manage who comes to see you while you are neutropenic. Your caregiver needs to make sure that friends, family, and other visitors understand these precautions:
 
 * Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
-* No visitors are allowed to visit you, either in the clinic or in your hotel/apartment who have any signs of a cold, flu or who have been exposed to any contagious illness. 
-* Your caregiver and any visitors must wash their hands for 15-20 seconds before each visitor enters your room at the clinic or your hotel/apartment. 
-* Hand washing or use of a hand sanitizer (Purell&reg;) must be repeated each time the visitor enters your room. <p class="outstanding noblock">There may be a need for additional precautions at other times – if needed there will be a sign on the patient's door with instructions.</p>
-* Visitors and caregivers must use the visitor's restroom in the hallway and not the restroom in your room at the Outpatient Clinic. This is to minimize the spread of bacteria in the room.
+* No visitors are allowed to visit you, either in the clinic or in your hotel/apartment who have any signs of a cold, flu, or who have been exposed to any contagious illness. 
+* Your caregiver and any visitors must wash their hands for 15 to 20 seconds before each visitor enters your room at the clinic or your hotel/apartment. 
+* Hand washing or use of a hand sanitizer (Purell<span class="superscript">&reg;</span>) must be repeated each time the visitor enters your room. 
+* Visitors and caregivers must use the visitor's restroom in the hallway and not the restroom in your room at the clinic. This is to minimize the spread of bacteria in the room.
 * No fresh cut flowers or live plants are allowed in your hotel/apartment or in you room.
 
-Telling people who love you and want to make sure that you're okay that you can't see them can be difficult, but you and your caregiver need to be vigilant. You can explain to them that it's just for a short period of time, and that by taking these precautions you are making sure that you can see them as soon as possible. They will understand.
+Telling people who love you and want to make sure that you're okay that you can't see them can be difficult, but you and your caregiver need to be vigilant. You can explain to them that it's just for a short period of time, and that by taking these precautions, you are making sure that you can see them as soon as possible. They will understand.
 
-We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to keep in touch with friends and family when you are neutropenic. 
+We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, or FaceTime to keep in touch with friends and family when you are neutropenic. 
 
-#### Eating a Low-Microbial Diet
-While your counts are returning to normal, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. 
+#### Eating a Low Microbial Diet
+While your counts are returning to normal, and until told otherwise by your healthcare team, you will need to eat what is called a low microbial diet. 
 
-A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in every-day foods. This diet helps people with weakened immune systems and low blood counts to reduce the risk of food-borne illnesses caused by bacteria and other microbes (tiny living organisms, such as bacteria, viruses, yeast, and molds) found in some foods and drinks. Eating a diet that contains fewer microbes will help prevent you from getting sick. 
+A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in everyday foods. This diet helps people with weakened immune systems and low blood counts to reduce the risk of food borne illnesses caused by bacteria and other microbes (tiny living organisms, such as bacteria, viruses, yeast, and molds) found in some foods and drinks. Eating a diet that contains fewer microbes will help prevent you from getting sick. 
 
-Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices and vegetable sprouts - but in reality they can grow on any food. 
+Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices, and vegetable sprouts&mdash;but in reality they can grow on any food. 
 
 You will need to take careful precautions with the food you eat, including:
 
 * Buying foods that you know have been stored properly and are safe to eat
 * Storing food safely in your hotel or apartment
 * Keeping your kitchen very clean
-* Keeping your refrigerator clean
+* Keeping your refrigerator very clean
 * Handling food safely
-* Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
+* Eating only food that you know has been prepared and cooked in keeping with a low microbial diet
 * Cooking foods thoroughly
 
-Refer to the guide on "Low-microbial Diet and Safe Food Handling" at the back of this guide and follow its guidance very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
+Refer to the guide on "Low Microbial Diet and Safe Food Handling" at the back of this guide and follow the guidelines very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
 
 #### Coping with Separation from Children
 Children under 12 are not able to visit you during <span class="outstanding no block">your transplant period</span> because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
-We strongly recommend that you take time to talk to one of our social workers about being separated from your children. You or your caregiver should ask your Nurse Practitioner, BMT Nurse Coordinator or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. They will be able to listen to your concerns and help you develop a strategy for maintaining strong ties to your children while you are undergoing treatment.
+We strongly recommend that you take time to talk to one of our social workers about being separated from your children. You or your caregiver should tell your NP, nurse coordinator, or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. They will listen to your concerns and help you develop a plan to for maintain strong ties to your children while you are undergoing treatment.
 
 Here are some things that other patients have done to remain in contact with their children during their transplant.
 
-* Use a computer or tablet and programs like Skype, Google Talk/Hangouts, FaceTime to talk to your children regularly. Set up a time that you talk to them each day - like when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them.
-* Paint or create other crafts to send home. Craft supplies can be provided to you by the Patient Recreation Center. Ask one of your healthcare team to arrange for the Patient Recreation Center to bring supplies to you.
+* Use a computer or tablet and programs like Skype, Google Talk/Hangouts, or FaceTime to talk to your children regularly. Set up a time that you talk to them each day, such as when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them.
+* Paint or create other crafts to send home. Craft supplies can be provided to you by the Patient Recreation Center. Ask a member of your healthcare team to arrange for the Patient Recreation Center to bring supplies to you.
 * Use your phone to make an audio recording of yourself as you read your children's favorite stories. Upload these recordings to the web, give them to your caregiver, or e-mail them to your children. They can read along with these stories while listening to your voice.
-* Keep copies of your children's favorite stories with you in your apartment or hotel. At night you can use Skype to read along with them before they go to sleep. 
-* Ask your children to decorate your apartment or hotel with pictures; your caregiver can bring them to you and you can show them hanging on the wall to your children over Skype.
-* Give your child a special coloring book or journal for times when they miss you are feelings are difficult. Your caregiver can bring the colorings to you. You can talk to your child about them over Skype or the phone.
+* Keep copies of your children's favorite stories with you in your apartment or hotel. At night, you can use Skype to read along with them before they go to sleep. 
+* Ask your children to decorate your apartment or hotel with pictures; your caregiver can bring them to you and you can show them hanging on the wall over Skype.
+* Give your child a special coloring book or journal for times when they miss you, or when feelings are difficult. Your caregiver can bring the colorings to you. You can talk to your child about them over Skype or the phone.
 
-We understand that nothing will replace physical contact between you and your children, but we strongly encourage you to use all available technology and means at your disposal to maintain a strong bond with them while you are unable to see them due to your neutropenia.
+We understand that nothing will replace physical contact between you and your children, but we strongly encourage you to use all available technology to maintain a strong bond with them while you are unable to see them.
 
 #### Showering and Bathing
 While you are neutropenic keeping yourself clean is very important. 
 
 You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial." Dial<span class="superscript">&reg;</span> is one example, but there are many others. 
 
-When you shower or bathe take extra care to make sure you wash yourself thoroughly. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Wash carefully under your arms, in your anal and genital areas, and in any skin folds. Germs tend to live in these moist areas. You may shampoo your scalp with soap once a day. 
+When you shower or bathe, take extra care to make sure you wash yourself thoroughly. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Wash carefully under your arms, in your anal and genital areas, and in any skin folds. Germs tend to live in these moist areas. You may shampoo your scalp with soap once a day. 
 
 After you urinate or move your bowels, wash your buttocks and genital area with antibacterial soap. You can also use moist wipes. Pat the area dry. Wash your hands well afterward.
 
 When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are included at the back of this guide. 
 
 #### Mouth Care
-While you're neutropenic and have a low platelet count you will need to change the way you brush your teeth and care for your mouth. This will help to avoid infection and bleeding.
+While you're neutropenic and have a low platelet count, you will need to change the way you brush your teeth and care for your mouth. This will help to avoid infection and bleeding.
 
 Follow these guidelines to take good care of your mouth:
 
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every 2 hours, depending on how your mouth feels.
-* Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry the mucous membranes of the mouth and throat.
+* Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry mouth and throat.
 * Use an ultra soft toothbrush. You may also use Toothettes<span class="superscript">&reg;</span> disposable foam sticks.
 * Do not use dental floss.
 * Avoid licking your lips. It increases drying and chapping.
 * Apply a lubricant like Chapstick <span class="superscript">&reg;</span> after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
-* To avoid an infection in your mouth, the doctor will prescribe an oral anti-fungal antibiotic.
+* To avoid an infection in your mouth, your doctor will prescribe an oral anti-fungal antibiotic. Use it as instructed.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
-* If your mouth feels very painful, your doctor will prescribe medicine for the pain.
+* If you have a pain in your mouth, your doctor will prescribe medication for the pain.
 
 ### Living with a Low Platelet Count
-Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start here. You and your caregiver will take these special precautions:
+Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy, you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's common for bleeding to start there. You and your caregiver will take these special precautions:
 
-* Avoid sharp objects such as a razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
-* Do not have manicures, pedicures, waxes, electrolysis or tattoos
+* Avoid sharp objects such as razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
+* Do not have manicures, pedicures, waxes, electrolysis, or tattoos
 * Do not have any dental work done.
 * Follow the guidelines on mouth care (above).
 * Do not use rectal suppositories, enemas, or tampons.
@@ -805,49 +805,49 @@ You should avoid any activity that may result in injury. This includes any:
 * Bicycling
 * Weight lifting
 
-You should take precautions when you are having sex. You should use lubrication if needed and avoid anal or oral intercourse. Avoid strong thrusting as this can cause bleeding. 
+You should take precautions when you are having sex. You should use lubrication if needed and avoid anal or oral sex. Avoid strong thrusting, as this can cause bleeding. 
 
 You should avoid medications that have not been explicitly prescribed to you by your medical team. Do not take:
 
 * Aspirin or products that contain aspirin
-* Non-steroidal anti-inflammatory drugs (NSAIDs) such as Advil<span class="superscript">&reg;</span>
+* Non steroidal anti-inflammatory drugs (NSAIDs) such as Advil<span class="superscript">&reg;</span>
 * Vitamin E
 
-All of these drugs make it more difficult for your blood to clot and so are very dangerous for somebody like you with a limited ability to heal and clot.
+All of these drugs make it more difficult for your blood to clot and are very dangerous for somebody like you with a limited ability to heal and clot.
 
 Call your doctor if you develop any symptoms of bleeding. Be on the lookout for:
 
 * Bruising
-* A faint red rash on your trunk, arms or legs
+* A faint red rash on your torso, arms, or legs
 * Vaginal spotting or heavy menstrual bleeding
-* The appearance of broken blood vessels in the white of your eye
+* The appearance of broken blood vessels in the whites of your eyes
 
 If you notice that you are bleeding you should take these steps immediately:
 
 1. Apply direct pressure on the bleeding site.
-2. After applying pressure, follow the BMT Emergency Guide; if it is between 8am and 8pm call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+2. After applying pressure, follow the BMT Emergency Guide. If it is between 8:00am and 8:00pm, call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8:00pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 3. Apply ice over the bridge of your nose for nosebleeds.
 
 Call your doctor immediately if you:
 
-* Have black bowel movements, blood in the stool, or rectal bleeding
+* Have black bowel movements, blood in your stool, or rectal bleeding
 * Have blood in your urine
 * Have a headache that do not get better, blurred vision, or dizziness
-* Cough up blood, vomit blood or get a nose bleeds
+* Cough up blood, vomit blood, or get a nose bleeds
 
-### Living with a Low Red Blood Cell Count (Anemia)
-Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. When your red blood cell count is low your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly lying to standing. 
+### Living With a Low Red Blood Cell Count (Anemia)
+Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. When your red blood cell count is low, your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly from lying to standing. 
 
 Some of the side effects of anemia include:
 
 * Increased tiredness
-* Generalized weakness
+* Weakness
 * Rapid heartbeat
 * Shortness of breath
 * Headache
 * Pale skin
 
-If you have anemia, your doctor may prescribe one or more of the following:
+If you have anemia, your doctor may prescribe 1 or more of the following:
 
 * A transfusion
 * Rest
@@ -857,112 +857,108 @@ If you have anemia, your doctor may prescribe one or more of the following:
 ### Receiving a Transfusion
 Your doctor may recommend a blood transfusion to boost the number of platelets or red blood cells in your body. 
 
-If your doctor recommends a transfusion for you it will be given to you through your catheter during one of your regular visits to the Outpatient BMT Clinic. 
+If your doctor recommends a transfusion, it will be given to you through your catheter during one of your regular visits to the Outpatient BMT Clinic. 
+
+A transfusion of red blood cells usually takes 2 to 4 hours. Transfusions of other blood components, like platelets, takes only 15 to 30 minutes
 
 #### Sourcing Blood for Your Transfusion
-The blood used in your transfusion is donated at our Blood Bank. There is no substitute for real blood, so we are incredibly grateful to the people who donate blood. 
+The blood used in your transfusion is donated at our blood bank. There is no substitute for real blood, so we are incredibly grateful to the people who donate blood. 
 
-Your friends and relatives may donate red blood cells and platelets - this is known as a directed donation. Your friends and relatives are eligible to donate if they:
+Your friends and relatives may donate red blood cells and platelets&mdash;this is known as a directed donation. Your friends and relatives are eligible to donate if they:
 
-* Are between 16 and 75 years old. No parental consent is required for those who are at least 17 years old.
+* Are between 16 and 75 years old. No parental consent is required for those who are at least 17 years old
 * Weigh at least 110 pounds
 * Are in good health
 * Have not had an illness such as hepatitis, jaundice, cancer, etc
 * Do not have signs of a cold or active allergy at the time of donation
-* Have not taken aspirin, or any compound that has aspirin or aspirin-like drugs (Ibuprofen, Motrin<span class="superscript">&reg;</span>, Naprosyn<span class="superscript">&reg;</span>, Anaprox<span class="superscript">&reg;</span>, Advil<span class="superscript">&reg;</span>, Aleve<span class="superscript">&reg;</span>) within three days before giving blood.
+* Have not taken aspirin, or any medication that has aspirin or aspirin-like drugs (Ibuprofen, Motrin<span class="superscript">&reg;</span>, Naprosyn<span class="superscript">&reg;</span>, Anaprox<span class="superscript">&reg;</span>, Advil<span class="superscript">&reg;</span>, Aleve<span class="superscript">&reg;</span>) within 3 days before giving blood
 * Have identification showing their name and photograph or signature
-* Have not consumed alcohol eight hours before donating
+* Have not consumed alcohol for at least 8 hours before donating
 
-Blood donations can be given by appointment at our Blood Donor Room which is located at:
+Blood donations can be given by appointment at our Blood Donor Room, which is located at:
 
 Memorial Sloan-Kettering Cancer Center
 Schwartz Building Lobby
 1250 First Avenue
-(Between 67th and 68th Streets)
+(Between East 67<span class="superscript">th</span> and East 68<span class="superscript">th</span> Streets)
 New York, NY 10065
 
 For more information about making a directed donation and to make an appointment, your friends and family should call our Blood Donor Room at 212-639-7643.
 
-If your friend of family member has a blood type that isn't compatible with yours then their blood will be released for use with other patients at MSKCC.
+If your friend or family member has a blood type that isn't compatible with yours, then their blood will be released for use with other patients at MSKCC.
 
 Directed donations will be held for you for 30 days. After that, the blood will be released for use with other patients at MSKCC.
 
 #### Making Sure Blood Is Safe
-After it is donated all blood is tested for:
+After it is donated, all blood is tested for:
 
 * Syphilis
 * Hepatitis B and C
-* Exposure to the AIDS virus
-* The presence of a virus associated with a very rare form of leukemia. 
+* Exposure to the HIV virus
+* The presence of a virus associated with a very rare form of leukemia
 * West Nile virus
-* Trypanosoma Cruzi
+* *Trypanosoma cruzi* (a type of microorganism)
 
-The chance of getting any of these from donated blood is very small. Directed donations are tested in exactly the same way as other donations. 
+The chance of getting any of these from donated blood is very small. Directed donations are tested in exactly the same way as other donations.  
 
-#### How long does the Transfusion take?
-A transfusion of red blood cells usually takes two to four hours. Transfusions of other blood components, like platelets, takes only 15-30 minutes. 
+#### Risks Associated with Blood Transfusions
+Blood transfusions have some risks. These risks include the very slight chance of having an allergic reaction or acquiring an infection through tainted blood.
 
-#### Are there risks associated with blood transfusions?
-Yes, blood transfusions have some risks. These risks include the very slight chance of having an allergic reaction or acquiring an infection through tainted blood.
+#### Side Effects During and After the Transfusion
+Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medications. Transfusion reactions are rarely life threatening. The nursing staff constantly check all patients while a blood transfusion is taking place.
 
-<p class="question">Are these risks worth mentioning?</p>
-
-#### Can anything bad happen during or after the transfusion?
-Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medicines. Transfusion reactions are rarely life threatening. Nursing staff constantly check all patients while a blood transfusion is taking place.
-
-#### Is there anything to worry about after a transfusion?
 Allergic reactions can sometimes occur. Symptoms are listed below. They can occur up to 48 hours after the transfusion. Call your doctor immediately if you have:
 
-* Fever (100.4 F or 38 C or higher) or chills.
-* Flushing of the face. 
-* Hives, rash, or itching.
-* Trouble breathing or shortness of breath.
-* Low back pain.
-* Nausea or vomiting.
-* Weakness or fainting.
-* Blood in the urine.
-* Chest pain (If you have chest pain, call your local emergency number immediately.).
+* A temperature of 100.4&deg;F or 38&deg;C or higher, or chills
+* Flushing of the face
+* Hives, rash, or itching
+* Trouble breathing or shortness of breath
+* Lower back pain
+* Nausea or vomiting
+* Weakness or fainting
+* Blood in your urine
+* Chest pain (If you have chest pain, call your local emergency number immediately)
 
 ### Exercise
-Exercise is an important part of the recovery process during and following stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
+Exercise is an important part of the recovery process during and following stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength, and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
 
-While in the outpatient transplant program you are encouraged to and from the hospital daily which will help to maintain your conditioning. During the hours you are in clinic you are encouraged to walk in the hallways (wearing a mask and gloves) two to three times daily. While you are staying locally in the hotel you are encouraged to walk outside weather permitting. 
+While in the outpatient transplant program you are encouraged to walk to and from the hospital daily, which will help to maintain your conditioning. During the hours you are in clinic, you are encouraged to walk in the hallways (wearing a mask and gloves) 2 to 3 times daily. While you are staying locally you are encouraged to walk outside (weather permitting). 
 
-If you have special needs you will be seen by a physical therapist for an evaluation. 
+If you have special needs, you will be seen by a physical therapist for an evaluation. 
 
 <div class="phasedivider invisible">End of Phase 3 Divider</div>
 
 ## Life After Your Transplant
-You will remain in the nearby apartment or hotel for several weeks following your stem cell infusion, returning to the Outpatient Clinic each day. 
+You will remain in the nearby apartment or hotel for several weeks following your stem cell transplant, returning to the Outpatient BMT Clinic each day. 
 
-When your healthcare team see that you are ready they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the outpatient clinic, but less frequently - every other day, then twice a week etc.
+When your healthcare team sees that you are ready, they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the clinic, but less frequently&mdash;every other day, then twice a week etc.
 
-### Visits to the Outpatient Clinic
+### Visits to the Outpatient BMT Clinic
 <p class="question">Once patients return home, how often do they return to the clinic?</p>
 
 ### Returning Home
-Before you return home it's important that you and your caregiver prepare. We have prepared a guide called [Returning Home after your Autologous Transplant](returning-home-after-your-autologous-transplant). It is included at the end of this guide. 
+Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called [Returning Home after your Autologous Transplant](returning-home-after-your-autologous-transplant). It is included at the end of this guide. 
 
 ## Glossary
-We have identified some words in this guide that may require further explanation:
+We have identified some words in this guide that may need further explanation.
 
-**advil<span class="superscript">&reg;</span>**
-Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+**Advil<span class="superscript">&reg;</span>**
+Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
-**aleve<span class="superscript">&reg;</span>**
-Aleve<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+**Aleve<span class="superscript">&reg;</span>**
+Aleve<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **anal**
 Related to the anus.
 
-**anaprox**
-Anaprox<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+**Anaprox**
+Anaprox<span class="superscript">&reg;</span> is a brand of naproxen. Naproxen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
 
 **anemia**
 A condition in which the number of red blood cells is below normal.
 
 **anesthetic**
-A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in one small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
+A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in 1 small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
 
 **anti-inflammatory**
 Having to do with reducing inflammation. For example an anti-inflammatory drug is taken to reduce inflammation.
@@ -980,7 +976,7 @@ A substance that kills microorganisms such as bacteria or mold, or stops them fr
 A procedure in which blood is collected, part of the blood such as platelets or white blood cells is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
 
 **aspirin**
-A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called non-steroidal anti-inflammatory agents (NSAIDs). 
+A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called non steroidal anti-inflammatory agents (NSAIDs). 
 
 **autologous**
 Taken from an individual’s own tissues, cells, or DNA.
@@ -992,37 +988,37 @@ The removal of cells or tissues for examination by a doctor.
 The soft, sponge-like tissue in the center of most bones. It produces white blood cells, red blood cells, and platelets.
 
 **bowel**
-The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has two parts, the small bowel and the large bowel. Also called intestine.
+The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has 2 parts: the small bowel and the large bowel. Also called the intestine.
 
 **bowel movement**
 Movement of feces through the bowel and out the anus. Also called defecation.
 
 **breastbone**
-The long flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first seven ribs. Also called sternum.
+The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called the sternum.
 
-**CAT Scan or Computed Axial Tomography**
+**CAT scan or computed axial tomography**
 A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
 
 **catheter**
-A flexible tube used to deliver fluids into or withdraw fluids from the body.
+A thin, flexible tube used to deliver fluids into or withdraw fluids from the body.
 
 **central venous catheter**
-A thin, flexible tube that is inserted into a vein in the upper arm, thigh, or neck or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used to give intravenous fluids, blood transfusions, and chemotherapy and other drugs, and for taking blood samples. It avoids the need for repeated needle sticks
+A thin, flexible tube that is inserted into a vein in the upper arm, thigh, or neck or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used to give fluids, blood transfusions, and chemotherapy and other drugs, and for taking blood samples. It avoids the need for repeated needle sticks.
 
 **clot**
-To change from a liquid form into a solid or semi-solid; for example when blood clots it changes from a liquid to a semi-solid, helping to stop bleeding.
+To change from a liquid form into a solid or semi-solid; for example, when blood clots it changes from a liquid to a semi-solid, helping to stop bleeding.
 
 **dietitian**
-A health professional with special training in nutrition who can help with dietary choices. Also called nutritionist.
+A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
 
 **dizziness**
 A sensation of instability and sometimes a feeling that you are about to fall.	
 
 **dose**
-The amount of medicine taken, or radiation given, at one time.
+The amount of medication taken, or radiation given, at one time.
 
 **echocardiograph**
-A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heard. Also called an EKG.
+A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heart. Also called an EKG.
 
 **electrolysis**
 A beauty treatment where an electric current is used to kill the roots of hairs.
@@ -1031,22 +1027,22 @@ A beauty treatment where an electric current is used to kill the roots of hairs.
 The injection of a liquid through the anus into the large bowel.
 
 **engraftment**
-Engraftment is when the stem cells infused into your body (your transplant) start to fix in place, grow and make new blood cells.
+When stem cells infused into the body start to fix in place, grow, and make new blood cells.
 
 **fertility preservation**
-A type of procedure used to help keep a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
+A type of procedure used to help preserve a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
 
 **filgrastim**
-A drug used to increase numbers of white blood cells in patients who are receiving chemotherapy. It is a type of colony-stimulating factor. Also called Neulasta and pegfilgrastim.
+A drug used to increase the numbers of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<span class="superscript">&reg;</span> and pegfilgrastim.
 
-**gcsf (granulocyte colony-stimulating factor)**
+**GCSF (granulocyte colony-stimulating factor)**
 A drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
 **genital**
 Refers to the genitalia (external and internal sex organs and glands).
 
 **granulocyte**
-A granulocyte is a type of white blood cell. Neutrophils, eosinophils, and basophils are granulocytes. 
+A type of white blood cell. Neutrophils, eosinophils, and basophils, are granulocytes. 
 
 **hemoglobin**
 A protein inside red blood cells that carries oxygen from the lungs to tissues and organs in the body and carries carbon dioxide back to the lungs. Testing for the amount of hemoglobin in the blood is usually part of a complete blood cell (CBC) test. It is used to check for conditions such as anemia, dehydration, and malnutrition.
@@ -1055,19 +1051,19 @@ A protein inside red blood cells that carries oxygen from the lungs to tissues a
 A doctor who specializes in the care of hospitalized patients.
 
 **ibuprofen**
-A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of non-steroidal anti-inflammatory drug (NSAID). Also called Advil and Motrin.
+A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of non steroidal anti-inflammatory drug (NSAID). Also called Advil<span class="superscript">&reg;</span> and Motrin<span class="superscript">&reg;</span>.
 
 **immune system**
-The complex group of organs and cells that defends the body against infections and other diseases.
+The complex group of organs and cells that defend the body against infections and other diseases.
 
 **infection**
-Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight the germs and prevent infection. Some cancer treatments can weaken the natural defense system.
+Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken the natural defense system.
 
 **infertility**
 The inability to produce children.
 
 **infusion**
-A method of putting fluids, including drugs and blood products, into the bloodstream. Also called intravenous infusion.
+A method of putting fluids, including medications and blood products, into the bloodstream. Also called intravenous infusion.
 
 **inpatient**
 A patient who is admitted to the hospital for treatment requiring an overnight stay.
@@ -1103,34 +1099,34 @@ An organism that can be seen only through a microscope. Microorganisms include b
 Taking medicine to stimulate the growth of stem cells and move them into the bloodstream.
 
 **motrin**
-Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Advil<span class="superscript">&reg;</span> is a brand of ibuprofen. Ibuprofen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
 
 **mozobil**
-Mozobil<span class="superscript">&reg;</span> is a brand of plerixafor. Plerixafor is a drug used together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+Mozobil<span class="superscript">&reg;</span> is a brand of plerixafor. Plerixafor is a drug used together with granulocyte colony-stimulating factor (GCSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
 
 **myeloma**
 Cancer that arises in plasma cells, a type of white blood cell.
 
 **naprosyn**
-A drug used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti-inflammatory drug (NSAID) and a type of cyclooxygenase inhibitor. Also called naproxen.
+A drug used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of NSAID and a type of cyclooxygenase inhibitor. Also called naproxen.
 
 **neupogen**
-Neupogen<span class="superscript">&reg;</span> is a brand of GCSF - a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+Neupogen<span class="superscript">&reg;</span> is a brand of GCSF&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
 **neutropenia**
-A condition in which there is a lower-than-normal number of neutrophils (a type of white blood cell). While you are neutropenic you will take precautions to prevent infection.
+A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
 
 **neutrophil**
 A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
 
-**non-steroidal**
+**non steroidal**
 A drug that does not contain a steroid.
 
 **NSAID**
-A drug that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti-inflammatory drug.
+A drug that decreases fever, swelling, pain, and redness. Also called non steroidal anti inflammatory drug.
 
 **orally**
-Via mouth; e.g. a drug to be taken orally is one that is eaten and swallowed.
+By mouth; e.g., a medication to be taken orally is one that is swallowed.
 
 **outpatients**
 A patient who visits a health care facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
@@ -1139,13 +1135,13 @@ A patient who visits a health care facility for diagnosis or treatment without s
 A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
 
 **platelet**
-A tiny piece of cell that is made by breaking off of a large cell in the bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding, and to help wounds heal. Also called thrombocyte.
+A tiny piece of cell that is made by breaking off of a large cell in bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding and to help wounds heal. Also called a thrombocyte.
 
 **plerixafor**
-A drug used before together with granulocyte-colony stimulating factor (G-CSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+A medication used before together with granulocyte colony-stimulating factor GCSF to help mobilize stem cells, moving them from the bone marrow to the blood. 
 
-**PET Scan**
-A procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called positron emission tomography scan.
+**PET scan**
+A procedure in which a small amount of radioactive glucose (sugar) is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
 
 **rectal**
 By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
@@ -1153,30 +1149,30 @@ By or having to do with the rectum. The rectum is the last several inches of the
 **rectum**
 The last several inches of the large intestine closest to the anus.
 
-**red blood cell/rbc**
+**red blood cell**
 A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
 
 **stem cell**
 A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
 
 **sternum**
-The long flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first seven ribs. Also called breastbone.
+The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called breastbone.
 
 **suppository**
-A form of medicine contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medicine is absorbed into the bloodstream.
+A form of medication contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medication is absorbed into the bloodstream.
 
 **thrombocytopenia**
-A condition in which there is a lower-than-normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
+A condition in which there is a lower than normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
 
 **transfusion**
 A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
 
 **unpasteurized**
-Relating to perishible food which has not been pasteurised. i.e. heat treated to kill potentially harmful microbes.
+Relating to perishable food that has not been pasteurized, i.e., heat treated to kill potentially harmful microbes.
 
-**white blood cell/wbc**
-A type of immune cell. Most WBCs are made in the bone marrow and are found in the blood and lymph tissue. WBCs help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are WBCs. Also called leukocyte and white blood cell.
-
+**white blood cell**
+A type of immune cell. Most white blood cells are made in the bone marrow and are found in the blood and lymph tissue. White blood cells help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are all white blood cells. Also called a leukocyte.
+<p class="dmz">Typos and copy editing - progress marker.</p>
 ## Additional Resources
 
 Document to be included along with this guide, as appendices:
@@ -1192,7 +1188,7 @@ Sexual Activity During Cancer Treatment: Information for Men
 Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
 
 Guide to Low Microbial Diet
-http://patiented.herokuapp.com/articles/low-microbial-diet
+http://patiented.herokuapp.com/articles/low microbial-diet
 
 Caring for your Central Venous Catheter
 http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
