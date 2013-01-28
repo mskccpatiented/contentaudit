@@ -1,4 +1,3 @@
 <div id="footer">
 <div id="copyright">&copy; 2012 MSKCC.</div>
-{%include secondary_nav%}
 </div>

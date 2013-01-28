@@ -20,8 +20,3 @@ navigation:
   cleanurl: /guidelines/
   url: /guidelines/index.html
   layout: default
-secondary:
-- text: RSS
-  url: /feed.xml
-  cleanurl: /feed.xml
-  layout: default
