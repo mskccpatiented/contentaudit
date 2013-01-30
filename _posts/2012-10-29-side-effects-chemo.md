@@ -1,3 +1,18 @@
+---
+title: Outpatient Auto BMT Guide - Chemo Side Effects Section
+url: op-bmt-chemo-side-effects-section
+comments: true
+jargonwords: 
+jargonpercent: 
+layout: article
+categories: ['Tests and Procedures']
+tags: []
+summary: Section on chemo side effects. To be re-incorporated back into to O/P Auto BMT Guide.
+strategy:
+changes_tool: true
+status: unformatted 
+date: 30-01-2013
+---
 # Side Effects from Chemo
 #### Side Effects of Chemotherapy
 Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores, and mouth tenderness. 
