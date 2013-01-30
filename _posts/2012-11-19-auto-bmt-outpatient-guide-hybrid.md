@@ -293,13 +293,9 @@ An autologous transplant has 3 key phases:
 **After** - The infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment." They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return to normal.
 
 ### Outpatient Autologous Stem Cell Transplant
-Until relatively recently stem cell transplant patients would live in the hospital while undergoing treatment and would remain in the hospital for a period of their recovery (an inpatient transplant). **Edit: Depending on your condition and treatment you may receive part of your care in the hospital as an inpatient and part of it in the BMT clinic. While you're being cared for in the outpatient setting you will stay in a local hotel or apartment**
+Depending on your condition and treatment you may receive part of your care in the hospital as an inpatient and part of it in the BMT clinic as an outpatient. While you're being cared for in the outpatient setting you will stay in a local hotel or apartment. You will only be admitted to the hospital if you develop complications. 
 
-Now it's possible for some patients to receive some of their care in the hospital at an outpatient clinic while living in a local hotel or apartment (an outpatient transplant). 
-
-Your doctor has decided that you can undergo an outpatient transplant. You will receive your treatment (pre-transplant testing, high-dose chemotherapy, stem cell transplant, follow-up care) in our outpatient clinic each day before returning to a local hotel or apartment each night. You will only be admitted to the hospital if you develop complications. 
-
-Here is a typical timeline for someone having an outpatient transplant. You'll see that the days leading up to the transplant are given minus number such as Day −3, Day −2 etc. The day of the transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
+While each person't transplant is different, here is a typical timeline for someone having an outpatient transplant. You'll see that the days leading up to the transplant are given minus number such as Day −3, Day −2 etc. The day of the transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
 * **Day −4:** You and your caregiver will check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
 * **Day −3:** You and your caregiver will come to MSKCC's Interventional Radiology Department at the main hospital, where a central venous catheter will be inserted in your upper chest wall. You will return to your hotel or apartment in the evening.
@@ -329,17 +325,15 @@ A **hospitalist** is a doctor who only sees patients while they are in the hospi
 
 A **clinical pharmacist** specializes in the care of transplant patients. The pharmacist will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review and monitor your medications frequently with the outpatient team.
 
-**A social workers** will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
+**A social worker** will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
 
 **House staff** are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
 
 **Financial counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
-**Session assistants**
-Session Assistants are part of the check-in process and monitor patient flow. They assist doctors and nurse practitioners, schedule appointments, manage medical records, and track each patient's daily progress. This includes any scans, tests, and treatments given.
+**Session assistants** are part of the check-in process and monitor patient flow. They assist doctors and nurse practitioners, schedule appointments, manage medical records, and track each patient's daily progress. This includes any scans, tests, and treatments given.
 
-**Physician Office Assistants**
-Physician Office Assistants provide administrative support to attending staff. You may speak with this person when you submit information or when you have questions for the physician.
+**Physician Office Assistants** provide administrative support to attending staff. You may speak with this person when you submit information or when you have questions for the physician.
 
 While you are here, you will come to know all of the members of your team.
 
@@ -501,7 +495,9 @@ You should also take the following precautions:
 After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide included at the back of this guide.
 
 ### Moving into a Nearby Apartment or Hotel
-For the duration of your treatment you and your caregiver will stay at a hotel or apartment within walking distance of the outpatient BMT clinic at the main hospital. You and your caregiver will make regular visits to the clinic. 
+For the duration of your outpatient treatment you and your caregiver will stay at a hotel or apartment within walking distance of the outpatient BMT clinic at the main hospital. 
+
+You and your caregiver will make regular visits to the clinic. 
 Your lodging arrangements will be made and communicated to you by your nurse coordinator. 
 
 ### Mobilization and Harvesting
@@ -682,9 +678,7 @@ These are the key things that will happen during this phase:
 We cover each of these activities in detail later in this section.
 
 ### The Outpatient BMT Clinic
-While you are being cared for on an outpatient basis, you will receive all your care, including your chemotherapy, transplant and post-transplant care, at the Outpatient BMT Clinic. 
-
-You'll make daily visits to the clinic, and will only be admitted to the inpatient BMT unit if you need more care than can be provided to you in the outpatient clinic.  
+While you are being cared for on an outpatient basis, you will receive all your care, including your chemotherapy, transplant and post-transplant care, at the Outpatient BMT Clinic. The clinic is located on the 4<sup>th</sup> floor of the main hospital. You'll make daily visits to the clinic, and will only be admitted to the inpatient BMT unit if you need more care than can be provided to you in the outpatient clinic.  
 
 In the morning when you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, and large t-shirts. Avoid wearing clothing that is too difficult to take off or put back on again. 
 
@@ -696,9 +690,9 @@ You should bring these items to the clinic with you each day:
 * Books, newspapers, an audio player, a laptop or tablet computer&mdash;whatever you need to pass the time. 
 * A notebook to write down key pieces of information and any questions you or your caregiver may have.
 
-You should arrive at the clinic at your scheduled time. Once you arrive, you will check in with the session assistant and then you'll be brought to a private room. Your room has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
+You should arrive at the clinic at your scheduled time; usually around 8am. Once you arrive, you will check in with the session assistant and then you'll be brought to a private room. Your room has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
 
-Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you feel, do a physical exam, check your vital signs, and weigh you. Your NP will also check the temperature and oral intake diary. 
+Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you are feeling, do a physical exam, check your vital signs, and weigh you. Your NP will also check the temperature and oral intake diary; the diary is explained later. 
 
 Each day, some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
 
@@ -750,21 +744,21 @@ Your healthcare team will make sure that the logistics of the next few days are 
 
 They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
 
-### Rest Day 
-The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
-
-On the rest day you will come to the Outpatient BMT Clinic as usual, where you will be evaluated.
-
 ### Monitoring Temperature and Fluid Intake
-From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic. 
+From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic and monitor all of the fluids you drink. Your caregiver will write this information in the "Temperature and Oral Intake Diary." A sample page from the diary is included at the back of this guide.
 
-Your caregiver will write your temperature and the amount of fluid you drink in the "Temperature and Oral Intake Diary." 
+Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both how to use the diary.
 
 If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
 You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
 
 Your caregiver should bring the Temperature and Oral Intake Diary to the clinic each day. Your NP will review the diary with you. 
+
+### Rest Day 
+The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+
+On the rest day you will come to the Outpatient BMT Clinic as usual, where you will be evaluated. Your healthcare team will also use the rest day to speak with you about your stem cell infusion, communicate important information, and teach you and your caregiver useful skills.
 
 ### Transplant Day
 Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion&mdash;your transplant. 
