@@ -1163,45 +1163,27 @@ Before you return home, it's important that you and your caregiver prepare. We h
 
 Document to be included along with this guide, as appendices:
 
-**Transplant Resources - Included by Sheila in her feedback**
-
-**10 Tips for Caregivers - Included by Sheila in her feedback**
-
-Sexual Activity During Cancer Treatment: Information for Women
-
-Sexual Activity During Cancer Treatment: Information for Men
-
-Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
-
-Guide to Low Microbial Diet
-http://patiented.herokuapp.com/articles/low microbial-diet
-
-Caring for your Central Venous Catheter
-http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
-
-Memorial Sloan-Kettering Cancer Center Support Services - http://patiented.herokuapp.com/articles/mskcc-support-resources
-
-Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
+* Transplant Resources - Included by Sheila in her feedback
+* 10 Tips for Caregivers - Included by Sheila in her feedback
+* Guide for Caregivers
+* Sexual Activity During Cancer Treatment: Information for Women
+* Sexual Activity During Cancer Treatment: Information for Men
+* Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
+* Guide to Low Microbial Diet - http://patiented.herokuapp.com/articles/low microbial-diet
+* Caring for your Central Venous Catheter - http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
+* Memorial Sloan-Kettering Cancer Center Support Services - http://patiented.herokuapp.com/articles/mskcc-support-resources
+* Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
 http://patiented.herokuapp.com/articles/directions-for-giving-an-injection-below-the-skin-with-neupogen-in-a-pre-filled-syringe
-
-Drug Fact Sheet - Melphalan
-
-Fertility and Cancer Treatment - Information for Women
+* Drug Fact Sheet - Melphalan (Alkeran<sup>&trade;</sup>)
+* Drug Fact Sheet - Plerixafor (Mozobil<sup>&trade;</sup>)
+* Fertility and Cancer Treatment - Information for Women
 http://patiented.herokuapp.com/articles/fertility-and-cancer-treatment-information-for-women
-
-Fertility and Cancer Treatment - Information for Men
+* Fertility and Cancer Treatment - Information for Men
 http://patiented.herokuapp.com/articles/fertility-and-cancer-treatment-information-for-women
-
-Selecting a Reproductive Endocrinologist or Fertility Center
+* Selecting a Reproductive Endocrinologist or Fertility Center
 http://patiented.herokuapp.com/articles/selecting-a-reproductive-endocrinologist-fertility-center
-
-Sperm Banking
+* Sperm Banking
 http://patiented.herokuapp.com/articles/sperm-bank
-
-Resources for Wigs and Hairpieces
+* Resources for Wigs and Hairpieces
 http://patiented.herokuapp.com/articles/wig-and-hairpiece-resources
-
-Returning Home After Your Autologous Transplant
-
-<p class="outstanding">Please feel free to suggest any other resources that should come along with the Outpatient BMT Guide. </p>
-
+* Returning Home After Your Autologous Transplant
