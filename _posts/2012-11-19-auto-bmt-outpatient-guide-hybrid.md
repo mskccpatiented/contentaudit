@@ -352,7 +352,8 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * **Get financial clearance** - Meet with a representative from patient financial services (PFS) and speak to your health insurance company. Check that your outpatient stem cell transplant and medications are covered.
 * **Learn about chemotherapy side effects** - We've compiled a list of side effects caused by high dose chemotherapy. Read this information and make a note of any questions you or your caregiver have. 
 * **Make decisions about your fertility** - Speak with your healthcare team about your fertility. Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future. Take steps to preserve your fertility.
-* **Arrange childcare** - Your children cannot stay with you at your hotel or apartment during your outpatient transplant. Arrange for childcare during your treatment.
+* **Speak to your children about your treatment** - Speak to your children about you treatment to help build trust and their sense of security.
+* **Arrange childcare** - Your children cannot stay with you at your hotel or apartment during your outpatient transplant, so you should arrange for childcare.
 * **Arrange pet care** - Your pets cannot stay with you during your transplant so make arrangements for them.
 * **Attend orientation** - You and your caregiver will attend the online orientation for outpatient autologous stem cell transplant patients. Ask your nurse coordinator for details.
 * **Pre-transplant evaluation** - You'll undergo a series of medical tests. Your nurse coordinator will talk you through the schedule for these tests.
@@ -570,6 +571,9 @@ Unfortunately, fertility preservation is not covered by most insurance plans. Sp
 The financial staff at the sperm bank and your reproductive endocrinologist will contact your insurance company to determine if you have coverage. 
 
 There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed by Livestrong. For more information about this, ask your nurse or a member of your healthcare team for an application or go to the Fertile Hope Website at [http://www.fertilehope.org/](http://www.fertilehope.org/).
+
+### Speaking to Your Children about your Transplant
+Being open with your child helps to build trust and a sense of security. Before Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  Use the proper name and terms ("bump" or and "boo boo" are confusing) when describing your diagnosis and transplant.Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)Invite your child to ask any and all questionsValidate your child’s feelings Reassure your child that he/she is not responsible for your illness and that cancer is not contagiousSet aside family time where the transplant is not the only focus  
 
 ### Making Arrangements for Childcare
 <div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
