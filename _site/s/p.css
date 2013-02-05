@@ -513,14 +513,9 @@ margin-top:1em;
 margin-bottom:1em;
 }
 
-.diagram{
+figure img{
 width:100%;
-border-radius: 10px;
-}
-
-.fig{
-width:100%;
-border:5px solid whitesmoke;
+border:10px solid #ddd;
 margin-bottom:0.25em;
 }
 
