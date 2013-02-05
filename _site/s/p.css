@@ -26,12 +26,6 @@ font-size: 1em;
 color: rgba(100, 100, 100, 1.00); 
 }		
 
-h2 { 
-page-break-before:always;
-font-family:sans-serif;
-font-size:1.6em;
-color: #222;
-}
 
 h1 { 
 font-family:sans-serif;
@@ -42,16 +36,44 @@ border-top:none;
 padding-bottom:0.5em;
 }
 
+h2 { 
+font-style: normal; 
+font-weight: 600; 
+font-family:  sans-serif; 
+font-size: 1.6em; 
+text-transform: none; 
+margin: 0.8em 0 0.5em 0; 
+color: rgba(51, 51, 51, 1.00); 
+}
+
 h3 { 
-font-family:sans-serif;
-font-size:1.4em
-color:#333;
+font-style: normal; 
+font-weight: 600; 
+font-family:  sans-serif; 
+font-size: 1.5em; 
+text-transform: none; 
+margin: 0.8em 0 0.5em 0; 
+color: rgba(51, 51, 51, 1.00); 
 }
 
 h4 { 
-font-family:sans-serif;
-font-size:1.2em;
-color:#444;
+font-style: normal; 
+font-weight: 600; 
+font-family:  sans-serif; 
+font-size: 1.4em; 
+text-transform: none; 
+margin: 0.8em 0 0.5em 0; 
+color: rgba(51, 51, 51, 1.00); 
+}
+
+h5 { 
+font-style: normal; 
+font-weight: 600; 
+font-family:  sans-serif; 
+font-size: 1.2em; 
+text-transform: none; 
+margin: 0.8em 0 0.5em 0; 
+color: rgba(51, 51, 51, 1.00); 
 }
 
 .content ul{
