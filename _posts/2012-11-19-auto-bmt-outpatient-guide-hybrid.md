@@ -525,7 +525,9 @@ For additional information about being sexually active during and after treatmen
 The American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
 
 * *Sexuality for the Man with Cancer and His Partner*
+http://www.cancer.org/acs/groups/cid/documents/webcontent/002910-pdf.pdf
 * *Sexuality for the Woman with Cancer and Her Partner*
+http://www.cancer.org/acs/groups/cid/documents/webcontent/002912-pdf.pdf
 
 #### The Importance of Communication
 Throughout your treatment, it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
@@ -573,10 +575,25 @@ The financial staff at the sperm bank and your reproductive endocrinologist will
 There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed by Livestrong. For more information about this, ask your nurse or a member of your healthcare team for an application or go to the Fertile Hope Website at [http://www.fertilehope.org/](http://www.fertilehope.org/).
 
 ### Speaking to Your Children about your Transplant
-Being open with your child helps to build trust and a sense of security. Before Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  Use the proper name and terms ("bump" or and "boo boo" are confusing) when describing your diagnosis and transplant.Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)Invite your child to ask any and all questionsValidate your child’s feelings Reassure your child that he/she is not responsible for your illness and that cancer is not contagiousSet aside family time where the transplant is not the only focus  
+Being open with your child helps to build trust and a sense of security. Before 
+
+Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  
+
+Use the proper name and terms ("bump" or and "boo boo" are confusing) when describing your diagnosis and transplant.
+
+Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)
+
+Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)
+Invite your child to ask any and all questions
+
+Validate your child’s feelings 
+
+Reassure your child that he/she is not responsible for your illness and that cancer is not contagious
+
+Set aside family time where the transplant is not the only focus  
 
 ### Making Arrangements for Childcare
-<div class="outstanding">To be written. Social work team should provide input. It might be useful to include information about communicating with children, speaking to them about transplant.</div>
+Identify one or more family/friend who knows your child well to care for your child during the transplant periodMaintain your child’s daily routine as much as possiblePrepare your child for these changes and help him/her weather the transitionExpect that your child may have some reactions or may show normal signs of adjustment during the transition Engage your child’s teachers, counselors, clergy, and other adults involved in their life to support them during this time.Educate your child’s caregiver about the transplant process in case your child has questions during the separation
 
 ### Making Arrangements for Your Pets
 Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery), you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
@@ -590,7 +607,7 @@ You should also take the following precautions:
 * Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
 * Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters, or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious germs.
 
-After you have recovered from your transplant you will be provided additional instructions regarding pet care in the "Returning Home After Your Autologous Transplant" guide included at the back of this guide.
+After you have recovered from your transplant you will be provided additional instructions regarding pet care in the *Returning Home After Your Autologous Transplant* guide included at the back of this guide.
 
 ### Moving into a Nearby Apartment or Hotel
 For the duration of your outpatient treatment you and your caregiver will stay at a hotel or apartment within walking distance of the outpatient BMT clinic at the main hospital. 
@@ -614,7 +631,7 @@ To increase the amount of stem cells in your bloodstream, you'll be given inject
 
 In most cases GCSF injections are self-administered, meaning that you will inject yourself with the medication while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your nurse coordinator will create a personal mobilization calendar for you, which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
 
-A full guide to giving yourself GCSF injections is covered in the document "Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe" which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
+A full guide to giving yourself GCSF injections is covered in the document *Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe* which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
 
 Some patients will not give themselves injections of filgrastim or pegfilgrastim, and will instead be given a different type of GCSF called plerixafor. If plerixafor is recommended for you then the injections will be given by a nurse in the BMT clinic.
 
@@ -844,7 +861,7 @@ Your healthcare team will make sure that the logistics of the next few days are 
 They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
 
 ### Monitoring Temperature and Fluid Intake
-From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic and monitor all of the fluids you drink. Your caregiver will write this information in the "Temperature and Oral Intake Diary." A sample page from the diary is included at the back of this guide.
+From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic and monitor all of the fluids you drink. Your caregiver will write this information in the *Temperature and Oral Intake Diary*. A sample page from the diary is included at the back of this guide.
 
 Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both how to use the diary.
 
@@ -965,7 +982,7 @@ You will need to take careful precautions with the food you eat, including:
 * Eating only food that you know has been prepared and cooked in keeping with a low microbial diet
 * Cooking foods thoroughly
 
-Refer to the guide on "Low Microbial Diet and Safe Food Handling" at the back of this guide and follow the guidelines very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
+Refer to the guide on *Low Microbial Diet and Safe Food Handling* at the back of this guide and follow the guidelines very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
 
 #### Coping with Separation from Children
 Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
@@ -1157,36 +1174,34 @@ You will remain in the nearby apartment or hotel for several weeks following you
 
 When your healthcare team sees that you are ready, they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the clinic, but less frequently&mdash;every other day, then twice a week etc.
 
-### Visits to the Outpatient BMT Clinic
-<p class="question">Once patients return home, how often do they return to the clinic?</p>
-
-### Returning Home
 Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called [Returning Home after your Autologous Transplant](returning-home-after-your-autologous-transplant). It is included at the end of this guide. 
 
 ## Additional Resources
-
 Document to be included along with this guide, as appendices:
 
 * Transplant Resources - Included by Sheila in her feedback
 * 10 Tips for Caregivers - Included by Sheila in her feedback
-* Guide for Caregivers
-* Sexual Activity During Cancer Treatment: Information for Women
-* Sexual Activity During Cancer Treatment: Information for Men
-* Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
+* BMT Emergency Guide
+** Guide for Caregivers
+** Sexual Activity During Cancer Treatment: Information for Women
+** Sexual Activity During Cancer Treatment: Information for Men
+** Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
 * Guide to Low Microbial Diet - http://patiented.herokuapp.com/articles/low microbial-diet
-* Caring for your Central Venous Catheter - http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
-* Memorial Sloan-Kettering Cancer Center Support Services - http://patiented.herokuapp.com/articles/mskcc-support-resources
-* Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
+** Caring for your Central Venous Catheter - http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
+** Memorial Sloan-Kettering Cancer Center Support Services - http://patiented.herokuapp.com/articles/mskcc-support-resources
+** Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
 http://patiented.herokuapp.com/articles/directions-for-giving-an-injection-below-the-skin-with-neupogen-in-a-pre-filled-syringe
 * Drug Fact Sheet - Melphalan (Alkeran<sup>&trade;</sup>)
 * Drug Fact Sheet - Plerixafor (Mozobil<sup>&trade;</sup>)
-* Fertility and Cancer Treatment - Information for Women
+** Fertility and Cancer Treatment - Information for Women
 http://patiented.herokuapp.com/articles/fertility-and-cancer-treatment-information-for-women
-* Fertility and Cancer Treatment - Information for Men
+** Fertility and Cancer Treatment - Information for Men
 http://patiented.herokuapp.com/articles/fertility-and-cancer-treatment-information-for-women
-* Selecting a Reproductive Endocrinologist or Fertility Center
+* Building Your Family After Cancer Treatment: 
+Options for Women?
+** Selecting a Reproductive Endocrinologist or Fertility Center
 http://patiented.herokuapp.com/articles/selecting-a-reproductive-endocrinologist-fertility-center
-* Sperm Banking
+** Sperm Banking
 http://patiented.herokuapp.com/articles/sperm-bank
 * Resources for Wigs and Hairpieces
 http://patiented.herokuapp.com/articles/wig-and-hairpiece-resources
