@@ -261,6 +261,7 @@ Relating to perishable food that has not been pasteurized, i.e., heat treated to
 
 **white blood cell**
 A type of immune cell. Most white blood cells are made in the bone marrow and are found in the blood and lymph tissue. White blood cells help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are all white blood cells. Also called a leukocyte.
+<div class="phasedivider invisible">End of Glossary</div>
 
 ## Bone Marrow Basics
 
@@ -575,25 +576,22 @@ The financial staff at the sperm bank and your reproductive endocrinologist will
 There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed by Livestrong. For more information about this, ask your nurse or a member of your healthcare team for an application or go to the Fertile Hope Website at [http://www.fertilehope.org/](http://www.fertilehope.org/).
 
 ### Speaking to Your Children about your Transplant
-Being open with your child helps to build trust and a sense of security. Before 
-
-Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  
-
-Use the proper name and terms ("bump" or and "boo boo" are confusing) when describing your diagnosis and transplant.
-
-Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)
-
-Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)
-Invite your child to ask any and all questions
-
-Validate your child’s feelings 
-
-Reassure your child that he/she is not responsible for your illness and that cancer is not contagious
-
-Set aside family time where the transplant is not the only focus  
+Being open with your child helps to build trust and a sense of security. During your transplant, your children will not be alb to stay with you at your hotel or apartment. This can be upsetting for parents and children, so clear communication is recommended. When speaking to your children about your transplant, we recommend that you:
+* Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  
+* Use the proper name and terms (“bump” or and “boo boo” are confusing) when describing your diagnosis and transplant.Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)
+* Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)
+* Invite your child to ask any and all questions.  Remember it is okay not to have all the answers.
+* Validate and Accept your child’s feelings 
+* Reassure your child that he/she is not responsible for your illness and that cancer is not contagious
+* Set aside family time where the transplant is not the only focus    
 
 ### Making Arrangements for Childcare
-Identify one or more family/friend who knows your child well to care for your child during the transplant periodMaintain your child’s daily routine as much as possiblePrepare your child for these changes and help him/her weather the transitionExpect that your child may have some reactions or may show normal signs of adjustment during the transition Engage your child’s teachers, counselors, clergy, and other adults involved in their life to support them during this time.Educate your child’s caregiver about the transplant process in case your child has questions during the separation
+Before you undergo your transplant, and move into the local apartment or hotel, you will need to make arrangements to have your children taken care of. We recommend that you:
+
+* Identify one or more family/friend who knows your child well to care for your child during the transplant period* Maintain your child’s daily routine as much as possible* Prepare your child for these changes and help him/her weather the transition* Expect that your child may have some reactions or may show normal signs of adjustment during the transition 
+* Engage your child’s teachers, counselors, clergy, and other adults involved in their life to support them during this time.* Educate your child’s caregiver about the transplant process in case your child has questions during the separation
+
+We have suggested ways for you to maintain a strong connection to your children while you are living at the local hotel/apartment later in this guide under "Living With Neutropenia."
 
 ### Making Arrangements for Your Pets
 Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery), you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
