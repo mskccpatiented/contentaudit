@@ -272,20 +272,10 @@ margin-left:2em;
 font-style:italic;
 }
 
-
-text-indent: 0em;
-margin-left:2em;
-list-style: square inside; 
-
-
-#jargon_list{
-
-}
-
 .image-placeholder{
 page-break-inside: avoid;
 border:1px solid slategray;
-color: #slategray;
+color: slategray;
 width:100%;
 min-height:200px;
 text-align:center;
@@ -318,12 +308,6 @@ background:silver;
 
 .notblock{
 display:inline;
-}
-
-.complete{
-text-decoration:line-through;
-opacity:0.6;
-filter:alpha(opacity=60);	
 }
 
 .outstanding{
