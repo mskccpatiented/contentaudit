@@ -790,7 +790,7 @@ Other complications may be related to the catheter itself. Notify your doctor, N
 
 <figure><img src="/g/figs/opbmt_fig_clampedcvc.jpg" /><figcaption>Clamping the catheter above a leak.</figcaption></figure>
 
-If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your *BMT Emergency Guide* (included at the back of this guide); if it is between 8:00am and 8:00pm call the BMT Outpatient Clinic. If it is after 8:00pm call your attending physician or go directly to the Urgent Care Center.
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your *BMT Emergency Guide* (included at the back of this guide); if it is between 8:00 am and 8:00 pm call the BMT Outpatient Clinic. If it is after 8:00 pm call your attending physician or go directly to the Urgent Care Center.
 
 Full instructions on how to care for your catheter are included in *Caring for Your Central Venous Catheter* which is included at the end of this guide. You should read it in full and refer to it when you are changing your bandages or caring for your catheter.
 <div class="phasedivider invisible">End of Phase 1 Divider</div>
@@ -884,7 +884,7 @@ From the time you start receiving your chemotherapy, your caregiver must take yo
 
 Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both of you how to use the diary.
 
-If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8:00am and 8:00pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8:00pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8:00 am and 8:00 pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8:00 pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
 You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day&mdash;little and often.
 
@@ -1050,10 +1050,10 @@ Follow these guidelines to take good care of your mouth:
 * If you have a pain in your mouth, your doctor will prescribe medication for the pain.
 
 ### Living With a Low Platelet Count
-Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy, you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's common for bleeding to start there. You and your caregiver will take these special precautions:
+Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy, you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You will need to take special care of your gums and mouth because it's common for bleeding to start there. You and your caregiver will take these special precautions:
 
-* Avoid sharp objects such as razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
-* Do not have manicures, pedicures, waxes, electrolysis, or tattoos
+* Avoid sharp objects, such as razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
+* Do not have manicures, pedicures, waxes, electrolysis, or tattoos.
 * Do not have any dental work done.
 * Follow the guidelines on mouth care (above).
 * Do not use rectal suppositories, enemas, or tampons.
@@ -1061,7 +1061,7 @@ Platelets clump together to help stop bleeding. Because you will have a very low
 * Consider using stool softeners or laxatives if you are straining to have bowel movements.
 * Avoid tight clothing or any clothing that you have to strain to put on or take off.
 
-You should avoid any activity that may result in injury. This includes any:
+You should avoid any activity that may result in injury. This includes:
 
 * Contact sports
 * Climbing ladders
@@ -1074,10 +1074,10 @@ You should take precautions when you are having sex. You should use lubrication 
 You should avoid medications that have not been explicitly prescribed to you by your medical team. Do not take:
 
 * Aspirin or products that contain aspirin
-* nonsteroidal anti-inflammatory drugs (NSAIDs) such as Advil<sup>&reg;</sup>
+* Nonsteroidal anti-inflammatory drugs (NSAIDs) such as Advil<sup>&reg;</sup>
 * Vitamin E
 
-All of these drugs make it more difficult for your blood to clot and are very dangerous for somebody like you with a limited ability to heal and clot.
+All of these medications make it more difficult for your blood to clot and are very dangerous for somebody like you with a limited ability to heal and clot.
 
 Call your doctor if you develop any symptoms of bleeding. Be on the lookout for:
 
@@ -1089,15 +1089,15 @@ Call your doctor if you develop any symptoms of bleeding. Be on the lookout for:
 If you notice that you are bleeding you should take these steps immediately:
 
 1. Apply direct pressure on the bleeding site.
-2. After applying pressure, follow the BMT Emergency Guide. If it is between 8:00am and 8:00pm, call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8:00pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+2. After applying pressure, follow the BMT Emergency Guide. If it is between 8:00 am and 8:00 pm, call the BMT Outpatient Clinic at (212) 639-2399. If it is after 8:00 pm, call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 3. Apply ice over the bridge of your nose for nosebleeds.
 
 Call your doctor immediately if you:
 
 * Have black bowel movements, blood in your stool, or rectal bleeding
 * Have blood in your urine
-* Have a headache that do not get better, blurred vision, or dizziness
-* Cough up blood, vomit blood, or get a nose bleeds
+* Have a headache that does not get better, blurred vision, or dizziness
+* Cough up blood, vomit blood, or get a nose bleed
 
 ### Living With a Low Red Blood Cell Count (Anemia)
 Your chemotherapy will cause you to have a very low red blood cell count, a condition known as anemia. Hemoglobin in red blood cells carries oxygen from the lungs to the tissues in all parts of the body. When your red blood cell count is low, your body cannot carry oxygen as well. Anemia can make you feel tired and weak. You may also feel dizzy or lightheaded when changing positions quickly from lying to standing. 
@@ -1123,9 +1123,9 @@ Your doctor may recommend a blood transfusion to boost the number of platelets o
 
 If your doctor recommends a transfusion, it will be given to you through your catheter during one of your regular visits to the Outpatient BMT Clinic. 
 
-A transfusion of red blood cells usually takes 2 to 4 hours. Transfusions of other blood components, like platelets, takes only 15 to 30 minutes
+A transfusion of red blood cells usually takes 2 to 4 hours. Transfusions of other blood components, like platelets, takes only 15 to 30 minutes.
 
-#### Sourcing Blood for Your Transfusion
+#### Sourcing blood for your transfusion
 The blood used in your transfusion is donated at our blood bank. There is no substitute for real blood, so we are incredibly grateful to the people who donate blood. 
 
 Your friends and relatives may donate red blood cells and platelets&mdash;this is known as a directed donation. Your friends and relatives are eligible to donate if they:
@@ -1133,9 +1133,9 @@ Your friends and relatives may donate red blood cells and platelets&mdash;this i
 * Are between 16 and 75 years old. No parental consent is required for those who are at least 17 years old
 * Weigh at least 110 pounds
 * Are in good health
-* Have not had an illness such as hepatitis, jaundice, cancer, etc
+* Have not had an illness such as hepatitis, jaundice, cancer, etc.
 * Do not have signs of a cold or active allergy at the time of donation
-* Have not taken aspirin, or any medication that has aspirin or aspirin-like drugs (Ibuprofen, Motrin<sup>&reg;</sup>, Naprosyn<sup>&reg;</sup>, Anaprox<sup>&reg;</sup>, Advil<sup>&reg;</sup>, Aleve<sup>&reg;</sup>) within 3 days before giving blood
+* Have not taken aspirin, or any medication that has aspirin or aspirin-like drugs (ibuprofen, Motrin<sup>&reg;</sup>, Naprosyn<sup>&reg;</sup>, Anaprox<sup>&reg;</sup>, Advil<sup>&reg;</sup>, Aleve<sup>&reg;</sup>) within 3 days before giving blood
 * Have identification showing their name and photograph or signature
 * Have not consumed alcohol for at least 8 hours before donating
 
@@ -1147,13 +1147,13 @@ Schwartz Building Lobby
 (Between East 67<sup>th</sup> and East 68<sup>th</sup> Streets)
 New York, NY 10065
 
-For more information about making a directed donation and to make an appointment, your friends and family should call our Blood Donor Room at 212-639-7643.
+For more information about making a directed donation and to make an appointment, your friends and family should call our Blood Donor Room at (212) 639-7643.
 
 If your friend or family member has a blood type that isn't compatible with yours, then their blood will be released for use with other patients at MSKCC.
 
 Directed donations will be held for you for 30 days. After that, the blood will be released for use with other patients at MSKCC.
 
-#### Making Sure Blood Is Safe
+#### Making sure blood is safe
 After it is donated, all blood is tested for:
 
 * Syphilis
@@ -1165,15 +1165,15 @@ After it is donated, all blood is tested for:
 
 The chance of getting any of these from donated blood is very small. Directed donations are tested in exactly the same way as other donations.  
 
-#### Risks Associated with Blood Transfusions
+#### Risks associated with blood transfusions
 Blood transfusions have some risks. These risks include the very slight chance of having an allergic reaction or acquiring an infection through tainted blood.
 
-#### Side Effects During and After the Transfusion
-Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medications. Transfusion reactions are rarely life threatening. The nursing staff constantly check all patients while a blood transfusion is taking place.
+#### Side effects during and after your transfusion
+Transfusions sometimes cause reactions. The most common symptoms are fever, chills, and hives. These can be treated with a variety of medications. Transfusion reactions are rarely life threatening. The nursing staff constantly checks all patients while a blood transfusion is taking place.
 
 Allergic reactions can sometimes occur. Symptoms are listed below. They can occur up to 48 hours after the transfusion. Call your doctor immediately if you have:
 
-* A temperature of 100.4&deg;F or 38&deg;C or higher, or chills
+* A temperature of 100.4&deg;F(38&deg;C) or higher, or chills
 * Flushing of the face
 * Hives, rash, or itching
 * Trouble breathing or shortness of breath
@@ -1184,9 +1184,9 @@ Allergic reactions can sometimes occur. Symptoms are listed below. They can occu
 * Chest pain (If you have chest pain, call your local emergency number immediately)
 
 ### Exercise
-Exercise is an important part of the recovery process during and following stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength, and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
+Exercise is an important part of the recovery process during and after stem cell transplantation. Benefits of exercise include preventing loss of endurance, muscle strength, and bone density. Exercise can also prevent respiratory and circulatory problems and improve your ability to be as independent as possible.
 
-While in the outpatient transplant program you are encouraged to walk to and from the hospital daily, which will help to maintain your conditioning. During the hours you are in clinic, you are encouraged to walk in the hallways (wearing a mask and gloves) 2 to 3 times daily. While you are staying locally you are encouraged to walk outside (weather permitting). 
+While in the outpatient transplant program, you are encouraged to walk to and from the hospital daily, which will help to maintain your conditioning. During the hours you are in clinic, you are encouraged to walk in the hallways (wearing a mask and gloves) 2 to 3 times daily. While you are staying locally, you are encouraged to walk outside (weather permitting). 
 
 If you have special needs, you will be seen by a physical therapist for an evaluation. 
 
@@ -1195,9 +1195,9 @@ If you have special needs, you will be seen by a physical therapist for an evalu
 ## Life After Your Transplant
 You will remain in the nearby apartment or hotel for several weeks following your stem cell transplant, returning to the Outpatient BMT Clinic each day. 
 
-When your healthcare team sees that you are ready, they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the clinic, but less frequently&mdash;every other day, then twice a week etc.
+When your healthcare team sees that you are ready, they will allow you to return home. You and your caregiver will check out of your apartment or hotel. You will still visit the clinic&mdash;but less frequently.
 
-Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called [Returning Home after your Autologous Transplant](returning-home-after-your-autologous-transplant). It is included at the end of this guide. 
+Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called *Returning Home after your Autologous Transplant*. It is included at the end of this guide. 
 
 ## Additional Resources
 Document to be included along with this guide, as appendices:
