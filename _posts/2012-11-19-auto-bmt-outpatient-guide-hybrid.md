@@ -2,7 +2,7 @@
 title: Guide to Outpatient Autologous Stem Cell Transplant - Final Draft
 url: outpatient-autologous-stem-cell-transplant-hybrid
 comments: true
-jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbonebone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'non steroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'anemia', 'apheresis', 'autologous transplant', 'bone marrow', 'bone marrow biopsy', 'biopsy', 'central venous catheter', 'hemoglobin', 'immune system', 'microorganisms', 'mobilization', 'neutropenia', 'platelets', 'red blood cells', 'rbc', 'stem cell', 'thrombocytopenic', 'transfusion', 'white blood cell', 'wbc']
+jargonwords: ['autologous', 'hospitalists', 'hospitalist', 'platelet', 'breastbonebone', 'sternum', 'schematic', 'spongy', 'wbc', 'rbc', 'platelets', 'plt', 'clots', 'infertile', 'fertilized', 'thawed', 'electrocardiogram', 'ekg', 'echocardiogram', 'pft', 'axial', 'tomography', 'positron', 'cavities', 'fillings', 'mobilized', 'granulocyte', 'gcsf', 'filgrastim', 'neupogen', 'plerixafor', 'mozobilreg', 'apheresis', 'catheter', 'anesthetic', 'transfusions', 'broviac catheter', 'hickman catheter', 'quinton catheter', 'catheters', 'lumens', 'childcare', 'tote', 'melphalan', 'antibacterial', 'underarms', 'genitals', 'rectum', 'urinate', 'bowels', 'dietitian', 'sores', 'mouthwash', 'mucous', 'toothettes', 'floss', 'chapping', 'lubricant', 'antifungal', 'infecting', 'neutropenia', 'refrigerated', 'undercooked', 'unpasteurized', 'alfalfa', 'radish', 'lysol', 'sanitizer', 'clorox', 'nonporous', 'soapy', 'detergent', 'firm-skinned', 'rinsing', 'thaw', 'defrost', 'reheated', 'yolks', 'infuse', 'tickle', 'garlic-like', 'preservative', 'infused', 'transplanted', 'engraft', 'engraftment', 'dosages', 'moisturizer', 'chapstick', 'ipad', 'webcam', 'neutrophils', 'neutrophil', 'orally', 'bathe', 'anal', 'antimicrobial', 'purell', 'tampons', 'suppositories', 'enemas', 'manicure', 'pedicure', 'waxing', 'chills', 'sweats', 'irritability', 'urination', 'microliter', 'perineal', 'rectal', 'rectally', 'softeners', 'laxatives', 'girdle', 'undergarments', 'bicycling', 'lubrication', 'thrusting', 'nonsteroidal', 'anti-inflammatory', 'nsaids', 'advil', 'manicures', 'pedicures', 'electrolysis', 'bruising', 'nosebleeds', 'dizziness', 'bleeds', 'jaundice', 'aspirin', 'ibuprofen', 'motrin', 'naprosyn', 'anaprox', 'aleve', 'tylenol', 'anacin', 'clot', 'irradiated', 'lymphoma', 'myeloma', 'allogeneic', 'perioperative', 'inpatients', 'outpatients', 'rlac', 'anemia', 'apheresis', 'autologous transplant', 'bone marrow', 'bone marrow biopsy', 'biopsy', 'central venous catheter', 'hemoglobin', 'immune system', 'microorganisms', 'mobilization', 'neutropenia', 'platelets', 'red blood cells', 'rbc', 'stem cell', 'thrombocytopenic', 'transfusion', 'white blood cell', 'wbc']
 jargonpercent: 
 layout: article
 categories: ['Tests and Procedures']
@@ -15,33 +15,33 @@ status: formatted
 date: 11-12-2012
 ---
 ## Welcome &amp; Overview
-Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center. 
+Welcome to the Outpatient Autologous Stem Cell Transplant program at Memorial Sloan-Kettering Cancer Center (MSKCC). 
 
 ### What's in This Guide
-This guide will help you learn about autologous stem cell transplantation; what it is, why it's been recommended for you and what happens in each phase of the transplant. The information in this guide will compliment the verbal information you receive from your healthcare team.
+This guide will help you learn about autologous stem cell transplantation: what it is, why it's been recommended for you, and what happens in each phase of the transplant. The information in this guide will compliment the information your healthcare team will tell you.
 
 ### How to Use This Guide
-You should read this guide at least once, including any additional materials included at the back of the guide. Refer to the guide as your treatment progresses.
+You should read this entire guide at least once, including any additional materials included at the back of the guide. Refer to the guide as your treatment progresses.
 
-As you read through this guide make a note of any questions that come to mind. A member of your healthcare team will answer your questions when you see them next.
+As you read through this guide, make a note of any questions that come to mind. A member of your healthcare team will answer your questions the next time you seen them.
 
 ### We Need Your Help
-We are always improving the information we provide to patients and their families/friends. If you get to the end of this guide and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please e-mail us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
+We are always improving the information we provide to patients and their families/friends. If you get to the end of this guide and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please email us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
 
 ### Glossary
-We've done our best to limit the number of medical terms in this guide, however there are some words that we need you to understand so that you can. With this in mind, we've prepared a glossary of useful terms:
+We've done our best to limit the number of medical terms in this guide, however there are some words that we need you to understan. With this in mind, we've prepared a glossary of useful terms.
 
 **Advil<sup>&reg;</sup>**
-Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
 
 **Aleve<sup>&reg;</sup>**
-Aleve<sup>&reg;</sup> is a brand of naproxen. Naproxen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Aleve<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
 
 **anal**
 Related to the anus.
 
 **Anaprox**
-Anaprox<sup>&reg;</sup> is a brand of naproxen. Naproxen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain and fever.
+Anaprox<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
 
 **anemia**
 A condition in which the number of red blood cells is below normal.
@@ -62,10 +62,10 @@ A drug that treats infections caused by fungi.
 A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
 
 **apheresis**
-A procedure in which blood is collected, part of the blood such as platelets or white blood cells is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
+A procedure in which blood is collected, part of the blood (such as platelets or white blood cells) is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
 
 **aspirin**
-A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called non steroidal anti-inflammatory agents (NSAIDs). 
+A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). 
 
 **autologous**
 Taken from an individual’s own tissues, cells, or DNA.
@@ -89,13 +89,13 @@ The long, flat bone that forms the center front of the chest wall. The breastbon
 A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
 
 **catheter**
-A thin, flexible tube used to deliver fluids into or withdraw fluids from the body.
+A thin, flexible tube used to deliver liquids into or withdraw liquids from the body.
 
 **central venous catheter**
-A thin, flexible tube that is inserted into a vein in the upper arm, thigh, or neck or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used to give fluids, blood transfusions, and chemotherapy and other drugs, and for taking blood samples. It avoids the need for repeated needle sticks.
+A thin, flexible tube that is inserted into a vein in the upper arm, thigh, neck, or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used for taking blood samples, and also to give liquids, blood transfusions, chemotherapy, and other drugs. It avoids the need for repeated needle sticks.
 
 **clot**
-To change from a liquid form into a solid or semi-solid; for example, when blood clots it changes from a liquid to a semi-solid, helping to stop bleeding.
+To change from a liquid form into a solid or semi-solid; for example, when blood clots, it changes from a liquid to a semi-solid, helping to stop bleeding.
 
 **dietitian**
 A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
@@ -122,10 +122,10 @@ When stem cells infused into the body start to fix in place, grow, and make new 
 A type of procedure used to help preserve a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
 
 **filgrastim**
-A drug used to increase the numbers of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
+A medication used to increase the number of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
 
 **GCSF (granulocyte colony-stimulating factor)**
-A drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+A medication that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
 **genital**
 Refers to the genitalia (external and internal sex organs and glands).
@@ -140,16 +140,16 @@ A protein inside red blood cells that carries oxygen from the lungs to tissues a
 A doctor who specializes in the care of hospitalized patients.
 
 **ibuprofen**
-A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of non steroidal anti-inflammatory drug (NSAID). Also called Advil<sup>&reg;</sup> and Motrin<sup>&reg;</sup>.
+A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of nonsteroidal anti-inflammatory drug (NSAID). Also called Advil<sup>&reg;</sup> and Motrin<sup>&reg;</sup>.
 
 **immune system**
 The complex group of organs and cells that defend the body against infections and other diseases.
 
 **infection**
-Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken the natural defense system.
+Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken this system.
 
 **infertility**
-The inability to produce children.
+Not being able to produce children.
 
 **infusion**
 A method of putting fluids, including medications and blood products, into the bloodstream. Also called intravenous infusion.
@@ -185,22 +185,22 @@ One millionth of a liter.
 An organism that can be seen only through a microscope. Microorganisms include bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
 
 **mobilization**
-Taking medicine to stimulate the growth of stem cells and move them into the bloodstream.
+Taking medication to stimulate the growth of stem cells and move them into the bloodstream.
 
-**motrin**
-Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a non steroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+**Motrin<sup>&reg;</sup>**
+A brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
 
-**mozobil**
-Mozobil<sup>&reg;</sup> is a brand of plerixafor. Plerixafor is a drug used together with granulocyte colony-stimulating factor (GCSF) to help mobilize stem cells; moving them from the bone marrow to the blood. 
+**Mozobil<sup>&reg;</sup>**
+A brand of plerixafor. Plerixafor is a medication used together with granulocyte colony-stimulating factor (GCSF) to help move stem cells them from the bone marrow to the blood. 
 
 **myeloma**
-Cancer that arises in plasma cells, a type of white blood cell.
+Cancer of blood plasma cells, a type of white blood cell.
 
 **naprosyn**
-A drug used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of NSAID and a type of cyclooxygenase inhibitor. Also called naproxen.
+A medication used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti inflammatory drug, and a type of cyclooxygenase inhibitor. Also called naproxen.
 
-**neupogen**
-Neupogen<sup>&reg;</sup> is a brand of GCSF&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+**Neupogen<sup>&reg;</sup>**
+A brand of granulocyte colony-stimulating factor (GCSF)&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
 **neutropenia**
 A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
@@ -208,17 +208,17 @@ A condition in which there is a lower than normal number of neutrophils (a type 
 **neutrophil**
 A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
 
-**non steroidal**
+**nonsteroidal**
 A drug that does not contain a steroid.
 
 **NSAID**
-A drug that decreases fever, swelling, pain, and redness. Also called non steroidal anti inflammatory drug.
+A medication that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti inflammatory drug.
 
 **orally**
 By mouth; e.g., a medication to be taken orally is one that is swallowed.
 
-**outpatients**
-A patient who visits a health care facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
+**outpatient**
+A patient who visits a healthcare facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
 
 **pedicure**
 A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
@@ -227,10 +227,10 @@ A beauty treatment where toenails are trimmed/shaped and sometimes polished or p
 A tiny piece of cell that is made by breaking off of a large cell in bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding and to help wounds heal. Also called a thrombocyte.
 
 **plerixafor**
-A medication used before together with granulocyte colony-stimulating factor GCSF to help mobilize stem cells, moving them from the bone marrow to the blood. 
+A medication used together with granulocyte colony-stimulating factor (GCSF) to move stem cells from the bone marrow to the blood. 
 
 **PET scan**
-A scan used to look at the organs and the way they function in your body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
+A scan used to look at the organs and the way they function in the body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
 
 **rectal**
 By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
@@ -270,71 +270,71 @@ A type of immune cell. Most white blood cells are made in the bone marrow and ar
 
 Bone marrow is a substance found in the spaces in the center of the larger bones in your body: your hip, breastbone, and pelvis.
 
-Your bone marrow contains a large number of stem cells. Stem cells are immature cells that produce all of the blood cells in your body: the white blood cells that fight infection, red blood cells that carry oxygen, and platelets that clot to stop you from bleeding. **Edit: Any stem cell can become a specific kind of blood cell such as** Your stem cells are constantly dividing and changing into the different types of blood cells in your body&mdash;replacing older blood cells. Some stem cells also circulate in your bloodstream.
+Your bone marrow contains a large number of stem cells. Stem cells are immature cells that produce all of the blood cells in your body: the white blood cells that fight infection, red blood cells that carry oxygen, and platelets that clot to stop you from bleeding. Your stem cells are constantly dividing and changing into the different types of blood cells in your body&mdash;replacing older blood cells. Some stem cells also circulate in your bloodstream.
 
-You'll hear your transplant referred to as a "bone marrow transplant" or a "stem cell transplant." Technically, stem cell transplant is the more correct term, as you'll receive an infusion of stem cells. 
+You'll hear your transplant referred to as a "bone marrow transplant" or a "stem cell transplant." Technically, stem cell transplant is the more correct term, as you'll be receiving an infusion of stem cells. 
 
 ### Autologous Stem Cell Transplant
 An autologous stem cell transplant is being recommended for you because, while you have cancer, you are in relatively good health and your doctors feel that a transplant is the best treatment for your specific disease.
 
-Autologous means "from yourself." When you have an autologous stem cell transplant your stem cells are harvested from your body and then frozen before you receive chemotherapy. You will receive a very high dose of chemotherapy to kill the cancer in your body. This chemotherapy will also destroy most of the blood cells in your bone marrow and bloodstream. 
+Autologous means "from yourself." When you have an autologous stem cell transplant, your stem cells are harvested from your body and then frozen before you receive chemotherapy. You will receive a very high-dose of chemotherapy to kill the cancer in your body. This chemotherapy will also destroy most of the blood cells in your bone marrow and bloodstream. 
 
-Collecting your stem cells beforehand allows us to give you a high dose of chemotherapy before returning your stem cells to you. Once your stem cells have been given back to you they will slowly start to make new blood cells. You are literally receiving a stem cell transplant "from yourself."
+Collecting your stem cells beforehand allows us to give you a high-dose of chemotherapy before returning your stem cells to you. Once your stem cells have been given back to you, they will slowly start to make new blood cells. You are literally receiving a stem cell transplant "from yourself."
 
 An autologous transplant has 3 key phases:
 
-**Before** - You will prepare for your stem cell transplant. You will receive drugs that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. A central venous catheter will be inserted into your upper chest wall. 
+**Before** - You will prepare for your stem cell transplant. You will receive medications that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. A central venous catheter will be inserted into your upper chest wall. 
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
 
-**During** - You will receive your chemotherapy, which is called the "conditioning regimen", to kill the cancer cells. Your stem cells and other blood cells will also be killed and you will lose your ability to make new blood cells. Your immune system will be severely compromised. Your stem cells will be taken from storage and infused into your body through your catheter. This is your stem cell transplant.
+**During** - You will receive your chemotherapy, which is called the "conditioning regimen," to kill the cancer cells. Your stem cells and other blood cells will also be killed and you will lose your ability to make new blood cells. Your immune system will be severely compromised. Your stem cells will be taken from storage and infused into your body through your catheter. This is your stem cell transplant.
 
 <div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
 
-**After** - The infused stem cells find their way through your bloodstream to your bones. Over time they take hold in your bones, a process called "engraftment." They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return to normal.
+**After** - The infused stem cells find their way through your bloodstream to your bones. Over time, they take hold in your bones, a process called "engraftment." They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return to normal.
 
 ### Outpatient Autologous Stem Cell Transplant
-Depending on your condition and treatment you may receive part of your care in the hospital as an inpatient and part of it in the BMT clinic as an outpatient. While you're being cared for in the outpatient setting you will stay in a local hotel or apartment. You will only be admitted to the hospital if you develop complications. 
+Depending on your condition and treatment you may receive part of your care in the hospital as an inpatient and part of it in the BMT clinic as an outpatient. While you're being cared for in the outpatient setting, you will stay in a local hotel or apartment. You will only be admitted to the hospital if you develop complications. 
 
-While each person't transplant is different, here is a typical timeline for someone having an outpatient transplant. You'll see that the days leading up to the transplant are given minus number such as Day −3, Day −2 etc. The day of the transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
+While each patient's transplant is different, here is a typical timeline for someone having an outpatient transplant. You'll see that the days leading up to the transplant are given minus numbers such as Day −3, Day −2, etc. The day of the transplant is Day 0, and the days that follow are Day +1, Day +2 etc. Your healthcare team will use this format when they explain your transplant to you. 
 
-* **Day −4:** You and your caregiver will check into a hotel or apartment close to MSKCC's main campus in Manhattan. 
+* **Day −4:** You and your caregiver will check into a hotel or apartment close to MSKCC's main hospital in Manhattan. 
 * **Day −3:** You and your caregiver will come to MSKCC's Interventional Radiology Department at the main hospital, where a central venous catheter will be inserted in your upper chest wall. You will return to your hotel or apartment in the evening.
 * **Day −2:** You will come to the Outpatient BMT Clinic where you will receive your chemotherapy. You will return to your hotel or apartment in the evening. (Note that, in some cases, patients will need multiple days of chemotherapy. Your healthcare team will explain your specific treatment plan to you.) 
 * **Day −1:** This is a rest day. You will come to the outpatient clinic for evaluation.
 * **Day 0:** This is your transplant day. You will come to the Outpatient BMT Clinic where you will receive your stem cell transplant. You will return to your hotel or apartment in the evening.
-* **Day +1 to +12:** You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked, and a physical examination. You'll also receive hydration, electrolytes, and transfusions if necessary. While you are in the outpatient clinic you will be cared for in a private room that has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. You will return to your hotel or apartment each evening. 
+* **Day +1 to +12:** You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked, and a physical examination. You'll also receive hydration, electrolytes, and transfusions if necessary. While you are in the outpatient clinic, you will be cared for in a private room that has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. You will return to your hotel or apartment each evening. 
 
-After Day +12 your central venous catheter will be removed. If you live within one hour of MSKCC's main hospital you may be allowed to return home. If you live further away you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
+After Day +12 your central venous catheter will be removed. If you live within 1 hour of MSKCC's main hospital, you may be allowed to return home. If you live further away, you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
 
 ## Your Transplant Team
 <div class="image-placeholder invisible"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
 
-A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you throughout your treatment. Below you'll find a list of the team members and their roles. You will meet each member of your healthcare team at different times during your treatment.
+A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you throughout your treatment. Below, you'll find a list of the team members and their roles. You will meet each member of your healthcare team at different times during your treatment.
 
-Your **attending doctor** will be in charge of your care throughout your treatment. Even though one specific doctor will be your primary doctor, you will be cared for by different doctors during your transplant.
+Your **attending doctor** will be in charge of your care throughout your treatment. Even though 1 specific doctor will be your primary doctor, you'll be cared for by different doctors during your transplant.
 
 A **fellow** is a doctor who has completed general training and is receiving additional training in cancer care. 
 
 A **nurse practitioner (NP)** is a nurse who has a master's or doctoral degree. An NP is licensed to examine you, provide medical treatments, and prescribe medications. The NPs will be responsible for your daily care when you come to the Outpatient BMT Clinic.
 
-Your **BMT nurse coordinator** is a nurse who will communicate and work with you, your caregiver and your team of doctors to organize and schedule all the testing, procedures, and consults with other professionals required prior to your transplant. The nurse coordinator will give you treatment calendars that show your treatment plan over time.
+Your **BMT nurse coordinator** is a nurse who will communicate and work with you, your caregiver, and your team of doctors to organize and schedule all the testing, procedures, and consults with other professionals required prior to your transplant. Your nurse coordinator will give you calendars that show your treatment plan over time.
 
 A team of **nurses** will provide your day-to-day nursing care. They are registered nurses specially trained in the care of stem cell transplant patients.
 
-A **hospitalist** is a doctor who only sees patients while they are in the hospital. At MSKCC a hospitalist is on duty all night. 
+A **hospitalist** is a doctor who only sees patients while they are in the hospital. At MSKCC, a hospitalist is on duty all night. 
 
-A **clinical pharmacist** specializes in the care of transplant patients. The pharmacist will review your medications with you and your caregiver, teaching you how to take them properly and to inform you of any side effects they may cause. The pharmacist will review and monitor your medications frequently with the outpatient team.
+A **clinical pharmacist** specializes in the care of transplant patients. Your pharmacist will review your medications with you and your caregiver, teaching you how to take them properly, and to inform you of any side effects they may cause. Your pharmacist will review and monitor your medications frequently with the outpatient team.
 
-**A social worker** will help you, your family and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
+**A social worker** will help you, your family, and those around you manage the stress that comes with the transplant process. The social workers understand the issues faced by transplant patients and are on hand to listen, offer counseling, and refer you or your family to other resources and services as needed. 
 
 **House staff** are doctors who are completing their residency. They work under the supervision of the fellows and attending doctors.
 
 **Financial counselors** from Patient Financial Services will work with you and your insurance company to determine your transplant benefits. These counselors are experienced in the insurance issues faced by transplant patients. Each insurance company and their policies differ, so when your insurance company requires authorization your financial counselor will assist with that process. 
 
-**Session assistants** are part of the check-in process and monitor patient flow. They assist doctors and nurse practitioners, schedule appointments, manage medical records, and track each patient's daily progress. This includes any scans, tests, and treatments given.
+**Session assistants** check-in patients and monitor patient flow in and out of the clinic. They assist doctors and NPs, schedule appointments, manage medical records, and track each patient's daily progress. This includes any scans, tests, and treatments given.
 
-**Physician Office Assistants** provide administrative support to attending staff. You may speak with this person when you submit information or when you have questions for the physician.
+**Physician office assistants** provide administrative support to attending staff. You may speak with this person when you submit information or when you have questions for your physician.
 
 While you are here, you will come to know all of the members of your team.
 
@@ -342,7 +342,7 @@ While you are here, you will come to know all of the members of your team.
 Phase 1 of your treatment begins when you meet your healthcare team on or around Day −30 and continues until the start of your chemotherapy.
 
 ### Phase 1 - Summary and Checklist
-In this phase you'll make preparations for your transplant: practically, physically and emotionally. This will be a very busy time for you and your family. 
+In this phase, you'll make preparations for your transplant: practically, physically, and emotionally. This will be a very busy time for you and your family. 
 
 Here is a list of things that will happen, and things that you need to do, in Phase 1. You can check off items as you go along:
 
@@ -351,43 +351,43 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * **Meet your team** - Meet your doctor and members of your healthcare team. Take this time to ask about your treatment and have them answer your questions.
 * **Choose a caregiver** - Identify a family member or friend to act as your caregiver. Make sure they understand what the role entails and give them a copy of this guide. Ask them to read this guide at least once.
 * **Get financial clearance** - Meet with a representative from patient financial services (PFS) and speak to your health insurance company. Check that your outpatient stem cell transplant and medications are covered.
-* **Learn about chemotherapy side effects** - We've compiled a list of side effects caused by high dose chemotherapy. Read this information and make a note of any questions you or your caregiver have. 
+* **Learn about chemotherapy side effects** - We've compiled a list of side effects caused by high-dose chemotherapy. Read this information and make a note of any questions you or your caregiver have. 
 * **Make decisions about your fertility** - Speak with your healthcare team about your fertility. Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future. Take steps to preserve your fertility.
-* **Speak to your children about your treatment** - Speak to your children about you treatment to help build trust and their sense of security.
+* **Speak to your children about your treatment** - Speak to your children about your treatment to help build trust and their sense of security.
 * **Arrange childcare** - Your children cannot stay with you at your hotel or apartment during your outpatient transplant, so you should arrange for childcare.
-* **Arrange pet care** - Your pets cannot stay with you during your transplant so make arrangements for them.
+* **Arrange pet care** - Your pets cannot stay with you during your transplant, so make arrangements for them.
 * **Attend orientation** - You and your caregiver will attend the online orientation for outpatient autologous stem cell transplant patients. Ask your nurse coordinator for details.
-* **Pre-transplant evaluation** - You'll undergo a series of medical tests. Your nurse coordinator will talk you through the schedule for these tests.
+* **Pretransplant evaluation** - You'll undergo a series of medical tests. Your nurse coordinator will schedule these tests with you.
 * **Lodging** - Your nurse coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
-* **Nutrition Consult** - Meet with a dietitian to review special dietary requirements and safe food handling.
+* **Nutrition consult** - Meet with a dietitian to review special dietary requirements and safe food handling.
 * **Learn about the temperature and fluid intake log** - You and your caregiver will learn how to take your temperature, record how much you drink, and how to write this information down in a diary.
-* **Social work consult** - Meet with a social worker who will explain the psychological, emotional and financial support services offered by the social work team.
+* **Social work consult** - Meet with a social worker who will explain the psychological, emotional, and financial support services offered by the social work team.
 * **Mobilization** - You will give yourself injections of a medication to increase the number of stem cells in your bloodstream.
-* **Harvesting** - You will visit our Blood Donor Room and your stem cells will be harvested from your bloodstream
-* **Have your catheter inserted** - You will visit our Interventional Radiology Department and a central venous catheter will be inserted into your chest wall.
-* **Learn catheter care** - A nurse will show you and your caregiver how to care for your catheter, change your dressings dressings etc.
-* **Make decisions about your hair** - Think about whether you'd like to cut your hair. Visit a wig store if you decide to wear a wig
-* **Prepare for clinic** - Purchase a tote bag or rolling case to carry your supplies to clinic every day.
+* **Harvesting** - You will visit our Blood Donor Room and your stem cells will be harvested from your bloodstream.
+* **Have your catheter inserted** - You will visit the Interventional Radiology Department and a central venous catheter will be inserted into your chest wall.
+* **Learn catheter care** - A nurse will show you and your caregiver how to care for your catheter and change your bandages.
+* **Make decisions about your hair** - Think about whether you'd like to cut your hair. Visit a wig store if you decide to wear a wig.
+* **Prepare for clinic visits** - Purchase a tote bag or rolling case to carry your supplies to the Outpatient BMT Clinic every day.
 
 ### Meeting Your Team
-On or around Day −30 you'll meet with your attending physician and other members of your healthcare team. Your attending physician will explain the type of treatment you'll undergo and will walk you through your likely treatment plan. The treatment plan is the specific plan for your treatment that takes into account your disease, overall health and other factors. Your healthcare team will update the treatment plan as you undergo pre-transplant tests.	
+On or around Day −30, you'll meet with your attending physician and other members of your healthcare team. Your attending physician will explain the type of treatment you'll undergo and will walk you through your likely treatment plan. The treatment plan is the specific plan for your treatment that takes into account your disease, overall health, and other factors. Your healthcare team will update your treatment plan as you undergo pretransplant tests.	
 
 ### Choosing Your Caregiver
-One of the most important steps as you prepare for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. Your caregiver will be responsible for a lot of the day-to-day medical, practical, and emotional support you need during your outpatient transplant. 
+One of the most important steps in preparing for your transplant is choosing your caregiver. This person is usually a family member or a close friend and will be an important part of your healthcare team. Your caregiver will be responsible for a lot of the day-to-day medical, practical, and emotional support you need during your outpatient transplant. 
 
 Your caregiver will receive specific instructions from your healthcare team about their responsibilities. Some of these responsibilities will include: 
 
-#### Medical Support 
+#### Medical support 
 * Gathering information from your healthcare team
 * Caring for your catheter 
-* Making sure you take your medications and keeping a written record of when you take your medications
+* Making sure you take your medications and keeping a written record of when you take them
 * Taking your temperature every 4 hours while you are awake and keeping a written record of your temperature
 * Keeping a written record of how much fluid you drink every day
 * Noticing any changes in your condition
 * Telling your healthcare team about any new symptoms you may have or changes in your condition
 * Calling for medical help in an emergency
 
-#### Practical Support
+#### Practical support
 * Dealing with financial and insurance issues 
 * Preparing your meals according to a low microbial diet
 * Bringing you to and from the hospital
@@ -395,52 +395,52 @@ Your caregiver will receive specific instructions from your healthcare team abou
 * Keeping family members and friends up to date about your condition
 * Managing the number of visitors you have and keeping you away from anyone who is sick
 
-#### Emotional Support
+#### Emotional support
 * Paying attention to your moods and feelings
 * Communicating with you and listening to you
 * Understanding your needs and your decisions
 
-#### Choosing the Right Caregiver
-Being a caregiver is a full-time, 24-hour, 7-day a week responsibility. It is tiring, demanding and stressful &mdash; especially if your condition, schedule or treatment changes. 
+#### Choosing the right caregiver
+Being a caregiver is a full-time, 24-hour, 7-day a week responsibility. It is tiring, demanding, and stressful&mdash;especially if your condition, schedule or treatment changes. 
 
-While you're undergoing your transplant, your caregiver will not be able to work and will need to stay with you for most of the day and night (though while you are in the Outpatient BMT clinic your caregiver can take some time for themselves; this is something we strongly recommend).
+While you're undergoing your transplant, your caregiver will not be able to work and will need to stay with you for most of the day and night (however, while you are in the Outpatient BMT Clinic your caregiver can take some time for themselves; this is something we strongly recommend).
 
-It is important for your caregiver to maintain a positive attitude, calm demeanor and flexible approach while also providing you with the support and encouragement you need. It's important for you to understand that the caregiver role is challenging and that your caregiver might find themselves overwhelmed by the responsibilities at times.
+It is important for your caregiver to maintain a positive attitude, calm demeanor, and flexible approach while also providing you with the support and encouragement you need. It's important for you to understand that the caregiver role is challenging and that your caregiver might find themselves overwhelmed by the responsibilities at times.
 
 Take time now to think about who you would like to be your caregiver. It should be somebody you trust who can take the time to care for you. Your caregiver should be someone who can offer you the practical and emotional support you need. 
 
-#### Multiple Caregivers
-If there isn't 1 person who can act as your caregiver then it may be possible for you to have different caregivers scheduled during different times. It is best to limit the number of caregivers to 1 or 2 individuals. 
+#### Multiple caregivers
+If there isn't 1 person who can act as your caregiver, then it may be possible for you to have different caregivers scheduled during different times. It is best to limit the number of caregivers to 1 or 2 individuals. 
 
-#### Resources for Caregivers
+#### Resources for caregivers
 Talk to your healthcare team about choosing a caregiver. We have included useful resources for caregivers at the back of this guide.
 
 ### Financial Clearance
-Stem cell transplants are complex and costly. You will need to check that your pre-transplant tests, high-dose chemotherapy, stem cell infusion, post-transplant care, housing, medications, and other expenses are covered by your insurance plan. If they are then you will be "financially cleared" to begin treatment. 
+Stem cell transplants are complex and expensive. You will need to check that your pretransplant tests, high-dose chemotherapy, stem cell infusion, post-transplant care, housing, medications, and other expenses are covered by your insurance plan. If they are, then you will be "financially cleared" to begin treatment. 
 
-Early in your journey with us you will meet with a representative from MSKCC's Patient Financial Services department - your financial counselor. Your financial counselor will gather information about your treatment plan and will coordinate with your insurance company to check what aspects of your care are and are not covered. They will be available to answer questions about your medical expenses and bills throughout your treatment.
+Early on in your journey with us, you will meet with a representative from MSKCC's Patient Financial Services Department who will be your financial counselor. Your financial counselor will gather information about your treatment plan and will coordinate with your insurance company to check what aspects of your care are and are not covered. He or she will be available to answer questions about your medical expenses and bills throughout your treatment.
 
-### Pre-Transplant Medical Evaluation 
-Before you become a transplant candidate your overall physical condition needs to be evaluated. You will need to make several trips to MSKCC where you will undergo tests. We often refer to this as the "work-up" or "restaging" period. During the work-up you will need to have some or all of the following tests done:
+### Pretransplant Medical Evaluation 
+Before you become a transplant candidate, your overall physical condition needs to be evaluated. You will need to make several trips to MSKCC to undergo tests. We often refer to this as the "work-up" or "restaging" period. During the work-up, you will need to have some or all of the following tests done:
 
-* **A chest x-ray** - This is done to ensure your lungs are clear and there is no evidence of a pneumonia or other problems
-* **Blood tests** - These are done to evaluate your baseline kidney and liver function, and to assess your white blood cell, hemoglobin and platelet counts. Your past exposure to certain viruses is also checked.
+* **A chest x-ray** - This is done to ensure your lungs are clear and there is no evidence of pneumonia or other problems.
+* **Blood tests** - These are done to evaluate your kidney and liver function and to assess your white blood cell, hemoglobin, and platelet counts. Your past exposure to certain viruses is also checked.
 * **Urine tests**
 * **Electrocardiogram (EKG)** or **echocardiogram** - These are done to give your healthcare team information about your heart.
-* **Pulmonary function tests** (PFT's) - These are breathing tests that measure lung function
-* **Computerized axial tomography (CT) Scan** - This is an x-ray that provides images of soft tissue and bone. Some scans use contrast dye that you drink or have injected into your body. Tell your doctor if you have a known allergy to contrast dye, or seafood or iodine. If you have an allergy you may need to be given medications to prevent a reaction to the dye before your scan.
-* **Dental Exam** - You must have a full dental exam. Any cavities, loose fillings or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist please ask them to provide a note saying that you have no dental problems. If there are issues please ask the dentist to contact MSKCC dentist.
-* **Positron emission tomography (PET) Scan** – a scan used to look at organs and they way they function in your body.
-* **Bone marrow aspiration and biopsy** - A bone marrow aspirate is a small sample of bone marrow, usually taken from the back of your hip. Your hip will be numbed and a needle will be inserted into the bone marrow and a small amount of bone marrow liquid will be withdrawn. A bone marrow biopsy will be performed at the same time as your bone marrow aspiration. The biopsy involves collecting a tiny piece of bone for examination. This procedure is done to evaluate how well your bone marrow is producing cells and to check for any sign of cancer in the marrow.
+* **Pulmonary function tests** (PFT's) - These are breathing tests that measure your lung function.
+* **Computerized axial tomography (CT) scan** - This is an x-ray that provides images of soft tissue and bone. Some scans use contrast dye that you drink or have injected into your body. Tell your doctor if you have a known allergy to contrast dye, or seafood or iodine. If you have an allergy, you may need to be given medications to prevent a reaction to the dye before your scan.
+* **Dental exam** - You must have a full dental exam. Any cavities, loose fillings, or gum disease should be taken care of before your transplant. You can have these done by your own dentist or you can see our dentist. If you see your own dentist, please ask them to provide a note saying that you have no dental problems. If there are issues, please ask the dentist to contact the MSKCC dentist.
+* **Positron emission tomography (PET) scan** – This is a scan that is used to look at your organs and they way they function in your body.
+* **Bone marrow aspiration and biopsy** - A bone marrow aspirate is a small sample of bone marrow, usually taken from the back of your hip. Your hip will be numbed, a needle will be inserted into the bone marrow, and a small amount of bone marrow liquid will be taken out. A bone marrow biopsy will be performed at the same time as your bone marrow aspiration. The biopsy involves collecting a tiny piece of bone for examination. This procedure is done to evaluate how well your bone marrow is producing cells and to check for any sign of cancer in the marrow.
 * **Skeletal survey** - This is an x-ray of the major bones in your body that is done to check for any signs of disease. This can take a few hours to complete.
 
-These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pre-transplant evaluation can take longer. Your BMT nurse coordinator will work with you and your caregiver to schedule the tests.
+These tests are usually done in the 30 days before your transplant (Day −30 onwards), but sometimes the pretransplant evaluation can take longer. Your nurse coordinator will work with you and your caregiver to schedule the tests.
 
 The results of the tests will be used to plan your treatment and adjust it to your specific needs. All the testing needs to be reviewed to make sure that it is safe to start your treatment.
 
 Your doctor and nurse will explain any other tests that you may need.
 
-### Side Effects from Chemo
+### Side Effects From Chemotherapy
 Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores, and mouth tenderness. 
 
 Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy, make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
@@ -448,20 +448,20 @@ Your healthcare team will help you understand and prepare for these side effects
 #### Neutropenia
 Your chemotherapy will severely damage your ability to fight infections and heal. It's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
 
-One side effect of chemotherapy is called neutropenia. Neutropenia is a condition where you have a a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&mdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
+One side effect of chemotherapy is called neutropenia. Neutropenia is a condition in which you have a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&mdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
 
-Because your chemotherapy will kill your stem cells, you will lose the ability to make new neutrophils. Because your neutrophils are not being replaced the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature even when you are in your hotel or apartment and you will have to take very careful precautions to avoid infections. 
+Because your chemotherapy will kill your stem cells, you will lose your ability to make new neutrophils. Because your neutrophils are not being replaced, the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature, even when you are in your hotel or apartment, and you will have to take very careful precautions to avoid infections. 
 
-#### Low Platelet Level (Thrombocytopenia)
-In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make platelets. Platelets clump together to help stop bleeding.  After your chemotherapy the number of platelets in your bloodstream will be very low, a condition called thrombocytopenia. 
+#### Low platelet level (thrombocytopenia)
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make platelets. Platelets clump together to help stop bleeding.  After your chemotherapy, the number of platelets in your bloodstream will be very low, a condition called thrombocytopenia. 
 
-You will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's quite common for bleeding to start there. 
+You will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth because it's common for bleeding to happen there. 
 
 After your transplant your healthcare team will take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
 
-As your stem cells take hold and start to make new blood cells, the number of neutrophils in your bloodstream (sometimes referred to as your absolute neutrophil count or ANC) will increase, as will your number of platelets (called your platelet count). These are collectively known as "your counts" and they are key signs that your transplant has worked. You'll hear the term counts used frequently by your healthcare team. 
+As your stem cells take hold and start to make new blood cells, the number of neutrophils in your bloodstream (sometimes referred to as your absolute neutrophil count or ANC) will increase, as will your number of platelets (called your platelet count). All together, these are known as "your counts" and they are key signs that your transplant has worked. You'll hear the term counts used frequently by your healthcare team. 
 
-More in-depth guides to living with neutropenia and low platelet levels are included later in this guide under Phase 3: After Your Transplant.
+More indepth guides to living with neutropenia and low platelet levels are included later in this guide under "Phase 3: After Your Transplant".
 
 #### Fatigue
 After your chemotherapy, the number of red blood cells in your blood will be very low. 
@@ -470,40 +470,42 @@ Red blood cells are the cells that transport oxygen around your body. Because th
 
 Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active. 
 
-#### Nausea and Vomiting
+#### Nausea and vomiting
 Nausea and vomiting are common side effects of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes, you may experience nausea during your chemotherapy treatment, or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
 
-You will be given medication to prevent and control nausea prior to receiving chemotherapy. You will also be given a prescription for anti-nausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping, tell your NP or doctor. You may need to try a different medication or take more than 1 kind of anti-nausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
+You will be given medication to prevent and control nausea prior to receiving chemotherapy. You will also be given a prescription for antinausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping, tell your NP or doctor. You may need to try a different medication or take more than 1 kind of antinausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
 
 #### Diarrhea
-Diarrhea is frequent, loose, watery bowel movements. It can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress, or other medical conditions. If you are having diarrhea you may become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours, call your doctor or NP. Medications are available to treat diarrhea but do not take any over-the-counter medication until you have been evaluated by your nurse practitioner or doctor.
+Diarrhea is frequent, loose, watery bowel movements. It can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress, or other medical conditions. If you are having diarrhea, you can become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours, call your doctor or NP. Medications are available to treat diarrhea but do not take any over-the-counter medication until you have been evaluated by your NP or doctor.
 
 #### Constipation
-Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you, or if you haven't had a bowel movement for more than 2 days you are probably constipated. There are many causes of constipation including not drinking enough fluids or eating enough fiber, a decrease in your activity, not moving around or walking enough, and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk to your NP or doctor if you haven't had a bowel movement for 2 days.
+Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you, or if you haven't had a bowel movement for more than 2 days, you are probably constipated. 
 
-#### Mouth Sores
-Some chemotherapy drugs affect the cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness and sores on the lining of your mouth, tongue, and lips. You may experience some mouth and throat discomfort that can make it difficult to eat or swallow.
+There are many causes of constipation, including not drinking enough fluids or eating enough fiber, a decrease in your activity, not moving around or walking enough, and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk to your NP or doctor if you haven't had a bowel movement for 2 days.
 
-#### Skin Changes
-Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration, and darkening. Your skin will be very sensitive to the sun and may sunburn very easily. Avoid bright sunlight and when outdoors, wear sun block (SPF 30) and protective clothing such as long-sleeved shirts, long pants, and a hat.
+#### Mouth sores
+Some chemotherapy drugs affect the cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness, and sores on the lining of your mouth, tongue, and lips. You may experience some mouth and throat discomfort that can make it difficult to eat or swallow.
 
-#### Hair Loss
-The chemotherapy that cancer cells also kills the cells that produce your hair. Most patients will lose their hair during their transplant. 
+#### Skin changes
+Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration, and darkening. Your skin will be very sensitive to the sun and may sunburn very easily. Avoid bright sunlight and when outdoors, wear sun block (SPF 30) and protective clothing, such as long-sleeved shirts, long pants, and a hat.
 
-Losing your hair can be an unpleasant and upsetting experience. Like many patients, you may choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends and family.
+#### Hair loss
+The chemotherapy that cancer kills cells also kills the cells that produce your hair. Most patients will lose their hair during their transplant. 
 
-Before your transplant is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can one while you still have your hair, or with a clipping of your hair, if you'd like your wig to match your natural hair. 
+Losing your hair can be an unpleasant and upsetting experience. Like many patients, you can choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends, and family.
 
-#### Changes to Sexual Activity
+Before your transplant, it is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can get one while you still have your hair, or bring a clipping of your hair, if you'd like your wig to match your natural hair. 
+
+#### Changes to sexual activity
 Sexual intimacy provides pleasure and comfort for many people after their treatment. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP, or nurse.
 
 ##### Birth control
-Although infertility is likely you or your partner should use contraception (birth control) during and after your chemotherapy. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects.
+While it's likely that you will not be able to conceive a child naturally after high-dose chemotherapy, you and your partner should use contraception (birth control) during and after your chemotherapy. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects.
 
 It's important to pick a method of birth control that fits your lifestyle and will be effective. When used correctly, condoms are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
 
-##### Precautions to observe to avoid exposing your partner to chemotherapy and other anticancer medications
-There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern for you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in body fluids, but you should use barrier devices each day you have chemotherapy and for 1 week afterward.
+##### Protecting your partner from exposure to chemotherapy and other anticancer medications
+There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern for you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in your body fluids, but you should use barrier devices each day you have chemotherapy and for 1 week afterward.
 
 ##### Protecting yourself from infection or bleeding during sex
 You will be at increased risk of infection during your transplant period and for many months after your treatment.
@@ -609,7 +611,8 @@ Before you undergo your transplant, and move into the local apartment or hotel, 
 * Educate your child’s caregiver about the transplant process in case your child has questions during the separation
 
 We have suggested ways for you to maintain a strong connection to your children while you are living at the local hotel/apartment later in this guide under "Living With Neutropenia."
-For more assistance related to childcare contact your transplant social worker. 
+
+For more assistance related to childcare contact your transplant social worker. 
 
 ### Making Arrangements for Your Pets
 Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery), you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
@@ -1009,7 +1012,7 @@ Here are some things that other patients have done to remain in contact with the
 
 * Use a computer or tablet and programs like Skype, Google Talk/Hangouts, or FaceTime to talk to your children regularly. Set up a time that you talk to them each day, such as when they get home from school and before they go to bed. Get into a routine of using the computer to see them and talk to them.
 * Paint or create other crafts to send home. Craft supplies can be provided to you by the Patient Recreation Center. Ask a member of your healthcare team to arrange for the Patient Recreation Center to bring supplies to you.
-* Use your phone to make an audio recording of yourself as you read your children's favorite stories. Upload these recordings to the web, give them to your caregiver, or e-mail them to your children. They can read along with these stories while listening to your voice.
+* Use your phone to make an audio recording of yourself as you read your children's favorite stories. Upload these recordings to the web, give them to your caregiver, or email them to your children. They can read along with these stories while listening to your voice.
 * Keep copies of your children's favorite stories with you in your apartment or hotel. At night, you can use Skype to read along with them before they go to sleep. 
 * Ask your children to decorate your apartment or hotel with pictures; your caregiver can bring them to you and you can show them hanging on the wall over Skype.
 * Give your child a special coloring book or journal for times when they miss you, or when feelings are difficult. Your caregiver can bring the colorings to you. You can talk to your child about them over Skype or the phone.
@@ -1069,7 +1072,7 @@ You should take precautions when you are having sex. You should use lubrication 
 You should avoid medications that have not been explicitly prescribed to you by your medical team. Do not take:
 
 * Aspirin or products that contain aspirin
-* Non steroidal anti-inflammatory drugs (NSAIDs) such as Advil<sup>&reg;</sup>
+* nonsteroidal anti-inflammatory drugs (NSAIDs) such as Advil<sup>&reg;</sup>
 * Vitamin E
 
 All of these drugs make it more difficult for your blood to clot and are very dangerous for somebody like you with a limited ability to heal and clot.
