@@ -389,7 +389,7 @@ Your caregiver will receive specific instructions from your healthcare team abou
 
 #### Practical support
 * Dealing with financial and insurance issues 
-* Preparing your meals according to a low microbial diet
+* Preparing your meals according to a low-microbial diet
 * Bringing you to and from the hospital
 * Maintaining a clean environment in your hotel, apartment, or house
 * Keeping family members and friends up to date about your condition
@@ -921,75 +921,77 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 After your stem cells are infused through your catheter, you will remain in your hospital room for 4 to 6 hours for observation. After that, you will be allowed to return home to your hotel or apartment to rest. 
 
 ## Phase 3 - After Your Transplant
-Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
+Now that you've had your transplant, you will enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
 
-As engraftment occurs, the number of white blood cells, red blood cells, and platelets in your blood will return to normal - the amount of these cells, called your "counts", will be monitored daily. You will remain in a nearby apartment or hotel and will return to the outpatient clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
+As engraftment occurs, the number of white blood cells, red blood cells, and platelets in your blood will return to normal. The amount of these cells, called your "counts," will be monitored daily. You will remain in a nearby apartment or hotel and will return to the outpatient clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
 ### Phase 3 - Summary and Checklist
 These are the key things that will happen during this phase:
 
 * **Learn about engraftment** - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place, and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
-* **Return to the Outpatient BMT Clinic** - You will make daily visits to the clinic until your healthcare team tell your that you can attend less often.
+* **Return to the Outpatient BMT Clinic** - You will make daily visits to the clinic until your healthcare team tells you that you can come less often.
 * **Testing** - You will undergo blood tests and other tests to monitor your progress. You will have blood drawn each time you return to the clinic.
 * **Neutropenia** - The low number of white blood cells in your blood will leave you vulnerable to infection, so you will need to take precautions to avoid any sources of infection.
-* **Low microbial diet** - Because you are neutropenic you will eat a diet that contains a low number of potentially harmful microbes.
+* **Low-microbial diet** - Because you are neutropenic, you will eat a diet that contains a low number of potentially harmful microbes.
 * **Low platelet count** - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
-* **Personal care** - Because you are neutropenic and have a low platelet count you will need to take special care when you bathe, shower, and brush your teeth.
+* **Personal care** - Because you are neutropenic and have a low platelet count, you will need to take special care when you bathe, shower, and brush your teeth.
 * **Low red blood cell count** - You will experience fatigue.
 * **Nausea and other side effects** - You will experience nausea and other side effects associated with your treatment and transplant.
 * **Transfusions** - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream.
-* **Recovery of your counts** - Over time as your stem cells engraft and begin to produce new blood cells, your counts will improve.
+* **Recovery of your counts** - Over time, as your stem cells engraft and begin to produce new blood cells, your counts will improve.
 * **Exercise** - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
 
-We cover each of these topics in detail later in this section.
+We will cover each of these topics in detail later in this section.
 
 ### Engraftment
-**Edit: Engraftment is when your body accepts the transplant and your white blood cell count returns** Almost immediately after your stem cells are infused into your body, they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow, they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10 to 14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Engraftment is when your body accepts the transplant and your white blood cell count returns. 
 
-Each day when you return to the Outpatient BMT Clinic you will have blood drawn. This blood will be analyzed, and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide the number of white, red, and platelet cells will increase. 
+Almost immediately after your stem cells are infused into your body, they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow, they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10 to 14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
-During the time that you are waiting for engraftment you may need to have blood and platelet transfusions. You'll be given injections of growth factor - drugs that will speed up the production of white blood cells in your body. 
+Each day when you return to the Outpatient BMT Clinic, you will have blood drawn. This blood will be analyzed, and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide, the number of white, red, and platelet cells will increase. 
 
-Remember, you will be very vulnerable to infection at this time. You will need to take precautions including avoiding sources of infection, washing your hands regularly and eating a low microbial diet. You will be closely monitored for any signs of infections. 
+During the time that you are waiting for engraftment, you may need to have blood and platelet transfusions. You'll be given injections of growth factor which is a medication that will speed up the production of white blood cells in your body. 
 
-When your cells start to engraft you may experience bone pain or a rash on your body. These are common symptoms experienced during engraftment.
+Remember, you will be very vulnerable to infection at this time. You will need to take precautions, including avoiding sources of infection, washing your hands regularly, and eating a low-microbial diet. You will be closely monitored for any signs of infections. 
 
-### Post-Transplant Care at the Outpatient BMT Clinic
-After your transplant you will receive all your care in the Outpatient BMT Clinic&mdash;the same place where you had your chemotherapy and your transplant. Each morning you will return to the clinic, just like you did on the mornings before chemotherapy and your transplant. 
+When your cells start to engraft, you may experience bone pain or a rash on your body. These are common symptoms experienced during engraftment.
+
+### Post Transplant Care At The Outpatient BMT Clinic
+After your transplant, you will receive all your care in the Outpatient BMT Clinic&mdash;the same place where you had your chemotherapy and your transplant. Each morning, you will return to the clinic, just like you did on the mornings before chemotherapy and your transplant. 
 
 ### Living With Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
 
 Neutrophils, a type of white blood cell, play a crucial role in your immune system. In the days and weeks after your transplant, while your transplanted stem cells are still engrafting, you will have a very low number of neutrophils in your bloodstream. This will leave you at high risk for infection.
 
-You and your caregiver will need to take careful precautions to avoid infections while you are neutropenic. These precautions will include eating a special, low microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth, and other precautions. 
+You and your caregiver will need to take careful precautions to avoid infections while you are neutropenic. These precautions will include eating a special, low-microbial diet (a diet that contains a low number of potentially harmful microorganisms), washing carefully, taking care of your mouth, and other precautions. 
 
 #### Avoiding Sources of Infection
-One of the best ways to avoid infection is to simply avoid sources of infection. This is easier said than done&mdash;you and your caregiver will need to be careful about seeing visitors, what you touch, and where you go. While you are neutropenic you should try to **avoid**:
+One of the best ways to avoid infection is to avoid sources of infection. This is easier said than done&mdash;you and your caregiver will need to be careful about seeing visitors, what you touch, and where you go. While you are neutropenic you should try to **avoid**:
 
-* Shaking hands with people. When you do shake hands with people, use hand sanitizer, such as Purell<sup>&reg;</sup> afterward.
+* Shaking hands with people. When you do shake hands with people, use hand sanitizer, such as Purell<sup>&reg;</sup> afterward
 * Contact with animals, including your pets&mdash;they cannot stay with you during your transplant
 * Contact with soil or dirt. You should not keep any plants in your hotel or apartment and should not accept gifts of flowers or plants
 
 Your caregiver will need to carefully manage who comes to see you while you are neutropenic. Your caregiver needs to make sure that friends, family, and other visitors understand these precautions:
 
 * Children under the age of 12 are not allowed to visit or stay with you during your transplant period.
-* No visitors are allowed to visit you, either in the clinic or in your hotel/apartment who have any signs of a cold, flu, or who have been exposed to any contagious illness. 
-* Your caregiver and any visitors must wash their hands for 15 to 20 seconds before each visitor enters your room at the clinic or your hotel/apartment. 
+* No visitors are allowed to visit you, either in the clinic or in your hotel or apartment who have any signs of a cold, flu, or who have been exposed to any contagious illness. 
+* Your caregiver and any visitors must wash their hands for 15 to 20 seconds before each visitor enters your room at the clinic or at your hotel or apartment. 
 * Hand washing or use of a hand sanitizer (Purell<sup>&reg;</sup>) must be repeated each time the visitor enters your room. 
 * Visitors and caregivers must use the visitor's restroom in the hallway and not the restroom in your room at the clinic. This is to minimize the spread of bacteria in the room.
-* No fresh cut flowers or live plants are allowed in your hotel/apartment or in you room.
+* No fresh cut flowers or live plants are allowed in your hotel or apartment or in your room.
 
 Telling people who love you and want to make sure that you're okay that you can't see them can be difficult, but you and your caregiver need to be vigilant. You can explain to them that it's just for a short period of time, and that by taking these precautions, you are making sure that you can see them as soon as possible. They will understand.
 
 We strongly recommend that you use a computer or tablet and programs like Skype, Google Talk/Hangouts, or FaceTime to keep in touch with friends and family when you are neutropenic. 
 
-#### Eating a Low Microbial Diet
-While your counts are returning to normal, and until told otherwise by your healthcare team, you will need to eat what is called a low microbial diet. 
+#### Eating a Low-Microbial Diet
+While your counts are returning to normal, and until told otherwise by your healthcare team, you will need to eat what is called a low-microbial diet. 
 
-A low microbial diet is a diet that contains fewer microbes (also called microorganisms) than would ordinarily be found in everyday foods. This diet helps people with weakened immune systems and low blood counts to reduce the risk of food borne illnesses caused by bacteria and other microbes (tiny living organisms, such as bacteria, viruses, yeast, and molds) found in some foods and drinks. Eating a diet that contains fewer microbes will help prevent you from getting sick. 
+A low-microbial diet contains fewer microbes (also called microorganisms) than would ordinarily be found in everyday foods. This diet helps people with weakened immune systems and low blood counts reduce the risk of food-borne illnesses caused by bacteria and other microbes (tiny living organisms, such as bacteria, viruses, yeast, and molds) found in some foods and drinks. Eating a diet that contains fewer microbes will help prevent you from getting sick. 
 
-Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices, and vegetable sprouts&mdash;but in reality they can grow on any food. 
+Microbes can attach to foods and grow, but you can't always see, smell, or taste them. They are more likely to grow on milk, unrefrigerated food, undercooked foods, certain fruits and vegetables, unpasteurized juices, and vegetable sprouts&mdash;but in reality, they can grow on any food. 
 
 You will need to take careful precautions with the food you eat, including:
 
@@ -998,12 +1000,12 @@ You will need to take careful precautions with the food you eat, including:
 * Keeping your kitchen very clean
 * Keeping your refrigerator very clean
 * Handling food safely
-* Eating only food that you know has been prepared and cooked in keeping with a low microbial diet
+* Eating only food that you know has been prepared and cooked in keeping with a low-microbial diet
 * Cooking foods thoroughly
 
-Refer to the guide on *Low Microbial Diet and Safe Food Handling* at the back of this guide and follow the guidelines very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
+Refer to the guide on *Low-Microbial Diet and Safe Food Handling* at the back of this guide and follow the guidelines very carefully when you or your caregiver are buying, handling, preparing and cooking food.  
 
-#### Coping with Separation from Children
+#### Coping with separation from children
 Children under 12 are not able to visit you during your transplant period because of the risk of infection. This separation will be difficult for you, your child, and the rest of your family. We know from past experience that patients with children experience a range of feelings and reactions related to this separation. 
 
 We strongly recommend that you take time to talk to one of our social workers about being separated from your children. You or your caregiver should tell your NP, nurse coordinator, or any member of the healthcare team that you'd like to speak with one of the social workers and they will make sure to come and see you. They will listen to your concerns and help you develop a plan to for maintain strong ties to your children while you are undergoing treatment.
@@ -1019,18 +1021,18 @@ Here are some things that other patients have done to remain in contact with the
 
 We understand that nothing will replace physical contact between you and your children, but we strongly encourage you to use all available technology to maintain a strong bond with them while you are unable to see them.
 
-For more assistance related to maintaining your relationship with your children contact your transplant social worker. 
+For more assistance related to maintaining your relationship with your children, contact your social worker. 
 
-#### Showering and Bathing
-While you are neutropenic keeping yourself clean is very important. 
+#### Showering and bathing
+While you are neutropenic, keeping yourself clean is very important. 
 
-You should shower or bathe daily. When you shower or bathe you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial." Dial<sup>&reg;</sup> is one example, but there are many others. 
+You should shower or bathe daily. When you shower or bathe, you should use soap that can kill germs. Look for the words "antibacterial" or "antimicrobial." Dial<sup>&reg;</sup> is one example, but there are many others. 
 
 When you shower or bathe, take extra care to make sure you wash yourself thoroughly. Begin with your upper body, then the middle section, and wash the lower area including your feet last. Wash carefully under your arms, in your anal and genital areas, and in any skin folds. Germs tend to live in these moist areas. You may shampoo your scalp with soap once a day. 
 
 After you urinate or move your bowels, wash your buttocks and genital area with antibacterial soap. You can also use moist wipes. Pat the area dry. Wash your hands well afterward.
 
-When you wash or bathe take care of your catheter; detailed instructions on how to protect your catheter against water are included at the back of this guide. 
+When you wash or bathe, take care of your catheter; detailed instructions on how to protect your catheter against water are included at the back of this guide. 
 
 #### Mouth Care
 While you're neutropenic and have a low platelet count, you will need to change the way you brush your teeth and care for your mouth. This will help to avoid infection and bleeding.
@@ -1038,16 +1040,16 @@ While you're neutropenic and have a low platelet count, you will need to change 
 Follow these guidelines to take good care of your mouth:
 
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every 2 hours, depending on how your mouth feels.
-* Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry mouth and throat.
-* Use an ultra soft toothbrush. You may also use Toothettes<sup>&reg;</sup> disposable foam sticks.
+* Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry the mouth and throat.
+* Use an ultra-soft toothbrush. You may also use Toothettes<sup>&reg;</sup> disposable foam sticks.
 * Do not use dental floss.
 * Avoid licking your lips. It increases drying and chapping.
 * Apply a lubricant like Chapstick<sup>&reg;</sup> after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
-* To avoid an infection in your mouth, your doctor will prescribe an oral anti-fungal antibiotic. Use it as instructed.
+* To avoid an infection in your mouth, your doctor will prescribe an oral antifungal antibiotic. Use it as instructed.
 * If your mouth becomes sensitive, avoid hot, spicy, acidic, or coarse foods. You may prefer soft or liquid food served chilled or at room temperature.
 * If you have a pain in your mouth, your doctor will prescribe medication for the pain.
 
-### Living with a Low Platelet Count
+### Living With a Low Platelet Count
 Platelets clump together to help stop bleeding. Because you will have a very low platelet count after your chemotherapy, you will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth, because it's common for bleeding to start there. You and your caregiver will take these special precautions:
 
 * Avoid sharp objects such as razors, scissors, and nail clippers. You should only shave using an electric razor/shaver and not a razor that has a blade.
@@ -1207,7 +1209,7 @@ Document to be included along with this guide, as appendices:
 ** Sexual Activity During Cancer Treatment: Information for Women
 ** Sexual Activity During Cancer Treatment: Information for Men
 ** Sexual Health and Intimacy (MSKCC Pt Ed Fact card)
-* Guide to Low Microbial Diet - http://patiented.herokuapp.com/articles/low microbial-diet
+* Guide to Low-Microbial Diet - http://patiented.herokuapp.com/articles/low microbial-diet
 ** Caring for your Central Venous Catheter - http://patiented.herokuapp.com/articles/caring-for-your-central-venous-catheter-with-map
 ** Memorial Sloan-Kettering Cancer Center Support Services - http://patiented.herokuapp.com/articles/mskcc-support-resources
 ** Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe
