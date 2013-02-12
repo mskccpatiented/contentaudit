@@ -512,8 +512,8 @@ You will be at increased risk of infection during your transplant period and for
 
 Until your doctor tells you that your blood counts and immune system have recovered, follow these precautions:
 
-* Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be greater than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators or sex toys into your vagina or anus.
-* Use latex condoms each time you have vaginal, oral or anal sex.
+* Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be more than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or other sex toys into your vagina or anus.
+* Use latex condoms each time you have vaginal, oral, or anal sex.
 * Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions, or semen could enter your mouth.
 * Abstain from any sexual activity that could expose your mouth to feces.
 * Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.
@@ -540,16 +540,16 @@ Tell your healthcare team how you're feeling. Describe how your body feels. Desc
 ### Making Decisions About Your Fertility
 Your cancer treatment will affect your fertility. It is likely that you will not be able to conceive a child naturally after high-dose chemotherapy. 
 
-In some cases it's possible to take  steps to preserve your fertility before you undergo treatment. Women can bank eggs or embryos and men can bank sperm. These steps may allow you to conceive in the future. If you have received chemotherapy in the past, there is a risk that your sperm or eggs have already been damaged and so preserving your fertility may not be an option. 
+In some cases, it's possible to take  steps to preserve your fertility before you undergo treatment. Women can bank eggs or embryos and men can bank sperm. These steps may allow you to conceive in the future. If you have received chemotherapy in the past, there is a risk that your sperm or eggs have already been damaged so preserving your fertility may not be an option. 
 
 We have summarized the most common steps that people take to preserve their fertility before undergoing a stem cell transplant. If you want to learn more about fertility preservation options and other ways you might build a family after your transplant, ask your doctor or nurse for a referral to a fertility expert.
 
 ##### Options for men
 Men can freeze sperm before treatment. The first step is to schedule an appointment at a sperm bank, where you will masturbate and collect your ejaculated fluid in a sterile cup. 
 
-The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect three separate specimens if possible, abstaining from sex for 2 to 5 days before the first collection and between the other collections.
+The sperm bank will analyze the specimen to be sure there are healthy sperm to freeze. The semen is then placed in vials and frozen. It can be stored for as long as you want, even for many years. We recommend that men collect 3 separate specimens if possible, abstaining from sex for 2 to 5 days before the first collection and between the other collections.
 
-For more information please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
+For more information, please read the guides *Sperm Banking* and *Cancer and Fertility: Information for Men* included at the back of this guide. These guides are also available online:
 
 * [Sperm Banking http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/899.pdf)
 * [Cancer and Fertility: Information for Men http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/713.pdf)
@@ -559,9 +559,9 @@ Women can freeze eggs or embryos before treatment. The first step is to schedule
 
 Your reproductive endocrinologist will evaluate your fertility and will give you advice on how best to proceed. 
 
-If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medicine will stimulate some of the eggs in your ovaries to mature. You will need to take the injections for about 10 days, during which you will be closely monitored by your reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia so you will be asleep. Your eggs will be collected using a very thin needle passed through the wall of your vagina.
+If these tests show you can be successful in collecting eggs, on or around the first day of your period you will start giving yourself daily hormone injections. This medication will stimulate some of the eggs in your ovaries to mature. You will need to take the injections for about 10 days, during which you will be closely monitored by your reproductive endocrinologist. Once the eggs are fully mature, you will be scheduled for the egg retrieval. This is an outpatient procedure done using anesthesia, so you will be asleep. Your eggs will be collected using a very thin needle passed through the wall of your vagina.
 
-If you are going to store embryos, your eggs will be fertilized with sperm in the laboratory (in vitro fertilization, IVF) before freezing. If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
+If you are going to store embryos, your eggs will be fertilized with sperm in the laboratory before freezing. This is called in-vitro fertilization (IVF). If you are going to store eggs, they are not fertilized with sperm before freezing. The frozen eggs or embryos can be stored for as long as you want, even for many years.
 
 Another possible option to preserve fertility is ovarian tissue freezing. However, this is experimental.
 
@@ -571,48 +571,48 @@ For more information please read the guides *Cancer and Fertility: Information f
 * [Selecting a Reproductive Endocrinologist http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf](http://www2.mskcc.org/patient_education/_assets/downloads-english/739.pdf)
 
 ##### Financial issues related to fertility preservation
-Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000, and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. 
+Unfortunately, fertility preservation is not covered by most insurance plans. Sperm banking can cost up to about $1000 and egg or embryo freezing can cost $10,000 to $15,000. There are also annual storage fees. 
 
 The financial staff at the sperm bank and your reproductive endocrinologist will contact your insurance company to determine if you have coverage. 
 
-There are financial assistance programs available, including Fertile Hope, a discount programs for eligible patients managed by Livestrong. For more information about this, ask your nurse or a member of your healthcare team for an application or go to the Fertile Hope Website at [http://www.fertilehope.org/](http://www.fertilehope.org/).
+There are financial assistance programs available, including Fertile Hope, a discount program for eligible patients managed by Livestrong. For more information about this, ask your nurse or a member of your healthcare team for an application or go to the Fertile Hope Website at [http://www.fertilehope.org/](http://www.fertilehope.org/).
 
-### Speaking to Your Children about your Transplant
-Being open with your child helps to build trust and a sense of security. During your transplant, your children will not be alb to stay with you at your hotel or apartment. This can be upsetting for parents and children, so clear communication is recommended. When speaking to your children about your transplant, we recommend that you:
+### Speaking to Your Children About Your Transplant
+Being open with your child helps to build trust and a sense of security. During your transplant, your children will not be able to stay with you at your hotel or apartment. This can be upsetting for parents and children, so clear communication is recommended. When speaking to your children about your transplant, we recommend that you:
 
-* Always take into consideration your child’s age, developmental stage and individual personality when talking to your child about your illness and transplant.  
+* Always take into consideration your child’s age, developmental stage, and individual personality when talking about your illness and transplant.  
 
-* Use the proper name and terms (“bump” or and “boo boo” are confusing) when describing your diagnosis and transplant.
-Prepare your child for changes in your appearance, energy level and daily routine (e.g.  not going to work and multiple medical appointments)
+* Use the proper names and terms ("bump" or "boo boo" are confusing) when describing your diagnosis and transplant.
+Prepare your child for changes in your appearance, energy level, and daily routine (e.g., not going to work and multiple medical appointments)
 
-* Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons)
+* Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons).
 
-* Invite your child to ask any and all questions.  Remember it is okay not to have all the answers.
+* Invite your child to ask any and all questions. Remember, it is okay not to have all the answers.
 
-* Validate and Accept your child’s feelings 
+* Validate and accept your child's feelings.
 
-* Reassure your child that he/she is not responsible for your illness and that cancer is not contagious
+* Reassure your child that he or she is not responsible for your illness and that cancer is not contagious.
 
-* Set aside family time where the transplant is not the only focus    
+* Set aside family time in which the transplant is not the only focus.  
 
 ### Making Arrangements for Childcare
-Before you undergo your transplant, and move into the local apartment or hotel, you will need to make arrangements to have your children taken care of. We recommend that you:
+Your children will not be able to stay with you during your outpatient transplant. Before you move into the local apartment or hotel, and undergo your transplant, you will need to make arrangements to have your children taken care of. We recommend that you:
 
-* Identify one or more family/friend who knows your child well to care for your child during the transplant period
+* Identify family members or friends who knows your child well to care for them during the transplant period.
 
-* Maintain your child’s daily routine as much as possible
+* Maintain your child's daily routine as much as possible.
 
-* Prepare your child for these changes and help him/her weather the transition
+* Prepare your child for these changes and help him or her weather the transition.
 
-* Expect that your child may have some reactions or may show normal signs of adjustment during the transition 
+* Expect that your child may have some reactions or may show normal signs of adjustment during the transition.
 
 * Engage your child’s teachers, counselors, clergy, and other adults involved in their life to support them during this time.
 
-* Educate your child’s caregiver about the transplant process in case your child has questions during the separation
+* Educate your child’s caregiver about the transplant process in case your child has questions during the separation.
 
-We have suggested ways for you to maintain a strong connection to your children while you are living at the local hotel/apartment later in this guide under "Living With Neutropenia."
+We have suggested ways for you to maintain a strong connection to your children while you are living at the local hotel or apartment later in this guide under "Living With Neutropenia."
 
-For more assistance related to childcare contact your transplant social worker. 
+For more assistance related to childcare, contact your social worker. 
 
 ### Making Arrangements for Your Pets
 Animals can carry diseases and may present risks to you while your immune system is compromised. During your transplant period (chemotherapy through recovery), you should minimize direct contact with animals. Your pets will not be able to stay with you at the hotel or apartment, so you should arrange for them to be cared for while you are away from home.
@@ -620,16 +620,16 @@ Animals can carry diseases and may present risks to you while your immune system
 You should also take the following precautions:
 
 * Be sure that your pet is up to date with immunizations and any booster shots. Have your veterinarian check your pet's stool for parasites.
-* Have your pet treated for fleas. If your pet walks through wooded areas have it screened for ticks.
-* If you do come into contact with your pets do not allow them to sleep with you. Do not allow your pets to lick you in the face.
+* Have your pet treated for fleas. If your pet walks through wooded areas, have it screened for ticks.
+* If you do come into contact with your pets, do not allow them to sleep with you. Do not allow your pets to lick you in the face.
 * Protect yourself from bites or scratches.
 * Do not clean cat litter boxes or clean up after your dog in the street. Have someone else do these things for you. 
-* Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters, or other rodents while you recover. Contact with birds or reptiles waste may expose you to certain infectious germs.
+* Avoid all contact with birds, lizards, snakes, turtles, iguanas, exotic pets, hamsters, or other rodents while you recover. Contact with bird or reptile waste may expose you to certain infectious germs.
 
-After you have recovered from your transplant you will be provided additional instructions regarding pet care in the *Returning Home After Your Autologous Transplant* guide included at the back of this guide.
+After you have recovered from your transplant, you will be given additional instructions on pet care in the *Returning Home After Your Autologous Transplant* guide included at the back of this guide.
 
 ### Moving into a Nearby Apartment or Hotel
-For the duration of your outpatient treatment you and your caregiver will stay at a hotel or apartment within walking distance of the outpatient BMT clinic at the main hospital. 
+For the duration of your outpatient treatment, you and your caregiver will stay at a hotel or apartment within walking distance of the Outpatient BMT Clinic at the main hospital. 
 
 You and your caregiver will make regular visits to the clinic. 
 Your lodging arrangements will be made and communicated to you by your nurse coordinator. 
@@ -641,18 +641,18 @@ Mobilization is the process of increasing the number of stem cells produced by y
 
 Stem cell harvesting is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, and plasma) then removing stem cells from the white blood cell component.
 
-Once your stem cells have been harvested they are frozen and stored, then infused into your body after your chemotherapy; this is your stem cell transplant.
+Once your stem cells have been harvested, they are frozen and stored, then infused into your body after your chemotherapy; this is your stem cell transplant.
 
 #### Mobilization
-Normally your stem cells live in your bone marrow (although a few circulate in your bloodstream) where they are difficult to access and collect for transplantation. 
+Normally, your stem cells live in your bone marrow, where they are difficult to access and collect for transplantation (although a few circulate in your bloodstream). 
 
 To increase the amount of stem cells in your bloodstream, you'll be given injections of a medication called granulocyte colony-stimulating factor (GCSF). GCSF stimulates your body to make more stem cells than usual and encourages them to move into your bloodstream, where they can be collected much more easily. This process is called mobilization. GCSF drugs include filgrastim (Neupogen<sup>&reg;</sup>), pegfilgrastim (Neulasta<sup>&reg;</sup>) and plerixafor (Mozobil<sup>&reg;</sup>). 
 
-In most cases GCSF injections are self-administered, meaning that you will inject yourself with the medication while at home. You will be given the GCSF in pre-filled syringes, which you'll keep in your refrigerator. Your nurse coordinator will create a personal mobilization calendar for you, which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
+In most cases, GCSF injections are self-administered, meaning that you will inject yourself with the medication at home. You'll be given GCSF in prefilled syringes, which you'll keep in your refrigerator. Your nurse coordinator will create a personal mobilization calendar for you, which will tell you when to give yourself the injections. The number of injections needed will depend on a number of factors, including your weight.
 
-A full guide to giving yourself GCSF injections is covered in the document *Directions for Giving an Injection Below the Skin with Neupogen (Filgrastim) or Neulasta (pegfilgrastim) in a Pre-Filled Syringe* which is included at the back of this guide. Your BMT Nurse Coordinator will talk you through this information as well. 
+A full guide to giving yourself GCSF injections is covered in the document *Directions for Giving an Injection Below the Skin with Neupogen<sup>&reg;</sup> (Filgrastim) or Neulasta<sup>&reg;</sup> (pegfilgrastim) in a Pre-Filled Syringe* which is included at the back of this guide. Your NP will talk you through this information as well. 
 
-Some patients will not give themselves injections of filgrastim or pegfilgrastim, and will instead be given a different type of GCSF called plerixafor. If plerixafor is recommended for you then the injections will be given by a nurse in the BMT clinic.
+Some patients will not give themselves injections of filgrastim or pegfilgrastim, and will instead be given a different type of GCSF called plerixafor. If plerixafor is recommended for you, then the injections will be given by a nurse in the BMT clinic.
 
 #### Harvesting of Your Stem Cells
 <figure>
