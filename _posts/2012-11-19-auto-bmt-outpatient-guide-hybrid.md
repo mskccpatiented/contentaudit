@@ -659,39 +659,39 @@ Some patients will not give themselves injections of filgrastim or pegfilgrastim
 <img src="/g/figs/opbmt_fig_apheresis.jpg" /><figcaption>A patient undergoing stem cell harvesting. Blood is withdrawn from the catheter and circulated through the machine where stem cells are collected. The rest of the blood is returned through the catheter.</figcaption>
 </figure>
 
-The injections of GCSF will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
+The GCSF injections will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
-Before you are scheduled for stem cell harvesting, a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough, arrangements will be made to have your catheter inserted, which will then be used during harvesting. The catheter will remain in place for several weeks, or months.
+Before you are scheduled for stem cell harvesting, a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough, arrangements will be made to have a catheter inserted, which will then be used during harvesting. The catheter will remain in place for several weeks, or months.
 
-The harvesting procedure is done in the blood donor room. Your nurse coordinator or your doctor will schedule 3 to 5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last 3 to 4 hours.
+The harvesting procedure is done in the Blood Donor Room. Your nurse coordinator or your doctor will schedule 3 to 5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last 3 to 4 hours.
 
 You should eat dairy products or other foods that are rich in calcium the night before and the morning of your harvesting session. Wear comfortable clothes. 
 
-You will lie in a bed or sit in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood will be returned to you. 
+During the procedure you will be laying down in a bed or sitting in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood will be returned to you. 
 
-If you wish, you will be able to watch TV or read during the procedure. A family member or friend may sit with you. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
+If you wish, you will be able to watch TV or read during your procedure. A family member or friend may sit with you. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
 
-After your harvesting procedure is done, a dressing will be applied to your arm to prevent bleeding. It should remain in place for at least 3 hours, but not more than 5 hours. If your catheter was used then it will be flushed and recapped. 
+After your harvesting procedure is done, a bandage will be applied to your arm to prevent bleeding. It should remain in place for at least 3 hours, but not more than 5 hours. If your catheter was used, then it will be flushed and recapped. 
 
 Your stem cells will be brought to our stem cell laboratory where they'll be frozen and stored safely until your transplant day.
 
 After harvesting most patients have minimal side effects and can resume their regular activities. The most common side effects are:
 
-* fatigue
-* a low platelet count
-* numbness or tingling in the lips, hands, or feet caused by a temporary decrease in the calcium levels in your blood.
+* Fatigue
+* A low platelet count
+* Numbness or tingling in the lips, hands, or feet caused by a temporary decrease in the calcium levels in your blood
 
 Call your doctor if you:
 
-* Develop a temperature (100.4° F or 38° C) or chills
+* Develop a temperature of 100.4&deg;F (38&deg;C) or higher
+* Develop chills
 * Notice any redness, bleeding, drainage, or pain at your catheter or needle insertion site
 * Notice any bleeding or bruising
 * Notice numbness or tingling of your lips, hands, or feet
 
 ### Having Your Central Venous Catheter Inserted
-On or before Day −4, you and your caregiver will come to MSKCC's Interventional Radiology department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
+On or before Day −4, you and your caregiver will come to MSKCC's Interventional Radiology Department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
 
-#### What Is a Central Venous Catheter? Why Do I Need One?
 A central venous catheter is a tube that is inserted into a large vein near your collarbone. On the outside of your body, the catheter divides into 2 or 3 smaller tubes called lumens. 
 
 A central venous catheter allows your healthcare team to give you medication, fluids, electrolytes, blood transfusions, and chemotherapy without having to keep sticking you repeatedly with a needle. Having a catheter will make your treatment much more comfortable. 
@@ -701,18 +701,18 @@ The catheter will stay in your body throughout your treatment and is usually rem
 #### Before Your Catheter is Inserted
 Your nurse coordinator will work with you to schedule the insertion of your catheter. 
 
-In the days leading up to the insertion of your catheter, don't take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
+In the days leading up to the insertion of your catheter, do not take aspirin, any products that contain aspirin, or vitamin E. You should also tell your doctor if you are taking any blood thinners or any medication for diabetes.
 
 In the days leading up to the insertion of your catheter, you should call your doctor if you develop any illness. This includes a fever, cold, flu, or sore throat.
 
-If you have been told to be on a clear liquid diet before your catheter is inserted don't eat any solid food after midnight the night before the procedure. Continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
+If you have been told to be on a clear liquid diet before your catheter is inserted, do not eat any solid food after midnight the night before your procedure. Continue to drink clear liquids up to 2 hours before you arrive at the hospital for your procedure. Your healthcare team will let you know if this applies to you.
 
-#### The Day Your Catheter is Inserted
-Your catheter will be inserted at our Surgical Day Hospital (SDH). You will probably already be staying in a hotel or apartment within walking distance of MSKCC's main hospital. If you are not already living locally, then you you should arrange transportation between your lodging and the SDH.  
+#### The day your catheter is inserted
+Your catheter will be inserted at our Surgical Day Hospital (SDH). You will probably already be staying in a hotel or apartment within walking distance of MSKCC's main hospital. If you are not already living locally, you should arrange transportation between your lodging and the SDH.  
 
-On the morning of the procedure you may shower, but you shouldn't apply any creams or lotions to your body. Take any medications you've been instructed to take. 
+On the morning of your procedure, you may shower, but do not apply any creams or lotions to your body. Take any medications you've been instructed to take. 
 
-If you wear contact lenses, you should wear glasses on the day your catheter is inserted. If you don't own glasses then bring a container for your contact lenses to the hospital with you. 
+If you wear contact lenses, you should wear glasses on the day your catheter is inserted. If you don't own glasses, then bring a container for your contact lenses to the hospital with you. 
 
 You and your caregiver should leave all valuables, including jewelry, at home. Bring only your medications and the money you need for the day to the hospital. 
 
@@ -725,14 +725,14 @@ You will change into a gown, robe, and slippers. When you are ready, you will be
 #### The Procedure
 <figure>
 <img src="/g/figs/opbmt_fig_cvc.jpg" />
-<figcaption>Fig N: A small area of your chest will be numbed. 1 or 2 small incisions will be made and your catheter will be inserted.</figcaption>
+<figcaption>A small area of your chest will be numbed. 1 or 2 small incisions will be made and your catheter will be inserted.</figcaption>
 </figure>
 
 The placement of your catheter should take about 30 minutes. First, an IV line will be started and you will be given medication through the line to make you sleepy. Your blood pressure, heart rate, breathing, and oxygen levels will be monitored during your procedure.
 
-A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you, either one or two small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
+A small area near your collarbone will be numbed with a local anesthetic. Depending on the type of catheter recommended for you, either 1 or 2 small incisions (surgical cuts) will be made near your collarbone, usually at the base of your neck. These incisions will be used to gain access to a vein where the catheter will be inserted. 
 
-Once your catheter has been inserted into your chest the incisions near will be stitched closed. The stitches will be absorbed into your body and will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
+Once your catheter has been inserted into your chest, the incisions near it will be stitched closed. Your body will absorb your stitches. They will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 <figure>
 <img src="/g/figs/opbmt_fig_cvcinplace.jpg" />
 <figcaption>Fig N: Once the catheter has been inserted, it will exit your chest wall and split into a number of lumens - tubes that allow your medical team to access your blood, give you fluids, infusions, etc.</figcaption>
