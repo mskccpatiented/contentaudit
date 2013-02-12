@@ -684,7 +684,7 @@ After harvesting most patients have minimal side effects and can resume their re
 Call your doctor if you:
 
 * Develop a temperature of 100.4&deg;F (38&deg;C) or higher
-* Develop chills
+* Develop flu-like symptoms or 
 * Notice any redness, bleeding, drainage, or pain at your catheter or needle insertion site
 * Notice any bleeding or bruising
 * Notice numbness or tingling of your lips, hands, or feet
@@ -735,26 +735,26 @@ A small area near your collarbone will be numbed with a local anesthetic. Depend
 Once your catheter has been inserted into your chest, the incisions near it will be stitched closed. Your body will absorb your stitches. They will not need to be removed. The outside of your incision will be covered with strips of adhesive tape. Your catheter will be stitched to your skin at the point where it exits your body so that it will stay in position. You will be able to see this thread around your catheter. 
 <figure>
 <img src="/g/figs/opbmt_fig_cvcinplace.jpg" />
-<figcaption>Fig N: Once the catheter has been inserted, it will exit your chest wall and split into a number of lumens - tubes that allow your medical team to access your blood, give you fluids, infusions, etc.</figcaption>
+<figcaption>Once the catheter has been inserted, it will exit your chest wall and split into a number of lumens&mdash;tubes that allow your medical team to access your blood, give you fluids, infusions, etc.</figcaption>
 </figure>
 
-#### After Your Catheter Has Been Inserted
-After your catheter has been inserted you will be monitored in the SDH for 2 to 3 hours before being allowed to return to your hotel or apartment. 
+#### After your catheter has been inserted
+After your catheter has been inserted, you will be monitored in the SDH for 2 to 3 hours before being allowed to return to your hotel or apartment. 
 
-You will need to leave the dressings covering the incision near your collarbone in place and dry for 48 hours. You can remove these dressings after two days and can leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
+You will need to leave the bandages covering the incision near your collarbone in place and dry for 48 hours. After 2 days you can remove these bandages and leave the site of the incision open to the air. The strips of adhesive tape that cover the incision should be left in place until they start to peel off. This should happen about 3 to 5 days after your catheter is inserted.
 
-The point where the catheter exits your skin will still need to be covered with a dressing. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
+The point where the catheter exits your skin will still need to be covered with a bandage. The stitch at this site keeps your catheter in place until the cuff becomes fully anchored.
 
-If you have discomfort at your incision sites or around the cuff ask your nurse for medication to relieve your pain.
+If you have discomfort at your incision sites or around the cuff, ask your nurse for medication to relieve your pain.
 
-#### Taking Care of Your Catheter
-Taking good care of your catheter is important. When you visit the Outpatient BMT Clinic each day your nurse will change your catheter dressing, change the caps on the lumens, and flush your catheter. When you are in your hotel, apartment, or home (and anywhere else away from the BMT clinic) you are responsible for caring for your catheter.
+#### Taking care of your catheter
+Taking good care of your catheter is important. When you visit the Outpatient BMT Clinic each day your nurse will change your catheter bandages, change the caps on the lumens, and flush your catheter. When you are in your hotel, apartment, or home (and anywhere else away from the BMT clinic) you are responsible for caring for your catheter.
 
-A nurse will teach you how to care for your catheter. You will learn how to change the dressing while ensuring that it remains free from germs; this is known as "sterile technique." Using sterile technique will decrease your risk of infection. Your caregiver will learn how to change your dressing with you.
+A nurse will teach you how to care for your catheter. You will learn how to change the bandage while ensuring that it remains free from germs; this is known as "sterile technique." Using sterile technique will decrease your risk of infection. Your caregiver will learn how to change your bandage with you.
 
-Your nurse will also give you supplies including clean dressings, gauze pads, lumen caps, tape, clamps, and other essentials. 
+Your nurse will also give you supplies, including clean bandages, gauze pads, lumen caps, tape, clamps, and other essentials. 
 
-Your catheter should not interfere with your day to day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
+Your catheter should not interfere with your day-to-day activities as you get ready for your transplant, but you should avoid strenuous activities and contact sports. 
 
 Prepare the following emergency kit and keep it with you at all times: 
 
@@ -767,32 +767,32 @@ Prepare the following emergency kit and keep it with you at all times:
 
 Here is a summary of the things you'll do to take care of your catheter:
 
-* Change the Tegaderm<sup>&trade;</sup> dressing once a week.
+* Change the Tegaderm<sup>&reg;</sup> dressing once a week.
 * Change the caps on the lumens and flush your catheter twice a week.
 * Use the small white clamps on each lumen of the catheter to clamp the catheter closed when it is not in use.
-* Use a waterproof cover, called an Aquaquard<sup>&trade;</sup>, over your catheter when showering or bathing.
-* Avoid submerging your catheter in water (e.g. in a swimming pool or hot tub).
+* Use a waterproof cover, called an Aquaquard<sup>&reg;</sup>, over your catheter when showering or bathing.
+* Avoid submerging your catheter in water (e.g., in a swimming pool or hot tub).
 * Keep your catheter secure. Avoid pulling on it or the lumens.
 * Tape the lumens to your skin, pin them to your clothing, or tape them to your bra if you're a woman. 
 
 #### Problems With Your Catheter
-You and your caregiver should be on the look-out for any problems with your catheter. Infection is the most serious complication to watch out for. Look at your catheter site daily. Notify your doctor, NP, or nurse if you experience any of the following:
+You and your caregiver should be on the lookout for any problems with your catheter. Infection is the most serious complication to watch out for. Look at your catheter site daily. Notify your doctor, NP, or nurse if you experience any of the following:
 
-* Redness, swelling, and/or drainage (a liquid that can vary in color but may be clear, bloody or green/yellowish) at the exit site.
-* Pain or tenderness at the site where your catheter is inserted into your chest.
-* Temperature higher than 100.4&deg;F or 38&deg;C.
-* Flu-like symptoms or chills.
+* Redness, swelling, and/or drainage (a liquid that can vary in color but may be clear, bloody, or green/yellowish) at the exit site
+* Pain or tenderness at the site where your catheter is inserted into your chest
+* Temperature of 100.4&deg;F (38&deg;C) or higher
+* Flu-like symptoms or chills
 
 Other complications may be related to the catheter itself. Notify your doctor, NP, or nurse if you experience any of the following:
 
-* A hole or break in the catheter.
-* Swelling in your face, neck or arm, on the same side of your body as your catheter
+* A hole or break in the catheter
+* Swelling in your face, neck, or arm, on the same side of your body as your catheter
 
-<figure><img src="/g/figs/opbmt_fig_clampedcvc.jpg" /><figcaption>Fig N: Clamping the catheter above a leak.</figcaption></figure>
+<figure><img src="/g/figs/opbmt_fig_clampedcvc.jpg" /><figcaption>Clamping the catheter above a leak.</figcaption></figure>
 
-If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your BMT Emergency Guide (included at the back of this guide); if it is between 8am and 8pm call the BMT Outpatient Clinic. If it is after 8pm call your attending physician or go directly to the Urgent Care Center.
+If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your *BMT Emergency Guide* (included at the back of this guide); if it is between 8:00am and 8:00pm call the BMT Outpatient Clinic. If it is after 8:00pm call your attending physician or go directly to the Urgent Care Center.
 
-Full instructions on how to care for your catheter are included in Caring for Your Central Venous Catheter which is included at the end of this guide. You should read it in full and refer to it when you are changing your dressing or caring for your catheter.
+Full instructions on how to care for your catheter are included in *Caring for Your Central Venous Catheter* which is included at the end of this guide. You should read it in full and refer to it when you are changing your bandages or caring for your catheter.
 <div class="phasedivider invisible">End of Phase 1 Divider</div>
 
 ## Phase 2 - Your Chemotherapy and Transplant
@@ -803,11 +803,11 @@ There are 2 main activities in this second phase of your journey. You'll receive
 These are the key things that will happen during this phase:
 
 * **Outpatient BMT Clinic** - You'll start making daily visits to the outpatient BMT clinic.
-* **Conditioning Regimen** - You'll receive high-dose chemotherapy to kill your cancer. The chemotherapy will also kill the cells in your blood and damage your immune system. 
+* **Conditioning regimen** - You'll receive high-dose chemotherapy to kill your cancer. The chemotherapy will also kill the cells in your blood and damage your immune system. 
 * **Learn about side effects** - The side effects of chemotherapy are significant. Take time to learn about the side effects you'll experience by reading this guide in full along with accompanying information.
 * **Monitoring temperature and fluid intake** - Your caregiver will take your temperature every 4 hours and will monitor how much you drink. Your caregiver will record this information in a diary. Your healthcare team will check this information when you and your caregiver come to the clinic.
 * **Learn about sexuality and transplantation** - Learn about the impact that treatment and transplantation can have on your sexuality.
-* **Rest day (Day −1)** - You will come to the clinic for an evaluation.
+* **Rest day (Day −1)** - You'll come to the clinic for an evaluation.
 * **Transplantation (Day 0)** - You'll visit the clinic. Your stem cells will be taken from storage and thawed. They will then be infused into your body through your catheter. This is your transplant.
 
 We cover each of these activities in detail later in this section.
@@ -815,30 +815,30 @@ We cover each of these activities in detail later in this section.
 ### The Outpatient BMT Clinic
 While you are being cared for on an outpatient basis, you will receive all your care, including your chemotherapy, transplant and post-transplant care, at the Outpatient BMT Clinic. The clinic is located on the 4<sup>th</sup> floor of the main hospital. You'll make daily visits to the clinic, and will only be admitted to the inpatient BMT unit if you need more care than can be provided to you in the outpatient clinic.  
 
-In the morning when you come to the clinic you should wear every-day, comfortable clothing that allows for easy access to your catheter; shirts that open at the front, sweatshirts, and large t-shirts. Avoid wearing clothing that is too difficult to take off or put back on again. 
+In the morning when you come to the clinic, you should wear everyday, comfortable clothing that allows for easy access to your catheter (e.g., shirts that open at the front, sweatshirts, and large t-shirts). Avoid wearing clothing that is too difficult to take off or put back on again. 
 
 You should bring these items to the clinic with you each day:
 
-* A list of all prescription and non-prescription medications you are taking, along with with dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products and over-the-counter medications. 
-* All the prescription medications you were instructed to take during the bone marrow transplant period.
-* Your temperature and oral intake diary. Your caregiver will use this to keep track of your temperature and fluid intake while you're away from the clinic. This is explained later.
-* Books, newspapers, an audio player, a laptop or tablet computer&mdash;whatever you need to pass the time. 
-* A notebook to write down key pieces of information and any questions you or your caregiver may have.
+* A list of all prescription and nonprescription medications you are taking, along with with dosages and frequency. This should include patches, creams, vitamins, nutritional supplements, herbal products, and over-the-counter medications. 
+* All the prescription medications you were instructed to take during the bone marrow transplant period
+* Your temperature and oral intake diary. Your caregiver will use this to keep track of your temperature and fluid intake while you're away from the clinic. This will be explained later
+* Books, newspapers, an audio player, a laptop or tablet computer&mdash;whatever you need to pass the time
+* A notebook to write down key pieces of information and any questions you or your caregiver may have
 
-You should arrive at the clinic at your scheduled time; usually around 8am. Once you arrive, you will check in with the session assistant and then you'll be brought to a private room. Your room has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
+You should arrive at the clinic at your scheduled time; usually around 8:00am. Once you arrive, you'll check in with the session assistant and then you'll be brought to a private room. Your room will have a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
 
-Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you are feeling, do a physical exam, check your vital signs, and weigh you. Your NP will also check the temperature and oral intake diary; the diary is explained later. 
+Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you are feeling, do a physical exam, check your vital signs, and weigh you. Your NP will also check the temperature and oral intake diary; the diary will be explained later. 
 
-Each day, some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
+Each day, some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels, and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
 
 Once you've been examined, you will wait in your room in the clinic for your test results to return. This can take several hours. This is a good time for your caregiver to take a break; he or she can take some personal time or run errands. You will be safe in the care of your healthcare team. We highly recommend that caregivers leave the hospital and take this time to unwind.
 
 After several hours, your test results (sometimes referred to as "labs") will come back from the lab. Your healthcare team will analyze the results and will make decisions about your care. The rest of your visit to the clinic that day will depend on your test results.
 
-Here are some things that can happen based on the results of your tests:
+Here are some things that can happen based on your test results:
 
 * You could be given fluids to hydrate you.
-* You could be given an infusion of platelets, red blood cells or other blood components.
+* You could be given an infusion of platelets, red blood cells, or other blood components.
 * Your medication could be changed.
 * Your treatment could be left as is.
 
@@ -847,20 +847,20 @@ All of this will be explained to you. You'll remain in the clinic until any acti
 ### The Conditioning Regimen - Receiving Your Chemotherapy
 The conditioning regimen is another name for the high-dose chemotherapy that you will receive prior to your transplant. The regimen you receive will depend upon your disease, previous treatments, and specific transplant protocol or treatment plan.
 
-The conditioning regimen starts on a negative numbered day. Depending on your treatment plan, you may have 1 or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g. Day +1, Day +2, etc). 
+The conditioning regimen starts on a negative numbered day. Depending on your treatment plan, you may have 1 or multiple days of chemotherapy. Your stem cell transplant always takes place on Day 0. Remember that every day after transplant is referred to as a positive numbered day (e.g., Day +1, Day +2, etc). 
 
 <table>
 <tr><th class="tfive">Day −14 to Day −2</th><th class="tfive">Day -1</th><th class="tfive">Day 0</th><th class="tfive">Day +1</th></tr>
 <tr><td>Conditioning regimen (chemotherapy)</td><td>Rest day</td><td>Stem cell infusion</td><td>Start of supportive care</td></tr>
 </table>
 
-Your BMT nurse coordinator will work with you to plan your schedule and will provide you with a treatment calendar. The nurse coordinator will tell you the date and time of your treatment.
+Your nurse coordinator will work with you to plan your schedule, and will provide you with a treatment calendar. He or she will tell you the date and time of your treatment.
 
-On the morning of your chemotherapy you and your caregiver will make the first of your regular visits to the Outpatient BMT Clinic. 
+On the morning of your chemotherapy, you and your caregiver will make the first of your regular visits to the Outpatient BMT Clinic. 
 
-Once you have checked in and been evaluated by your NP, you will meet with your clinical pharmacist. Your pharmacist will explain the medications you will take throughout your treatment and will show you how to use your pill box. Your pharmacist will give you all the medications that you need to take, along with a list that tells you when to take each different medication.
+Once you have checked in and been evaluated by your NP, you will meet with your clinical pharmacist. Your pharmacist will explain the medications you will take throughout your treatment and will show you how to use your pill box. Your pharmacist will give you all the medications that you will need to take, along with a list that tells you when to take each different medication.
 
-Once you have been evaluated and your pharmacist has spoken to you about your medications, you'll receive your chemotherapy. Before you receive your chemotherapy, a number of safety checks are done to make sure everything is correct. 
+Once you have been evaluated and your pharmacist has spoken to you about your medications, you'll receive your chemotherapy. Before you receive your chemotherapy, a number of safety checks will be done to make sure everything is correct. 
 
 * Your chemotherapy is ordered by your doctor.
 * A nurse checks your chemotherapy order.
@@ -871,40 +871,40 @@ Once you have been evaluated and your pharmacist has spoken to you about your me
 * Your chemotherapy is picked up by your chemotherapy nurse.
 * Two chemotherapy nurses check to make sure your chemotherapy order, blood test results, and chemotherapy are correct.
 
-Once all the safety checks have been completed, your nurse will give you fluids (to keep you hydrated), anti-nausea medication, and the chemotherapy medication through your catheter.
+Once all the safety checks have been completed, your nurse will give you fluids (to keep you hydrated), antinausea medication, and the chemotherapy medication through your catheter.
 
 During your chemotherapy, your healthcare team will use this time to talk to you about the rest of your transplant journey. 
 
 Your healthcare team will make sure that the logistics of the next few days are clear, including what happens on transplant day and what happens after your transplant. 
 
-They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment/hotel.
+They will talk to you about the side effects you'll start to experience after your chemotherapy. You'll be given printed materials that explain these side effects in detail and you'll be shown what to do if you need to get help while you are in your apartment or hotel.
 
-### Monitoring Temperature and Fluid Intake
+### Monitoring Your Temperature and Fluid Intake
 From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic and monitor all of the fluids you drink. Your caregiver will write this information in the *Temperature and Oral Intake Diary*. A sample page from the diary is included at the back of this guide.
 
-Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both how to use the diary.
+Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both of you how to use the diary.
 
-If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8am and 8pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
+If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8:00am and 8:00pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8:00pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
-You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day; little and often.
+You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day&mdash;little and often.
 
-Your caregiver should bring the Temperature and Oral Intake Diary to the clinic each day. Your NP will review the diary with you. 
+Your caregiver should bring the diary to the clinic each day. Your NP will review the diary with you. 
 
 ### Rest Day 
-The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
+The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells, there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
 
-On the rest day you will come to the Outpatient BMT Clinic as usual, where you will be evaluated. Your healthcare team will also use the rest day to speak with you about your stem cell infusion, communicate important information, and teach you and your caregiver useful skills.
+On the rest day, you will come to the Outpatient BMT Clinic as usual, where you will be evaluated. Your healthcare team will also use the rest day to speak with you about your stem cell infusion, communicate important information, and teach you and your caregiver useful skills.
 
 ### Transplant Day
 Now that you've received chemotherapy to kill the cancer cells in your body, it's time for your stem cell infusion&mdash;your transplant. 
 
-On Day 0 of your specific treatment plan the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
+On Day 0 of your specific treatment plan, the stem cells that were separated from your blood and frozen earlier will be re-infused into your body. These stem cells will give you back your ability to make new blood cells and fight infections. 
 
-#### The Morning Before Transplant
+#### The morning before your transplant
 On the morning of Day 0, your transplant day, you and your caregiver should come to the outpatient clinic as usual, at your scheduled time. Give yourself extra time to get to the clinic, as you may feel tired after your chemotherapy. 
 
-#### Your Stem Cell Infusion
-Before the stem cell infusion, your transplant, your frozen stem cells will be removed from storage in the stem cell laboratory and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
+#### Your stem cell infusion
+Before the stem cell infusion, your frozen stem cells will be removed from storage in the stem cell laboratory and brought to your room. The stem cells are stored in clear plastic bags that look like a bag of blood. The bags will be placed in a warm water bath to thaw. 
 
 You will be given medications about 30 minutes before your transplant to help reduce any side effects effects that you may experience during the infusion. 
 
@@ -912,13 +912,13 @@ Once the stem cells are thawed, your NP or doctor will infuse the stem cells int
 
 You may experience some side effects during and after your infusion. The common side effects are nausea, vomiting, a tickle in your throat, or a cough. Other side effects that can occur include low blood pressure, chills, and fever. 
 
-It's important that you communicate with your healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you do experience side effects then your healthcare team will treat your symptoms. 
+It's important that you communicate with your healthcare team and with your caregiver during your transplant. Let your healthcare team know how you're feeling and tell them if you experience any side effects. If you do experience side effects, your healthcare team will treat your symptoms. 
 
-During and after your transplant you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. You may not notice the smell but those around you will. This smell is caused by the preservative used to store your stem cells and will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
+During and after your transplant, you may notice a strong, garlic-like taste in your mouth. Your urine, sweat, and skin may also have a garlic-like smell. You may not notice the smell but those around you will. This smell is caused by the preservative used to store your stem cells and will gradually go away over 1 to 2 days. The Nutrition Department will give you lemons to cut up and use as safe, natural air-fresheners. 
 
 Your urine may appear bloody for 24 hours after your stem cells are infused into your body. This is your body's way of getting rid of the byproducts of the stem cells that are not needed.  
 
-After your stem cells are infused through your catheter you will remain in your hospital room for 4 to 6 hours for observation. After that, you will be allowed to return home to your hotel or apartment to rest. 
+After your stem cells are infused through your catheter, you will remain in your hospital room for 4 to 6 hours for observation. After that, you will be allowed to return home to your hotel or apartment to rest. 
 
 ## Phase 3 - After Your Transplant
 Now that you've had your transplant, you enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
