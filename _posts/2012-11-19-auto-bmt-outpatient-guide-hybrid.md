@@ -266,7 +266,9 @@ A type of immune cell. Most white blood cells are made in the bone marrow and ar
 ## Bone Marrow Basics
 
 ### What Is Bone Marrow? What Are Stem Cells?
-<div class="image-placeholder"><p>Image Placeholder:Diagram of the process by which stem cells become blood; marrow->stem cells->differentiated cells. The stock ones available online are not good and we can do better.</p></div>
+<figure>
+<img src="/g/figs/opbmt_fig_stemcells.jpg" /><figcaption></figcaption>
+</figure>
 
 Bone marrow is a substance found in the spaces in the center of the larger bones in your body: your hip, breastbone, and pelvis.
 
@@ -285,11 +287,11 @@ An autologous transplant has 3 key phases:
 
 **Before** - You will prepare for your stem cell transplant. You will receive medications that stimulate your body to make more stem cells than normal and encourage those stem cells to circulate in your bloodstream. Your stem cells will be harvested from your bloodstream and then stored. A central venous catheter will be inserted into your upper chest wall. 
 
-<div class="image-placeholder"><p>Image Placeholder: An image/diagram of chemotherapy being given through the catheter. </p></div>
+<figure>
+<img src="/g/figs/opbmt_fig_chemo.jpg" /><figcaption>A patient receiving chemotherapy through their catheter.</figcaption>
+</figure>
 
 **During** - You will receive your chemotherapy, which is called the "conditioning regimen," to kill the cancer cells. Your stem cells and other blood cells will also be killed and you will lose your ability to make new blood cells. Your immune system will be severely compromised. Your stem cells will be taken from storage and infused into your body through your catheter. This is your stem cell transplant.
-
-<div class="image-placeholder"><p>Image Placeholder: An image/diagram of the process of engraftment. </p></div>
 
 **After** - The infused stem cells find their way through your bloodstream to your bones. Over time, they take hold in your bones, a process called "engraftment." They begin to divide and create healthy, new blood cells. Your immune and vital systems begin to return to normal.
 
@@ -305,11 +307,9 @@ While each patient's transplant is different, here is a typical timeline for som
 * **Day 0:** This is your transplant day. You will come to the Outpatient BMT Clinic where you will receive your stem cell transplant. You will return to your hotel or apartment in the evening.
 * **Day +1 to +12:** You will visit the Outpatient BMT Clinic each day to have blood work done, your vital signs checked, and a physical examination. You'll also receive hydration, electrolytes, and transfusions if necessary. While you are in the outpatient clinic, you will be cared for in a private room that has a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you. There is a communal lounge with coffee and tea for caregivers. You will return to your hotel or apartment each evening. 
 
-After Day +12 your central venous catheter will be removed. If you live within 1 hour of MSKCC's main hospital, you may be allowed to return home. If you live further away, you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
+After your counts have recovered and you to not require frequent treatments, your central venous catheter will be removed. If you live within 1 hour of MSKCC's main hospital, you may be allowed to return home. If you live further away, you will stay at your local hotel or apartment for a few more weeks. You will still visit the Outpatient BMT Clinic regularly. 
 
 ## Your Transplant Team
-<div class="image-placeholder invisible"><p>Image Placeholder: Photograph of the outpatient transplant team would work, if printing is not an issue.</p></div>
-
 A team of healthcare professionals from the Adult Bone Marrow Transplant Service will care for you throughout your treatment. Below, you'll find a list of the team members and their roles. You will meet each member of your healthcare team at different times during your treatment.
 
 Your **attending doctor** will be in charge of your care throughout your treatment. Even though 1 specific doctor will be your primary doctor, you'll be cared for by different doctors during your transplant.
@@ -346,17 +346,17 @@ In this phase, you'll make preparations for your transplant: practically, physic
 
 Here is a list of things that will happen, and things that you need to do, in Phase 1. You can check off items as you go along:
 
+* **Meet your team** - Meet your doctor and members of your healthcare team. Take this time to ask about your treatment and have them answer your questions.
 * **Learn about your transplant** - Read this entire guide at least once, along with the additional information at the back. 
 * **Make a list of questions** - Make a note of anything that you don't understand about your transplant, anything in the guide that isn't clear, and any other questions you have.
-* **Meet your team** - Meet your doctor and members of your healthcare team. Take this time to ask about your treatment and have them answer your questions.
 * **Choose a caregiver** - Identify a family member or friend to act as your caregiver. Make sure they understand what the role entails and give them a copy of this guide. Ask them to read this guide at least once.
 * **Get financial clearance** - Meet with a representative from patient financial services (PFS) and speak to your health insurance company. Check that your outpatient stem cell transplant and medications are covered.
 * **Learn about chemotherapy side effects** - We've compiled a list of side effects caused by high-dose chemotherapy. Read this information and make a note of any questions you or your caregiver have. 
-* **Make decisions about your fertility** - Speak with your healthcare team about your fertility. Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future. Take steps to preserve your fertility.
+* **Make decisions about your fertility** - Speak with your healthcare team about your fertility options. Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future. Take steps to preserve your fertility.
 * **Speak to your children about your treatment** - Speak to your children about your treatment to help build trust and their sense of security.
 * **Arrange childcare** - Your children cannot stay with you at your hotel or apartment during your outpatient transplant, so you should arrange for childcare.
 * **Arrange pet care** - Your pets cannot stay with you during your transplant, so make arrangements for them.
-* **Attend orientation** - You and your caregiver will attend the online orientation for outpatient autologous stem cell transplant patients. Ask your nurse coordinator for details.
+* **Attend orientation** - You and your caregiver will attend the virtual orientation for outpatient autologous stem cell transplant patients. Ask your nurse coordinator for details.
 * **Pretransplant evaluation** - You'll undergo a series of medical tests. Your nurse coordinator will schedule these tests with you.
 * **Lodging** - Your nurse coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
 * **Nutrition consult** - Meet with a dietitian to review special dietary requirements and safe food handling.
@@ -381,7 +381,7 @@ Your caregiver will receive specific instructions from your healthcare team abou
 * Gathering information from your healthcare team
 * Caring for your catheter 
 * Making sure you take your medications and keeping a written record of when you take them
-* Taking your temperature every 4 hours while you are awake and keeping a written record of your temperature
+* Taking your temperature every 4 hours while you are awake and away from the clinic, and keeping a written record of your temperature
 * Keeping a written record of how much fluid you drink every day
 * Noticing any changes in your condition
 * Telling your healthcare team about any new symptoms you may have or changes in your condition
@@ -441,7 +441,7 @@ The results of the tests will be used to plan your treatment and adjust it to yo
 Your doctor and nurse will explain any other tests that you may need.
 
 ### Side Effects From Chemotherapy
-Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects will include the loss of your ability to heal and fight infections, infertility, hair loss, fatigue, nausea, mouth sores, and mouth tenderness. 
+Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects may include the loss of your ability to fight infections, infertility, hair loss, fatigue, nausea, mouth sores, mouth tenderness, or mouth sores. 
 
 Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy, make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
 
@@ -639,7 +639,7 @@ In an autologous transplant, your stem cells are first mobilized and then harves
 
 Mobilization is the process of increasing the number of stem cells produced by your bone marrow and released into your bloodstream. 
 
-Stem cell harvesting is the process of separating whole blood into its major components (red blood cells, white blood cells, platelets, and plasma) then removing stem cells from the white blood cell component.
+Stem cell harvesting is the process of collecting and separating whole blood into its major components (red blood cells, white blood cells, platelets, and plasma) then removing stem cells from the white blood cell component.
 
 Once your stem cells have been harvested, they are frozen and stored, then infused into your body after your chemotherapy; this is your stem cell transplant.
 
@@ -655,19 +655,19 @@ A full guide to giving yourself GCSF injections is covered in the document *Dire
 Some patients will not give themselves injections of filgrastim or pegfilgrastim, and will instead be given a different type of GCSF called plerixafor. If plerixafor is recommended for you, then the injections will be given by a nurse in the BMT clinic.
 
 #### Harvesting of Your Stem Cells
-<figure>
+<figure class="invisible">
 <img src="/g/figs/opbmt_fig_apheresis.jpg" /><figcaption>A patient undergoing stem cell harvesting. Blood is withdrawn from the catheter and circulated through the machine where stem cells are collected. The rest of the blood is returned through the catheter.</figcaption>
 </figure>
 
 The GCSF injections will stimulate the growth and mobilization of your stem cells, then they will be harvested. Harvesting is the procedure used to collect some of these stem cells in your blood. 
 
-Before you are scheduled for stem cell harvesting, a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough, arrangements will be made to have a catheter inserted, which will then be used during harvesting. The catheter will remain in place for several weeks, or months.
+Before you are scheduled for stem cell harvesting, a nurse or doctor will examine your veins to see if they are okay for the procedure. If your veins are not healthy enough, arrangements will be made to have a catheter inserted, which will then be used during harvesting to collect the stem cells. The catheter will remain in place for several weeks, or months.
 
 The harvesting procedure is done in the Blood Donor Room. Your nurse coordinator or your doctor will schedule 3 to 5 harvesting sessions to collect enough cells. The exact number of sessions is determined by the number of stem cells that are collected in each session. You will be notified each day if you need to return for another harvesting session. Each session will last 3 to 4 hours.
 
 You should eat dairy products or other foods that are rich in calcium the night before and the morning of your harvesting session. Wear comfortable clothes. 
 
-During the procedure you will be laying down in a bed or sitting in a reclining chair. You will be connected to a machine by IV tubes connected to your veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood will be returned to you. 
+During the procedure you will be laying down in a bed or sitting in a reclining chair. You will be connected to a machine by IV tubes connected to veins in your arms or your catheter. Blood will be withdrawn through the IV line or catheter and circulated through the machine where your stem cells will be collected. The rest of your blood will be returned to you. 
 
 If you wish, you will be able to watch TV or read during your procedure. A family member or friend may sit with you. Since patients sometimes complain of feeling cold during the procedure, blankets will be available.
 
@@ -690,7 +690,7 @@ Call your doctor if you:
 * Notice numbness or tingling of your lips, hands, or feet
 
 ### Having Your Central Venous Catheter Inserted
-On or before Day −4, you and your caregiver will come to MSKCC's Interventional Radiology Department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
+Prior to starting your conditioning treatment, you and your caregiver will come to MSKCC's Interventional Radiology Department at the main hospital to have a central venous catheter inserted into the wall of your chest. 
 
 A central venous catheter is a tube that is inserted into a large vein near your collarbone. On the outside of your body, the catheter divides into 2 or 3 smaller tubes called lumens. 
 
@@ -788,7 +788,7 @@ Other complications may be related to the catheter itself. Notify your doctor, N
 * A hole or break in the catheter
 * Swelling in your face, neck, or arm, on the same side of your body as your catheter
 
-<figure><img src="/g/figs/opbmt_fig_clampedcvc.jpg" /><figcaption>Clamping the catheter above a leak.</figcaption></figure>
+<figure class="invisible"><img src="/g/figs/opbmt_fig_clampedcvc.jpg" /><figcaption>Clamping the catheter above a leak.</figcaption></figure>
 
 If your catheter is leaking at any time, clamp it above the leak. Use the white catheter clamp on the catheter, if possible. Wipe the area that is leaking with an alcohol pad and then cover the leak with tape. Follow the instructions in your *BMT Emergency Guide* (included at the back of this guide); if it is between 8:00 am and 8:00 pm call the BMT Outpatient Clinic. If it is after 8:00 pm call your attending physician or go directly to the Urgent Care Center.
 
@@ -825,9 +825,9 @@ You should bring these items to the clinic with you each day:
 * Books, newspapers, an audio player, a laptop or tablet computer&mdash;whatever you need to pass the time
 * A notebook to write down key pieces of information and any questions you or your caregiver may have
 
-You should arrive at the clinic at your scheduled time; usually around 8:00am. Once you arrive, you'll check in with the session assistant and then you'll be brought to a private room. Your room will have a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
+You should arrive at the clinic at your scheduled time. Once you arrive, you'll check in with the session assistant and then you'll be brought to a private room. Your room will have a bed and bathroom. There is a bedside entertainment unit with a TV and a computer. A light breakfast and lunch will be provided for you.
 
-Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you are feeling, do a physical exam, check your vital signs, and weigh you. Your NP will also check the temperature and oral intake diary; the diary will be explained later. 
+Your NP will come to your room and will sit with you and your caregiver. Your NP will ask you series of questions about how you are feeling, and do a physical exam. Your nurse or a Patient Care Technician will check your vital signs and weight. Your NP will check your temperature and oral intake diary; the diary is explained later in this guide. 
 
 Each day, some of your blood will be taken and sent for testing. Your blood will be checked to see how your white blood cells, red blood cells, and platelets are recovering. Your blood will also be used to check the health of your kidneys, measure your electrolyte levels, and identify any signs of infection, such as the presence of harmful bacteria or viruses. 
 
@@ -882,13 +882,13 @@ They will talk to you about the side effects you'll start to experience after yo
 ### Monitoring Your Temperature and Fluid Intake
 From the time you start receiving your chemotherapy, your caregiver must take your temperature every 4 hours while you are away from the Outpatient BMT Clinic and monitor all of the fluids you drink. Your caregiver will write this information in the *Temperature and Oral Intake Diary*. A sample page from the diary is included at the back of this guide.
 
-Your NP will give your caregiver a thermometer and will show him or her how to use it. Your NP will show both of you how to use the diary.
+Your nurse will give your caregiver a thermometer and will show him or her how to use it. Your nurse will show both of you how to use the diary.
 
 If your temperature is 100.4&deg;F (38&deg;C) or higher, your caregiver needs follow the instructions on your BMT Emergency Guide; if it is between 8:00 am and 8:00 pm call the Outpatient BMT Clinic at (212) 639-2399. If it is after 8:00 pm call (212) 639-2000 and ask for the doctor covering bone marrow transplant.
 
 You should drink 2 liters or 64 fluid ounces of fluids each day. Try to drink steadily throughout the day&mdash;little and often.
 
-Your caregiver should bring the diary to the clinic each day. Your NP will review the diary with you. 
+Your caregiver should bring the diary to the clinic each day. Your NP will review the diary with and your caregiver you each day at the clinic. 
 
 ### Rest Day 
 The day between your chemotherapy and your transplant day is a rest day. This rest day allows the chemotherapy drug to work and then leave your body. When you receive your stem cells, there will be no trace of the chemotherapy drug in your body, so the transplanted stem cells will not be harmed.
@@ -921,7 +921,7 @@ Your urine may appear bloody for 24 hours after your stem cells are infused into
 After your stem cells are infused through your catheter, you will remain in your hospital room for 4 to 6 hours for observation. After that, you will be allowed to return home to your hotel or apartment to rest. 
 
 ## Phase 3 - After Your Transplant
-Now that you've had your transplant, you will enter a period of watching and waiting for your stem cells to begin producing new blood, a process called engraftment. 
+Now that you've had your transplant, you will enter a period of watching and waiting for your stem cells to begin producing new blood cells, a process called engraftment. 
 
 As engraftment occurs, the number of white blood cells, red blood cells, and platelets in your blood will return to normal. The amount of these cells, called your "counts," will be monitored daily. You will remain in a nearby apartment or hotel and will return to the outpatient clinic each day to have your progress evaluated and to have adjustments made to your treatment. 
 
@@ -934,9 +934,9 @@ These are the key things that will happen during this phase:
 * **Neutropenia** - The low number of white blood cells in your blood will leave you vulnerable to infection, so you will need to take precautions to avoid any sources of infection.
 * **Low-microbial diet** - Because you are neutropenic, you will eat a diet that contains a low number of potentially harmful microbes.
 * **Low platelet count** - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
-* **Personal care** - Because you are neutropenic and have a low platelet count, you will need to take special care when you bathe, shower, and brush your teeth.
+* **Personal care** - Because you are neutropenic and have a low platelet count, you will need to take special care when you bath, shower, and brush your teeth.
 * **Low red blood cell count** - You will experience fatigue.
-* **Nausea and other side effects** - You will experience nausea and other side effects associated with your treatment and transplant.
+* **Nausea and other side effects** - You may experience nausea and other side effects associated with your treatment and transplant.
 * **Transfusions** - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream.
 * **Recovery of your counts** - Over time, as your stem cells engraft and begin to produce new blood cells, your counts will improve.
 * **Exercise** - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
@@ -946,7 +946,7 @@ We will cover each of these topics in detail later in this section.
 ### Engraftment
 Engraftment is when your body accepts the transplant and your white blood cell count returns. 
 
-Almost immediately after your stem cells are infused into your body, they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow, they will begin to fix in place, then start to create new blood. White blood cell engraftment usually occurs about 10 to 14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
+Almost immediately after your stem cells are infused into your body, they will travel through your bloodstream into your bone marrow. Once the stem cells arrive in your bone marrow, they will begin to engraft. White blood cell engraftment usually occurs about 10 to 14 days following your transplant, but this may vary depending upon your disease and exact treatment. Platelets and red blood cells usually take a little longer to recover than white blood cells. 
 
 Each day when you return to the Outpatient BMT Clinic, you will have blood drawn. This blood will be analyzed, and the different types of cells in your blood will be counted. When your stem cells engraft and start to divide, the number of white, red, and platelet cells will increase. 
 
@@ -1041,7 +1041,7 @@ Follow these guidelines to take good care of your mouth:
 
 * You will be given a mouthwash to rinse your mouth before and after meals and at bedtime. The number of rinses may be increased to every 2 hours, depending on how your mouth feels.
 * Use only the mouthwash that your nurse gives you. Do not use mouthwash or toothpaste from any store. These products irritate and dry the mouth and throat.
-* Use an ultra-soft toothbrush. You may also use Toothettes<sup>&reg;</sup> disposable foam sticks.
+* Use an ultra-soft toothbrush.
 * Do not use dental floss.
 * Avoid licking your lips. It increases drying and chapping.
 * Apply a lubricant like Chapstick<sup>&reg;</sup> after you clean or rinse your mouth and every 2 to 4 hours as needed. This will help keep your lips moist.
