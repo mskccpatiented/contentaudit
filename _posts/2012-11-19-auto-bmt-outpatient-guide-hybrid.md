@@ -580,34 +580,23 @@ There are financial assistance programs available, including Fertile Hope, a dis
 ### Speaking to Your Children About Your Transplant
 Being open with your child helps to build trust and a sense of security. During your transplant, your children will not be able to stay with you at your hotel or apartment. This can be upsetting for parents and children, so clear communication is recommended. When speaking to your children about your transplant, we recommend that you:
 
-* Always take into consideration your child’s age, developmental stage, and individual personality when talking about your illness and transplant.  
-
+* Always take into consideration your child’s age, developmental stage, and individual personality when talking about your illness and transplant.
 * Use the proper names and terms ("bump" or "boo boo" are confusing) when describing your diagnosis and transplant.
-Prepare your child for changes in your appearance, energy level, and daily routine (e.g., not going to work and multiple medical appointments)
-
+Prepare your child for changes in your appearance, energy level, and daily routine (e.g., not going to work and multiple medical appointments).
 * Be cautious about making promises that you will be home by an exact date (as discharges can be delayed for various reasons).
-
 * Invite your child to ask any and all questions. Remember, it is okay not to have all the answers.
-
 * Validate and accept your child's feelings.
-
 * Reassure your child that he or she is not responsible for your illness and that cancer is not contagious.
-
 * Set aside family time in which the transplant is not the only focus.  
 
 ### Making Arrangements for Childcare
 Your children will not be able to stay with you during your outpatient transplant. Before you move into the local apartment or hotel, and undergo your transplant, you will need to make arrangements to have your children taken care of. We recommend that you:
 
 * Identify family members or friends who knows your child well to care for them during the transplant period.
-
 * Maintain your child's daily routine as much as possible.
-
 * Prepare your child for these changes and help him or her weather the transition.
-
 * Expect that your child may have some reactions or may show normal signs of adjustment during the transition.
-
 * Engage your child’s teachers, counselors, clergy, and other adults involved in their life to support them during this time.
-
 * Educate your child’s caregiver about the transplant process in case your child has questions during the separation.
 
 We have suggested ways for you to maintain a strong connection to your children while you are living at the local hotel or apartment later in this guide under "Living With Neutropenia."
