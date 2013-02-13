@@ -29,238 +29,8 @@ As you read through this guide, make a note of any questions that come to mind. 
 We are always improving the information we provide to patients and their families/friends. If you get to the end of this guide and can think of ways it could be improved (maybe there's something that was missing, or wasn't completely clear), please email us at patiented@mskcc.org and we'll incorporate your feedback into the next version.
 
 ### Glossary
-We've done our best to limit the number of medical terms in this guide, however there are some words that we need you to understan. With this in mind, we've prepared a glossary of useful terms.
+We've done our best to limit the number of medical terms in this guide, however there are some words that we need you to understand. With this in mind, we've prepared a glossary of useful terms and included it at the back of this guide.
 
-**Advil<sup>&reg;</sup>**
-Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
-
-**Aleve<sup>&reg;</sup>**
-Aleve<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
-
-**anal**
-Related to the anus.
-
-**Anaprox**
-Anaprox<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
-
-**anemia**
-A condition in which the number of red blood cells is below normal.
-
-**anesthetic**
-A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in 1 small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
-
-**anti-inflammatory**
-Having to do with reducing inflammation. For example an anti-inflammatory drug is taken to reduce inflammation.
-
-**antibacterial**
-A substance that kills bacteria or stops them from growing and causing disease.
-
-**antifungal**
-A drug that treats infections caused by fungi.
-
-**antimicrobial**
-A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
-
-**apheresis**
-A procedure in which blood is collected, part of the blood (such as platelets or white blood cells) is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
-
-**aspirin**
-A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). 
-
-**autologous**
-Taken from an individual’s own tissues, cells, or DNA.
-
-**biopsy**
-The removal of cells or tissues for examination by a doctor. 
-
-**bone marrow**
-The soft, sponge-like tissue in the center of most bones. It produces white blood cells, red blood cells, and platelets.
-
-**bowel**
-The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has 2 parts: the small bowel and the large bowel. Also called the intestine.
-
-**bowel movement**
-Movement of feces through the bowel and out the anus. Also called defecation.
-
-**breastbone**
-The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called the sternum.
-
-**CAT scan or computed axial tomography**
-A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
-
-**catheter**
-A thin, flexible tube used to deliver liquids into or withdraw liquids from the body.
-
-**central venous catheter**
-A thin, flexible tube that is inserted into a vein in the upper arm, thigh, neck, or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used for taking blood samples, and also to give liquids, blood transfusions, chemotherapy, and other drugs. It avoids the need for repeated needle sticks.
-
-**clot**
-To change from a liquid form into a solid or semi-solid; for example, when blood clots, it changes from a liquid to a semi-solid, helping to stop bleeding.
-
-**dietitian**
-A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
-
-**dizziness**
-A sensation of instability and sometimes a feeling that you are about to fall.	
-
-**dose**
-The amount of medication taken, or radiation given, at one time.
-
-**echocardiograph**
-A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heart. Also called an EKG.
-
-**electrolysis**
-A beauty treatment where an electric current is used to kill the roots of hairs.
-
-**enema**
-The injection of a liquid through the anus into the large bowel.
-
-**engraftment**
-When stem cells infused into the body start to fix in place, grow, and make new blood cells.
-
-**fertility preservation**
-A type of procedure used to help preserve a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
-
-**filgrastim**
-A medication used to increase the number of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
-
-**GCSF (granulocyte colony-stimulating factor)**
-A medication that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
-
-**genital**
-Refers to the genitalia (external and internal sex organs and glands).
-
-**granulocyte**
-A type of white blood cell. Neutrophils, eosinophils, and basophils, are granulocytes. 
-
-**hemoglobin**
-A protein inside red blood cells that carries oxygen from the lungs to tissues and organs in the body and carries carbon dioxide back to the lungs. Testing for the amount of hemoglobin in the blood is usually part of a complete blood cell (CBC) test. It is used to check for conditions such as anemia, dehydration, and malnutrition.
-
-**hospitalist**
-A doctor who specializes in the care of hospitalized patients.
-
-**ibuprofen**
-A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of nonsteroidal anti-inflammatory drug (NSAID). Also called Advil<sup>&reg;</sup> and Motrin<sup>&reg;</sup>.
-
-**immune system**
-The complex group of organs and cells that defend the body against infections and other diseases.
-
-**infection**
-Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken this system.
-
-**infertility**
-Not being able to produce children.
-
-**infusion**
-A method of putting fluids, including medications and blood products, into the bloodstream. Also called intravenous infusion.
-
-**inpatient**
-A patient who is admitted to the hospital for treatment requiring an overnight stay.
-
-**irradiated**
-Treated with radiation.
-
-**jaundice**
-A condition in which the skin and the whites of the eyes become yellow, urine darkens, and the color of stool becomes lighter than normal. Jaundice occurs when the liver is not working properly or when a bile duct is blocked.
-
-**laxative**
-A substance that encourages bowel movements.
-
-**lubricant**
-An oily or slippery substance.
-
-**lumen**
-A tube that forms part of a catheter. Many catheters exit the body and separate into several lumens.
-
-**lymphoma**
-Cancer that begins in cells of the immune system. 
-
-**manicure**
-A beauty treatment where fingernails are trimmed/shaped and sometimes polished or painted. 
-
-**microliter**
-One millionth of a liter.
-
-**microorganism**
-An organism that can be seen only through a microscope. Microorganisms include bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
-
-**mobilization**
-Taking medication to stimulate the growth of stem cells and move them into the bloodstream.
-
-**Motrin<sup>&reg;</sup>**
-A brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
-
-**Mozobil<sup>&reg;</sup>**
-A brand of plerixafor. Plerixafor is a medication used together with granulocyte colony-stimulating factor (GCSF) to help move stem cells them from the bone marrow to the blood. 
-
-**myeloma**
-Cancer of blood plasma cells, a type of white blood cell.
-
-**naprosyn**
-A medication used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti inflammatory drug, and a type of cyclooxygenase inhibitor. Also called naproxen.
-
-**Neupogen<sup>&reg;</sup>**
-A brand of granulocyte colony-stimulating factor (GCSF)&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
-
-**neutropenia**
-A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
-
-**neutrophil**
-A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
-
-**nonsteroidal**
-A drug that does not contain a steroid.
-
-**NSAID**
-A medication that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti inflammatory drug.
-
-**orally**
-By mouth; e.g., a medication to be taken orally is one that is swallowed.
-
-**outpatient**
-A patient who visits a healthcare facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
-
-**pedicure**
-A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
-
-**platelet**
-A tiny piece of cell that is made by breaking off of a large cell in bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding and to help wounds heal. Also called a thrombocyte.
-
-**plerixafor**
-A medication used together with granulocyte colony-stimulating factor (GCSF) to move stem cells from the bone marrow to the blood. 
-
-**PET scan**
-A scan used to look at the organs and the way they function in the body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
-
-**rectal**
-By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
-
-**rectum**
-The last several inches of the large intestine closest to the anus.
-
-**red blood cell**
-A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
-
-**stem cell**
-A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
-
-**sternum**
-The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called breastbone.
-
-**suppository**
-A form of medication contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medication is absorbed into the bloodstream.
-
-**thrombocytopenia**
-A condition in which there is a lower than normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
-
-**transfusion**
-A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
-
-**unpasteurized**
-Relating to perishable food that has not been pasteurized, i.e., heat treated to kill potentially harmful microbes.
-
-**white blood cell**
-A type of immune cell. Most white blood cells are made in the bone marrow and are found in the blood and lymph tissue. White blood cells help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are all white blood cells. Also called a leukocyte.
 <div class="phasedivider invisible">End of Glossary</div>
 
 ## Bone Marrow Basics
@@ -351,7 +121,6 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * **Make a list of questions** - Make a note of anything that you don't understand about your transplant, anything in the guide that isn't clear, and any other questions you have.
 * **Choose a caregiver** - Identify a family member or friend to act as your caregiver. Make sure they understand what the role entails and give them a copy of this guide. Ask them to read this guide at least once.
 * **Get financial clearance** - Meet with a representative from patient financial services (PFS) and speak to your health insurance company. Check that your outpatient stem cell transplant and medications are covered.
-* **Learn about chemotherapy side effects** - We've compiled a list of side effects caused by high-dose chemotherapy. Read this information and make a note of any questions you or your caregiver have. 
 * **Make decisions about your fertility** - Speak with your healthcare team about your fertility options. Make an appointment with a fertility specialist to discuss the impact of your treatment on your ability to have children in the future. Take steps to preserve your fertility.
 * **Speak to your children about your treatment** - Speak to your children about your treatment to help build trust and their sense of security.
 * **Arrange childcare** - Your children cannot stay with you at your hotel or apartment during your outpatient transplant, so you should arrange for childcare.
@@ -360,7 +129,6 @@ Here is a list of things that will happen, and things that you need to do, in Ph
 * **Pretransplant evaluation** - You'll undergo a series of medical tests. Your nurse coordinator will schedule these tests with you.
 * **Lodging** - Your nurse coordinator will make arrangements for you to stay at a local hotel or apartment and will give you details.
 * **Nutrition consult** - Meet with a dietitian to review special dietary requirements and safe food handling.
-* **Learn about the temperature and fluid intake log** - You and your caregiver will learn how to take your temperature, record how much you drink, and how to write this information down in a diary.
 * **Social work consult** - Meet with a social worker who will explain the psychological, emotional, and financial support services offered by the social work team.
 * **Mobilization** - You will give yourself injections of a medication to increase the number of stem cells in your bloodstream.
 * **Harvesting** - You will visit our Blood Donor Room and your stem cells will be harvested from your bloodstream.
@@ -381,7 +149,7 @@ Your caregiver will receive specific instructions from your healthcare team abou
 * Gathering information from your healthcare team
 * Caring for your catheter 
 * Making sure you take your medications and keeping a written record of when you take them
-* Taking your temperature every 4 hours while you are awake and away from the clinic, and keeping a written record of your temperature
+* Taking your temperature every 4 hours while you are awake, and away from the clinic. Keeping a written record of your temperature
 * Keeping a written record of how much fluid you drink every day
 * Noticing any changes in your condition
 * Telling your healthcare team about any new symptoms you may have or changes in your condition
@@ -439,103 +207,7 @@ These tests are usually done in the 30 days before your transplant (Day −30 on
 The results of the tests will be used to plan your treatment and adjust it to your specific needs. All the testing needs to be reviewed to make sure that it is safe to start your treatment.
 
 Your doctor and nurse will explain any other tests that you may need.
-
-### Side Effects From Chemotherapy
-Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects may include the loss of your ability to fight infections, infertility, hair loss, fatigue, nausea, mouth sores, mouth tenderness, or mouth sores. 
-
-Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy, make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
-
-#### Neutropenia
-Your chemotherapy will severely damage your ability to fight infections and heal. It's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
-
-One side effect of chemotherapy is called neutropenia. Neutropenia is a condition in which you have a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&mdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
-
-Because your chemotherapy will kill your stem cells, you will lose your ability to make new neutrophils. Because your neutrophils are not being replaced, the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature, even when you are in your hotel or apartment, and you will have to take very careful precautions to avoid infections. 
-
-#### Low platelet level (thrombocytopenia)
-In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make platelets. Platelets clump together to help stop bleeding.  After your chemotherapy, the number of platelets in your bloodstream will be very low, a condition called thrombocytopenia. 
-
-You will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth because it's common for bleeding to happen there. 
-
-After your transplant your healthcare team will take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
-
-As your stem cells take hold and start to make new blood cells, the number of neutrophils in your bloodstream (sometimes referred to as your absolute neutrophil count or ANC) will increase, as will your number of platelets (called your platelet count). All together, these are known as "your counts" and they are key signs that your transplant has worked. You'll hear the term counts used frequently by your healthcare team. 
-
-More indepth guides to living with neutropenia and low platelet levels are included later in this guide under "Phase 3: After Your Transplant".
-
-#### Fatigue
-After your chemotherapy, the number of red blood cells in your blood will be very low. 
-
-Red blood cells are the cells that transport oxygen around your body. Because the number of red blood cells in your blood will be low, oxygen will not travel around your body as easily as before. This will mean that you will feel tired. Your caregiver will need to help you carry out day-to-day activities until your red blood cell count returns to normal. Don't be afraid to ask for help, even with things you used to do with ease.
-
-Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active. 
-
-#### Nausea and vomiting
-Nausea and vomiting are common side effects of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes, you may experience nausea during your chemotherapy treatment, or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
-
-You will be given medication to prevent and control nausea prior to receiving chemotherapy. You will also be given a prescription for antinausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping, tell your NP or doctor. You may need to try a different medication or take more than 1 kind of antinausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
-
-#### Diarrhea
-Diarrhea is frequent, loose, watery bowel movements. It can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress, or other medical conditions. If you are having diarrhea, you can become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours, call your doctor or NP. Medications are available to treat diarrhea but do not take any over-the-counter medication until you have been evaluated by your NP or doctor.
-
-#### Constipation
-Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you, or if you haven't had a bowel movement for more than 2 days, you are probably constipated. 
-
-There are many causes of constipation, including not drinking enough fluids or eating enough fiber, a decrease in your activity, not moving around or walking enough, and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk to your NP or doctor if you haven't had a bowel movement for 2 days.
-
-#### Mouth sores
-Some chemotherapy drugs affect the cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness, and sores on the lining of your mouth, tongue, and lips. You may experience some mouth and throat discomfort that can make it difficult to eat or swallow.
-
-#### Skin changes
-Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration, and darkening. Your skin will be very sensitive to the sun and may sunburn very easily. Avoid bright sunlight and when outdoors, wear sun block (SPF 30) and protective clothing, such as long-sleeved shirts, long pants, and a hat.
-
-#### Hair loss
-The chemotherapy that cancer kills cells also kills the cells that produce your hair. Most patients will lose their hair during their transplant. 
-
-Losing your hair can be an unpleasant and upsetting experience. Like many patients, you can choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends, and family.
-
-Before your transplant, it is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can get one while you still have your hair, or bring a clipping of your hair, if you'd like your wig to match your natural hair. 
-
-#### Changes to sexual activity
-Sexual intimacy provides pleasure and comfort for many people after their treatment. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP, or nurse.
-
-##### Birth control
-While it's likely that you will not be able to conceive a child naturally after high-dose chemotherapy, you and your partner should use contraception (birth control) during and after your chemotherapy. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects.
-
-It's important to pick a method of birth control that fits your lifestyle and will be effective. When used correctly, condoms are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
-
-##### Protecting your partner from exposure to chemotherapy and other anticancer medications
-There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern for you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in your body fluids, but you should use barrier devices each day you have chemotherapy and for 1 week afterward.
-
-##### Protecting yourself from infection or bleeding during sex
-You will be at increased risk of infection during your transplant period and for many months after your treatment.
-
-Until your doctor tells you that your blood counts and immune system have recovered, follow these precautions:
-
-* Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be more than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or other sex toys into your vagina or anus.
-* Use latex condoms each time you have vaginal, oral, or anal sex.
-* Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions, or semen could enter your mouth.
-* Abstain from any sexual activity that could expose your mouth to feces.
-* Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.
-
-Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. 
-For additional information about being sexually active during and after treatment, see the additional resources at the back of this guide:
-
-* *Sexual Activity During Cancer Treatment: Information for Women*
-* *Sexual Activity During Cancer Treatment: Information for Men*
-* *Sexual Health and Intimacy*
-
-The American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
-
-* *Sexuality for the Man with Cancer and His Partner*
-http://www.cancer.org/acs/groups/cid/documents/webcontent/002910-pdf.pdf
-* *Sexuality for the Woman with Cancer and Her Partner*
-http://www.cancer.org/acs/groups/cid/documents/webcontent/002912-pdf.pdf
-
-#### The Importance of Communication
-Throughout your treatment, it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
-
-Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel, describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
+<span class="invisible">moving side effects from chemotherapy</span> 
 
 ### Making Decisions About Your Fertility
 Your cancer treatment will affect your fertility. It is likely that you will not be able to conceive a child naturally after high-dose chemotherapy. 
@@ -918,6 +590,7 @@ As engraftment occurs, the number of white blood cells, red blood cells, and pla
 These are the key things that will happen during this phase:
 
 * **Learn about engraftment** - The stem cells that have been re-infused into your body find their way to your bone marrow, fix in place, and begin to make new blood. This is called engraftment. You should read about this process and make a note of any questions you have.
+* **Learn about chemotherapy side effects** - You may experience nausea and other side effects associated with your treatment and transplant. We've compiled a list of these side effects. Read this information and make a note of any questions you or your caregiver have. 
 * **Return to the Outpatient BMT Clinic** - You will make daily visits to the clinic until your healthcare team tells you that you can come less often.
 * **Testing** - You will undergo blood tests and other tests to monitor your progress. You will have blood drawn each time you return to the clinic.
 * **Neutropenia** - The low number of white blood cells in your blood will leave you vulnerable to infection, so you will need to take precautions to avoid any sources of infection.
@@ -925,7 +598,6 @@ These are the key things that will happen during this phase:
 * **Low platelet count** - The low number of platelets in your bloodstream will make you vulnerable to bruising and bleeding. You will need to take care to avoid causes of bleeding.
 * **Personal care** - Because you are neutropenic and have a low platelet count, you will need to take special care when you bath, shower, and brush your teeth.
 * **Low red blood cell count** - You will experience fatigue.
-* **Nausea and other side effects** - You may experience nausea and other side effects associated with your treatment and transplant.
 * **Transfusions** - You may need to receive a blood transfusion to boost the numbers of red blood cells and platelets in your bloodstream.
 * **Recovery of your counts** - Over time, as your stem cells engraft and begin to produce new blood cells, your counts will improve.
 * **Exercise** - You will try to remain physically active after your transplant by limiting the amount of time you spend in bed and walking a little each day.
@@ -947,6 +619,103 @@ When your cells start to engraft, you may experience bone pain or a rash on your
 
 ### Post Transplant Care At The Outpatient BMT Clinic
 After your transplant, you will receive all your care in the Outpatient BMT Clinic&mdash;the same place where you had your chemotherapy and your transplant. Each morning, you will return to the clinic, just like you did on the mornings before chemotherapy and your transplant. 
+
+### Side Effects From Chemotherapy
+Your chemotherapy will kill the cancerous cells in your body and will prepare your bone marrow to receive your transplant. However, the side effects associated with chemotherapy are not to be taken lightly. These side effects may include the loss of your ability to fight infections, infertility, hair loss, fatigue, nausea, mouth sores, mouth tenderness, or mouth sores. 
+
+Your healthcare team will help you understand and prepare for these side effects. Before you receive your chemotherapy, make a list of questions that you would like to ask about these side effects. Talk through these questions with your caregiver and your healthcare team. 
+
+#### Neutropenia
+Your chemotherapy will severely damage your ability to fight infections and heal. It's important that you understand why this happens, how to watch for danger signs, and how to avoid infections and injuries.
+
+One side effect of chemotherapy is called neutropenia. Neutropenia is a condition in which you have a lower than normal number of neutrophils (a type of white blood cell) in your bloodstream. Neutrophils play a crucial role in your immune system&mdash;they are one of the first types of cells that travel to the site of an infection. Once they reach the site of an infection, they ingest and fight potentially harmful microorganisms. 
+
+Because your chemotherapy will kill your stem cells, you will lose your ability to make new neutrophils. Because your neutrophils are not being replaced, the number of neutrophils in your bloodstream will drop to a very low level, leaving you at high risk of infections. You and your caregiver will work together to watch for any sign of infection. You'll keep a record of your temperature, even when you are in your hotel or apartment, and you will have to take very careful precautions to avoid infections. 
+
+#### Low platelet level (thrombocytopenia)
+In addition to losing your ability to make neutrophils and other types of white blood cells, you'll also lose your ability to make platelets. Platelets clump together to help stop bleeding.  After your chemotherapy, the number of platelets in your bloodstream will be very low, a condition called thrombocytopenia. 
+
+You will need to take special care to avoid cuts and strenuous activities that might cause bleeding. You need to take special care of your gums and mouth because it's common for bleeding to happen there. 
+
+After your transplant your healthcare team will take samples of your blood each day to count the number of neutrophils and platelets in your bloodstream. 
+
+As your stem cells take hold and start to make new blood cells, the number of neutrophils in your bloodstream (sometimes referred to as your absolute neutrophil count or ANC) will increase, as will your number of platelets (called your platelet count). All together, these are known as "your counts" and they are key signs that your transplant has worked. You'll hear the term counts used frequently by your healthcare team. 
+
+More indepth guides to living with neutropenia and low platelet levels are included later in this guide under "Phase 3: After Your Transplant".
+
+#### Fatigue
+After your chemotherapy, the number of red blood cells in your blood will be very low. 
+
+Red blood cells are the cells that transport oxygen around your body. Because the number of red blood cells in your blood will be low, oxygen will not travel around your body as easily as before. This will mean that you will feel tired. Your caregiver will need to help you carry out day-to-day activities until your red blood cell count returns to normal. Don't be afraid to ask for help, even with things you used to do with ease.
+
+Even though you will feel tired after your chemotherapy and your transplant, you should still try to remain active. 
+
+#### Nausea and vomiting
+Nausea and vomiting are common side effects of chemotherapy. Chemotherapy acts on a specific part of your brain that may trigger nausea and vomiting. Nausea and vomiting can also be caused by stress or just the thought of having chemotherapy. The amount of nausea and vomiting you have will depend on your past experience and the type of chemotherapy you will receive. Sometimes, you may experience nausea during your chemotherapy treatment, or it may be delayed for several hours or days. It is important to manage nausea because it can keep you from eating and drinking.
+
+You will be given medication to prevent and control nausea prior to receiving chemotherapy. You will also be given a prescription for antinausea medication to take home with you. These medications work differently for each person. If the medication you are taking isn't helping, tell your NP or doctor. You may need to try a different medication or take more than 1 kind of antinausea medication to feel better. Your healthcare team will work with you to prevent and treat nausea and vomiting.
+
+#### Diarrhea
+Diarrhea is frequent, loose, watery bowel movements. It can also cause stomach cramps, gas, and pain in the stomach or rectal area. Diarrhea can be caused by cancer treatments, medications, infection, stress, or other medical conditions. If you are having diarrhea, you can become dehydrated due to loss of fluids and electrolytes. If your diarrhea continues for more than 24 hours, call your doctor or NP. Medications are available to treat diarrhea but do not take any over-the-counter medication until you have been evaluated by your NP or doctor.
+
+#### Constipation
+Constipation is the passage of dry, hard stool that occurs when materials move too slowly through the large intestine. The normal length of time between bowel movements varies for each person. If you are having fewer bowel movements than what is normal for you, or if you haven't had a bowel movement for more than 2 days, you are probably constipated. 
+
+There are many causes of constipation, including not drinking enough fluids or eating enough fiber, a decrease in your activity, not moving around or walking enough, and side effects of certain medications and chemotherapy drugs. Medications are available to treat constipation. Talk to your NP or doctor if you haven't had a bowel movement for 2 days.
+
+#### Mouth sores
+Some chemotherapy drugs affect the cells that line the mouth and digestive tract. This is known as mucositis. Mucositis can cause redness, swelling, tenderness, and sores on the lining of your mouth, tongue, and lips. You may experience some mouth and throat discomfort that can make it difficult to eat or swallow.
+
+#### Skin changes
+Skin changes are common after transplant due to the effects of cancer treatment. Skin changes include increased dryness, flaking, discoloration, and darkening. Your skin will be very sensitive to the sun and may sunburn very easily. Avoid bright sunlight and when outdoors, wear sun block (SPF 30) and protective clothing, such as long-sleeved shirts, long pants, and a hat.
+
+#### Hair loss
+The chemotherapy that cancer kills cells also kills the cells that produce your hair. Most patients will lose their hair during their transplant. 
+
+Losing your hair can be an unpleasant and upsetting experience. Like many patients, you can choose to cut your hair short before your transplant to take control of this process and to lessen the shock of losing your hair. Talk this through with your caregiver, friends, and family.
+
+Before your transplant, it is also a good time to think about whether you would like to wear a wig. Modern wigs can look very natural and wearing one might make you feel more comfortable. There are many wig stores in New York, a list of them is provided at the back of this guide. You can get one while you still have your hair, or bring a clipping of your hair, if you'd like your wig to match your natural hair. 
+
+#### Changes to sexual activity
+Sexual intimacy provides pleasure and comfort for many people after their treatment. The information below can serve as a guide to being sexually active in a safe way after your transplant. You may have questions or concerns regarding your sexual activity. You are encouraged to discuss your concerns openly with your physician, NP, or nurse.
+
+##### Birth control
+While it's likely that you will not be able to conceive a child naturally after high-dose chemotherapy, you and your partner should use contraception (birth control) during and after your chemotherapy. If a woman becomes pregnant with sperm or eggs damaged by exposure to radiation, chemotherapy, or other anticancer medications, there is a risk of miscarriage or birth defects.
+
+It's important to pick a method of birth control that fits your lifestyle and will be effective. When used correctly, condoms are very effective in preventing pregnancy. Women can speak with their gynecologists to choose between the many available options.
+
+##### Protecting your partner from exposure to chemotherapy and other anticancer medications
+There is little information about how much anticancer medication gets into a person's body fluids, and even less on whether this poses any risk to a sexual partner. If this is a concern for you, consider using a barrier device whenever your partner may have contact with your semen (if you are male) or vaginal fluids (if you are female). Barrier devices include condoms and dental dams. We don't know how long these medications may be in your body fluids, but you should use barrier devices each day you have chemotherapy and for 1 week afterward.
+
+##### Protecting yourself from infection or bleeding during sex
+You will be at increased risk of infection during your transplant period and for many months after your treatment.
+
+Until your doctor tells you that your blood counts and immune system have recovered, follow these precautions:
+
+* Avoid sex that involves penetration or contact with mucous membranes while your blood counts are low (your platelet count needs to be more than 50,000). This includes vaginal, oral, and anal sex or inserting fingers, vibrators, or other sex toys into your vagina or anus.
+* Use latex condoms each time you have vaginal, oral, or anal sex.
+* Use a barrier device (condoms or dental dams) any time your partner's saliva, vaginal secretions, or semen could enter your mouth.
+* Abstain from any sexual activity that could expose your mouth to feces.
+* Avoid sex that involves contact with mucous membranes if a genital infection is suspected or present in either you or your partner.
+
+Hugging, cuddling, gentle touching, and kissing skin are other ways you can be intimate with your partner during this time. 
+For additional information about being sexually active during and after treatment, see the additional resources at the back of this guide:
+
+* *Sexual Activity During Cancer Treatment: Information for Women*
+* *Sexual Activity During Cancer Treatment: Information for Men*
+* *Sexual Health and Intimacy*
+
+The American Cancer Society publishes 2 well written books on sexuality following cancer treatment. They are available free of charge from your local American Cancer Society:
+
+* *Sexuality for the Man with Cancer and His Partner*
+http://www.cancer.org/acs/groups/cid/documents/webcontent/002910-pdf.pdf
+* *Sexuality for the Woman with Cancer and Her Partner*
+http://www.cancer.org/acs/groups/cid/documents/webcontent/002912-pdf.pdf
+
+#### The Importance of Communication
+Throughout your treatment, it's very important that you communicate clearly with your healthcare team and your caregiver about your side effects. 
+
+Tell your healthcare team how you're feeling. Describe how your body feels. Describe how you're doing emotionally. Tell them if anything is worrying you. If you notice changes in how you feel, describe what has changed. If anything bothers you, even if it seems minor, tell your healthcare team. The more information you can communicate to your healthcare team the more they'll be able to help you. There is usually something that they can do to make you feel more comfortable. 
 
 ### Living With Neutropenia
 As you know, your chemotherapy will kill not only the cancerous cells in your body, but also healthy stem cells that make the different types of cells in your blood. This is why you received a transplant. 
@@ -1188,6 +957,333 @@ When your healthcare team sees that you are ready, they will allow you to return
 
 Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called *Returning Home after your Autologous Transplant*. It is included at the end of this guide. 
 
+## Glossary
+This glossary explains some common terms you need to know. If you hear a word or expression not listed here, don't be afraid to ask your doctor or nurse.
+
+**Advil<sup>&reg;</sup>**
+Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+
+**Aleve<sup>&reg;</sup>**
+Aleve<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+
+**anal**
+Related to the anus.
+
+**Anaprox**
+Anaprox<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+
+**anemia**
+A condition in which the number of red blood cells is below normal.
+
+**anesthetic**
+A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in 1 small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
+
+**anti-inflammatory**
+Having to do with reducing inflammation. For example an anti-inflammatory drug is taken to reduce inflammation.
+
+**antibacterial**
+A substance that kills bacteria or stops them from growing and causing disease.
+
+**antifungal**
+A drug that treats infections caused by fungi.
+
+**antimicrobial**
+A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
+
+**apheresis**
+A procedure in which blood is collected, part of the blood (such as platelets or white blood cells) is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
+
+**aspirin**
+A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). 
+
+**autologous**
+Taken from an individual’s own tissues, cells, or DNA.
+
+**biopsy**
+The removal of cells or tissues for examination by a doctor. 
+
+**bone marrow**
+The soft, sponge-like tissue in the center of most bones. It produces white blood cells, red blood cells, and platelets.
+
+**bowel**
+The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has 2 parts: the small bowel and the large bowel. Also called the intestine.
+
+**bowel movement**
+Movement of feces through the bowel and out the anus. Also called defecation.
+
+**breastbone**
+The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called the sternum.
+
+**CAT scan or computed axial tomography**
+A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
+
+**catheter**
+A thin, flexible tube used to deliver liquids into or withdraw liquids from the body.
+
+**central venous catheter**
+A thin, flexible tube that is inserted into a vein in the upper arm, thigh, neck, or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used for taking blood samples, and also to give liquids, blood transfusions, chemotherapy, and other drugs. It avoids the need for repeated needle sticks.
+
+**clot**
+To change from a liquid form into a solid or semi-solid; for example, when blood clots, it changes from a liquid to a semi-solid, helping to stop bleeding.
+
+**dietitian**
+A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
+
+**dizziness**
+A sensation of instability and sometimes a feeling that you are about to fall.	
+
+**dose**
+The amount of medication taken, or radiation given, at one time.
+
+**echocardiograph**
+A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heart. Also called an EKG.
+
+**electrolysis**
+A beauty treatment where an electric current is used to kill the roots of hairs.
+
+**enema**
+The injection of a liquid through the anus into the large bowel.
+
+**engraftment**
+When stem cells infused into the body start to fix in place, grow, and make new blood cells.
+
+**fertility preservation**
+A type of procedure used to help preserve a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
+
+**filgrastim**
+A medication used to increase the number of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
+
+**GCSF (granulocyte colony-stimulating factor)**
+A medication that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+
+**genital**
+Refers to the genitalia (external and internal sex organs and glands).
+
+**granulocyte**
+A type of white blood cell. Neutrophils, eosinophils, and basophils, are granulocytes. 
+
+**hemoglobin**
+A protein inside red blood cells that carries oxygen from the lungs to tissues and organs in the body and carries carbon dioxide back to the lungs. Testing for the amount of hemoglobin in the blood is usually part of a complete blood cell (CBC) test. It is used to check for conditions such as anemia, dehydration, and malnutrition.
+
+**hospitalist**
+A doctor who specializes in the care of hospitalized patients.
+
+**ibuprofen**
+A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of nonsteroidal anti-inflammatory drug (NSAID). Also called Advil<sup>&reg;</sup> and Motrin<sup>&reg;</sup>.
+
+**immune system**
+The complex group of organs and cells that defend the body against infections and other diseases.
+
+**infection**
+Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken this system.
+
+**infertility**
+Not being able to produce children.
+
+**infusion**
+A method of putting fluids, including medications and blood products, into the bloodstream. Also called intravenous infusion.
+
+**inpatient**
+A patient who is admitted to the hospital for treatment requiring an overnight stay.
+
+**irradiated**
+Treated with radiation.
+
+**jaundice**
+A condition in which the skin and the whites of the eyes become yellow, urine darkens, and the color of stool becomes lighter than normal. Jaundice occurs when the liver is not working properly or when a bile duct is blocked.
+
+**laxative**
+A substance that encourages bowel movements.
+
+**lubricant**
+An oily or slippery substance.
+
+**lumen**
+A tube that forms part of a catheter. Many catheters exit the body and separate into several lumens.
+
+**lymphoma**
+Cancer that begins in cells of the immune system. 
+
+**manicure**
+A beauty treatment where fingernails are trimmed/shaped and sometimes polished or painted. 
+
+**microliter**
+One millionth of a liter.
+
+**microorganism**
+An organism that can be seen only through a microscope. Microorganisms include bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
+
+**mobilization**
+Taking medication to stimulate the growth of stem cells and move them into the bloodstream.
+
+**Motrin<sup>&reg;</sup>**
+A brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+
+**Mozobil<sup>&reg;</sup>**
+A brand of plerixafor. Plerixafor is a medication used together with granulocyte colony-stimulating factor (GCSF) to help move stem cells them from the bone marrow to the blood. 
+
+**myeloma**
+Cancer of blood plasma cells, a type of white blood cell.
+
+**naprosyn**
+A medication used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti inflammatory drug, and a type of cyclooxygenase inhibitor. Also called naproxen.
+
+**Neupogen<sup>&reg;</sup>**
+A brand of granulocyte colony-stimulating factor (GCSF)&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+
+**neutropenia**
+A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
+
+**neutrophil**
+A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
+
+**nonsteroidal**
+A drug that does not contain a steroid.
+
+**NSAID**
+A medication that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti inflammatory drug.
+
+**orally**
+By mouth; e.g., a medication to be taken orally is one that is swallowed.
+
+**outpatient**
+A patient who visits a healthcare facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
+
+**pedicure**
+A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
+
+**platelet**
+A tiny piece of cell that is made by breaking off of a large cell in bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding and to help wounds heal. Also called a thrombocyte.
+
+**plerixafor**
+A medication used together with granulocyte colony-stimulating factor (GCSF) to move stem cells from the bone marrow to the blood. 
+
+**PET scan**
+A scan used to look at the organs and the way they function in the body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
+
+**rectal**
+By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
+
+**rectum**
+The last several inches of the large intestine closest to the anus.
+
+**red blood cell**
+A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
+
+**stem cell**
+A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
+
+**sternum**
+The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called breastbone.
+
+**suppository**
+A form of medication contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medication is absorbed into the bloodstream.
+
+**thrombocytopenia**
+A condition in which there is a lower than normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
+
+**transfusion**
+A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
+
+**unpasteurized**
+Relating to perishable food that has not been pasteurized, i.e., heat treated to kill potentially harmful microbes.
+
+**white blood cell**
+A type of immune cell. Most white blood cells are made in the bone marrow and are found in the blood and lymph tissue. White blood cells help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are all white blood cells. Also called a leukocyte.
+
+**Ablative therapy (ab-lay-tive)** - Treatment that removes or destroys the function of an organ or system. For example, high dose chemotherapy and radiation before a bone marrow transplant is considered ablative therapy because it wipes out your immune system.
+**Absolute neutrophil count (ANC)**The percentage of polys and bands that are part of your total white bloodcount. If your ANC is less than 1,000, you are very prone to infection.**Afebrile**Having no fever, normal temperature. Alopecia (al-o-pee-shuh)Hair loss. This often occurs as a result of chemotherapy or from radiation therapyto the head. In most cases, the hair grows back after treatment ends.**Ambulatory**The ability to walk; not confined to bed.**Analgesic**A drug used for reducing pain.**Anaphylaxis**An allergic reaction ranging from relatively mild (hives) to very serious (shock).**Anemia (uh-neem-ee-uh)**Low red blood cell count, which can cause you to feel fatigued and have shortness of breath. Anemia can be caused by a variety of conditions and diseases.**Anesthesiologist (an-es-the-zee-ol-o-jist)**A doctor who specializes in giving medicines or other agents that prevent or relieve pain, especially during surgery.**Anterior**Located in the front, opposite the posterior**Antibiotic**Drug used to kill organisms that cause disease. Since some cancer treatments can reduce your body's ability to fight infection, antibiotics may be used to treat or prevent these infections.**Antibody**A protein produced by immune system cells and released into the blood. Antibodies defend against foreign agents, such as bacteria. For example, if you get a tetanus vaccine, you will make a protein (antibody) which protects against tetanus, called a tetanus antibody. Each antibody works against a specific substance called an antigen.￼￼￼￼￼￼￼￼￼
+**Anticoagulant**Drug that reduces the blood's ability to clot.**Antiemetic (an-ti-eh-MEH-tik) (anti-nausea)**A drug that prevents or relieves nausea and vomiting.**Antifungal**A medicine that kills fungi, organisms that cause infections. Patients undergoing treatment for cancer are especially vulnerable to fungal infections.**Antigen (an-tuh-jen)**A substance that causes your body's immune system to react. This reaction often involves production of antibodies. For example, your immune system's response to antigens that are part of bacteria and viruses helps you resist infections. Cancer cells have certain antigens that can be found by laboratory tests. They are important in cancer diagnosis and in watching response to treatment.**Antihistamine**A medicine used to relieve the symptoms of allergies like hives, stuffy nose, etc.
+**Antioxidants (an-ti-OX-uh-dents)**Compounds that hold back chemical reactions with oxygen and are thought to reduce the risk of some cancers. Examples are vitamins C, E, and beta-carotene**Artery** 
+A vessel that carries oxygen-rich blood from your heart to the tissues. Blood is under pressure in arteries.**Audiogram**A diagnostic test that is done to evaluate your hearing.**Auto syringe**A portable pump to administer medications subcutaneously or intravenously over several days. This allows you to be ambulatory. 
+
+**Axilla (ax-il-la)**Your armpit.**Bacteria (singular bacterium)**Small germs that can cause infection. 
+
+**Bands**
+Young, white blood cells; important in defending your body against infection.**Benign**Not malignant or cancerous.**Bilateral**Two sides of your body.**Bile**A yellow-green fluid made by your liver from discarded red blood cells and excreted into the intestine where it helps to digest fat. 
+
+**Biopsy (buy-op-see)**The removal of a sample of tissue to see whether cancer cells are present and to determine an exact diagnosis. There are several kinds of biopsies.**Blast cells**Refers to the earliest-formed marrow cells. Normal blasts are the forefathers of all our blood cells. In acute leukemia, the growth of these cells is abnormal or malignant. They may grow quickly and crowd the other cells in the bone marrow.**Blood**The body fluid that flows through all the vessels except the lymph vessels and performs a number of critical functions. Blood is composed of a liquid portion called plasma and three other components: red blood cells, white blood cells, and platelets.**Blood chemistries**Multiple chemical determinations of the blood content. These tests are helpful in assessing your kidney and liver function.**Blood count**A lab study to evaluate the amount of white blood cells, red blood cells, and platelets.**Blood transfusion**The infusion of red blood cells or platelets into your blood stream to replace blood loss or to correct anemia.**Blood typing and cross matching**Making sure that the blood from a donor is compatible with yours before a blood transfusion. Blood cells contain factors that are not the same in all people. Before a transfusion can be given, blood samples from the donor and you are typed, or classified according to which of these factors are present. The four principal red blood cell types or groups are A, B, AB or O. Other factors such as Rh factor must also be checked.**Bone marrow**The spongy material in the center of bones where blood cells are made.**Bone marrow aspiration and biopsy**A procedure in which a needle is placed into the cavity of a bone, usually the hip or breast bone. A small amount of bone marrow is removed and examined under a microscope.**Bone marrow, stem cell, or cord blood transplant**
+A treatment for cancer, which severely injures or destroys the patient's bone marrow. You are given high doses of chemotherapy with or without radiation (total body irradiation) to kill the cancer cells. The drugs also destroy the remaining bone marrow, preventing your body’s natural ability to fight infection.In allogeneic transplantation, the donor of the stem cells is another person. Stem cells can come from the bone marrow, the blood, or umbilical cord blood. In autologous transplantation, stem cells are taken from the patient. Some of your own bone marrow or stem cells are removed and set aside before treatmentand then re-infused. It starts producing blood cells a few weeks later.**Bone scan**An imaging method that gives important information about the bones, including the location of cancer that may have spread to the bones. A low-dose radioactive substance is injected into a vein and pictures are taken to see where the radioactivity collects, pointing to abnormalities.**Bowel** 
+Pertaining to your intestines.**Brain scan**An imaging method used to find anything not normal in the brain, including brain cancer and cancer that has spread to the brain from other places in the body. A radioactive substance is injected into a vein and pictures are taken to show where the radioactivity collects, indicating an abnormality.**Broviac&reg; catheter**Soft plastic catheters that are surgically placed in one of the neck veins and into the opening of the heart. It allows for IV solutions to be given and for blood to be drawn.**CT Scan (CAT Scan)/Computed Axial Tomography**Radiology study that shows cross section views of various organs being studied as X-rays pass through the patient's body at many angles.**Capillaries**Tiny blood vessels located throughout the tissues of your body. They connect your arteries with your veins. Substances pass through them to nourish your cells.**Cardiac**Pertaining to your heart**Cardiomyopathy**Damage to the heart muscle affecting the way the heart pumps blood through the body.**Cataracts**A clouding of the lens of the eye that can result from radiation therapy. 
+
+**Catheter (cath-eh-tur)**A thin, flexible tube through which fluids enter or leave the body; e.g., a tube to drain urine.**Central nervous system (CNS)**Refers to the brain and spinal cord.**Cell morphology**Refers to cell types or structure.**Cellulitis**Usually means a diffuse infection of the skin and underlying tissue.**Central venous line**A method of giving IV fluids, blood products, and medicines. A catheter is inserted into a neck vein and into your other large blood vessels. There are many different types of central line catheters that may have multiple ports or lumens. Multiple ports allow more than one IV solution to be given at one time. Blood can Charts also be drawn from this type of catheter.Your written medical records.**Chemotherapy**Drugs used to destroy malignant cells. Chemotherapy is often used with surgery or radiation to treat cancer.**Chimerism studies**Tells the doctor how much of the blood or bone marrow is from the patient or donor.**Clinical trials**Human research studies that test new drugs or treatments and compare them to current, standard treatments. Before a new treatment is used on people, it is studied in the lab. If lab studies suggest the treatment works, it is tested with patients. These human studies are called clinical trials. Questions the researchers want to answer are: Does this treatment work? Does it work better than the one we use now? What side effects does it cause? Do the benefits outweigh the risks? Your doctor may suggest a clinical trial. Participation is voluntary.**Cobalt, cobalt treatment**Radiotherapy using gamma rays generated from the breakdown of radioactive cobalt 60.**Colon** 
+The large intestine.
+**Colony stimulating factors (CSF)**Types of growth factors that promote growth and division of blood-producing cells in the bone marrow. CSFs are naturally produced in the body. Extra amounts may be given to reduce or prevent side effects of chemotherapy. See growth factors.**Complementary therapy**Therapies used in addition to conventional therapy. Some complementary therapies may help relieve certain symptoms of cancer, relieve side effects of conventional cancer therapy, or improve a patient's sense of well-being.**Complete blood count (CBC)**A blood test to measure the type and number of blood cells. It lets doctors follow the course of your disease and to select the right dose of medicine. The values are expressed in percentages.**Congenital**Any condition existing at birth.**Conjunctivitis**Redness of the eyes.**Constipation**A condition of your bowel (large intestine). A difficulty with eliminating solid body wastes.**Contagious**A disease capable of being spread from one person to another. Cancer is not contagious.
+
+**Convulsion (seizure)**Contraction and spasm of your muscles over which you have no control.
+**Creatinine clearance**A test that compares the level of creatinine in urine with the creatinine level in the blood. Creatinine is a breakdown product of creatine, which is an important part of muscle. The test helps provide information on kidney function.
+**Culture**A procedure using a sample of blood, urine, throat secretions, or other biological material. It determines the specific germ (bacteria, fungus, or virus) responsible for an infection. Cultures also help determine which antibiotics might work best.**Cyanotic**A blue appearance of the skin, lips and fingernails. It is a result of low oxygen content in the blood.**Cyst**
+A fluid filled sac of tissue. A cyst may be malignant or benign.**Cystitis**Inflammation of the urinary bladder.**Cytogenetics**The process of analyzing the number and shape of cell chromosomes. The normal chromosome number is 46 chromosomes. Chromosomes may have changes in them when a patient develops cancer.**Decongestant**A medicine that helps to shrink mucous membranes and decrease production of mucous.**Dehydration**Excessive loss of fluids from your body.**Dermal**Pertaining to your skin.**Dermatologist**A doctor who specializes in skin diseases and conditions.**Diagnosis**Identifying a disease by its signs or symptoms, and by using imaging procedures and laboratory findings.**Diaphragm**The muscle located between the chest cavity and abdominal cavity.**Diarrhea**Dilute Frequent, loose, and watery stools.Distal Tothindownorweakenbymixingwithwaterorotherliquid.Away from the center; out towards the end.**Diuretic**Drugs that increase the elimination of water and salts (urine) from your body.**DNA deoxyribonucleic acid (dee-ok-see-ri-bo-new-CLAY-ic)**DNA holds genetic information on cell growth, division, and function. When DNA is damaged, a cell may become cancerous.**Dysphagia**Difficulty swallowing.**Dyspnea**Shortness of breath.**Dystonic reaction**Tightening of your facial and neck muscle. It is a possible side effect of some antiemetic drugs.**Echo cardiogram (ultrasound cardiography)**A method of obtaining a graphic picture of the internal structure, and position and motion of your heart. It is done by using sound waves directed through your chest.**Edema**Build up of fluid within the tissues; swelling.**Electrocardiogram (EKG)**A method of evaluating your heart's rhythm and muscle function by measuring electrical impulses.**Electrolytes**A general term for the many minerals needed to provide the proper setting for the cells of your body. Common electrolytes include calcium, sodium, potassium, and chloride.**Engraftment**The growth of transplanted stem cells. It is defined as the first of three days when the neutrophil count is greater than 500 cell per microliter of blood,**Enzyme (en-zime)**Proteins that increase the rate of chemical reactions in living cells.**Emesis**To vomit.**Epstein-Barr Virus (EBV)**The virus that causes infectious mononucleosis or "kissing disease." In patients whose immune system is not normal, it can cause an EBV associated lymphoma. Symptoms include fever and enlarged lymph nodes.**Esophagus**A tube that carries swallowed food to the stomach.**Excision**Surgical removal of tissue.**Expectorant**
+Medicine that makes mucous in your respiratory tract thinner and easier to cough out.**Exploratory**Surgery to investigate a situation that other tests have failed to explain.￼￼￼￼￼￼￼￼￼**Febrile**Fever, elevated body temperature.**Fellow**
+A physician who has completed residency. May be a fully trained pediatrician or internist and is doing further study to become a sub-specialist in a field of interest.**Foot drop**Weakness in your foot muscles.**Fungi (singular fungus)**A group of micro organisms larger than either bacteria or viruses. They can cause a serious infection when your resistance (immune system) is lowered.**Gamma globulin**A protein component of blood plasma. It contains antibodies that are helpful against certain infections.**Gastroenterologist (gas-tro-en-ter-ol-o-jist)**A doctor who specializes in diseases of the digestive (gastrointestinal) tract.**Gastrointestinal tract/GI Tract**The digestive tract. It is made up of the organs and structures that process and prepare food to be used for energy. For example, the stomach, small intestine and large intestine.**General anesthetic**A medication which puts you to sleep to prevent pain during an operation.**Gland** 
+See lymph node**Graft vs. Host Disease (GVH or GVHD)**A complication following transplantation which occurs when immune cells in donated marrow attack the recipient’s organs as foreign tissue.**Granulocytes**White blood cells that help to protect you against bacterial infection; also called Groin "polys","segs",orneutrophils.The area of your body where the legs join the abdomen.**Growth factors**A naturally occurring protein that causes cells to grow and divide. Too much growth factor production by some cancer cells helps them grow quickly. Other growth factors help normal cells recover from side effects of chemotherapy.**Harvest**The removal of some of a person’s bone marrow or peripheral blood stem cells to be used for a hematopoietic blood stem cell transplant (HCT)**Hematologist (hem-uh-tahl-o-jist)**A doctor who specializes in diseases of the blood and blood-forming tissues.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+**Hematology**The study of blood and blood forming organs.**Hematology/oncology (HEM/ONC)**The branch of medical science that treats disorders of the blood, blood forming tissues and tumor cells. 
+
+**Hematoma (hem-uh-to-ma)**A collection of blood outside a blood vessel caused by a leak or an injury; a bruise.**Hematuria**Blood in the urine. Urine may be pink, red, or brown (coke colored).**Hemoglobin**The substance in red cells that carries oxygen.**Hemorrhage**A term for loss of blood from injury to the blood vessels or by a lack of certain blood elements, such as platelets.**Hemorrhagic cystitis**Bleeding into the bladder which causes bloody urine. It can be caused by certain viruses as well as certain chemotherapy medications such as iphosphamide or cyclophosphamide.**Hematocrit**The percentage of red blood cells.**Heparin**A drug that decreases the clotting tendency of blood. It is often used to prevent clotting in central line catheters.**Hepatitis**An inflammation of your liver usually resulting in jaundice.**Hives**
+Itching welts caused by an allergic reaction.**HL-A - human leukocyte antigens**Proteins (antigens) that appear on white blood cells as well as cells of almost all other tissues. By typing for HL-A antigens, donors and recipients of white blood cells, platelets, and organs can be "matched". This helps to make sure the transfused and transplanted cells will survive.
+**Hodgkin's disease**
+A type of cancer that affects the lymphatic system. It occurs in a lymph node. Named for the doctor who first identified it**Hospice**A special kind of care for people in the final phase of illness.**Hydration**A reference to the amount of water in the body. You may be dehydrated, well hydrated, or excessively hydrated (edematous)**Hyper**
+Prefix meaning "more than" normal. 
+
+**Hyperalimentation (hy-per-al-eh-men-TAY-shun)**
+Being fed through an IV. It supplies all the essential nutrients, minerals and vitamins, when you are unable to eat on your own.
+
+**Hypercellular**More than the normal number of cells.**Hyperglycemia**Elevated blood sugar.**Hypertension**High blood pressure.**Hypo**Prefix meaning "too little."**Hypocalcemia**Too little calcium in the blood.**Hypocellular**Less than the normal number of cells.**Hypoglycemia**Low blood sugar. 
+
+**Hypokalemia (Hypocalemia)**Too little potassium in the blood.**Hypotension**
+Low blood pressure.**Iliac crest**
+The top edge of your hip bone. Marrow is usually taken from it for a diagnosis of blood cell diseases.**Ileus**Severe constipation.
+**I-Med (IV pumps)**A machine that regulates the rate of blood transfusion, infusion of chemotherapy, or fluids for hydration.**Immune system**The system that defends the body against infection from bacteria or viruses. The immune system may also help the body fight some cancers.**Immunity**The state of your body's defenses against an infection or possibly against a certain cancer.**Immune reaction**
+A reaction of normal tissues to substances recognized as "foreign," i.e. not self.**Immunizations**Vaccines given to help your body resist disease.**Immunosuppression (im-mune-no-suh-PREH-shun)**
+A state in which your immune system does not respond properly. This condition can be present at birth. It can also be caused by certain infections (such as human immunodeficiency virus or HIV), or by certain cancer therapies.**Immunotherapy (im-mune-no-THER-uh-pee)**Treatments that promote or support your immune system's response to a disease such as cancer.
+**Implantable port (Port-a-Cath, Infuse-as-port or Mediport)**A venous access device that implants a system for delivery of fluids, medicines, or blood directly into a vein. The entire device is surgically implanted under the skin and can be used for an extended period of time.**Incubation period**The period between exposure to a germ and the first sign of illness (i.e. chicken pox, from 8 to 21 days)**Indwelling catheter (Broviac or Hickman)**A central line surgically placed (usually in the chest) and into a large vein in your neck. It is used to administer medications, IV fluids, and blood products. May also be used to draw blood for testing.**Infection**Invasion of the body by disease producing organisms.**Infectious disease**A disease caused by germs; one that can be passed from one to another. Cancer is not an infectious disease.**Inflammation**The triggering of local body defenses. It results in the outpouring of defensive cells ("polys") from the circulation system into the tissues. Frequently associated with pain swelling.
+**Informed consent**A legal document that explains a course of treatment, the risks, benefits, and possible alternatives. The process by which patients agree to treatment. If you are under 18 years of age, your parents or legal guardian must also sign this form.**Infusions**The introduction of a fluid into a vein.**Injections**Injections may be given intramuscularly (into a muscle), intravenously (into a vein), subcutaneously (just under the skin) or intrathecally (into the spinal column space.)**Intern**
+A physician in the first year of training following graduation from medical school.**Intrathecal (IT)**Within the spinal column. IT medicine is one given directly into the spinal column.**Intravenous (IV)**The administration of a drug or fluid directly into the vein. 
+
+Intravenous pyelogram (IVP) (in-tra-ven-us pie-eh-lo-gram)A special kind of x-ray procedure where a dye is injected into the bloodstream. The dye travels to the kidneys, ureters and bladder and helps to clearly outline these organs on the x-rays. Referred to as IVP.**Investigational drugs**Drugs being studied by clinical investigation.
+**Jaundice**A yellow color of the skin and white portion of the eyes. It is from a build up of billirubin, a breakdown product of hemoglobin. It is a sign of liver disease or a blockage of the major bile ducts.**Kidney**The main organ involved in the filtering certain bodily wastes. Also maintains the proper mineral and water balance.**Lesion (lee-zhun)**A change in body tissue; sometimes used as another word for tumor.
+**Leukopenia**Decrease in the white blood cell count. Leukemia (loo-key-me-uh)Cancer of the blood or blood-forming organs. If you have leukemia, you may have a noticeable increase in white blood cells (leukocytes). 
+
+**Leukocytosis (loo-ko-sigh-toe-sis)**Having more than the usual number of white blood cells.**Leukapheresis**The process of filtering white cells, leukocytes, or "polys" from the blood of the patient or a healthy donor. These cells may be given to you if you have a severe infection and few "polys" of your own.**Liver**
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼An organ in your body that performs many complex functions. These include processes related to digestion, production of certain proteins, and elimination of many of the body's waste products.**Local anesthetic**
+A medication given by injection into a part of your body to prevent pain in the area without putting you to sleep.**Long term survivor**
+If you are five years from the last sign of disease and at least two years off therapy.**Lumbar puncture (LP)/spinal tap**A procedure in which a thin needle is placed in your spinal canal. It is done to remove a small amount of spinal fluid or to give medicine into the central nervous system.**Lymph (limf)**Clear fluid that flows through the lymphatic vessels and contains cells known as lymphocytes. These cells are important in fighting infections and may also have a role in fighting cancer.**Lymph nodes/glands**
+A part of your body important in the defense again infections; commonly known as glands.
+**Lymphatic system**The tissues and organs that make and store lymphocytes (cells that fight infection) and the channels that carry the lymph fluid. It includes the lymph nodes, spleen, thymus, and bone marrow. The lymphatic system is an important part of your body's immune system. Invasive cancers sometimes enter your lymphatic vessels (channels) and spread to your lymph nodes.**Lymphocytes**A type of white blood cell that helps the body fight infection. There are three main types of lymphocytes:
+* T cells help fight infections such as viruses and fungi.
+* B cells make proteins called antibodies that help fight infection. For example, if you receive a vaccination against tetanus, you make a protein (antibody) against tetanus. This protects you from infection with the bacteria that causes tetanus.
+* Natural killer cells help fight viruses and other germs. They may be given sometimes to help fight cancer. 
+
+**Lymphocytosis (limf-o-sigh-toe-sis)**
+Having an excess of lymphocytes.**Lymphoma (lim-foam-uh)**Cancer of the lymphatic system, a network of thin vessels and nodes throughout the body. Lymphoma involves a type of white blood cells called lymphocytes. The two main types of lymphoma are Hodgkin's disease and non-Hodgkin's lymphoma. The treatment methods for these two types of lymphomas are very different.**Magnetic resonance imaging**A method of taking pictures of the inside of the body. Instead of using x-rays, MRI uses a powerful magnet and transmits radio waves through the body. The images appear on a computer screen as well as on film. Like x-rays, the procedure is physically painless. However, you may find it uncomfortable to be inside the MRI machine.**Malignant tumor (muh-lig-nant)**A mass of cancer cells that may invade surrounding tissues or spread to distant areas of your body.**Melanoma (mel-uh-no-muh)**A cancerous (malignant) tumor that begins in the cells that produce the skin coloring (melanocytes). Melanoma is almost always curable in its early stages. However, it is likely to spread, and once it has spread to other parts of the body the chances for a cure are much less.**Meningeal or central nervous system leukemia**
+When the meninges, the membranes that cover the brain, and the spinal cord or the brain, become invaded by leukemic cells.**Meningitis**An infection of the membranes and fluid around the brain and spinal cord.
+**Metabolism**A general term for the many chemical processes needed for the body to live. 
+
+**Metastasis (meh-tas-teh-sis)**The spread of cancer cells to distant areas of the body by way of the lymph system or bloodstream.**Microorganism**A general name for any small living organism, such as bacteria, viruses, and fungi.**Monitor (cardiac)**A machine that continually records your heart activity.**Monoclonal antibodies**Antibodies made in the laboratory to target substances called antigens. Monoclonal antibodies can be attached to chemotherapy drugs or radioactive substances. They are being studied to see if they can seek out antigens unique to cancer cells and deliver treatment directly to the cancer. This would kill the cancer cells without harming healthy tissue. Monoclonal antibodies are also used in other ways, for example, to help find and classify cancer cells.**Monocyte**A type of young white blood cell.**MRI**
+See magnetic resonance imaging**Mucositis**Inflammation of the mucous membrane (inside the mouth). It causes painful mouth sores.**Mucous membrane**A lining of the internal surface of the body that produces mucous.**Narcotic**A drug that relieves pain and may make you sleepy.**Neoplasm (nee-o-plas-um)**A tumor that starts from a single altered cell. A neoplasm may be benign or malignant. Cancer is a malignant neoplasm.**Nephrologist (nef-rol-o-jist)**A doctor who specializes in diseases of the kidneys.**Neurology**
+The branch of medical science that deals with the nervous system. 
+
+**Neurosurgeon (nur-o-sur-jun)**A doctor specializing in operations to treat nervous system disorders.**Neutropenia**Less than the normal number of neutrophils (leukocytes) or "polys" in the circulating blood. 
+
+**Neutrophils (new-trow-fils)**White blood cells that fight bacterial infection.
+**Non-Hodgkin’s lymphoma**Cancer of the lymphatic system. The difference between non-Hodgkin's lymphoma and Hodgkin's lymphoma is a type of cell called the Reed-Sternberg cell. This cell is only present in Hodgkin's lymphoma. The treatment methods for Hodgkin's and non-Hodgkin's lymphomas are very different.**NPO**Abbreviation for "nothing by mouth."
+**Nuclear medicine scan**A method for localizing diseases of internal organs such as the brain, liver, or bone. Small amounts of radioactive substances (isotope) are injected into the bloodstream. The isotope collects in certain organs. A special camera is used to create an image of the organ and detect areas of disease.**Nurse practitioner**A registered nurse with a master's or doctoral degree. Licensed nurse practitioners diagnose and manage illness and disease. They work closely with your doctor. They can prescribe medicine.**Oncologist (on-call-o-jist)**
+A doctor with special training in the diagnosis and treatment of cancer. 
+**Oncology (on-call-o-jee)**The branch of medicine concerned with the diagnosis and treatment of cancer.**Ophthalmologist (of-thuh-mal-o-jist)**A medical doctor who specializes in diseases of the eye.**Optical**Pertaining to the sense of sight or to the eyes.**Orthopedic surgeon (or-tho-pe-dik)**Organ A surgeon who specializes in diseases and injuries of the bones.
+Several tissues grouped together to perform one or more functions in the body.
+**Organism**Any living thing.**Osteomyelitis**Infection of bone.**Osteoporosis**Brittle bones due to the loss of calcium.**Otic**Otitis Relating to the ear.**Otitis**Ear infection.
+**Packed red blood cell transfusion**A transfusion of red blood cells without the serum.
+**Palate**The roof of the mouth. 
+
+**Palliative treatment (pal-e-uh-tive)**Treatment that relieves symptoms, such as pain, but is not expected to cure the disease. The main purpose is to improve your quality of life.
+**Palpable**Able to be touched or felt, such as a palpable tumor.**Pancreas**A large gland in the upper part of your abdomen. It secretes enzymes (chemicals) into your intestines for the digestion of food. It makes insulin which it secretes into your blood stream.**Pancreatitis**Inflammation (swelling) of your pancreas.PancytopeniaThe decrease of all blood cells (red, white, and platelets).Parotid glandSalivary glands located at the side of your face in front of each ear. These glands become large if you have mumps. Total body irradiation may cause painful swelling of these glands, which is temporary.PathologyThe branch of medicine involved in making diagnoses from the examination oftissues.PeripheralNear the surface; distant. Peripheral nerves are those in your arms and legs;peripheral veins are those generally used for IV's.PetechiaeTiny localized hemorrhages from small blood vessels just below the surface of the skin. They are often the result of a low platelet count. They will clear up when your platelet count rises.pHPhantom limb painA pain or sensation that you imagine in a limb that has been amputated.PharmacologyThe study of drugs. Specifically, their absorption, distribution and excretionthroughout the body,PharyngitisInflammation of the throat; sore throatPharynxThroatPheresis/apheresisA special method of collecting blood when only one part of the blood is needed.A symbol means acidity or alkalinity. A solution of pH 7 is neutral. Below 7 is acidicand above 7 is alkaline. The urine is usually slightly acidic with a pH of 5.3Glossary25
+PhlebitisAn inflammation of a vein. Signs include pain, swelling, and tenderness in an area. If a superficial vein is involved, the phlebitis can be felt as a cord-like thickening along the vein.PlasmaThe liquid portion of the blood in which blood cells are suspended. It contains many proteins and minerals necessary for normal body functioning.PlateletA part of the blood that helps repair (plug) holes in blood vessels after an injury. If you have low platelets you are at risk to bleed. Chemotherapy can cause a drop in the platelet count. This is called thrombocytopenia .Pleural effusionThe presence of fluid in the space between the two layers of the lung lining.PneumoniaInfection of the lung.Polys - (neutrophils or granulocytes)The group of white cells that helps to resist bacterial infection. A "poly" count ofless than 1,000 means less than normal protection and risk of infection.Post-opAfter surgery.PotassiumAn element found normally in your blood; important in heart and muscle Pre-opfunction.Before surgery. Prognosis (prog-no-sis)A prediction of the course of disease; the outlook for a cure. A prognosis is based on the average result in many cases. It may not accurately predict your outcome, since the clinical course can vary from patient to patient.ProphylacticTreatment designed to prevent a disease or a complication that has not yetbecome clear. Prosthesis (pros-thee-sis)An artificial form to replace a part of your body. Protocol (pro-teh-call)A formal outline or plan, such as a description of what treatments you willreceive and exactly when each should be given.PulmonaryConcerns or affects your lungs.Pulmonary function testSpecial tests that are designed to evaluate the function of your lungs.Pulmonary fibrosisThickened tissue in your lungs causing cough, difficulty breathing, and X-ray changes.Glossary26
+Glossary￼￼￼￼￼￼￼￼￼Q Currently there are no "Q" terms in our glossaryRadiation oncologistA doctor who specializes in using radiation to treat cancer.Radiation therapy￼￼￼￼￼￼￼￼￼Treatment with high-energy x-rays to kill cancer cells or shrink tumors. The radiation may come from outside of the body (external radiation). Or it can come from radioactive materials placed directly in the tumor (internal or implant radiation). Radiation therapy may be used to reduce the size of a cancer before surgery. It can be used to destroy any remaining cancer cells after surgery. Or, in some cases, it may be the main treatment.Radiation recallInflammation (swelling) of exposed skin and organs in areas of radiation therapy.RectumThe last part of your large intestine.Red blood cellsBlood cells that carry oxygen to the cells throughout your body.RegressionThe reduction of cancer, usually as the result of therapy. It is shown by decreasedsize of the tumor or tumors.ReinductionTo start over, i.e. a new treatment or protocolRejectionThe body’s inability to accept transplanted stem cells.RelapseReturn of cancer after a disease-free period.RemissionWhen the signs and symptoms of cancer fully or partly disappear. The period Renal during which a disease is under control. A remission may not be a cure.Pertaining to your kidneys.ResidentA physician in the second or third year of training after completing medicalschoolResistanceYour ability to fight off and avoid disease.RespirationThe process of breathing.Respiratory tractAll parts of your body used for breathing.S￼￼￼￼￼￼￼￼￼27
+Scanbody organs.SedativeA drug given to make you drowsy or sleepy.Sedimentation rate (SED)The change in speed of the red blood cell count expressed in millimeters perhour. A SED rate that is over 25 or increasing may indicate infection.Segmented neutrophilA type of white blood cell needed to defend against infection.Septicemia/sepsisA very serious bacterial or fungal blood infection. It usually spreads from another site of infection such as skin, bowel, or urinary tract. It can cause high fever, shaking chills, and heavy sweating. It is more likely to occur in patients with very low white blood cells.Shingles - herpes zosterA viral infection of the nerve endings in the skin. It can cause blisters, crusts and severe pain along the nerve. It is the same virus that causes chicken pox. Children who have not had chicken pox may get it from contact with someoneShock with shingles.A serious condition caused by a lack of blood circulating in your blood stream. Signs of shock include a drop in blood pressure, rapid weak pulse, pale moist clammy skin, being very thirsty and a state of anxiety.SimulationWhen measurements and x-rays are taken and actual radiation treatment fieldsare determined.SinusesHollow spaces in the bones of your head.Spinal cordThe cord or nerve tissue that runs through the center of your spinal column. Itconnects your brain to other parts of your body.Spinal tap/lumbar punctureA procedure in which a thin needle is placed in your spinal canal to remove a small amount of spinal fluid. It is also used to give medicine into the central nervous system through the spinal fluid. If you have leukemia, this fluid is testedSpleenfor the possible presence of "blasts" cells as well as other elements.An organ that filters the blood. It removes debris, and old or dying cells from the circulation. It also removes bacteria from the blood during the early stages of severe infections. It often becomes enlarged in leukemia and certain other diseases.Stem cellsPrimitive blood-forming cells in the bone marrow which give rise to the white blood cells, red blood cells and platelets. They are like the stem of a plant that gives rise to the flowers and leaves (red cells, white cells, and platelets).A study using either x-rays or radioactive isotopes to create images of internalGlossary28
+GlossaryA medicine prepared for insertion into the anus or vagina, where it is generallyabsorbed into the bloodstream.SusceptibleTendency to develop a disease if exposed to it; not having immunity.SymptomA change or sign in the body or its function that indicates disease or infection.T Cell or T lymphocyteA type of white blood cell or lymphocyte that plays a major ole in the body's defense against viral and fungal infections.T Cell depleted blood stem cell transplantA type of transplant in which from which most of the T cells are removed. The T cells are removed in the laboratory after the donor stem cells are obtained. This process reduces the likelihood of Graft vs. Host Disease that is caused by the donor’s T cells.Temperature spikeWhen your temperature suddenly goes up.Testicular massA swelling of your testis or testicle, the male reproductive gland.Thrombocytopenia (throm-bo-sigh-toe-PEEN-e-uh)A decrease in the number of platelets in your blood.ThrombophlebitisAn inflammation of a vein.TinnitusTissue Ringing in your ears.A collection of cells similar in structure and function.Tissue Typing (HLA, Human Leukocyte Antigen)A special test of white blood cells to check the genetic match between a donorand the patient.TBI (Total Body Irradiation)High-dose radiation treatments given to the whole body.TLI (Total Lymphoid Irradiation)Radiation treatments given to the parts of the body where most of the lymphaticsystem is located.ToxicityToxins A word used to describe the side effects caused by a drug.Poisonous substances; may be produced by germs.TracheaThe windpipe.StomatitisMouth sores; can be a side effect of some kinds of chemotherapy.Suppository (rectal or vaginal)￼￼￼￼￼￼￼￼￼29
+Transfusion reactionAn allergic response to blood products. You may experience hives, chills, or Tumor headaches.An abnormal lump or mass of tissue. Tumors can be benign (not cancerous) or malignant (cancerous).UlcerUltrasoundAn imaging method that uses sound waves to outline a part of your body. It can be done to any part of the body. A tumor or infection can be monitored this way.UnilateralOne side of your body.Uric acidA chemical that can build up in your body when kidney function is impaired. When many malignant cells are rapidly destroyed, uric acid is produced in large quantities.UrinalysisThe process by which your urine is examined for various factors.Urinary tractThe organs that have to do with the production and elimination of urine, e.g. kidneys, bladder, ureters, urethra.VaricellaChicken pox, an infection caused by virus. Children with cancer may have aproblem with this infection if they have not had it before.VeinVeno-Occlusive Disease (VOD)A disease caused by a block in the flow of blood through the small blood vesselsin the liver. It results in weight gain, enlarged liver, and yellowing of the skin. It can cause mild, moderate, or severe liver damage, or death.VertigoDizziness, especially the feeling that your surroundings are swirling.VirusesMeasles, mumps, chicken pox, and the common cold.Glossary￼￼￼￼￼￼￼￼￼A wearing away of normal tissues. It can be from corrosive chemicals (e.g. acids), infection, impaired circulation, or cancerous involvement. It can cause bleeding.￼￼￼￼￼￼￼￼￼A blood vessel carrying blood from the tissues towards your heart and lungs. Veins are used to draw blood samples and administer IV fluids because blood in veins is not under pressure.￼￼￼￼￼￼￼￼￼30
+White blood cellsCells in your blood that are most important in fighting infection. Examples; neutrophils or "polys", and lymphocytes ("lymphs")X-raysY Currently there are no "Y" terms in our dictionaryZoster - varicella zoster. See shingles.
+<div class="resources invisible">
 ## Additional Resources
 Document to be included along with this guide, as appendices:
 
@@ -1218,3 +1314,4 @@ http://patiented.herokuapp.com/articles/sperm-bank
 * Resources for Wigs and Hairpieces
 http://patiented.herokuapp.com/articles/wig-and-hairpiece-resources
 * Returning Home After Your Autologous Transplant
+</div>
