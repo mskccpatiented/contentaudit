@@ -958,1157 +958,706 @@ When your healthcare team sees that you are ready, they will allow you to return
 Before you return home, it's important that you and your caregiver prepare. We have prepared a guide called *Returning Home after your Autologous Transplant*. It is included at the end of this guide. 
 
 ## Glossary
-This glossary explains some common terms you need to know. If you hear a word or expression not listed here, don't be afraid to ask your doctor or nurse.
+This glossary explains terms that you may read in this guide, or hear from your healthcare team. If you hear a word or expression not listed here, don't be afraid to ask your doctor or nurse.
+**Ablative therapy (ab-lay-tive)** - Treatment that removes or destroys the function of an organ or system. For example, high dose chemotherapy and radiation before a bone marrow transplant is considered ablative therapy because it wipes out your immune system.
 
-**Advil<sup>&reg;</sup>**
-Advil<sup>&reg;</sup> is a brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+**Absolute neutrophil count (anc)** - The percentage of polys and bands that are part of your total white blood count. If your ANC is less than 1,000, you are very prone to infection.
 
-**Aleve<sup>&reg;</sup>**
-Aleve<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+**Ablative therapy (ab-lay-tive)** - Treatment that removes or destroys the function of an organ or system. For example, high dose chemotherapy and radiation before a bone marrow transplant is considered ablative therapy because it wipes out your immune system.
 
-**anal**
-Related to the anus.
+**Absolute neutrophil count (anc)** - The percentage of polys and bands that are part of your total white blood count. If your ANC is less than 1,000, you are very prone to infection.
 
-**Anaprox**
-Anaprox<sup>&reg;</sup> is a brand of naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+**Afebrile** - Having no fever, normal temperature. Alopecia (al-o-pee-shuh)
 
-**anemia**
-A condition in which the number of red blood cells is below normal.
+**Ambulatory** - The ability to walk; not confined to bed.
 
-**anesthetic**
-A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in 1 small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
+**Anal** - Related to the anus.
 
-**anti-inflammatory**
-Having to do with reducing inflammation. For example an anti-inflammatory drug is taken to reduce inflammation.
+**Analgesic** - A drug used for reducing pain.
 
-**antibacterial**
-A substance that kills bacteria or stops them from growing and causing disease.
+**Anaphylaxis** - An allergic reaction ranging from relatively mild (hives) to very serious (shock).
 
-**antifungal**
-A drug that treats infections caused by fungi.
+**Anemia (uh-neem-ee-uh)** - Low red blood cell count, which can cause you to feel fatigued and have shortness of breath. Anemia can be caused by a variety of conditions and diseases.
 
-**antimicrobial**
-A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
+**Anesthesiologist (an-es-the-zee-ol-o-jist)** - A doctor who specializes in giving medicines or other agents that prevent or relieve pain, especially during surgery.
 
-**apheresis**
-A procedure in which blood is collected, part of the blood (such as platelets or white blood cells) is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
+**Anesthetic** - A drug or other substance that causes a loss of feeling or awareness. Local anesthetics cause a loss of feeling in 1 small area of the body. Regional anesthetics cause a loss of feeling in a part of the body, such as an arm or leg. General anesthetics cause a loss of feeling and a complete loss of awareness that feels like a very deep sleep.
 
-**aspirin**
-A drug that reduces pain, fever, inflammation, and blood clotting. Aspirin belongs to the family of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). 
+**Anterior** - Located in the front, opposite the posterior
 
-**autologous**
-Taken from an individual’s own tissues, cells, or DNA.
+**Antibacterial** - A substance that kills bacteria or stops them from growing and causing disease.
 
-**biopsy**
-The removal of cells or tissues for examination by a doctor. 
+**Antibiotic** - Drug used to kill organisms that cause disease. Since some cancer treatments can reduce your body's ability to fight infection, antibiotics may be used to treat or prevent these infections.
 
-**bone marrow**
-The soft, sponge-like tissue in the center of most bones. It produces white blood cells, red blood cells, and platelets.
+**Antibody** - A protein produced by immune system cells and released into the blood. Antibodies defend against foreign agents, such as bacteria. For example, if you get a tetanus vaccine, you will make a protein (antibody) which protects against tetanus, called a tetanus antibody. Each antibody works against a specific substance called an antigen.
 
-**bowel**
-The long, tube-shaped organ in the abdomen that completes the process of digestion. The bowel has 2 parts: the small bowel and the large bowel. Also called the intestine.
+**Anticoagulant** - Drug that reduces the blood's ability to clot.
 
-**bowel movement**
-Movement of feces through the bowel and out the anus. Also called defecation.
+**Antiemetic (an-ti-eh-meh-tik) (anti-nausea)** - A drug that prevents or relieves nausea and vomiting.
 
-**breastbone**
-The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called the sternum.
+**Antifungal** - A medicine that kills fungi, organisms that cause infections. Patients undergoing treatment for cancer are especially vulnerable to fungal infections.
 
-**CAT scan or computed axial tomography**
-A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
+**Antigen (an-tuh-jen)** - A substance that causes your body's immune system to react. This reaction often involves production of antibodies. For example, your immune system's response to antigens that are part of bacteria and viruses helps you resist infections. Cancer cells have certain antigens that can be found by laboratory tests. They are important in cancer diagnosis and in watching response to treatment.
 
-**catheter**
-A thin, flexible tube used to deliver liquids into or withdraw liquids from the body.
+**Antihistamine** - A medicine used to relieve the symptoms of allergies like hives, stuffy nose, etc.
 
-**central venous catheter**
-A thin, flexible tube that is inserted into a vein in the upper arm, thigh, neck, or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used for taking blood samples, and also to give liquids, blood transfusions, chemotherapy, and other drugs. It avoids the need for repeated needle sticks.
+**Antimicrobial** - A substance that kills microorganisms such as bacteria or mold, or stops them from growing and causing disease.
 
-**clot**
-To change from a liquid form into a solid or semi-solid; for example, when blood clots, it changes from a liquid to a semi-solid, helping to stop bleeding.
+**Antioxidants (an-ti-ox-uh-dents)** - Compounds that hold back chemical reactions with oxygen and are thought to reduce the risk of some cancers. Examples are vitamins C, E, and beta-carotene
 
-**dietitian**
-A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
+**Apheresis** - A procedure in which blood is collected, part of the blood (such as platelets or white blood cells) is taken out, and the rest of the blood is returned to the donor. Also called pheresis.
 
-**dizziness**
-A sensation of instability and sometimes a feeling that you are about to fall.	
+**Artery** - A vessel that carries oxygen-rich blood from your heart to the tissues. Blood is under pressure in arteries.
 
-**dose**
-The amount of medication taken, or radiation given, at one time.
+**Audiogram** - A diagnostic test that is done to evaluate your hearing.
 
-**echocardiograph**
-A medical device that sends pulses of high-frequency sound into the heart and uses the sound waves that bounce back to produce an image called an electrocardiogram. The echocardiograph is used to detect abnormalities in the heart. Also called an EKG.
+**Auto syringe** - A portable pump to administer medications subcutaneously or intravenously over several days. This allows you to be ambulatory. 
 
-**electrolysis**
-A beauty treatment where an electric current is used to kill the roots of hairs.
+**Autologous** - Taken from an individuals own tissues, cells, or DNA.
 
-**enema**
-The injection of a liquid through the anus into the large bowel.
+**Axilla (ax-il-la)** - Your armpit.
 
-**engraftment**
-When stem cells infused into the body start to fix in place, grow, and make new blood cells.
+**Bacteria (singular bacterium)** - Small germs that can cause infection. 
 
-**fertility preservation**
-A type of procedure used to help preserve a person’s ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
+**Bands** - Young, white blood cells; important in defending your body against infection.
 
-**filgrastim**
-A medication used to increase the number of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
+**Benign** - Not malignant or cancerous.
 
-**GCSF (granulocyte colony-stimulating factor)**
-A medication that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+**Bilateral** - Two sides of your body.
 
-**genital**
-Refers to the genitalia (external and internal sex organs and glands).
+**Bile** - A yellow-green fluid made by your liver from discarded red blood cells and excreted into the intestine where it helps to digest fat. 
 
-**granulocyte**
-A type of white blood cell. Neutrophils, eosinophils, and basophils, are granulocytes. 
+**Biopsy (buy-op-see)** - The removal of a sample of tissue to see whether cancer cells are present and to determine an exact diagnosis. There are several kinds of biopsies.
 
-**hemoglobin**
-A protein inside red blood cells that carries oxygen from the lungs to tissues and organs in the body and carries carbon dioxide back to the lungs. Testing for the amount of hemoglobin in the blood is usually part of a complete blood cell (CBC) test. It is used to check for conditions such as anemia, dehydration, and malnutrition.
+**Blast cells** - Refers to the earliest-formed marrow cells. Normal blasts are the forefathers of all our blood cells. In acute leukemia, the growth of these cells is abnormal or malignant. They may grow quickly and crowd the other cells in the bone marrow.
 
-**hospitalist**
-A doctor who specializes in the care of hospitalized patients.
+**Blood** - The body fluid that flows through all the vessels except the lymph vessels and performs a number of critical functions. Blood is composed of a liquid portion called plasma and three other components: red blood cells, white blood cells, and platelets.
 
-**ibuprofen**
-A drug used to treat fever, swelling, pain, and redness by preventing the body from making a substance that causes inflammation. It is a type of nonsteroidal anti-inflammatory drug (NSAID). Also called Advil<sup>&reg;</sup> and Motrin<sup>&reg;</sup>.
+**Blood chemistries** - Multiple chemical determinations of the blood content. These tests are helpful in assessing your kidney and liver function.
 
-**immune system**
-The complex group of organs and cells that defend the body against infections and other diseases.
+**Blood count** - A lab study to evaluate the amount of white blood cells, red blood cells, and platelets.
 
-**infection**
-Invasion and multiplication of germs in the body. Infections can occur in any part of the body and can spread throughout the body. The germs may be bacteria, viruses, yeast, or fungi. They can cause a fever and other problems, depending on where the infection occurs. When the body’s natural defense system is strong, it can often fight germs and prevent infection. Some cancer treatments can weaken this system.
+**Blood transfusion** - The infusion of red blood cells or platelets into your blood stream to replace blood loss or to correct anemia.
 
-**infertility**
-Not being able to produce children.
+**Blood typing and cross matching** - Making sure that the blood from a donor is compatible with yours before a blood transfusion. Blood cells contain factors that are not the same in all people. Before a transfusion can be given, blood samples from the donor and you are typed, or classified according to which of these factors are present. The four principal red blood cell types or groups are A, B, AB or O. Other factors such as Rh factor must also be checked.
 
-**infusion**
-A method of putting fluids, including medications and blood products, into the bloodstream. Also called intravenous infusion.
+**Bone marrow** - The spongy material in the center of bones where blood cells are made.
 
-**inpatient**
-A patient who is admitted to the hospital for treatment requiring an overnight stay.
+**Bone marrow aspiration and biopsy** - A procedure in which a needle is placed into the cavity of a bone, usually the hip or breast bone. A small amount of bone marrow is removed and examined under a microscope.
 
-**irradiated**
-Treated with radiation.
+**Bone marrow, stem cell, or cord blood transplant** - A treatment for cancer, which severely injures or destroys the patient's bone marrow. You are given high doses of chemotherapy with or without radiation (total body irradiation) to kill the cancer cells. The drugs also destroy the remaining bone marrow, preventing your body's natural ability to fight infection. In allogeneic transplantation, the donor of the stem cells is another person. Stem cells can come from the bone marrow, the blood, or umbilical cord blood. In autologous transplantation, stem cells are taken from the patient. Some of your own bone marrow or stem cells are removed and set aside before treatment and then re-infused. It starts producing blood cells a few weeks later.
 
-**jaundice**
-A condition in which the skin and the whites of the eyes become yellow, urine darkens, and the color of stool becomes lighter than normal. Jaundice occurs when the liver is not working properly or when a bile duct is blocked.
+**Bone scan** - An imaging method that gives important information about the bones, including the location of cancer that may have spread to the bones. A low-dose radioactive substance is injected into a vein and pictures are taken to see where the radioactivity collects, pointing to abnormalities.
 
-**laxative**
-A substance that encourages bowel movements.
+**Bowel** - Pertaining to your intestines.
 
-**lubricant**
-An oily or slippery substance.
+**Bowel movement** - Movement of feces through the bowel and out the anus. Also called defecation.
 
-**lumen**
-A tube that forms part of a catheter. Many catheters exit the body and separate into several lumens.
+**Brain scan** - An imaging method used to find anything not normal in the brain, including brain cancer and cancer that has spread to the brain from other places in the body. A radioactive substance is injected into a vein and pictures are taken to show where the radioactivity collects, indicating an abnormality.
 
-**lymphoma**
-Cancer that begins in cells of the immune system. 
+**Breastbone** - The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called the sternum.
 
-**manicure**
-A beauty treatment where fingernails are trimmed/shaped and sometimes polished or painted. 
+**Broviac&reg; catheter** - Soft plastic catheters that are surgically placed in one of the neck veins and into the opening of the heart. It allows for IV solutions to be given and for blood to be drawn.
 
-**microliter**
-One millionth of a liter.
+**Capillaries** - Tiny blood vessels located throughout the tissues of your body. They connect your arteries with your veins. Substances pass through them to nourish your cells.
 
-**microorganism**
-An organism that can be seen only through a microscope. Microorganisms include bacteria, protozoa, algae, and fungi. Although viruses are not considered living organisms, they are sometimes classified as microorganisms.
+**Cardiac** - Pertaining to your heart
 
-**mobilization**
-Taking medication to stimulate the growth of stem cells and move them into the bloodstream.
+**Cardiomyopathy** - Damage to the heart muscle affecting the way the heart pumps blood through the body.
 
-**Motrin<sup>&reg;</sup>**
-A brand of ibuprofen. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve swelling, pain, and fever.
+**CAT scan or computed axial tomography** - A series of detailed pictures of areas inside the body taken from different angles. The pictures are created by a computer linked to an x-ray machine. Also called computed tomography scan, computerized axial tomography scan, computerized tomography, and CT scan.
 
-**Mozobil<sup>&reg;</sup>**
-A brand of plerixafor. Plerixafor is a medication used together with granulocyte colony-stimulating factor (GCSF) to help move stem cells them from the bone marrow to the blood. 
+**Cataracts** - A clouding of the lens of the eye that can result from radiation therapy. 
 
-**myeloma**
-Cancer of blood plasma cells, a type of white blood cell.
+**Catheter (cath-eh-tur)** - A thin, flexible tube through which fluids enter or leave the body; e.g., a tube to drain urine.
 
-**naprosyn**
-A medication used to treat mild pain and the symptoms of arthritis and several other conditions. It is a type of nonsteroidal anti inflammatory drug, and a type of cyclooxygenase inhibitor. Also called naproxen.
+**Cell morphology** - Refers to cell types or structure.
 
-**Neupogen<sup>&reg;</sup>**
-A brand of granulocyte colony-stimulating factor (GCSF)&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
+**Cellulitis** - Usually means a diffuse infection of the skin and underlying tissue.
 
-**neutropenia**
-A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
+**Central nervous system (cns)** - Refers to the brain and spinal cord.
 
-**neutrophil**
-A type of white blood cell that is one of the first cell types to travel to the site of an infection. Neutrophils help fight infection by ingesting microorganisms and releasing enzymes that kill the microorganisms.
+**Central venous catheter** - A thin, flexible tube that is inserted into a vein in the upper arm, thigh, neck, or below the collarbone. It is guided (threaded) into a large vein near the heart called the vena cava or into the right atrium of the heart. It is used for taking blood samples, and also to give liquids, blood transfusions, chemotherapy, and other drugs. It avoids the need for repeated needle sticks.
 
-**nonsteroidal**
-A drug that does not contain a steroid.
+**Central venous line** - A method of giving IV fluids, blood products, and medicines. A catheter is inserted into a neck vein and into your other large blood vessels. There are many different types of central line catheters that may have multiple ports or lumens. Multiple ports allow more than one IV solution to be given at one time. Blood can also be drawn from this type of catheter.
 
-**NSAID**
-A medication that decreases fever, swelling, pain, and redness. Also called nonsteroidal anti inflammatory drug.
+**Charts** - Your written medical records.
 
-**orally**
-By mouth; e.g., a medication to be taken orally is one that is swallowed.
+**Chemotherapy** - Drugs used to destroy malignant cells. Chemotherapy is often used with surgery or radiation to treat cancer.
 
-**outpatient**
-A patient who visits a healthcare facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
+**Clinical trials** - Human research studies that test new drugs or treatments and compare them to current, standard treatments. Before a new treatment is used on people, it is studied in the lab. If lab studies suggest the treatment works, it is tested with patients. These human studies are called clinical trials. Questions the researchers want to answer are: Does this treatment work? Does it work better than the one we use now? What side effects does it cause? Do the benefits outweigh the risks? Your doctor may suggest a clinical trial. Participation is voluntary.
 
-**pedicure**
-A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
+**Clot** - To change from a liquid form into a solid or semi-solid; for example, when blood clots, it changes from a liquid to a semi-solid, helping to stop bleeding.
 
-**platelet**
-A tiny piece of cell that is made by breaking off of a large cell in bone marrow. Platelets are found in the blood and spleen. They help form blood clots to slow or stop bleeding and to help wounds heal. Also called a thrombocyte.
+**Cobalt, cobalt treatment** - Radiotherapy using gamma rays generated from the breakdown of radioactive cobalt 60.
 
-**plerixafor**
-A medication used together with granulocyte colony-stimulating factor (GCSF) to move stem cells from the bone marrow to the blood. 
+**Colon** - The large intestine.
 
-**PET scan**
-A scan used to look at the organs and the way they function in the body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
+**Colony stimulating factors (csf)** - Types of growth factors that promote growth and division of blood-producing cells in the bone marrow. CSFs are naturally produced in the body. Extra amounts may be given to reduce or prevent side effects of chemotherapy. See growth factors.
 
-**rectal**
-By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
+**Complementary therapy** - Therapies used in addition to conventional therapy. Some complementary therapies may help relieve certain symptoms of cancer, relieve side effects of conventional cancer therapy, or improve a patient's sense of well-being.
 
-**rectum**
-The last several inches of the large intestine closest to the anus.
+**Complete blood count (cbc)** - A blood test to measure the type and number of blood cells. It lets doctors follow the course of your disease and to select the right dose of medicine. The values are expressed in percentages.
 
-**red blood cell**
-A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
+**Congenital** - Any condition existing at birth.
 
-**stem cell**
-A cell from which other types of cells develop. For example, blood cells develop from blood-forming stem cells.
+**Conjunctivitis** - Redness of the eyes.
 
-**sternum**
-The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called breastbone.
+**Constipation** - A condition of your bowel (large intestine). A difficulty with eliminating solid body wastes.
 
-**suppository**
-A form of medication contained in a small piece of solid material, such as cocoa butter or glycerin, that melts at body temperature. A suppository is inserted into the rectum, vagina, or urethra and the medication is absorbed into the bloodstream.
+**Contagious** - A disease capable of being spread from one person to another. Cancer is not contagious.
 
-**thrombocytopenia**
-A condition in which there is a lower than normal number of platelets in the blood. It may result in easy bruising and excessive bleeding from wounds or bleeding in mucous membranes and other tissues.
+**Convulsion (seizure)** - Contraction and spasm of your muscles over which you have no control.
 
-**transfusion**
-A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
+**Creatinine clearance** - A test that compares the level of creatinine in urine with the creatinine level in the blood. Creatinine is a breakdown product of creatine, which is an important part of muscle. The test helps provide information on kidney function.
 
-**unpasteurized**
-Relating to perishable food that has not been pasteurized, i.e., heat treated to kill potentially harmful microbes.
+**Ct scan (cat scan)/computed axial tomography** - Radiology study that shows cross section views of various organs being studied as X-rays pass through the patient's body at many angles.
 
-**white blood cell**
-A type of immune cell. Most white blood cells are made in the bone marrow and are found in the blood and lymph tissue. White blood cells help the body fight infections and other diseases. Granulocytes, monocytes, and lymphocytes are all white blood cells. Also called a leukocyte.
+**Culture** - A procedure using a sample of blood, urine, throat secretions, or other biological material. It determines the specific germ (bacteria, fungus, or virus) responsible for an infection. Cultures also help determine which antibiotics might work best.
 
-**Ablative therapy (ab-lay-tive)** - Treatment that removes or destroys the function of an organ or system. For example, high dose chemotherapy and radiation before a bone marrow transplant is considered ablative therapy because it wipes out your immune system.
+**Cyanotic** - A blue appearance of the skin, lips and fingernails. It is a result of low oxygen content in the blood.
 
-**Absolute neutrophil count (ANC)**
-The percentage of polys and bands that are part of your total white blood
-count. If your ANC is less than 1,000, you are very prone to infection.
-**Afebrile**
-Having no fever, normal temperature. Alopecia (al-o-pee-shuh)
-Hair loss. This often occurs as a result of chemotherapy or from radiation therapy
-to the head. In most cases, the hair grows back after treatment ends.
-**Ambulatory**
-The ability to walk; not confined to bed.
-**Analgesic**
-A drug used for reducing pain.
-**Anaphylaxis**
-An allergic reaction ranging from relatively mild (hives) to very serious (shock).
-**Anemia (uh-neem-ee-uh)**
-Low red blood cell count, which can cause you to feel fatigued and have shortness of breath. Anemia can be caused by a variety of conditions and diseases.
-**Anesthesiologist (an-es-the-zee-ol-o-jist)**
-A doctor who specializes in giving medicines or other agents that prevent or relieve pain, especially during surgery.
-**Anterior**
-Located in the front, opposite the posterior
-**Antibiotic**
-Drug used to kill organisms that cause disease. Since some cancer treatments can reduce your body's ability to fight infection, antibiotics may be used to treat or prevent these infections.
-**Antibody**
-A protein produced by immune system cells and released into the blood. Antibodies defend against foreign agents, such as bacteria. For example, if you get a tetanus vaccine, you will make a protein (antibody) which protects against tetanus, called a tetanus antibody. Each antibody works against a specific substance called an antigen.
-         
-**Anticoagulant**
-Drug that reduces the blood's ability to clot.
+**Cyst** - A fluid filled sac of tissue. A cyst may be malignant or benign.
 
-**Antiemetic (an-ti-eh-MEH-tik) (anti-nausea)**
-A drug that prevents or relieves nausea and vomiting.
+**Cystitis** - Inflammation of the urinary bladder.
 
-**Antifungal**
-A medicine that kills fungi, organisms that cause infections. Patients undergoing treatment for cancer are especially vulnerable to fungal infections.
+**Cytogenetics** - The process of analyzing the number and shape of cell chromosomes. The normal chromosome number is 46 chromosomes. Chromosomes may have changes in them when a patient develops cancer.
 
-**Antigen (an-tuh-jen)**
-A substance that causes your body's immune system to react. This reaction often involves production of antibodies. For example, your immune system's response to antigens that are part of bacteria and viruses helps you resist infections. Cancer cells have certain antigens that can be found by laboratory tests. They are important in cancer diagnosis and in watching response to treatment.
+**Decongestant** - A medicine that helps to shrink mucous membranes and decrease production of mucous.
 
-**Antihistamine**
-A medicine used to relieve the symptoms of allergies like hives, stuffy nose, etc.
+**Dehydration** - Excessive loss of fluids from your body.
 
-**Antioxidants (an-ti-OX-uh-dents)**
-Compounds that hold back chemical reactions with oxygen and are thought to reduce the risk of some cancers. Examples are vitamins C, E, and beta-carotene
+**Dermal** - Pertaining to your skin.
 
-**Artery** 
-A vessel that carries oxygen-rich blood from your heart to the tissues. Blood is under pressure in arteries.
+**Dermatologist** - A doctor who specializes in skin diseases and conditions.
 
-**Audiogram**
-A diagnostic test that is done to evaluate your hearing.
+**Diagnosis** - Identifying a disease by its signs or symptoms, and by using imaging procedures and laboratory findings.
 
-**Auto syringe**
-A portable pump to administer medications subcutaneously or intravenously over several days. This allows you to be ambulatory. 
+**Diaphragm** - The muscle located between the chest cavity and abdominal cavity.
 
-**Axilla (ax-il-la)**
-Your armpit.
+**Diarrhea** - Frequent, loose, and watery stools.
 
-**Bacteria (singular bacterium)**
-Small germs that can cause infection. 
+**Dietitian** - A health professional with special training in nutrition who can help with dietary choices. Also called a nutritionist.
 
-**Bands**
-Young, white blood cells; important in defending your body against infection.
+**Dilute** - To thin down or weaken by mixing with water or other liquid.
 
-**Benign**
-Not malignant or cancerous.
+**Distal** - Away from the center; out towards the end.
 
-**Bilateral**
-Two sides of your body.
+**Diuretic** - Drugs that increase the elimination of water and salts (urine) from your body.
 
-**Bile**
-A yellow-green fluid made by your liver from discarded red blood cells and excreted into the intestine where it helps to digest fat. 
+**Dizziness** - A sensation of instability and sometimes a feeling that you are about to fall.
 
-**Biopsy (buy-op-see)**
-The removal of a sample of tissue to see whether cancer cells are present and to determine an exact diagnosis. There are several kinds of biopsies.
+**DNA deoxyribonucleic acid (dee-ok-see-ri-bo-new-clay-ic)** - DNA holds genetic information on cell growth, division, and function. When DNA is damaged, a cell may become cancerous.
 
-**Blast cells**
-Refers to the earliest-formed marrow cells. Normal blasts are the forefathers of all our blood cells. In acute leukemia, the growth of these cells is abnormal or malignant. They may grow quickly and crowd the other cells in the bone marrow.
+**Dose** - The amount of medication taken, or radiation given, at one time.
 
-**Blood**
-The body fluid that flows through all the vessels except the lymph vessels and performs a number of critical functions. Blood is composed of a liquid portion called plasma and three other components: red blood cells, white blood cells, and platelets.
+**Dysphagia** - Difficulty swallowing.
 
-**Blood chemistries**
-Multiple chemical determinations of the blood content. These tests are helpful in assessing your kidney and liver function.
+**Dyspnea** - Shortness of breath.
 
-**Blood count**
-A lab study to evaluate the amount of white blood cells, red blood cells, and platelets.
+**Dystonic reaction** - Tightening of your facial and neck muscle. It is a possible side effect of some antiemetic drugs.
 
-**Blood transfusion**
-The infusion of red blood cells or platelets into your blood stream to replace blood loss or to correct anemia.
+**Echo cardiogram (ultrasound cardiography)** - A method of obtaining a graphic picture of the internal structure, and position and motion of your heart. It is done by using sound waves directed through your chest.
 
-**Blood typing and cross matching**
-Making sure that the blood from a donor is compatible with yours before a blood transfusion. Blood cells contain factors that are not the same in all people. Before a transfusion can be given, blood samples from the donor and you are typed, or classified according to which of these factors are present. The four principal red blood cell types or groups are A, B, AB or O. Other factors such as Rh factor must also be checked.
+**Edema** - Build up of fluid within the tissues; swelling.
 
-**Bone marrow**
-The spongy material in the center of bones where blood cells are made.
+**Electrocardiogram (EKG)** - A method of evaluating your heart's rhythm and muscle function by measuring electrical impulses.
 
-**Bone marrow aspiration and biopsy**
-A procedure in which a needle is placed into the cavity of a bone, usually the hip or breast bone. A small amount of bone marrow is removed and examined under a microscope.
+**Electrolytes** - A general term for the many minerals needed to provide the proper setting for the cells of your body. Common electrolytes include calcium, sodium, potassium, and chloride.
 
-**Bone marrow, stem cell, or cord blood transplant**
-A treatment for cancer, which severely injures or destroys the patient's bone marrow. You are given high doses of chemotherapy with or without radiation (total body irradiation) to kill the cancer cells. The drugs also destroy the remaining bone marrow, preventing your body's natural ability to fight infection.
-In allogeneic transplantation, the donor of the stem cells is another person. Stem cells can come from the bone marrow, the blood, or umbilical cord blood. In autologous transplantation, stem cells are taken from the patient. Some of your own bone marrow or stem cells are removed and set aside before treatment
-and then re-infused. It starts producing blood cells a few weeks later.
+**Emesis** - To vomit.
 
-**Bone scan**
-An imaging method that gives important information about the bones, including the location of cancer that may have spread to the bones. A low-dose radioactive substance is injected into a vein and pictures are taken to see where the radioactivity collects, pointing to abnormalities.
+**Engraftment** - The growth of transplanted stem cells. It is defined as the first of three days when the neutrophil count is greater than 500 cell per microliter of blood,
 
-**Bowel** 
-Pertaining to your intestines.
+**Engraftment** - When stem cells infused into the body start to fix in place, grow, and make new blood cells.
 
-**Brain scan**
-An imaging method used to find anything not normal in the brain, including brain cancer and cancer that has spread to the brain from other places in the body. A radioactive substance is injected into a vein and pictures are taken to show where the radioactivity collects, indicating an abnormality.
+**Enzyme (en-zime)** - Proteins that increase the rate of chemical reactions in living cells.
 
-**Broviac&reg; catheter**
-Soft plastic catheters that are surgically placed in one of the neck veins and into the opening of the heart. It allows for IV solutions to be given and for blood to be drawn.
+**Epstein-barr virus (ebv)** - The virus that causes infectious mononucleosis or "kissing disease." In patients whose immune system is not normal, it can cause an EBV associated lymphoma. Symptoms include fever and enlarged lymph nodes.
 
-**CT Scan (CAT Scan)/Computed Axial Tomography**
-Radiology study that shows cross section views of various organs being studied as X-rays pass through the patient's body at many angles.
+**Esophagus** - A tube that carries swallowed food to the stomach.
 
-**Capillaries**
-Tiny blood vessels located throughout the tissues of your body. They connect your arteries with your veins. Substances pass through them to nourish your cells.
+**Excision** - Surgical removal of tissue.
 
-**Cardiac**
-Pertaining to your heart
+**Expectorant** - Medicine that makes mucous in your respiratory tract thinner and easier to cough out.
 
-**Cardiomyopathy**
-Damage to the heart muscle affecting the way the heart pumps blood through the body.
+**Exploratory** - Surgery to investigate a situation that other tests have failed to explain.
 
-**Cataracts**
-A clouding of the lens of the eye that can result from radiation therapy. 
+**Febrile** - Fever, elevated body temperature.
 
-**Catheter (cath-eh-tur)**
-A thin, flexible tube through which fluids enter or leave the body; e.g., a tube to drain urine.
+**Fellow** - A physician who has completed residency. May be a fully trained pediatrician or internist and is doing further study to become a sub-specialist in a field of interest.
 
-**Central nervous system (CNS)**
-Refers to the brain and spinal cord.
+**Fertility preservation** - A type of procedure used to help preserve a persons ability to have children. A fertility preservation procedure is done before a medical treatment that may cause infertility, such as radiation therapy or chemotherapy. Examples of fertility preservation procedures include sperm banking, egg freezing, in vitro fertilization with embryo freezing, and certain types of surgery for cervical and ovarian cancer.
 
-**Cell morphology**
-Refers to cell types or structure.
+**Filgrastim** - A medication used to increase the number of white blood cells in patients who are receiving chemotherapy. Also called Neulasta<sup>&reg;</sup> and pegfilgrastim.
 
-**Cellulitis**
-Usually means a diffuse infection of the skin and underlying tissue.
+**Foot drop** - Weakness in your foot muscles.
 
-**Central venous line**
-A method of giving IV fluids, blood products, and medicines. A catheter is inserted into a neck vein and into your other large blood vessels. There are many different types of central line catheters that may have multiple ports or lumens. Multiple ports allow more than one IV solution to be given at one time. Blood can Charts also be drawn from this type of catheter.
-Your written medical records.
+**Fungi (singular fungus)** - A group of micro organisms larger than either bacteria or viruses. They can cause a serious infection when your resistance (immune system) is lowered.
 
-**Chemotherapy**
-Drugs used to destroy malignant cells. Chemotherapy is often used with surgery or radiation to treat cancer.
+**Gamma globulin** - A protein component of blood plasma. It contains antibodies that are helpful against certain infections.
 
-**Chimerism studies**
-Tells the doctor how much of the blood or bone marrow is from the patient or donor.
+**Gastroenterologist (gas-tro-en-ter-ol-o-jist)** - A doctor who specializes in diseases of the digestive (gastrointestinal) tract.
 
-**Clinical trials**
-Human research studies that test new drugs or treatments and compare them to current, standard treatments. Before a new treatment is used on people, it is studied in the lab. If lab studies suggest the treatment works, it is tested with patients. These human studies are called clinical trials. Questions the researchers want to answer are: Does this treatment work? Does it work better than the one we use now? What side effects does it cause? Do the benefits outweigh the risks? Your doctor may suggest a clinical trial. Participation is voluntary.
+**Gastrointestinal tract/gi tract** - The digestive tract. It is made up of the organs and structures that process and prepare food to be used for energy. For example, the stomach, small intestine and large intestine.
 
-**Cobalt, cobalt treatment**
-Radiotherapy using gamma rays generated from the breakdown of radioactive cobalt 60.
+**GCSF (granulocyte colony-stimulating factor)** - A medication that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
-**Colon** 
-The large intestine.
+**General anesthetic** - A medication which puts you to sleep to prevent pain during an operation.
 
-**Colony stimulating factors (CSF)**
-Types of growth factors that promote growth and division of blood-producing cells in the bone marrow. CSFs are naturally produced in the body. Extra amounts may be given to reduce or prevent side effects of chemotherapy. See growth factors.
+**Genital** - Refers to the genitalia (external and internal sex organs and glands).
 
-**Complementary therapy**
-Therapies used in addition to conventional therapy. Some complementary therapies may help relieve certain symptoms of cancer, relieve side effects of conventional cancer therapy, or improve a patient's sense of well-being.
+**Gland** - See lymph node
 
-**Complete blood count (CBC)**
-A blood test to measure the type and number of blood cells. It lets doctors follow the course of your disease and to select the right dose of medicine. The values are expressed in percentages.
+**Granulocytes** - White blood cells that help to protect you against bacterial infection; also called "polys","segs",or neutrophils.
 
-**Congenital**
-Any condition existing at birth.
+**Groin** - The area of your body where the legs join the abdomen.
 
-**Conjunctivitis**
-Redness of the eyes.
+**Growth factors** - A naturally occurring protein that causes cells to grow and divide. Too much growth factor production by some cancer cells helps them grow quickly. Other growth factors help normal cells recover from side effects of chemotherapy.
 
-**Constipation**
-A condition of your bowel (large intestine). A difficulty with eliminating solid body wastes.
+**Hair loss** - This often occurs as a result of chemotherapy or from radiation therapy to the head. In most cases, the hair grows back after treatment ends.
 
-**Contagious**
-A disease capable of being spread from one person to another. Cancer is not contagious.
+**Harvest** - The removal of some of a person's bone marrow or peripheral blood stem cells to be used for a hematopoietic blood stem cell transplant (HCT)
 
-**Convulsion (seizure)**
-Contraction and spasm of your muscles over which you have no control.
+**Hematocrit** - The percentage of red blood cells.
 
-**Creatinine clearance**
-A test that compares the level of creatinine in urine with the creatinine level in the blood. Creatinine is a breakdown product of creatine, which is an important part of muscle. The test helps provide information on kidney function.
+**Hematologist (hem-uh-tahl-o-jist)** - A doctor who specializes in diseases of the blood and blood-forming tissues.
 
-**Culture**
-A procedure using a sample of blood, urine, throat secretions, or other biological material. It determines the specific germ (bacteria, fungus, or virus) responsible for an infection. Cultures also help determine which antibiotics might work best.
+**Hematology** - The study of blood and blood forming organs.
 
-**Cyanotic**
-A blue appearance of the skin, lips and fingernails. It is a result of low oxygen content in the blood.
+**Hematology/oncology (hem/onc)** - The branch of medical science that treats disorders of the blood, blood forming tissues and tumor cells. 
 
-**Cyst**
-A fluid filled sac of tissue. A cyst may be malignant or benign.
+**Hematoma (hem-uh-to-ma)** - A collection of blood outside a blood vessel caused by a leak or an injury; a bruise.
 
-**Cystitis**
-Inflammation of the urinary bladder.
+**Hematuria** - Blood in the urine. Urine may be pink, red, or brown (coke colored).
 
-**Cytogenetics**
-The process of analyzing the number and shape of cell chromosomes. The normal chromosome number is 46 chromosomes. Chromosomes may have changes in them when a patient develops cancer.
+**Hemoglobin** - The substance in red cells that carries oxygen.
 
-**Decongestant**
-A medicine that helps to shrink mucous membranes and decrease production of mucous.
+**Hemorrhage** - A term for loss of blood from injury to the blood vessels or by a lack of certain blood elements, such as platelets.
 
-**Dehydration**
-Excessive loss of fluids from your body.
+**Hemorrhagic cystitis** - Bleeding into the bladder which causes bloody urine. It can be caused by certain viruses as well as certain chemotherapy medications such as iphosphamide or cyclophosphamide.
 
-**Dermal**
-Pertaining to your skin.
+**Heparin** - A drug that decreases the clotting tendency of blood. It is often used to prevent clotting in central line catheters.
 
-**Dermatologist**
-A doctor who specializes in skin diseases and conditions.
+**Hepatitis** - An inflammation of your liver usually resulting in jaundice.
 
-**Diagnosis**
-Identifying a disease by its signs or symptoms, and by using imaging procedures and laboratory findings.
+**Hives** - Itching welts caused by an allergic reaction.
 
-**Diaphragm**
-The muscle located between the chest cavity and abdominal cavity.
+**Hl-a - human leukocyte antigens** - Proteins (antigens) that appear on white blood cells as well as cells of almost all other tissues. By typing for HL-A antigens, donors and recipients of white blood cells, platelets, and organs can be "matched". This helps to make sure the transfused and transplanted cells will survive.
 
-**Diarrhea**
-Dilute Frequent, loose, and watery stools.
+**Hodgkin's disease** - A type of cancer that affects the lymphatic system. It occurs in a lymph node. Named for the doctor who first identified it
 
-Distal Tothindownorweakenbymixingwithwaterorotherliquid.
-Away from the center; out towards the end.
+**Hospice** - A special kind of care for people in the final phase of illness.
 
-**Diuretic**
-Drugs that increase the elimination of water and salts (urine) from your body.
+**Hospitalist** - A doctor who specializes in the care of hospitalized patients.
 
+**Hydration** - A reference to the amount of water in the body. You may be dehydrated, well hydrated, or excessively hydrated (edematous)
 
-**DNA deoxyribonucleic acid (dee-ok-see-ri-bo-new-CLAY-ic)**
-DNA holds genetic information on cell growth, division, and function. When DNA is damaged, a cell may become cancerous.
+**Hyper** - Prefix meaning "more than" normal. 
 
-**Dysphagia**
-Difficulty swallowing.
+**Hyperalimentation (hy-per-al-eh-men-tay-shun)** - Being fed through an IV. It supplies all the essential nutrients, minerals and vitamins, when you are unable to eat on your own.
 
-**Dyspnea**
-Shortness of breath.
+**Hypercellular** - More than the normal number of cells.
 
-**Dystonic reaction**
-Tightening of your facial and neck muscle. It is a possible side effect of some antiemetic drugs.
+**Hyperglycemia** - Elevated blood sugar.
 
-**Echo cardiogram (ultrasound cardiography)**
-A method of obtaining a graphic picture of the internal structure, and position and motion of your heart. It is done by using sound waves directed through your chest.
+**Hypertension** - High blood pressure.
 
-**Edema**
-Build up of fluid within the tissues; swelling.
+**Hypo** - Prefix meaning "too little."
 
-**Electrocardiogram (EKG)**
-A method of evaluating your heart's rhythm and muscle function by measuring electrical impulses.
+**Hypocalcemia** - Too little calcium in the blood.
 
-**Electrolytes**
-A general term for the many minerals needed to provide the proper setting for the cells of your body. Common electrolytes include calcium, sodium, potassium, and chloride.
+**Hypocellular** - Less than the normal number of cells.
 
-**Engraftment**
-The growth of transplanted stem cells. It is defined as the first of three days when the neutrophil count is greater than 500 cell per microliter of blood,
+**Hypoglycemia** - Low blood sugar. 
 
-**Enzyme (en-zime)**
-Proteins that increase the rate of chemical reactions in living cells.
+**Hypokalemia (hypocalemia)** - Too little potassium in the blood.
 
-**Emesis**
-To vomit.
+**Hypotension** - Low blood pressure.
 
-**Epstein-Barr Virus (EBV)**
-The virus that causes infectious mononucleosis or "kissing disease." In patients whose immune system is not normal, it can cause an EBV associated lymphoma. Symptoms include fever and enlarged lymph nodes.
+**I-med (iv pumps)** - A machine that regulates the rate of blood transfusion, infusion of chemotherapy, or fluids for hydration.
 
-**Esophagus**
-A tube that carries swallowed food to the stomach.
+**Ileus** - Severe constipation.
 
-**Excision**
-Surgical removal of tissue.
+**Iliac crest** - The top edge of your hip bone. Marrow is usually taken from it for a diagnosis of blood cell diseases.
 
-**Expectorant**
-Medicine that makes mucous in your respiratory tract thinner and easier to cough out.
+**Immune reaction** - A reaction of normal tissues to substances recognized as "foreign," i.e. not self.
 
-**Exploratory**
-Surgery to investigate a situation that other tests have failed to explain.
+**Immune system** - The system that defends the body against infection from bacteria or viruses. The immune system may also help the body fight some cancers.
 
-         **Febrile**
-Fever, elevated body temperature.
+**Immunity** - The state of your body's defenses against an infection or possibly against a certain cancer.
 
-**Fellow**
-A physician who has completed residency. May be a fully trained pediatrician or internist and is doing further study to become a sub-specialist in a field of interest.
+**Immunizations** - Vaccines given to help your body resist disease.
 
-**Foot drop**
-Weakness in your foot muscles.
+**Immunosuppression (im-mune-no-suh-preh-shun)** - A state in which your immune system does not respond properly. This condition can be present at birth. It can also be caused by certain infections (such as human immunodeficiency virus or HIV), or by certain cancer therapies.
 
-**Fungi (singular fungus)**
-A group of micro organisms larger than either bacteria or viruses. They can cause a serious infection when your resistance (immune system) is lowered.
+**Immunotherapy (im-mune-no-ther-uh-pee)** - Treatments that promote or support your immune system's response to a disease such as cancer.
 
-**Gamma globulin**
-A protein component of blood plasma. It contains antibodies that are helpful against certain infections.
+**Implantable port (port-a-cath, infuse-as-port or mediport)** - A venous access device that implants a system for delivery of fluids, medicines, or blood directly into a vein. The entire device is surgically implanted under the skin and can be used for an extended period of time.
 
-**Gastroenterologist (gas-tro-en-ter-ol-o-jist)**
-A doctor who specializes in diseases of the digestive (gastrointestinal) tract.
+**Incubation period** - The period between exposure to a germ and the first sign of illness (i.e. chicken pox, from 8 to 21 days)
 
-**Gastrointestinal tract/GI Tract**
-The digestive tract. It is made up of the organs and structures that process and prepare food to be used for energy. For example, the stomach, small intestine and large intestine.
+**Indwelling catheter (broviac or hickman)** - A central line surgically placed (usually in the chest) and into a large vein in your neck. It is used to administer medications, IV fluids, and blood products. May also be used to draw blood for testing.
 
-**General anesthetic**
-A medication which puts you to sleep to prevent pain during an operation.
+**Infection** - Invasion of the body by disease producing organisms.
 
-**Gland** 
-See lymph node
+**Infectious disease** - A disease caused by germs; one that can be passed from one to another. Cancer is not an infectious disease.
 
-**Graft vs. Host Disease (GVH or GVHD)**
-A complication following transplantation which occurs when immune cells in donated marrow attack the recipient's organs as foreign tissue.
+**Infertility** - Not being able to produce children.
 
-**Granulocytes**
-White blood cells that help to protect you against bacterial infection; also called Groin "polys","segs",orneutrophils.
-The area of your body where the legs join the abdomen.
+**Inflammation** - The triggering of local body defenses. It results in the outpouring of defensive cells ("polys") from the circulation system into the tissues. Frequently associated with pain swelling.
 
-**Growth factors**
-A naturally occurring protein that causes cells to grow and divide. Too much growth factor production by some cancer cells helps them grow quickly. Other growth factors help normal cells recover from side effects of chemotherapy.
+**Informed consent** - A legal document that explains a course of treatment, the risks, benefits, and possible alternatives. The process by which patients agree to treatment. If you are under 18 years of age, your parents or legal guardian must also sign this form.
 
-**Harvest**
-The removal of some of a person's bone marrow or peripheral blood stem cells to be used for a hematopoietic blood stem cell transplant (HCT)
+**Infusions** - The introduction of a fluid into a vein.
 
-**Hematologist (hem-uh-tahl-o-jist)**
-A doctor who specializes in diseases of the blood and blood-forming tissues.
-               
-**Hematology**
-The study of blood and blood forming organs.
+**Injections** - Injections may be given intramuscularly (into a muscle), intravenously (into a vein), subcutaneously (just under the skin) or intrathecally (into the spinal column space.)
 
-**Hematology/oncology (HEM/ONC)**
-The branch of medical science that treats disorders of the blood, blood forming tissues and tumor cells. 
+**Inpatient** - A patient who is admitted to the hospital for treatment requiring an overnight stay.
 
-**Hematoma (hem-uh-to-ma)**
-A collection of blood outside a blood vessel caused by a leak or an injury; a bruise.
+**Intern** - A physician in the first year of training following graduation from medical school.
 
-**Hematuria**
-Blood in the urine. Urine may be pink, red, or brown (coke colored).
+**Intrathecal (it)** - Within the spinal column. IT medicine is one given directly into the spinal column.
 
-**Hemoglobin**
-The substance in red cells that carries oxygen.
+**Intravenous (iv)** - The administration of a drug or fluid directly into the vein. 
 
-**Hemorrhage**
-A term for loss of blood from injury to the blood vessels or by a lack of certain blood elements, such as platelets.
+**Intravenous pyelogram (ivp) (in-tra-ven-us pie-eh-lo-gram)** - A special kind of x-ray procedure where a dye is injected into the bloodstream. The dye travels to the kidneys, ureters and bladder and helps to clearly outline these organs on the x-rays. Referred to as IVP.
 
-**Hemorrhagic cystitis**
-Bleeding into the bladder which causes bloody urine. It can be caused by certain viruses as well as certain chemotherapy medications such as iphosphamide or cyclophosphamide.
+**Investigational drugs** - Drugs being studied by clinical investigation.
 
-**Hematocrit**
-The percentage of red blood cells.
+**Irradiated** - Treated with radiation.
 
-**Heparin**
-A drug that decreases the clotting tendency of blood. It is often used to prevent clotting in central line catheters.
+**Jaundice** - A yellow color of the skin and white portion of the eyes. It is from a build up of billirubin, a breakdown product of hemoglobin. It is a sign of liver disease or a blockage of the major bile ducts.
 
-**Hepatitis**
-An inflammation of your liver usually resulting in jaundice.
+**Kidney** - The main organ involved in the filtering certain bodily wastes. Also maintains the proper mineral and water balance.
 
-**Hives**
-Itching welts caused by an allergic reaction.
+**Laxative** - A substance that encourages bowel movements.
 
-**HL-A - human leukocyte antigens**
-Proteins (antigens) that appear on white blood cells as well as cells of almost all other tissues. By typing for HL-A antigens, donors and recipients of white blood cells, platelets, and organs can be "matched". This helps to make sure the transfused and transplanted cells will survive.
+**Lesion (lee-zhun)** - A change in body tissue; sometimes used as another word for tumor.
 
-**Hodgkin's disease**
-A type of cancer that affects the lymphatic system. It occurs in a lymph node. Named for the doctor who first identified it
+**Leukapheresis** - The process of filtering white cells, leukocytes, or "polys" from the blood of the patient or a healthy donor. These cells may be given to you if you have a severe infection and few "polys" of your own.
 
-**Hospice**
-A special kind of care for people in the final phase of illness.
+**Leukemia (loo-key-me-uh)** - Cancer of the blood or blood-forming organs. If you have leukemia, you may have a noticeable increase in white blood cells (leukocytes). 
 
-**Hydration**
-A reference to the amount of water in the body. You may be dehydrated, well hydrated, or excessively hydrated (edematous)
+**Leukocytosis (loo-ko-sigh-toe-sis)** - Having more than the usual number of white blood cells.
 
-**Hyper**
-Prefix meaning "more than" normal. 
+**Leukopenia** - Decrease in the white blood cell count. 
 
-**Hyperalimentation (hy-per-al-eh-men-TAY-shun)**
-Being fed through an IV. It supplies all the essential nutrients, minerals and vitamins, when you are unable to eat on your own.
+**Liver** - An organ in your body that performs many complex functions. These include processes related to digestion, production of certain proteins, and elimination of many of the body's waste products.
 
+**Local anesthetic** - A medication given by injection into a part of your body to prevent pain in the area without putting you to sleep.
 
-**Hypercellular**
-More than the normal number of cells.
+**Long term survivor** - If you are five years from the last sign of disease and at least two years off therapy.
 
-**Hyperglycemia**
-Elevated blood sugar.
+**Lubricant** - An oily or slippery substance.
 
-**Hypertension**
-High blood pressure.
+**Lumbar puncture (lp)/spinal tap** - A procedure in which a thin needle is placed in your spinal canal. It is done to remove a small amount of spinal fluid or to give medicine into the central nervous system.
 
-**Hypo**
-Prefix meaning "too little."
+**Lumen** - A tube that forms part of a catheter. Many catheters exit the body and separate into several lumens.
 
-**Hypocalcemia**
-Too little calcium in the blood.
+**Lymph (limf)** - Clear fluid that flows through the lymphatic vessels and contains cells known as lymphocytes. These cells are important in fighting infections and may also have a role in fighting cancer.
 
-**Hypocellular**
-Less than the normal number of cells.
+**Lymph nodes/glands** - A part of your body important in the defense again infections; commonly known as glands.
 
-**Hypoglycemia**
-Low blood sugar. 
+**Lymphatic system** - The tissues and organs that make and store lymphocytes (cells that fight infection) and the channels that carry the lymph fluid. It includes the lymph nodes, spleen, thymus, and bone marrow. The lymphatic system is an important part of your body's immune system. Invasive cancers sometimes enter your lymphatic vessels (channels) and spread to your lymph nodes.
 
-**Hypokalemia (Hypocalemia)**
-Too little potassium in the blood.
+**Lymphocytes** - A type of white blood cell that helps the body fight infection. There are three main types of lymphocytes: (1) T cells help fight infections such as viruses and fungi. (2) B cells make proteins called antibodies that help fight infection. For example, if you receive a vaccination against tetanus, you make a protein (antibody) against tetanus. (3) Natural killer cells help fight viruses and other germs. They may be given sometimes to help fight cancer.
 
-**Hypotension**
-Low blood pressure.
+**Lymphocytosis (limf-o-sigh-toe-sis)** - Having an excess of lymphocytes.
 
-**Iliac crest**
-The top edge of your hip bone. Marrow is usually taken from it for a diagnosis of blood cell diseases.
+**Lymphoma (lim-foam-uh)** - Cancer of the lymphatic system, a network of thin vessels and nodes throughout the body. Lymphoma involves a type of white blood cells called lymphocytes. The two main types of lymphoma are Hodgkin's disease and non-Hodgkin's lymphoma. The treatment methods for these two types of lymphomas are very different.
 
-**Ileus**
-Severe constipation.
+**Magnetic resonance imaging** - A method of taking pictures of the inside of the body. Instead of using x-rays, MRI uses a powerful magnet and transmits radio waves through the body. The images appear on a computer screen as well as on film. Like x-rays, the procedure is physically painless. However, you may find it uncomfortable to be inside the MRI machine.
 
-**I-Med (IV pumps)**
-A machine that regulates the rate of blood transfusion, infusion of chemotherapy, or fluids for hydration.
+**Malignant tumor (muh-lig-nant)** - A mass of cancer cells that may invade surrounding tissues or spread to distant areas of your body.
 
-**Immune system**
-The system that defends the body against infection from bacteria or viruses. The immune system may also help the body fight some cancers.
+**Melanoma (mel-uh-no-muh)** - A cancerous (malignant) tumor that begins in the cells that produce the skin coloring (melanocytes). Melanoma is almost always curable in its early stages. However, it is likely to spread, and once it has spread to other parts of the body the chances for a cure are much less.
 
-**Immunity**
-The state of your body's defenses against an infection or possibly against a certain cancer.
+**Meningeal or central nervous system leukemia** - When the meninges, the membranes that cover the brain, and the spinal cord or the brain, become invaded by leukemic cells.
 
-**Immune reaction**
-A reaction of normal tissues to substances recognized as "foreign," i.e. not self.
+**Meningitis** - An infection of the membranes and fluid around the brain and spinal cord.
 
-**Immunizations**
-Vaccines given to help your body resist disease.
+**Metabolism** - A general term for the many chemical processes needed for the body to live. 
 
-**Immunosuppression (im-mune-no-suh-PREH-shun)**
-A state in which your immune system does not respond properly. This condition can be present at birth. It can also be caused by certain infections (such as human immunodeficiency virus or HIV), or by certain cancer therapies.
+**Metastasis (meh-tas-teh-sis)** - The spread of cancer cells to distant areas of the body by way of the lymph system or bloodstream.
 
-**Immunotherapy (im-mune-no-THER-uh-pee)**
-Treatments that promote or support your immune system's response to a disease such as cancer.
+**Microliter** - One millionth of a liter.
 
+**Microorganism** - A general name for any small living organism, such as bacteria, viruses, and fungi.
 
-**Implantable port (Port-a-Cath, Infuse-as-port or Mediport)**
-A venous access device that implants a system for delivery of fluids, medicines, or blood directly into a vein. The entire device is surgically implanted under the skin and can be used for an extended period of time.
+**Mobilization** - Taking medication to stimulate the growth of stem cells and move them into the bloodstream.
 
-**Incubation period**
-The period between exposure to a germ and the first sign of illness (i.e. chicken pox, from 8 to 21 days)
+**Monitor (cardiac)** - A machine that continually records your heart activity.
 
-**Indwelling catheter (Broviac or Hickman)**
-A central line surgically placed (usually in the chest) and into a large vein in your neck. It is used to administer medications, IV fluids, and blood products. May also be used to draw blood for testing.
+**Monoclonal antibodies** - Antibodies made in the laboratory to target substances called antigens. Monoclonal antibodies can be attached to chemotherapy drugs or radioactive substances. They are being studied to see if they can seek out antigens unique to cancer cells and deliver treatment directly to the cancer. This would kill the cancer cells without harming healthy tissue. Monoclonal antibodies are also used in other ways, for example, to help find and classify cancer cells.
 
-**Infection**
-Invasion of the body by disease producing organisms.
+**Monocyte** - A type of young white blood cell.
 
-**Infectious disease**
-A disease caused by germs; one that can be passed from one to another. Cancer is not an infectious disease.
+**Mozobil<sup>&reg;</sup>** - A brand of plerixafor. Plerixafor is a medication used together with granulocyte colony-stimulating factor (GCSF) to help move stem cells them from the bone marrow to the blood. 
 
-**Inflammation**
-The triggering of local body defenses. It results in the outpouring of defensive cells ("polys") from the circulation system into the tissues. Frequently associated with pain swelling.
+**Mri** - See magnetic resonance imaging
 
-**Informed consent**
-A legal document that explains a course of treatment, the risks, benefits, and possible alternatives. The process by which patients agree to treatment. If you are under 18 years of age, your parents or legal guardian must also sign this form.
+**Mucositis** - Inflammation of the mucous membrane (inside the mouth). It causes painful mouth sores.
 
-**Infusions**
-The introduction of a fluid into a vein.
+**Mucous membrane** - A lining of the internal surface of the body that produces mucous.
 
-**Injections**
-Injections may be given intramuscularly (into a muscle), intravenously (into a vein), subcutaneously (just under the skin) or intrathecally (into the spinal column space.)
+**Myeloma** - Cancer of blood plasma cells, a type of white blood cell.
 
-**Intern**
-A physician in the first year of training following graduation from medical school.
+**Narcotic** - A drug that relieves pain and may make you sleepy.
 
-**Intrathecal (IT)**
-Within the spinal column. IT medicine is one given directly into the spinal column.
+**Neoplasm (nee-o-plas-um)** - A tumor that starts from a single altered cell. A neoplasm may be benign or malignant. Cancer is a malignant neoplasm.
 
-**Intravenous (IV)**
-The administration of a drug or fluid directly into the vein. 
+**Nephrologist (nef-rol-o-jist)** - A doctor who specializes in diseases of the kidneys.
 
-**Intravenous pyelogram (IVP) (in-tra-ven-us pie-eh-lo-gram)**
-A special kind of x-ray procedure where a dye is injected into the bloodstream. The dye travels to the kidneys, ureters and bladder and helps to clearly outline these organs on the x-rays. Referred to as IVP.
+**Neupogen<sup>&reg;</sup>** - A brand of granulocyte colony-stimulating factor (GCSF)&mdash;a drug that stimulates the production of neutrophils (a type of white blood cell). Also called filgrastim.
 
-**Investigational drugs**
-Drugs being studied by clinical investigation.
+**Neurology** - The branch of medical science that deals with the nervous system. 
 
-**Jaundice**
-A yellow color of the skin and white portion of the eyes. It is from a build up of billirubin, a breakdown product of hemoglobin. It is a sign of liver disease or a blockage of the major bile ducts.
+**Neurosurgeon (nur-o-sur-jun)** - A doctor specializing in operations to treat nervous system disorders.
 
-**Kidney**
-The main organ involved in the filtering certain bodily wastes. Also maintains the proper mineral and water balance.
+**Neutropenia** - A condition in which there is a lower than normal number of neutrophils (a type of white blood cell). While you are neutropenic, you will need to take precautions to prevent infection.
 
-**Lesion (lee-zhun)**
-A change in body tissue; sometimes used as another word for tumor.
+**Neutrophils (new-trow-fils)** - White blood cells that fight bacterial infection.
 
-**Leukopenia**
-Decrease in the white blood cell count. Leukemia (loo-key-me-uh)
-Cancer of the blood or blood-forming organs. If you have leukemia, you may have a noticeable increase in white blood cells (leukocytes). 
+**Non-hodgkin's lymphoma** - Cancer of the lymphatic system. The difference between non-Hodgkin's lymphoma and Hodgkin's lymphoma is a type of cell called the Reed-Sternberg cell. This cell is only present in Hodgkin's lymphoma. The treatment methods for Hodgkin's and non-Hodgkin's lymphomas are very different.
 
-**Leukocytosis (loo-ko-sigh-toe-sis)**
-Having more than the usual number of white blood cells.
+**Npo** - Abbreviation for "nothing by mouth."
 
-**Leukapheresis**
-The process of filtering white cells, leukocytes, or "polys" from the blood of the patient or a healthy donor. These cells may be given to you if you have a severe infection and few "polys" of your own.
+**Nuclear medicine scan** - A method for localizing diseases of internal organs such as the brain, liver, or bone. Small amounts of radioactive substances (isotope) are injected into the bloodstream. The isotope collects in certain organs. A special camera is used to create an image of the organ and detect areas of disease.
 
-**Liver**
-                  An organ in your body that performs many complex functions. These include processes related to digestion, production of certain proteins, and elimination of many of the body's waste products.
+**Nurse practitioner** - A registered nurse with a master's or doctoral degree. Licensed nurse practitioners diagnose and manage illness and disease. They work closely with your doctor. They can prescribe medicine.
 
-**Local anesthetic**
-A medication given by injection into a part of your body to prevent pain in the area without putting you to sleep.
+**Oncologist (on-call-o-jist)** - A doctor with special training in the diagnosis and treatment of cancer. 
 
-**Long term survivor**
-If you are five years from the last sign of disease and at least two years off therapy.
+**Oncology (on-call-o-jee)** - The branch of medicine concerned with the diagnosis and treatment of cancer.
 
-**Lumbar puncture (LP)/spinal tap**
-A procedure in which a thin needle is placed in your spinal canal. It is done to remove a small amount of spinal fluid or to give medicine into the central nervous system.
+**Ophthalmologist (of-thuh-mal-o-jist)** - A medical doctor who specializes in diseases of the eye.
 
-**Lymph (limf)**
-Clear fluid that flows through the lymphatic vessels and contains cells known as lymphocytes. These cells are important in fighting infections and may also have a role in fighting cancer.
+**Optical** - Pertaining to the sense of sight or to the eyes.
 
-**Lymph nodes/glands**
-A part of your body important in the defense again infections; commonly known as glands.
+**Orally** - By mouth; e.g., a medication to be taken orally is one that is swallowed.
 
-**Lymphatic system**
-The tissues and organs that make and store lymphocytes (cells that fight infection) and the channels that carry the lymph fluid. It includes the lymph nodes, spleen, thymus, and bone marrow. The lymphatic system is an important part of your body's immune system. Invasive cancers sometimes enter your lymphatic vessels (channels) and spread to your lymph nodes.
+**Organ** - Several tissues grouped together to perform one or more functions in the body.
 
-**Lymphocytes**
-A type of white blood cell that helps the body fight infection. There are three main types of lymphocytes:
-* T cells help fight infections such as viruses and fungi.
-* B cells make proteins called antibodies that help fight infection. For example, if you receive a vaccination against tetanus, you make a protein (antibody) against tetanus. This protects you from infection with the bacteria that causes tetanus.
-* Natural killer cells help fight viruses and other germs. They may be given sometimes to help fight cancer. 
+**Organism** - Any living thing.
 
-**Lymphocytosis (limf-o-sigh-toe-sis)**
-Having an excess of lymphocytes.
+**Orthopedic surgeon (or-tho-pe-dik)** - A surgeon who specializes in diseases and injuries of the bones.
 
-**Lymphoma (lim-foam-uh)**
-Cancer of the lymphatic system, a network of thin vessels and nodes throughout the body. Lymphoma involves a type of white blood cells called lymphocytes. The two main types of lymphoma are Hodgkin's disease and non-Hodgkin's lymphoma. The treatment methods for these two types of lymphomas are very different.
+**Osteomyelitis** - Infection of bone.
 
-**Magnetic resonance imaging**
-A method of taking pictures of the inside of the body. Instead of using x-rays, MRI uses a powerful magnet and transmits radio waves through the body. The images appear on a computer screen as well as on film. Like x-rays, the procedure is physically painless. However, you may find it uncomfortable to be inside the MRI machine.
+**Osteoporosis** - Brittle bones due to the loss of calcium.
 
-**Malignant tumor (muh-lig-nant)**
-A mass of cancer cells that may invade surrounding tissues or spread to distant areas of your body.
+**Otic** - Otitis Relating to the ear.
 
-**Melanoma (mel-uh-no-muh)**
-A cancerous (malignant) tumor that begins in the cells that produce the skin coloring (melanocytes). Melanoma is almost always curable in its early stages. However, it is likely to spread, and once it has spread to other parts of the body the chances for a cure are much less.
+**Otitis** - Ear infection.
 
-**Meningeal or central nervous system leukemia**
-When the meninges, the membranes that cover the brain, and the spinal cord or the brain, become invaded by leukemic cells.
+**Outpatient** - A patient who visits a healthcare facility for diagnosis or treatment without spending the night. Sometimes called a day patient.
 
-**Meningitis**
-An infection of the membranes and fluid around the brain and spinal cord.
+**Packed red blood cell transfusion** - A transfusion of red blood cells without the serum.
 
+**Palate** - The roof of the mouth. 
 
-**Metabolism**
-A general term for the many chemical processes needed for the body to live. 
+**Palliative treatment (pal-e-uh-tive)** - Treatment that relieves symptoms, such as pain, but is not expected to cure the disease. The main purpose is to improve your quality of life.
 
-**Metastasis (meh-tas-teh-sis)**
-The spread of cancer cells to distant areas of the body by way of the lymph system or bloodstream.
+**Palpable** - Able to be touched or felt, such as a palpable tumor.
 
-**Microorganism**
-A general name for any small living organism, such as bacteria, viruses, and fungi.
+**Pancreas** - A large gland in the upper part of your abdomen. It secretes enzymes (chemicals) into your intestines for the digestion of food. It makes insulin which it secretes into your blood stream.
 
-**Monitor (cardiac)**
-A machine that continually records your heart activity.
+**Pancreatitis** - Inflammation (swelling) of your pancreas.
 
-**Monoclonal antibodies**
-Antibodies made in the laboratory to target substances called antigens. Monoclonal antibodies can be attached to chemotherapy drugs or radioactive substances. They are being studied to see if they can seek out antigens unique to cancer cells and deliver treatment directly to the cancer. This would kill the cancer cells without harming healthy tissue. Monoclonal antibodies are also used in other ways, for example, to help find and classify cancer cells.
+**Pancytopenia** - The decrease of all blood cells (red, white, and platelets).
 
-**Monocyte**
-A type of young white blood cell.
+**Parotid gland** - Salivary glands located at the side of your face in front of each ear. These glands become large if you have mumps. Total body irradiation may cause painful swelling of these glands, which is temporary.
 
-**MRI**
-See magnetic resonance imaging
+**Pathology** - The branch of medicine involved in making diagnoses from the examination of tissues.
 
-**Mucositis**
-Inflammation of the mucous membrane (inside the mouth). It causes painful mouth sores.
+**Pedicure** - A beauty treatment where toenails are trimmed/shaped and sometimes polished or painted. 
 
-**Mucous membrane**
-A lining of the internal surface of the body that produces mucous.
+**Peripheral** - Near the surface; distant. Peripheral nerves are those in your arms and legs; peripheral veins are those generally used for IV's.
 
-**Narcotic**
-A drug that relieves pain and may make you sleepy.
+**PET scan** - A scan used to look at the organs and the way they function in the body. A small amount of radioactive sugar is injected into a vein, and a scanner is used to make detailed, computerized pictures of areas inside the body where the glucose is used. Because cancer cells often use more glucose than normal cells, the pictures can be used to find cancer cells in the body. Also called a positron emission tomography scan.
 
-**Neoplasm (nee-o-plas-um)**
-A tumor that starts from a single altered cell. A neoplasm may be benign or malignant. Cancer is a malignant neoplasm.
+**Petechiae** - Tiny localized hemorrhages from small blood vessels just below the surface of the skin. They are often the result of a low platelet count. They will clear up when your platelet count rises.
 
-**Nephrologist (nef-rol-o-jist)**
-A doctor who specializes in diseases of the kidneys.
+**Ph** - A symbol means acidity or alkalinity. A solution of pH 7 is neutral. Below 7 is acidic and above 7 is alkaline. The urine is usually slightly acidic with a pH of 5.3
 
-**Neurology**
-The branch of medical science that deals with the nervous system. 
+**Phantom limb pain** - A pain or sensation that you imagine in a limb that has been amputated.
 
-**Neurosurgeon (nur-o-sur-jun)**
-A doctor specializing in operations to treat nervous system disorders.
+**Pharmacology** - The study of drugs. Specifically, their absorption, distribution and excretion throughout the body.
 
-**Neutropenia**
-Less than the normal number of neutrophils (leukocytes) or "polys" in the circulating blood. 
+**Pharyngitis** - Inflammation of the throat; sore throat.
 
-**Neutrophils (new-trow-fils)**
-White blood cells that fight bacterial infection.
+**Pharynx** - Throat
 
+**Pheresis/apheresis** - A special method of collecting blood when only one part of the blood is needed.
 
-**Non-Hodgkin's lymphoma**
-Cancer of the lymphatic system. The difference between non-Hodgkin's lymphoma and Hodgkin's lymphoma is a type of cell called the Reed-Sternberg cell. This cell is only present in Hodgkin's lymphoma. The treatment methods for Hodgkin's and non-Hodgkin's lymphomas are very different.
+**Phlebitis** - An inflammation of a vein. Signs include pain, swelling, and tenderness in an area. If a superficial vein is involved, the phlebitis can be felt as a cord-like thickening along the vein.
 
-**NPO**
-Abbreviation for "nothing by mouth."
+**Plasma** - The liquid portion of the blood in which blood cells are suspended. It contains many proteins and minerals necessary for normal body functioning.
 
-**Nuclear medicine scan**
-A method for localizing diseases of internal organs such as the brain, liver, or bone. Small amounts of radioactive substances (isotope) are injected into the bloodstream. The isotope collects in certain organs. A special camera is used to create an image of the organ and detect areas of disease.
+**Platelet** - A part of the blood that helps repair (plug) holes in blood vessels after an injury. If you have low platelets you are at risk to bleed. Chemotherapy can cause a drop in the platelet count. This is called thrombocytopenia .
 
-**Nurse practitioner**
-A registered nurse with a master's or doctoral degree. Licensed nurse practitioners diagnose and manage illness and disease. They work closely with your doctor. They can prescribe medicine.
+**Plerixafor** - A medication used together with granulocyte colony-stimulating factor (GCSF) to move stem cells from the bone marrow to the blood. 
 
-**Oncologist (on-call-o-jist)**
-A doctor with special training in the diagnosis and treatment of cancer. 
+**Pleural effusion** - The presence of fluid in the space between the two layers of the lung lining.
 
-**Oncology (on-call-o-jee)**
-The branch of medicine concerned with the diagnosis and treatment of cancer.
+**Pneumonia** - Infection of the lung.
 
-**Ophthalmologist (of-thuh-mal-o-jist)**
-A medical doctor who specializes in diseases of the eye.
+**Polys - (neutrophils or granulocytes)** - The group of white cells that helps to resist bacterial infection. A "poly" count of less than 1,000 means less than normal protection and risk of infection.
 
-**Optical**
-Pertaining to the sense of sight or to the eyes.
+**Post-op** - After surgery.
 
-**Orthopedic surgeon (or-tho-pe-dik)**
-Organ A surgeon who specializes in diseases and injuries of the bones.
+**Potassium** - An element found normally in your blood; important in heart and muscle function.
 
-Several tissues grouped together to perform one or more functions in the body.
+**Pre-op** - Before surgery. 
 
-**Organism**
-Any living thing.
+**Prognosis (prog-no-sis)** - A prediction of the course of disease; the outlook for a cure. A prognosis is based on the average result in many cases. It may not accurately predict your outcome, since the clinical course can vary from patient to patient.
 
-**Osteomyelitis**
-Infection of bone.
+**Prophylactic** - Treatment designed to prevent a disease or a complication that has not yet become clear. 
 
-**Osteoporosis**
-Brittle bones due to the loss of calcium.
+**Prosthesis (pros-thee-sis)** - An artificial form to replace a part of your body. 
 
-**Otic**
-Otitis Relating to the ear.
+**Protocol (pro-teh-call)** - A formal outline or plan, such as a description of what treatments you will receive and exactly when each should be given.
 
-**Otitis**
-Ear infection.
+**Pulmonary** - Concerns or affects your lungs.
 
-**Packed red blood cell transfusion**
-A transfusion of red blood cells without the serum.
+**Pulmonary fibrosis** - Thickened tissue in your lungs causing cough, difficulty breathing, and X-ray changes.
 
-**Palate**
-The roof of the mouth. 
+**Pulmonary function test** - Special tests that are designed to evaluate the function of your lungs.
 
-**Palliative treatment (pal-e-uh-tive)**
-Treatment that relieves symptoms, such as pain, but is not expected to cure the disease. The main purpose is to improve your quality of life.
+**Radiation oncologist** - A doctor who specializes in using radiation to treat cancer.
 
-**Palpable**
-Able to be touched or felt, such as a palpable tumor.
+**Radiation recall** - Inflammation (swelling) of exposed skin and organs in areas of radiation therapy.
 
-**Pancreas**
-A large gland in the upper part of your abdomen. It secretes enzymes (chemicals) into your intestines for the digestion of food. It makes insulin which it secretes into your blood stream.
+**Radiation therapy** - Treatment with high-energy x-rays to kill cancer cells or shrink tumors. The radiation may come from outside of the body (external radiation). Or it can come from radioactive materials placed directly in the tumor (internal or implant radiation). Radiation therapy may be used to reduce the size of a cancer before surgery. It can be used to destroy any remaining cancer cells after surgery. Or, in some cases, it may be the main treatment.
 
-**Pancreatitis**
-Inflammation (swelling) of your pancreas.
+**Rectal** - By or having to do with the rectum. The rectum is the last several inches of the large intestine closest to the anus.
 
-**Pancytopenia**
-The decrease of all blood cells (red, white, and platelets).
+**Rectum** - The last part of your large intestine.
 
-**Parotid gland**
-Salivary glands located at the side of your face in front of each ear. These glands become large if you have mumps. Total body irradiation may cause painful swelling of these glands, which is temporary.
+**Red blood cell** - A cell that carries oxygen to all parts of the body. Also called erythrocyte and RBC.
 
-**Pathology**
-The branch of medicine involved in making diagnoses from the examination of
-tissues.
+**Red blood cells** - Blood cells that carry oxygen to the cells throughout your body.
 
-**Peripheral**
-Near the surface; distant. Peripheral nerves are those in your arms and legs; peripheral veins are those generally used for IV's.
+**Regression** - The reduction of cancer, usually as the result of therapy. It is shown by decreased size of the tumor or tumors.
 
-**Petechiae**
-Tiny localized hemorrhages from small blood vessels just below the surface of the skin. They are often the result of a low platelet count. They will clear up when your platelet count rises.
+**Reinduction** - To start over, i.e. a new treatment or protocol
 
-**pH**
-A symbol means acidity or alkalinity. A solution of pH 7 is neutral. Below 7 is acidic and above 7 is alkaline. The urine is usually slightly acidic with a pH of 5.3
+**Rejection** - The body's inability to accept transplanted stem cells.
 
-**Phantom limb pain**
-A pain or sensation that you imagine in a limb that has been amputated.
+**Relapse** - Return of cancer after a disease-free period.
 
-**Pharmacology**
-The study of drugs. Specifically, their absorption, distribution and excretion throughout the body.
+**Remission** - When the signs and symptoms of cancer fully or partly disappear. The period during which a disease is under control. A remission may not be a cure.
 
-**Pharyngitis**
-Inflammation of the throat; sore throat.
+**Renal** - Pertaining to your kidneys.
 
-**Pharynx**
-Throat
+**Resident** - A physician in the second or third year of training after completing medical school
 
-**Pheresis/apheresis**
-A special method of collecting blood when only one part of the blood is needed.
+**Resistance** - Your ability to fight off and avoid disease.
 
-**Phlebitis**
-An inflammation of a vein. Signs include pain, swelling, and tenderness in an area. If a superficial vein is involved, the phlebitis can be felt as a cord-like thickening along the vein.
+**Respiration** - The process of breathing.
 
-**Plasma**
-The liquid portion of the blood in which blood cells are suspended. It contains many proteins and minerals necessary for normal body functioning.
+**Respiratory tract** - All parts of your body used for breathing.
 
-**Platelet**
-A part of the blood that helps repair (plug) holes in blood vessels after an injury. If you have low platelets you are at risk to bleed. Chemotherapy can cause a drop in the platelet count. This is called thrombocytopenia .
+**Scan** - A study using either x-rays or radioactive isotopes to create images of internal body organs.
 
-**Pleural effusion**
-The presence of fluid in the space between the two layers of the lung lining.
+**Sedative** - A drug given to make you drowsy or sleepy.
 
-**Pneumonia**
-Infection of the lung.
+**Sedimentation rate (sed)** - The change in speed of the red blood cell count expressed in millimeters per hour. A SED rate that is over 25 or increasing may indicate infection.
 
-**Polys - (neutrophils or granulocytes)**
-The group of white cells that helps to resist bacterial infection. A "poly" count of less than 1,000 means less than normal protection and risk of infection.
+**Segmented neutrophil** - A type of white blood cell needed to defend against infection.
 
-**Post-op**
-After surgery.
+**Septicemia/sepsis** - A very serious bacterial or fungal blood infection. It usually spreads from another site of infection such as skin, bowel, or urinary tract. It can cause high fever, shaking chills, and heavy sweating. It is more likely to occur in patients with very low white blood cells.
 
-**Pre-op**
-Before surgery. 
+**Shingles - herpes zoster** - A viral infection of the nerve endings in the skin. It can cause blisters, crusts and severe pain along the nerve. It is the same virus that causes chicken pox. Children who have not had chicken pox may get it from contact with someone with shingles.
 
-**Potassium**
-An element found normally in your blood; important in heart and muscle function.
+**Shock** - A serious condition caused by a lack of blood circulating in your blood stream. Signs of shock include a drop in blood pressure, rapid weak pulse, pale moist clammy skin, being very thirsty and a state of anxiety.
 
-**Prognosis (prog-no-sis)**
-A prediction of the course of disease; the outlook for a cure. A prognosis is based on the average result in many cases. It may not accurately predict your outcome, since the clinical course can vary from patient to patient.
+**Simulation** - When measurements and x-rays are taken and actual radiation treatment fields are determined.
 
-**Prophylactic**
-Treatment designed to prevent a disease or a complication that has not yet become clear. 
+**Sinuses** - Hollow spaces in the bones of your head.
 
-**Prosthesis (pros-thee-sis)**
-An artificial form to replace a part of your body. 
+**Spinal cord** - The cord or nerve tissue that runs through the center of your spinal column. It connects your brain to other parts of your body.
 
-**Protocol (pro-teh-call)**
-A formal outline or plan, such as a description of what treatments you will receive and exactly when each should be given.
+**Spinal tap/lumbar puncture** - A procedure in which a thin needle is placed in your spinal canal to remove a small amount of spinal fluid. It is also used to give medicine into the central nervous system through the spinal fluid. If you have leukemia, this fluid is tested for the possible presence of "blasts" cells as well as other elements.
 
-**Pulmonary**
-Concerns or affects your lungs.
+**Spleen** - An organ that filters the blood. It removes debris, and old or dying cells from the circulation. It also removes bacteria from the blood during the early stages of severe infections. It often becomes enlarged in leukemia and certain other diseases.
 
-**Pulmonary function test**
-Special tests that are designed to evaluate the function of your lungs.
+**Stem cells** - Primitive blood-forming cells in the bone marrow which give rise to the white blood cells, red blood cells and platelets. They are like the stem of a plant that gives rise to the flowers and leaves (red cells, white cells, and platelets).
 
-**Pulmonary fibrosis**
-Thickened tissue in your lungs causing cough, difficulty breathing, and X-ray changes.
+**Sternum** - The long, flat bone that forms the center front of the chest wall. The breastbone is attached to the collarbone and the first 7 ribs. Also called breastbone.
 
-**Radiation oncologist**
-A doctor who specializes in using radiation to treat cancer.
+**Stomatitis** - Mouth sores; can be a side effect of some kinds of chemotherapy.
 
-**Radiation therapy**
-         Treatment with high-energy x-rays to kill cancer cells or shrink tumors. The radiation may come from outside of the body (external radiation). Or it can come from radioactive materials placed directly in the tumor (internal or implant radiation). Radiation therapy may be used to reduce the size of a cancer before surgery. It can be used to destroy any remaining cancer cells after surgery. Or, in some cases, it may be the main treatment.
+**Suppository (rectal or vaginal)** - A medicine prepared for insertion into the anus or vagina, where it is generally absorbed into the bloodstream.
 
-**Radiation recall**
-Inflammation (swelling) of exposed skin and organs in areas of radiation therapy.
+**Susceptible** - Tendency to develop a disease if exposed to it; not having immunity.
 
-**Rectum**
-The last part of your large intestine.
+**Symptom** - A change or sign in the body or its function that indicates disease or infection.
 
-**Red blood cells**
-Blood cells that carry oxygen to the cells throughout your body.
+**T cell depleted blood stem cell transplant** - A type of transplant in which from which most of the T cells are removed. The T cells are removed in the laboratory after the donor stem cells are obtained. This process reduces the likelihood of Graft vs. Host Disease that is caused by the donor's T cells.
 
-**Regression**
-The reduction of cancer, usually as the result of therapy. It is shown by decreased size of the tumor or tumors.
+**T cell or t lymphocyte** - A type of white blood cell or lymphocyte that plays a major ole in the body's defense against viral and fungal infections.
 
-**Reinduction**
-To start over, i.e. a new treatment or protocol
+**Tbi (total body irradiation)** - High-dose radiation treatments given to the whole body.
 
-**Rejection**
-The body's inability to accept transplanted stem cells.
+**Temperature spike** - When your temperature suddenly goes up.
 
-**Relapse**
-Return of cancer after a disease-free period.
+**Testicular mass** - A swelling of your testis or testicle, the male reproductive gland.
 
-**Remission**
-When the signs and symptoms of cancer fully or partly disappear. The period during which a disease is under control. A remission may not be a cure.
+**Thrombocytopenia (throm-bo-sigh-toe-peen-e-uh)** - A decrease in the number of platelets in your blood.
 
-**Renal**
-Pertaining to your kidneys.
+**Thrombophlebitis** - An inflammation of a vein.
 
-**Resident**
-A physician in the second or third year of training after completing medical school
+**Tinnitus** - Ringing in your ears.
 
-**Resistance**
-Your ability to fight off and avoid disease.
+**Tissue** - A collection of cells similar in structure and function.
 
-**Respiration**
-The process of breathing.
+**Tissue typing (hla, human leukocyte antigen)** - A special test of white blood cells to check the genetic match between a donor and the patient.
 
-**Respiratory tract**
-All parts of your body used for breathing.
+**Tli (total lymphoid irradiation)** - Radiation treatments given to the parts of the body where most of the lymphatic system is located.
 
+**Toxicity** - A word used to describe the side effects caused by a drug.
 
-**Scan**
-A study using either x-rays or radioactive isotopes to create images of internal body organs.
+**Toxins** - Poisonous substances; may be produced by germs.
 
-**Sedative**
-A drug given to make you drowsy or sleepy.
+**Trachea** - The windpipe.
 
-**Sedimentation rate (SED)**
-The change in speed of the red blood cell count expressed in millimeters per hour. A SED rate that is over 25 or increasing may indicate infection.
+**Transfusion** - A procedure in which a person is given an infusion of whole blood or parts of blood. The blood may be donated by another person, or it may have been taken from the patient earlier and stored until needed. Also called blood transfusion.
 
-**Segmented neutrophil**
-A type of white blood cell needed to defend against infection.
+**Transfusion reaction** - An allergic response to blood products. You may experience hives, chills, or headaches.
 
-**Septicemia/sepsis**
-A very serious bacterial or fungal blood infection. It usually spreads from another site of infection such as skin, bowel, or urinary tract. It can cause high fever, shaking chills, and heavy sweating. It is more likely to occur in patients with very low white blood cells.
+**Tumor** - An abnormal lump or mass of tissue. Tumors can be benign (not cancerous) or malignant (cancerous).
 
-**Shingles - herpes zoster**
-A viral infection of the nerve endings in the skin. It can cause blisters, crusts and severe pain along the nerve. It is the same virus that causes chicken pox. Children who have not had chicken pox may get it from contact with someone with shingles.
+**Ulcer** - A wearing away of normal tissues. It can be from corrosive chemicals (e.g. acids), infection, impaired circulation, or cancerous involvement. It can cause bleeding.
 
-**Shock**
-A serious condition caused by a lack of blood circulating in your blood stream. Signs of shock include a drop in blood pressure, rapid weak pulse, pale moist clammy skin, being very thirsty and a state of anxiety.
+**Ultrasound** - An imaging method that uses sound waves to outline a part of your body. It can be done to any part of the body. A tumor or infection can be monitored this way.
 
-**Simulation**
-When measurements and x-rays are taken and actual radiation treatment fields are determined.
+**Unilateral** - One side of your body.
 
-**Sinuses**
-Hollow spaces in the bones of your head.
+**Unpasteurized** - Relating to perishable food that has not been pasteurized, i.e., heat treated to kill potentially harmful microbes.
 
-**Spinal cord**
-The cord or nerve tissue that runs through the center of your spinal column. It connects your brain to other parts of your body.
+**Uric acid** - A chemical that can build up in your body when kidney function is impaired. When many malignant cells are rapidly destroyed, uric acid is produced in large quantities.
 
-**Spinal tap/lumbar puncture**
-A procedure in which a thin needle is placed in your spinal canal to remove a small amount of spinal fluid. It is also used to give medicine into the central nervous system through the spinal fluid. If you have leukemia, this fluid is tested for the possible presence of "blasts" cells as well as other elements.
+**Urinalysis** - The process by which your urine is examined for various factors.
 
-**Spleen**
-An organ that filters the blood. It removes debris, and old or dying cells from the circulation. It also removes bacteria from the blood during the early stages of severe infections. It often becomes enlarged in leukemia and certain other diseases.
+**Urinary tract** - The organs that have to do with the production and elimination of urine, e.g. kidneys, bladder, ureters, urethra.
 
-**Stem cells**
-Primitive blood-forming cells in the bone marrow which give rise to the white blood cells, red blood cells and platelets. They are like the stem of a plant that gives rise to the flowers and leaves (red cells, white cells, and platelets).
+**Varicella** - Chicken pox, an infection caused by virus. Children with cancer may have a problem with this infection if they have not had it before.
 
-**Suppository (rectal or vaginal)**
-A medicine prepared for insertion into the anus or vagina, where it is generally absorbed into the bloodstream.
+**Vein** - A blood vessel carrying blood from the tissues towards your heart and lungs. Veins are used to draw blood samples and administer IV fluids because blood in veins is not under pressure.
 
-**Susceptible**
-Tendency to develop a disease if exposed to it; not having immunity.
+**Veno-occlusive disease (vod)** - A disease caused by a block in the flow of blood through the small blood vessels in the liver. It results in weight gain, enlarged liver, and yellowing of the skin. It can cause mild, moderate, or severe liver damage, or death.
 
-**Symptom**
-A change or sign in the body or its function that indicates disease or infection.
+**Vertigo** - Dizziness, especially the feeling that your surroundings are swirling.
 
-**T Cell or T lymphocyte**
-A type of white blood cell or lymphocyte that plays a major ole in the body's defense against viral and fungal infections.
+**Viruses** - Measles, mumps, chicken pox, and the common cold.
 
-**T Cell depleted blood stem cell transplant**
-A type of transplant in which from which most of the T cells are removed. The T cells are removed in the laboratory after the donor stem cells are obtained. This process reduces the likelihood of Graft vs. Host Disease that is caused by the donor's T cells.
+**White blood cells** - Cells in your blood that are most important in fighting infection. Examples; neutrophils or "polys", and lymphocytes ("lymphs")
 
-**Temperature spike**
-When your temperature suddenly goes up.
+**X-rays** - One form of radiation that can be used at low levels to produce an image of the body on film. It can be used at high levels to destroy cancer cells.
 
-**Testicular mass**
-A swelling of your testis or testicle, the male reproductive gland.
-
-**Thrombocytopenia (throm-bo-sigh-toe-PEEN-e-uh)**
-A decrease in the number of platelets in your blood.
-
-**Thrombophlebitis**
-An inflammation of a vein.
-
-**Tinnitus**
-Ringing in your ears.
-
-**Tissue** 
-A collection of cells similar in structure and function.
-
-**Tissue Typing (HLA, Human Leukocyte Antigen)**
-A special test of white blood cells to check the genetic match between a donor and the patient.
-
-**TBI (Total Body Irradiation)**
-High-dose radiation treatments given to the whole body.
-
-**TLI (Total Lymphoid Irradiation)**
-Radiation treatments given to the parts of the body where most of the lymphatic system is located.
-
-**Toxicity**
-A word used to describe the side effects caused by a drug.
-
-**Toxins**
-Poisonous substances; may be produced by germs.
-
-**Trachea**
-The windpipe.
-
-**Stomatitis**
-Mouth sores; can be a side effect of some kinds of chemotherapy.
-
-Transfusion reaction
-An allergic response to blood products. You may experience hives, chills, or headaches.
-
-**Tumor**
-An abnormal lump or mass of tissue. Tumors can be benign (not cancerous) or malignant (cancerous).
-
-**Ulcer**
-         A wearing away of normal tissues. It can be from corrosive chemicals (e.g. acids), infection, impaired circulation, or cancerous involvement. It can cause bleeding.
-
-**Ultrasound**
-An imaging method that uses sound waves to outline a part of your body. It can be done to any part of the body. A tumor or infection can be monitored this way.
-
-**Unilateral**
-One side of your body.
-
-**Uric acid**
-A chemical that can build up in your body when kidney function is impaired. When many malignant cells are rapidly destroyed, uric acid is produced in large quantities.
-
-**Urinalysis**
-The process by which your urine is examined for various factors.
-
-**Urinary tract**
-The organs that have to do with the production and elimination of urine, e.g. kidneys, bladder, ureters, urethra.
-
-**Varicella**
-Chicken pox, an infection caused by virus. Children with cancer may have a problem with this infection if they have not had it before.
-
-**Vein**
-         A blood vessel carrying blood from the tissues towards your heart and lungs. Veins are used to draw blood samples and administer IV fluids because blood in veins is not under pressure.
-
-**Veno-Occlusive Disease (VOD)**
-A disease caused by a block in the flow of blood through the small blood vessels in the liver. It results in weight gain, enlarged liver, and yellowing of the skin. It can cause mild, moderate, or severe liver damage, or death.
-
-**Vertigo**
-Dizziness, especially the feeling that your surroundings are swirling.
-
-**Viruses**
-Measles, mumps, chicken pox, and the common cold.
-
-**White blood cells**
-Cells in your blood that are most important in fighting infection. Examples; neutrophils or "polys", and lymphocytes ("lymphs")
-
-**X-rays**
-One form of radiation that can be used at low levels to produce an image of the body on film. It can be used at high levels to destroy cancer cells.
-
-**Zoster - varicella zoster** 
-See shingles.
+**Zoster - varicella zoster** - See shingles.
 
 <div class="resources invisible">
 ## Additional Resources
