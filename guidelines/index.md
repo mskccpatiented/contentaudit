@@ -39,6 +39,8 @@ Now that we have set out who we are speaking to, and we understand what their ba
 
 These decisions make up our *approach*, out little plan of action to meet the needs of our audience. We might make a table to map out our approach
 
+**Connect the content offered to need, learning outcome**
+
 <table>
 <tr><th>Need</th><th>Content Offered</th><th>Content Source</th><th>Delivery</th><th>Improvement</th></tr>
  
@@ -57,10 +59,10 @@ These decisions make up our *approach*, out little plan of action to meet the ne
 Let's break those choices down in a little more detail.
 
 ### Content Offered
-For each piece of content we acquire, link to, or create, we should understand: 
+-For each piece of content we acquire, link to, or create, we should understand:- 
 
-* The need it meets in our audience
-* The specific things we need the audience to learn by engaging with the content 
+* -The need it meets in our audience-
+* -The specific things we need the audience to learn by engaging with the content-
 
 ### Content Source
 Sometimes it makes sense for us to make new content to meet the needs of patients and caregivers, but sometimes we could choose a different approach:
@@ -87,6 +89,10 @@ If we decide that we don't have existing content to meet patients' needs, or don
 * What are the risks of using content from outside MSKCC?
 
 ### Delivery
+
+
+### Format
+Deciding what format what to create a piece of content in can be challenging. 
 
 
 
