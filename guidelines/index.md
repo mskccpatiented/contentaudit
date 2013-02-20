@@ -4,26 +4,92 @@ layout: default
 ---
 
 ## When to Use Text, Audio, Video, Photography
-In the past the production of high quality audio, video and photography was expensive and required specialized skills and equipment.  
+In the past, the production of high quality audio, video and photography was expensive and required specialized skills and equipment.  
 
-The broad availability of powerful computers, digital cameras, recording devices, internet access and user-friendly software means that audio, video and photography can be produced, published and consumed at relatively low cost. It's now possible for content producers to consider using these types of media when trying to inform, educate, coach and inspire people to action. 
+The broad availability of powerful computers, digital cameras, recording devices, internet access and user-friendly software means that audio, video and photography can be produced, published and consumed at relatively low cost. It's now possible for content producers to consider using these types of media when trying to inform, educate, coach and inspire people.
 
 The availability of these different types of media makes it more important than ever to make good decisions about what media to use and when. We have so many options open to us, we need to choose the right ones.
 
-## Starting Point - Audience, Goal, Approach
-As a starting point, let's decide that our primary audience is current MSKCC patients, their caregivers and families. Other people might consume the media that we produce, but they are not our primary audience. 
+## Starting Point - Audience
+When considering what type of content to create, first you need to be clear about who you are serving - your primary audience. Who are you trying to speak to? What do you know about these people? 
 
-Let's also decide that our explicit goal is to improve these patients' ability to participate in their care (i.e. understand what is happening and why it is happening and be able to explain those things to other people) and support their to ability to make decisions (i.e. use what they know to choose one course of action over another while understanding the positives/negatives that apply to both). 
+In our case, let's decide that our primary audience is current MSKCC patients, their caregivers and families.
 
-Tangentially, let's quietly decide that while we are not setting out to explicitly to enhance the reputation of the hospital this might happen as a byproduct of making good content (i.e. we are not marketing to our primary audience, though they may feel a stronger affinity to us because we inform them in a competent manner).
+Once you have named your audience. Try to put yourself in your audience's shoes and ask why they need content. 
 
-Our purpose in life is to meet this our explicit goal for our primary audience by facilitating learning experiences, supported by relevant content. 
+We know that patients and their caregivers need to participate in their care (i.e. understand what is happening and why it is happening and be able to explain those things to other people) and make informed decisions (i.e. use what they know to choose one course of action over another while understanding the positives/negatives that apply to both). 
 
-We want to apply our resources sensibly to meet our goal. Whenever we need to communicate something it helps us to know what medium will serve us best. Producing a comprehensive booklet about the causes of a particular disease is probably not going to represent good value for money if a lot of good information has already been published elsewhere - and patients may not want to read it anyway. 
+Now we are making progress. We know that the content we create has to help current MSKCC patients, their caregivers and families participate in their care and make informed decisions.
 
-Writing intricate sets of instructions that help patients carry out a task is probably going to take far longer than shooting and narrating a video of the task being carried out using an iPhone, and writing some supporting text. 
+Now we can zoom in a little. What content will meet these needs? When does our audience want this content? What is the best way to get that content to them? It's likely that we'll now identify a smaller group of patients and caregivers, find out more about who they are, and learn about the things they need. 
 
-Actively considering what medium to use saves time, money and improves the learning experience for our audience. 
+Let's imagine that we are creating content for autologous stem cell transplant patients, their caregivers and their families. By speaking to patients, and observing them as they go on their journey with us, we find out that they want to understand their underlying diagnosis - the reason they need a transplant. They want to understand why this particular type of transplant is being recommended. They need to make decisions that effect them in the long-term, such as decisions about their fertility. 
+
+We also find out that caregivers need to know how to support the patient practically and emotionally. They will manage medications, maintain schedules, drive the patient to and from the hospital, take the patients temperature, etc. 
+
+We work with the healthcare team to understand the types of things that patients need to know, such as the risks and side effects associated with the transplant. 
+
+## Approach
+Now that we have set out who we are speaking to, and we understand what their basic needs are, we can start to decide:
+
+* What content will meet those needs?
+* How we will make or acquire that content?
+* How we will make that content available?
+* How we will improve that content over time?
+
+These decisions make up our *approach*, out little plan of action to meet the needs of our audience. We might make a table to map out our approach
+
+<table>
+<tr><th>Need</th><th>Content Offered</th><th>Content Source</th><th>Delivery</th><th>Improvement</th></tr>
+ 
+<tr><td>Patient needs to understand effect of chemotherapy on fertility.</td><td>Booklet about the effects of chemotherapy on fertility.</td><td>Existing content made in-house, updated to reflect SCT-specific issues.</td><td>Made available in print and online through the patient portal.</td><td>Reviewed annually by NP specializing in fertility issues.</td></tr>
+
+<tr><td>Caregiver needs to know how to apply waterproof cover to catheter before the patient takes a shower.</td><td>Video showing how waterproof cover is applied. Supported by written, step by step instructions.</td><td>New content to be created from scratch.</td><td>Made available online through the patient portal. Printed instructions available on request.</td><td>Reviewed annually by NP.</td></tr>
+
+<tr><td>Patient and caregiver need to know why this type of transplant is being recommended.</td><td>Video or audio of their doctor explaining this type of transplant.</td><td>New content to be created from scratch.</td><td>Made available online through the patient portal and via iTunes.</td><td>Reviewed annually by Patient Education.</td></tr>
+
+<tr><td>Patient and caregiver want data/statistics about the success of this type of transplant.</td><td>Publications that show the results of trials of this type of transplant.</td><td>Link to Google Scholar or Pubmed.</td><td>Linked to from the patient portal.</td><td>Reviewed as new evidence becomes available.</td></tr>
+
+<tr><td>Patient and caregiver need to understand how the chemotherapy drug works and its side effects.</td><td>Written description of the drug's actions and side effects.</td><td>Bought in from external provider of drug information. Link to or cite trusted sources of information that describe side effects.</td><td>Made available online through the patient portal. Printed versions available on request.</td><td>Reviewed biennially by Patient Education.</td></tr>
+
+</table>
+
+Let's break those choices down in a little more detail.
+
+### Content Offered
+For each piece of content we acquire, link to, or create, we should understand: 
+
+* The need it meets in our audience
+* The specific things we need the audience to learn by engaging with the content 
+
+### Content Source
+Sometimes it makes sense for us to make new content to meet the needs of patients and caregivers, but sometimes we could choose a different approach:
+
+* We could cite or link to content we find elsewhere. 
+* We could start with content from elsewhere, and re-work it to meet our specific needs. 
+* We could take a piece of content made elsewhere, duplicate it, then provide it to our audience.
+
+In choosing our approach, we can ask ourselves a number of questions to help make good decisions:
+
+* Does this content already exist in-house and is it up to date?
+* If the content is not up to date, what will it take to bring it up to date?
+* Should the content be delivered in its current format, or would it meet patients' needs in a different format?
+* Do we have the skills, tools and people to make or update the content ourselves?
+* Do we have the financial resources to make or update the content ourselves
+
+If we decide that we don't have existing content to meet patients' needs, or don't have the resources to create content ourselves, maybe we will try to find content from elsewhere. It's likely we'll ask questions like:  
+
+* Does the content exist elsewhere?
+* Do we trust the source of the content?
+* Can we use this content?
+* Is the patient's experience going to be harmed if we use content from outside MSKCC?  
+* What new opportunities arise if we use content from outside MSKCC?
+* What are the risks of using content from outside MSKCC?
+
+### Delivery
+
+
+
 
 ## Text
 Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will produce content that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
