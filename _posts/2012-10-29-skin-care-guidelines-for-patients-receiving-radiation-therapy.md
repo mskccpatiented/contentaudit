@@ -9,7 +9,7 @@ categories: ['Side Effects and Symptom Management']
 tags: []
 summary: Changes in the skin are common, describes why skin can change with chemotherapy and radiation, hair loss. How to care for your skin. Products that are gentle enough for cancer patients. What to avoid or not do. Who to contact with questions or problems.  
 notes:
-strategy: Consider writing this into more fluid text. Would work well as audio - consider recording as audio.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? No. Photography? No. Podcast or audio? Yes. Video? No)
+strategy: Consider writing this into more fluid text. Would work well as audio - consider recording as audio.  (Rethink? No. Some re-writing? Yes. Graphics or diagrams? Maybe. Photography? Maybe. Podcast or audio? Yes. Video? No)
 status: formatted
 date: 29-10-2012
 ---
