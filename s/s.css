@@ -175,6 +175,12 @@ list-style:none;
 }
 
 /*-- Download Slug--*/
+
+.download a{
+color:#333;
+text-decoration:none;
+}
+
 .download{
 background-color: #d2dae2;
 border: 1px dashed #757575;
@@ -192,7 +198,7 @@ background-color:#bac7d2;
 }
 
 .download .text{
-
+width:85%;
 }
 
 
