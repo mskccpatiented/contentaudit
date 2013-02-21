@@ -88,11 +88,13 @@ If we decide that we don't have existing content to meet patients' needs, or don
 * What new opportunities arise if we use content from outside MSKCC?
 * What are the risks of using content from outside MSKCC?
 
-### Delivery
+### Delivery & Format
+<div class="download">
+<div class="text">
+Download a decision making sheet for content.
+</div>
+</div>
 
-
-### Format
-Deciding what format what to create a piece of content in can be challenging. 
 
 
 
