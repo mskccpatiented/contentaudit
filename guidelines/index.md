@@ -90,9 +90,11 @@ If we decide that we don't have existing content to meet patients' needs, or don
 
 ### Delivery & Format
 <div class="download">
+<a href="/guidelines/bmt_content_decisions.xls">
 <div class="text">
-Download a decision making sheet for content.
+We've developed a tool to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. Click anywhere in this box to download the tool. You'll need Microsoft Excel to open the file.
 </div>
+</a>
 </div>
 
 

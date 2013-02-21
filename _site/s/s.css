@@ -176,7 +176,7 @@ list-style:none;
 
 /*-- Download Slug--*/
 .download{
-background-color: #bac7d2;
+background-color: #d2dae2;
 border: 1px dashed #757575;
 padding: 20px;
 margin: 20px 0 20px 0;
@@ -188,7 +188,7 @@ background-position-y: center;
 }
 
 .download:hover{
-background-color:#d2dae2;
+background-color:#bac7d2;
 }
 
 .download .text{
