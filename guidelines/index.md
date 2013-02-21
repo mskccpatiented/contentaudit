@@ -89,11 +89,7 @@ If we decide that we don't have existing content to meet patients' needs, or don
 * What are the risks of using content from outside MSKCC?
 
 ### Delivery & Format
-<div class="download"><div class="text">We've <a href="/guidelines/bmt_content_decisions.xls" class="discrete">developed a tool</a> to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. <a href="/guidelines/bmt_content_decisions.xls" class="discrete">Download the tool</a>, then use Excel to open the file.</div><div class="arrow-down"><img src="/g/arrow.svg" height="60" width="60" alt="Download Arrow" /></div></div>
-
-
-
-
+<div class="download"><a href="/guidelines/bmt_content_decisions.xls"><span class="download-link"><div class="text">We've developed a tool to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. Download the tool, then use Excel to open the file.</div></span></a></div>
 
 ## Text
 Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will produce content that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
