@@ -174,32 +174,6 @@ color: rgba(51, 51, 51, 1.00);
 list-style:none;
 }
 
-/*-- Download Slug--*/
-
-.discrete{
-
-}
-
-.download{
-background-color: #d2dae2;
-border: 1px dashed #757575;
-padding: 20px;
-margin: 20px 0 20px 0;
-background-image: url('/g/arrow.svg');
-background-repeat: no-repeat;
-background-position-x: 95%;
-background-size: 60px;
-background-position-y: center;
-}
-
-.download:hover{
-background-color:#bac7d2;
-}
-
-.download .text{
-width:85%;
-}
-
 
 /*-- Article List Page, Status--*/
 
@@ -657,6 +631,47 @@ line-height: 1.4em;
  .strike{
  text-decoration: line-through;
  }
+ 
+ 
+
+/*-- Download Slug--*/
+
+a.discrete:link{
+font-weight:bold;
+color:#333;
+}
+
+a.discrete:visited{
+color:#333;
+}
+
+a.discrete:hover{
+text-decoration:underline;
+color:#111;
+}
+
+
+.download{
+background-color: #d2dae2;
+border: 1px dashed #757575;
+padding: 20px;
+margin: 20px 0 20px 0;
+background-image: url('/g/arrow.svg');
+background-repeat: no-repeat;
+background-position-x: 95%;
+background-size: 60px;
+background-position-y: center;
+}
+
+.download:hover{
+background-color:#bac7d2;
+}
+
+.download .text{
+width:85%;
+font-size: 1.1em;
+line-height: 1.25;
+}
 
 /*  ---------- Somewhat RESPONSIVE  ---------- */
 

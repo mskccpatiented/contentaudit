@@ -89,8 +89,7 @@ If we decide that we don't have existing content to meet patients' needs, or don
 * What are the risks of using content from outside MSKCC?
 
 ### Delivery & Format
-<a href="/guidelines/bmt_content_decisions.xls" class="discrete"><div class="download"><div class="text">
-We've developed a tool to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. Click anywhere in this box to download the tool. You'll need Microsoft Excel to open the file.</div></div></a>
+<div class="download"><div class="text">We've <a href="/guidelines/bmt_content_decisions.xls" class="discrete">developed a tool</a> to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. <a href="/guidelines/bmt_content_decisions.xls" class="discrete">Download the tool</a>, then use Excel to open the file.</div></div>
 
 
 
