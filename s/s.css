@@ -176,11 +176,15 @@ list-style:none;
 
 /*-- Download Slug--*/
 .download{
-background-color:#ebebeb;
-border:1px dashed #757575;
-padding:20px;
-margin:20px 0 20px 0;
+background-color: #ebebeb;
+border: 1px dashed #757575;
+padding: 20px;
+margin: 20px 0 20px 0;
 background-image: url('/g/arrow.svg');
+background-repeat: no-repeat;
+background-position-x: 95%;
+background-size: 80px;
+background-clip:padding-box;
 }
 
 .download .text{
