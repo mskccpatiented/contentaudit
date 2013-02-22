@@ -31,18 +31,22 @@ A recent project dealt specifically with the way that BMT patients access inform
 4. Patient primary source of trusted information is their healthcare team
 
 ## This Project
-This project builds upon the work done in previous projects and focuses on the outpatient autologous BMT population. The goals of this project are to:
+The goals of this project are to:
 
 * Identify what content relevant to this population has been produced by MSKCC (a content audit)
 * Develop an approach to developing this content further or creating content that doesn't already exist (a content strategy)
 * Draft/create content 
 
 ### Content Audit
-As a first step all content produced by the Patient Education Department was collated. (Each piece of content is referred to as an "article" for consistency, though they range from single-page fact cards to diagrams, templates and longer guides). Most of the articles were written and designed to be printed as "fact cards" or longer guides. 
+As a first step, all content produced by the Patient Education Department was collated. (Each piece of content is referred to as an "article" for consistency, though they range from single-page fact cards to diagrams, templates and longer guides). 
 
-Each piece of content relevant to Bone Marrow Transplantation was identified and analyzed; 98 articles in all.
+Each piece of content relevant to Bone Marrow Transplantation was identified and analyzed; 98 articles in all. 
 
-Each article was then described, categorized and summarized. This data is available in the Content Audit spreadsheet and a sample is shown below.
+Each article was described, categorized and summarized. A list of patients' frequently asked questions (created in an earlier project) was cross-referenced with the articles. 
+
+<div class="download"><a href="/bmt_contentaudit_pm2.xls"><span class="download-link"><div class="text">You can download the results of the content audit listing BMT-related patient education materials here. Download the audit, then use Excel to open the file.</div></span></a></div>
+
+A sample of the information gathered during the content audit is shown below:
 
 <table>
 <tr><th class="twenty">Article Title</th><th class="twenty">Type</th><th class="twenty">Category</th><th class="forty">Summary</th></tr>
@@ -63,23 +67,13 @@ Each article was then described, categorized and summarized. This data is availa
 
 </table>
 
-As well as an audit of existing content, a list of patients' frequently asked questions (created in an earlier project) was checked to see what questions can be answered using existing articles. This data is included in the content audit spreadsheet.
-
 #### From Print to Digital
-At the moment Patient Education content is produced with print in mind. A key output of this project is a strategy that lists content that could be improved or re-developed for publication online and in other digital formats. 
+At the moment Patient Education content is produced with print in mind. In the future, it's likely that articles and other content will be made available on the web as standard HTML. 
 
-Writing clearly and succinctly for the web can be challenging. It is usually not possible to take content written for print and transfer it directly to a digital format without editing. Digital publishing also allows for hyperlinking, the addition of graphics, audio, video, animation - richer content.
+A second step of the content audit involved converting all BMT-related articles from Word or PDF format to HTML and <a href="/articles">publishing them online</a>. This allows us to see what articles work online in their current structure, and what ones should be re-developed before being published online.
 
-Because of this, a second step of the content audit involved converting all BMT-related articles from Word or PDF format to HTML and <a href="/articles">publishing them online</a>. 
+As part of this project, we have developed a list of BMT-related content that could be published online and suggested where they might be enhanced using graphics, audio, or video.
 
-It's now possible to see, almost at a glance, what articles work online, what ones could be improved, and what ones need to be re-imagined in some way.
-
-#### Analysis for Obscure/Technical Language
-A computer application was written that compared each word in the articles to a corpus of standard written English. The application produced a list of words for each article that would not ordinarily appear in written English including many technical and medical terms that may need to be explained to patients. 
-
-The list of obscure words is included at the top of each article and could form the basis for a glossary of terms related to BMT.	
-
-#### Recommended Actions
 For each article, one or more of **six actions** have been recommended:
 
 **Re-Think**: Some articles are in need of a broad re-think. For example, some articles might be presented better if they were divided into smaller articles. 
@@ -94,21 +88,18 @@ For each article, one or more of **six actions** have been recommended:
 
 **Record Video**: These articles cover topics that would work well if they were produced as videos. 
 
-For example, <a href="/articles/skin-care-guidelines-for-patients-receiving-radiation-therapy/">this article on skin care</a> is not in need of a comprehensive re-think, but could be re-written in more fluid text. It would also work well as a piece of audio - perhaps a recorded conversation with a dermatologist who could offer advice to patients undergoing radiotherapy. Some <a href="/guidelines">simple guidelines on when to use text, audio, video and photography/imagery</a> have been written to support good decision making. 
+For example, <a href="/articles/skin-care-guidelines-for-patients-receiving-radiation-therapy/">this article on skin care</a> is not in need of a comprehensive re-think, but could be re-written in more fluid text. It would also work well as a piece of audio - perhaps a recorded conversation with a dermatologist who could offer advice to patients undergoing radiotherapy. <a href="/guidelines">Guidelines on when to use text, audio, video and photography/imagery</a> have been written to support good decision making.
+
+<div class="download"><a href="/guidelines/bmt_content_decisions.xls"><span class="download-link"><div class="text">We've developed a tool that summarizes our recommendations on when to use text, graphics, audio, or video. Download the tool, then use Excel to open the file.</div></span></a></div>
 
 The recommended actions associated with each article are <a href="/articles">listed</a> in the index of articles and at the top of each individual article.
 
-The spread of all recommended actions is shown below:
+#### Analysis for Obscure/Technical Language
+computer application was written that compared each word in the articles to a corpus of standard written English. The application produced a list of words for each article that would not ordinarily appear in written English including many technical and medical terms that may need to be explained to patients. 
 
-<table>
-<tr><th class="fifty">Action</th><th>Num. Articles</th></tr>
-<tr><td class="fifty">Re-Think</td><td>20</td></tr>
-<tr><td class="fifty">Full/Partial Re-write</td><td>44</td></tr>
-<tr><td class="fifty">Improve Graphics</td><td>28</td></tr>
-<tr><td class="fifty">Improve Photography</td><td>35</td></tr>
-<tr><td class="fifty">Record Audio/Podcast<td>55</td></tr>
-<tr><td class="fifty">Record Video</td><td>19</td></tr>
-</table>
+The list of obscure words is included at the top of each article and could form the basis for a glossary of terms related to BMT.	
+
+<div class="download"><a href="/guidelines/bmt_glossary.xls"><span class="download-link"><div class="text">We have used the results of this analysis to update a glossary of BMT-related terms. This glossary can be included in BMT-related publications. Download the glossary, then use Excel to open the file.</div></span></a></div>
 
 ### General Recommendations - Content
 
