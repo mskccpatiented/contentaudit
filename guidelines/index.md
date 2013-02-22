@@ -89,14 +89,14 @@ If we decide that we don't have existing content to meet patients' needs, or don
 * What are the risks of using content from outside MSKCC?
 
 ### Delivery & Format
-Our goal is to apply our resources sensibly to meet patients' needs. 
+Our goal is to create content in whatever format is most satisfying to patients, then put that content wherever patients can get to it with as little friction as possible. But when should we use text, audio, or video? What is each medium good at?
 
-<div class="download"><a href="/guidelines/bmt_content_decisions.xls"><span class="download-link"><div class="text">We've developed a tool to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. Download the tool, then use Excel to open the file.</div></span></a></div>
+<div class="download"><a href="/guidelines/bmt_content_decisions.xls"><span class="download-link"><div class="text">We've summarized the information below, and have developed a tool to help you make good decisions about what type of content (text, graphics, audio, video) to use in different circumstances. Download the tool, then use Excel to open the file.</div></span></a></div>
 
 ## Text
-Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will produce content that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
+Text is our default, our go-to, our bread and butter medium. In practically all cases we will write *something* when we want to help patients learn. We will write text for them to read and learn from, or we will write something that supports an experience they have elsewhere - serving as a reference aid (e.g. a document that recaps on a session with a therapist, or  written instructions to a demonstrated task).
 
-### The Benefits of Using Text
+### The Benefits to Using Text
 **Just the Facts**: Unlike speech, we can communicate using text in a way that is highly structured. If we understand what we want to say and why, we can pare our text down to the bare essentials. This allows our text to appear simple while still communicating meaning.
 
 **We Have the Tools**: Producing text requires few special tools and is a well understood process. We are taught how to write at an early age, are surrounded by text-production tools - from the ballpoint pen to the word processing package on our computer. Most people, if asked to produce a piece of text, could do so. This is not the case for other media like audio or video.
@@ -108,7 +108,6 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 **Skimmability**: Because there's such a low barrier to consumption, and because text is traditionally laid out in sections/pages we can **skim** to the most interesting passages, and restart reading quickly if we are interrupted. These seemingly trivial tasks are less straightforward in all other media.
 
 **Interoperability**: Text is flexible enough to allow one piece of text to refer to another piece of text. Half way through a document, we can reference another source using an annotation<span class="superscript noblock">1</span> or a <a href="#">hyperlink</a>.
-
 
 ### The Downside to Text
 **If I Had More Time I'd Write You a Shorter Letter**: Writing succinctly takes considerable practice.
@@ -122,13 +121,14 @@ Text is our default, our go-to, our bread and butter medium. In practically all 
 **Ubiquity/Lack of Novelty**: Because written text is ubiquitous its perceived value can be diminished. Our document that describes the side effects of Drug X might contain incredibly useful information, but if it is one of dozens and dozens of other, similar documents I might not read it. If our goal is to get people to understand Drug X and its side effects then packaging that information in a way that appears to be special and novel may help us achieve our goal in more cases. 
 
 ### Useful References
-* [The Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426) (Strunk ,White. 1999) 
-* [A List Apart - Writing for the Web](http://www.alistapart.com/topics/content/writing/)
+* [The Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426)  - Useful guide to writing plain English. Worth referring to, or re-reading regularly. 
+* [A List Apart - Writing for the Web](http://www.alistapart.com/topics/content/writing/) - Collection of articles about writing content for the web.
+* [Content Strategy for the Web](http://www.amazon.com/Content-Strategy-Web-Kristina-Halvorson/dp/0321808304) - Very readable book about planning and executing content strategy for the web; focus on writing compelling content that meets the need of a particular audience.
 
 ## Audio
-Audio, or more specifically recorded speech, is an effective medium to use when we need to communicate information with personality and emphasis.
+Audio, or more specifically recorded speech, is an effective medium to use when we need to communicate information with personality and emphasis. Where something would be more informative coming from a person, or where examples, analogies, stories, humor would be useful - audio is a good medium to use.
 
-### The Benefits of Using Audio
+### The Benefits to Using Audio
 **Personal**: When we hear a recording of a person speaking, we are not actually hearing a person speaking, but it *feels* as though we are.
 
 **The Stand-In**: Using audio allows us to record conversations between people with one or more of the participants in that conversation standing in for the listener.
@@ -146,35 +146,34 @@ When recording a conversation, staring with a well-prepared script or structure,
 
 **Imagination Required**: One of the key strengths of audio is that it encourages the listener to imagine people and places without pictures. This is good in that it focuses the listener's attention on information, rather than the color of the subject's shirt. But, this also means that the interview subject or guide/presenter has to do a good job of describing people, objects and places. In some cases it may be a good idea to support audio with physical objects of visual aids.
 
-**Logistics**: Recording good quality audio requires planning and preparation - identifying topics, scheduling time with subjects, developing scripts, finding a recording location, making technical arrangements etc.
+**Production Overhead**: Recording good quality audio requires planning and preparation - identifying topics, scheduling time with subjects, developing scripts, finding a recording location, making technical arrangements etc.
 
 ### Useful References
-* [Dissecting the Dead Animal Man](www.prx.org/pieces/49574-11-dissecting-dead-animal-man) - An examination of the techniques used in This American Life.
-* [Mayo Clinic Podcasts](http://podcasts.mayoclinic.org/)
+* [Dissecting the Dead Animal Man](www.prx.org/pieces/49574-11-dissecting-dead-animal-man) - An examination of the techniques used in popular radio show, This American Life. Very revealing. Demonstrates how simple audio can be used to tell complex stories. 
+* [Mayo Clinic Podcasts](http://podcasts.mayoclinic.org/) - A solid library of audio clips about medical topics. 
+* [How Stuff Works Podcast](http://entertainment.howstuffworks.com/hsw-shows/hsw-podcast.htm) - Two ordinary guys explaining things to one another. Compelling because of it's simplicity and good humor.
+* [RadioLab](http://www.radiolab.org) - A radio show about curiosity. Ostensibly the show consists of two people explaining things to each other with the help of "guides", guests or interview subjects who can share stories and expertise. A lot of focus on sonic aesthetics. 
+* [Running from the Law](http://www.muleradio.net/rftl/) - A very simple podcast where two people offer legal advice to business, while also discussing distance running. 
 
-<p class="dmz">This is the end of my current draft - Paul May. 1/9/13.</p>
-
-<div class="outstanding invisible">
 ## Video
-Grammar of 
+Video is a really effective medium to use when you need to tell a visual story, or *show* something in a context. In our case, video would be really useful when we are introducing pieces of equipment, places, or spaces. We might want to show a what a thermometer looks like, or the layout of a room. We can show them how to carry out a set of steps - like changing a dressing, or doing strength exercise. We can use video in a similar way that we use audio, to communicate information with personality - a person explaining something, or telling a story.
 
-	
-Showing
-Supporting practice
+### The Benefits to Using Video
+**Specificity**: When we use video we can show exactly what something looks like. In circumstances where we really need to communicate what something looks like, or how something is used, video is a good medium to use. 
 
+**The Stand-In**: Using audio allows us to show interactions between one or more people, and have the viewer stand in for one of those people. Watching a person in a situation, following along, etc.
 
+### The Downsides to Video
+**Subjects**: Finding people who are comfortable appearing on camera is even more challenging than finding people who can speak naturally for an audio recording. Get around this by keeping "production fuss" to a minimum - cameras, props, scripts etc. Try to capture natural, day to day situations. Guide people, but don't ask them to follow a script. Ask people to show you something, rather than asking them to explain something as a vox-pop/talking head. 
+ 
+**Production Overhead**: Shooting video has become straightforward in the last few years. You can now shoot high definition video on a phone, and share it to the web with a few clicks. However, producing ad-hoc video is quite different from producing video where you need to be precise about what you're showing and how you're showing it. 
 
-List of resources that describe the value of audio (this american life how the sausage is made, personal connection, audio, video - showing	 ,youtube tutorials, open education, etc. data representation. photography - http://www.theatlantic.com/infocus/2012/12/typhoon-bopha/100421/
+It's likely that you'll need to plan your shoot, script or block out key things you want people to show on camera will say, arrange a place to film, ensure there is enough light, shoot your video, edit it, convert it to a web-ready format, post it online. Even if you are doing all of this with an iPhone, you still have quite a bit of work to do. This shouldn't discourage you, but practice is definitely required.
 
+**Delivery/Reception Overhead**: Even though YouTube and other services are available, there is still a little complexity involved in delivering video to people. You'll need to upload your video somewhere, then embed that video into a web page - or make it available for download. This is not complex, but is something to consider.
 
-## Decision Matrix
-We can boil some of our guidelines down to a 
-</div>
-
-Stress the importance of something
-Demonstrate a task
-
-
-
-###Footnotes
-1. Additional information or a useful reference to another document. 
+### Useful References
+* [Explaining Lymphodema](http://www.youtube.com/watch?v=68NgrFiQkeU) - Clear, human, concise explanation of a medical issue. Low-tech use of graphics. Very simple production.
+* [Increasing Knee Stability](http://www.nytimes.com/video/2009/08/11/magazine/1247463944384/increasing-knee-stability.html) - Good example of a person explaining while another person carries out a physical action
+* [How to Extract Your DNA](http://www.youtube.com/watch?v=DaaRrR-ZHP4) - Entertaining, low tech how-to video.
+* [How to Check your Blood Pressure](http://www.youtube.com/watch?v=xs6feq8q8Yg) - Straightforward, nicely paced how-to video.
