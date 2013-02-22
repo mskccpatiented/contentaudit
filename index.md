@@ -11,7 +11,9 @@ As part of the project, a **content audit** has been carried out; each piece of 
 
 The content audit has been used to inform a **content strategy**. Each piece of content has been summarized and a number of actions have been recommended e.g. that the content should be retained in its current format, re-written, augmented with new graphics, converted into audio or video.  
 
-As part of the content strategy each piece of content has been analyzed using a computer program to compare the language used in it to standard English - producing a list of infrequently-used words, jargon. This is the beginning of an automated approach to producing a **glossary** for each piece of content.
+As part of the content strategy each piece of content has been analyzed using a computer program to compare the language used in it to standard English - producing a list of infrequently-used words, jargon.
+
+<div class="download"><a href="/guidelines/bmt_glossary.xls"><span class="download-link"><div class="text">We have used the results of this analysis to update a glossary of BMT-related terms. This glossary can be included in BMT-related publications. Download the glossary, then use Excel to open the file.</div></span></a></div>
 
 Building on the content audit and strategy, [a set of guidelines](/guidelines) to help Patient Education create new content for patients has been developed. 
 
